@@ -12,7 +12,13 @@ Will there be a curseforge upload: No but do it yourself.
 
 # Project CBT - Modlist:
 
-TBD soon
+MAJOR:
+
+HBM's Nuclear Tech
+GregTech
+TerraFirmaCraft
+
+Full Modlist will be done later
 
 # Contributing
 
