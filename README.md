@@ -2,7 +2,7 @@
 
 # What is this and how do i get rid of it?
 
-Project CBT: A minecraft modpack that tries to combine aspects of RLCraft, GTNH, Touhou and HBM's Nuclear Tech Mod into 1 totally not buggy masterpiece
+Project CBT: A minecraft modpack that tries to combine aspects of RLCraft, GTNH, Touhou and HBM's Nuclear Tech Mod into 1 totally not buggy masterpiece that will totally not destroy your c***
 
 # What is Project CBT:
 
@@ -30,6 +30,12 @@ You are allowed to fork this repository and continue development. This modpack h
 
 # Lore
 
-Summary: In the world of GregTech New Horizons, where technology and magic intertwine, an unexpected portal opens, connecting the advanced industrial realm to the mystical land of Gensokyo. As the worlds collide, the characters from GregTech find themselves thrust into a spellbinding adventure, facing challenges they've never imagined. Together with the Touhou Project heroines, they must learn to harness the power of both science and magic to preserve the balance between the two worlds and overcome a common threat that could endanger them all.
+Summary: In the world of Cock and Ball Touhouture: NuclearGreg Horizons, where technology rules supreme., an unexpected portal opens, connecting the advanced industrial realm to the mystical land of Gensokyo. As the worlds collide, the characters from Gensokyo find themselves thrust into a spellbinding adventure, facing challenges they've never imagined. Together with the Touhou Project heroines, they must learn to harness the power of both science and magic to preserve the balance between the two worlds and overcome a common threat that could endanger them all.
+
+Now you, the player are one of the characters stuck in this unfamilliar world.
+
+So what do you do? WING IT. 
+
+Gregification Imminent. 
 
 
