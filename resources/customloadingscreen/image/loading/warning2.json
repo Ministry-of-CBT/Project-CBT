@@ -1,0 +1,14 @@
+{
+    "parent": "builtin/text",
+    "image": "customloadingscreen:font/ascii.png",
+    "position_type": "CENTER",
+    "offset_pos": "CENTER",
+    "text": "' RLCraft + GregTech + Funny Nuke Mod + Touhou! '",
+    "position": {
+        "x": "0",
+        "y": "screen_height * 0.26 - 20",
+        "width": "0",
+        "height": "0"
+    },
+    "colour": "0xFFD91116"
+}
