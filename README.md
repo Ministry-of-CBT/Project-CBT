@@ -43,7 +43,6 @@ Had Enough Items
 Hardcore Darkness
 Hardcore Revival
 HBMs Nuclear Tech - Extended Edition
-Iris Heart Ill Loading kreen
 JustEnoughlDs
 Konkrete
 Legendary Tooltips
