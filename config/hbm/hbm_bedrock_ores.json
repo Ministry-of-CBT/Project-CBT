@@ -1,0 +1,32 @@
+{
+  "dimConfig": [
+    {
+      "dimID": 0,
+      "oreRarity": 30,
+      "isWhiteList": false,
+      "bedrockOres": [
+        "orePlutonium",
+        "oreRedPhosphorus",
+        "oreNeodymium",
+        "oreQuartz",
+        "oreInfernalCoal",
+        "oreNitanium",
+        "oreSchrabidium"
+      ]
+    },
+    {
+      "dimID": -1,
+      "oreRarity": 60,
+      "isWhiteList": true,
+      "bedrockOres": [
+        "orePlutonium",
+        "oreRedPhosphorus",
+        "oreNeodymium",
+        "oreQuartz",
+        "oreInfernalCoal",
+        "oreNitanium",
+        "oreSchrabidium"
+      ]
+    }
+  ]
+}
