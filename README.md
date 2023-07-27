@@ -12,11 +12,11 @@ Will there be a curseforge upload: No but do it yourself.
 
 # Project CBT - Modlist:
 
-Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request.
+Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request. Also am I even allowed to just upload the mod jars into the repository?
 
 Advancement Plaques
 Applied Energistics 2
-Atomicqryker• s Battletowers
+AtomicStryker's Battletowers
 AutoRegLib
 Baubles
 Better Advancements
