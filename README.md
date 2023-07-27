@@ -12,13 +12,65 @@ Will there be a curseforge upload: No but do it yourself.
 
 # Project CBT - Modlist:
 
-MAJOR:
+Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request.
 
-HBM's Nuclear Tech
+Advancement Plaques
+Applied Energistics 2
+Atomicqryker• s Battletowers
+AutoRegLib
+Baubles
+Better Advancements
+BNBGamingLib
+Carry On
+Chameleon
+Clumps
+CodeChicken Lib
+Collective
+Custom FOV
+Custom Loading Screen
+Custom Window Title
+Enchantment Descriptions
+Ex Nihilo Creatio
+FancyMenu
+FastFurnace
+FastWorkbench
+First Join Message
+Foamfix
+Gregicality Multiblocks
 GregTech
-TerraFirmaCraft
-
-Full Modlist will be done later
+GregTech Food Option
+Had Enough Items
+Hardcore Darkness
+Hardcore Revival
+HBMs Nuclear Tech - Extended Edition
+Iris Heart Ill Loading kreen
+JustEnoughlDs
+Konkrete
+Legendary Tooltips
+Let Me Despawn
+Load My Resources
+Loading Profiler
+Loadin Progress Bar
+Loadin Screens
+Mantle
+memory_repo
+Mixin Compatibility
+More Sound Config
+NuclearOption
+Quark
+Refined Storage
+Resource Loader
+Scaling Health
+Shadowfacts' For#lin
+Silent Gear
+Silent Lib
+Silent's Gems
+Silent's Gems - TIC
+Storage Drawers
+TerraFtrmaCraft
+TerraFirmaThings
+TexFix
+Tinkers' Construct
 
 # Contributing
 
