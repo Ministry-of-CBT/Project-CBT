@@ -1,0 +1,288 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fm/hbmnomi-toufou.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 75
+  action = resizebutton
+  height = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\multiplayer.png
+  backgroundnormal = fm\multiplayer.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 0
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -50
+  action = movebutton
+  y = -23
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Unalive!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 75
+  action = resizebutton
+  height = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\singleplayer.png
+  backgroundnormal = fm\singleplayer.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 0
+  action = movebutton
+  y = -23
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Fuck You.
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 94
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 0a416547-40e5-49af-814e-9bdbe34786d31690273619823
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 156
+  action = deep_customization_element:title_screen_branding
+  actionid = 90f6eb72-0a36-4d44-be02-c625a8b1e98a1690273619829
+  y = 207
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 227
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 36bf1733-59ef-4907-94b8-a53ba5419fb81690273619829
+  y = 229
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 331
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 0421ac5f-71b1-4548-85e2-4ad0c3d9432d1690273619829
+  y = 162
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 91
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = ce637f05-169d-45a7-9a82-f81eb0c951641690273619829
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 41d15a2e-89c4-45a6-9c42-d5003ea1267d1690273619830
+  y = 0
+  height = 30
+}
+
+customization {
+  path = fm/cbt.png
+  orientation = top-centered
+  x = -150
+  width = 300
+  actionid = af0595ee-3170-4975-af6f-26c6c076ceb91690355802126
+  action = addtexture
+  y = 0
+  height = 100
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Cock and Ball Torture: Version Dev\nWhere's the GregTech Lean?
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = vanillabtn:button_compatibility_id:forge_titlescreen_mods_button
+  x = -49
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 86357a23-5e52-49f8-b787-a213852814cc1690359189640
+  y = -21
+  alignment = centered
+  height = 21
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Opening Music: \nSweet Dreams (greg.mp3) \nLegalize Nuclear Bombs
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 153
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 5eb87c10-1f35-41e5-8cc6-4f849f3c36071690428391378
+  y = -42
+  alignment = left
+  height = 40
+}
+
