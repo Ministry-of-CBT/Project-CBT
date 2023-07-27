@@ -1,0 +1,14 @@
+name = "Loading Profiler"
+filename = "LoadingProfiler-MC1.12-1.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "728365dfcf3789056e34d68751517cbbf77dff8b"
+
+[update]
+[update.curseforge]
+file-id = 2432420
+project-id = 228513

@@ -1,0 +1,13 @@
+name = "Hardcore Revival"
+filename = "HardcoreRevival_1.12.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be57ca369f1c9aa4cdf6cebee6e10cfd1ce72acf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2863239
+project-id = 274036

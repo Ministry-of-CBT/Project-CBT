@@ -1,0 +1,13 @@
+name = "Project-CBT"
+author = "Nrmot-GithubRepo"
+version = "dev.0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d95410a639804bda1ea7a40fed9bfe3e38f7f823c069e7c9d81919adf435611"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

@@ -1,0 +1,14 @@
+name = "Silent Gear"
+filename = "SilentGear-1.12.2-0.6.7+76.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ec949aed93099df2207e6cd7f8a9398655790b5f"
+
+[update]
+[update.curseforge]
+file-id = 2799126
+project-id = 297039

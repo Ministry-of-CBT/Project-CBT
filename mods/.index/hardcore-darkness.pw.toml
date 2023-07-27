@@ -1,0 +1,14 @@
+name = "Hardcore Darkness"
+filename = "HardcoreDarkness-MC1.12.2-2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1bced77c70bbc1442412c397e1ca108627bda282"
+
+[update]
+[update.curseforge]
+file-id = 2499443
+project-id = 225957

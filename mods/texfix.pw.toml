@@ -1,0 +1,13 @@
+name = "TexFix"
+filename = "TexFix V-1.12-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa3ea97bdad05ac3c7b1d53b91ed71188e0b20b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2518068
+project-id = 283344

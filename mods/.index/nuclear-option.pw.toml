@@ -1,0 +1,14 @@
+name = "Nuclear Option"
+filename = "NuclearOption-1.12-2.6.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = ""
+hash = ""
+
+[update]
+[update.curseforge]
+file-id = 2523718
+project-id = 281133

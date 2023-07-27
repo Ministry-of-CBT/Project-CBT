@@ -1,0 +1,14 @@
+name = "Custom FoV (Fabric/Forge/Quilt)"
+filename = "customfov-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "140bdea72c821319455cce627729b88b432af9d4"
+
+[update]
+[update.curseforge]
+file-id = 2716272
+project-id = 303938

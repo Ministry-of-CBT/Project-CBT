@@ -1,0 +1,13 @@
+name = "Ex Nihilo: Creatio"
+filename = "exnihilocreatio-1.12.2-0.4.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f0bc9e41db5e832857217056bec8e8621853e55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2817545
+project-id = 274456

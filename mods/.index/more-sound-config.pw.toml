@@ -1,0 +1,14 @@
+name = "Sound Device Options"
+filename = "moresoundconfig-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5a17517653deef1faf9d47005aad288b7c61ecaa"
+
+[update]
+[update.curseforge]
+file-id = 2707092
+project-id = 306555

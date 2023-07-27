@@ -1,0 +1,13 @@
+name = "Load My Resources [Forge]"
+filename = "loadmyresources_1.0.1_MC_1.12-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7624d5d314c2265aa6177381c0121b562e90b8ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3495962
+project-id = 534502

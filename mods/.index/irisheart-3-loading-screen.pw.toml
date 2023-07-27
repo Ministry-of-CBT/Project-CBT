@@ -1,0 +1,14 @@
+name = "Iris Heart III Loading Screen"
+filename = "irisheart-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ac4db0c70b531bd5558625a45cf7e9c89d774b8a"
+
+[update]
+[update.curseforge]
+file-id = 3120456
+project-id = 397032
