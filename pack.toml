@@ -1,12 +1,12 @@
-name = "Project-CBT"
-author = "Nrmot-GithubRepo"
-version = "dev.0.0.1"
+name = "Project Cock and Ball Touhouture: NuclearGreg Horizons"
+author = "Nrmot"
+version = "DEV.0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8d95410a639804bda1ea7a40fed9bfe3e38f7f823c069e7c9d81919adf435611"
+hash = "2e42049a76b2708deb5ce29ce9029d4e93e229d822c0b52cc8130d6ece139912"
 
 [versions]
 forge = "14.23.5.2860"

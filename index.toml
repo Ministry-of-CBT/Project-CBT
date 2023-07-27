@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "5c63eb18ec10aff72f65cbe938d2cb1a458de8a8e933dd0cfd073890cddcb39a"
-
-[[files]]
-file = "command.bat"
-hash = "8f4d22a24b936b81020d3c6414c69d4632507eba4974fcb21f6671764450734c"
+hash = "875c55b5eeb27e9674dea96f2047543d56013e98307dab292189da3c47aaf93d"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -949,261 +945,6 @@ file = "fm/thumb-1920-120557.jpg"
 hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
-file = "mods/.index/advancement-plaques.pw.toml"
-hash = "dfa6850ca525ee781aa86001525f95293ed7ab48396651d013b41e920a649c66"
-metafile = true
-
-[[files]]
-file = "mods/.index/applied-energistics-2.pw.toml"
-hash = "5a172a83ec5830f5721a8c5d1db9b34844bfbb50d2b14ae23726d7c16e3775aa"
-metafile = true
-
-[[files]]
-file = "mods/.index/atomicstrykers-battle-towers.pw.toml"
-hash = "f51d6878fab627a8b8641defe2362d6d1412083f951a96f6fdab08d27f774c83"
-metafile = true
-
-[[files]]
-file = "mods/.index/autoreglib.pw.toml"
-hash = "42b45e54c430fe0669d90c19942736a337c585ae7723c0e213358f90927261be"
-metafile = true
-
-[[files]]
-file = "mods/.index/baubles.pw.toml"
-hash = "9071784340e688e06d41ab3bb5b00fc8c6dafcc14da054a3c659f62b09dc264d"
-metafile = true
-
-[[files]]
-file = "mods/.index/better-advancements.pw.toml"
-hash = "e0479b994f5b41b8d4e8b4b413863aeafeb8a66262ff6e734283b3727111d2d7"
-metafile = true
-
-[[files]]
-file = "mods/.index/better-loading-screen.pw.toml"
-hash = "562145633fc1e69e516d0f6d314645d28c19c892d899772b3d068ebe0ce6420e"
-metafile = true
-
-[[files]]
-file = "mods/.index/bnbgaminglib.pw.toml"
-hash = "16e6f62d531d8d242a8df03af0c3d0afcb587a7a2464076028de4a92058150ed"
-metafile = true
-
-[[files]]
-file = "mods/.index/carry-on.pw.toml"
-hash = "793566af7bea7447aaeba3db455d75392a2eb6f7135a4b5fe77601754c8db12f"
-metafile = true
-
-[[files]]
-file = "mods/.index/chameleon.pw.toml"
-hash = "f31c6192ca13af90e283ad99b07dd0a0ae8096a68fef584745ef6bd82333b110"
-metafile = true
-
-[[files]]
-file = "mods/.index/clumps.pw.toml"
-hash = "0dcbdf3081087c143350b1af02f0b888b72127b4ddd3eed0f710a990ea1290cb"
-metafile = true
-
-[[files]]
-file = "mods/.index/codechicken-lib-1-8.pw.toml"
-hash = "78acf6b485ef8f2e3266bfed3165ba0ab0c6acd0e726f3d36a23214900a41ac4"
-metafile = true
-
-[[files]]
-file = "mods/.index/collective.pw.toml"
-hash = "566888a8e9224b891fd6dfd57fb0238db952d631896c5fca4a2fb438eedd9327"
-metafile = true
-
-[[files]]
-file = "mods/.index/custom-fov.pw.toml"
-hash = "ddc6163239a5ff038d35a4b0738ccb3b07df3e269b92677f554c457f76acc859"
-metafile = true
-
-[[files]]
-file = "mods/.index/custom-window-title.pw.toml"
-hash = "ac0d4fed293f11ee2b7454d25abc39b43cfdf88a86f0ae818bc02b44a2ae553d"
-metafile = true
-
-[[files]]
-file = "mods/.index/enchantment-descriptions.pw.toml"
-hash = "e6e1607500aeba34d7253428f5eab9dd120676ba3575230fb1e06afa790dcc05"
-metafile = true
-
-[[files]]
-file = "mods/.index/ex-nihilo-creatio.pw.toml"
-hash = "76d6bebab344cb15a3f018cf8f12643e34c039678e1611a900e376ac47c8313e"
-metafile = true
-
-[[files]]
-file = "mods/.index/fastfurnace.pw.toml"
-hash = "3cfe11000d4b9f39fca2950089c3076dfe695bf9ff0deaff235e1f54350a131a"
-metafile = true
-
-[[files]]
-file = "mods/.index/fastworkbench.pw.toml"
-hash = "7d7aeac70046d50c996f0d888624d7f8843289c78597182b37de8f1e8ebfa8ab"
-metafile = true
-
-[[files]]
-file = "mods/.index/first-join-message.pw.toml"
-hash = "ad98c4eaddcc771f4ee67d0a35d9e9041534635648b8a9e141dff13e02cafd53"
-metafile = true
-
-[[files]]
-file = "mods/.index/foamfix.pw.toml"
-hash = "56d9e26b4e810eeef0caa96347d3915531238d0e1672341a6276e330a4fa9cba"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregicality-multiblocks.pw.toml"
-hash = "e26fc02877d0be66f330bdc0fc23732d660a3052be4becbbc1987d670f67c43f"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregtech-ce-unofficial.pw.toml"
-hash = "6e298422900843bfddc30faf8a1bc1bd3ec5cfad6323ca1bb5332fa66f73efe1"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregtech-food-option.pw.toml"
-hash = "7a92417380282903d9896c27038c5501c04f6a33cc7ff1e0dae0c80af3627854"
-metafile = true
-
-[[files]]
-file = "mods/.index/had-enough-items.pw.toml"
-hash = "1a413b6ba78ee34706e7e55fc918912a3304df6cb4598fdb49c9a5a99acfc102"
-metafile = true
-
-[[files]]
-file = "mods/.index/hardcore-darkness.pw.toml"
-hash = "697cabfd9f1045d640a89c4226d37c8c81fdfd85b7151b29e70735cdb78feab6"
-metafile = true
-
-[[files]]
-file = "mods/.index/hardcore-revival.pw.toml"
-hash = "821a5f99c62700c9cc6312e88c5575638c01ce9ba28cb518cd592abf36f1f4b6"
-metafile = true
-
-[[files]]
-file = "mods/.index/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "12334712063e1d1c00ebfddfe3543f87e979423769dca45f969918c910bedae6"
-metafile = true
-
-[[files]]
-file = "mods/.index/jeid.pw.toml"
-hash = "ac10104ed5a85ec02139d8c066519d75b6f00bed099a5672c1ced66721e16787"
-metafile = true
-
-[[files]]
-file = "mods/.index/legendary-tooltips.pw.toml"
-hash = "b6a990af0b4f2e3676064c09938bcbd579d3c89b6bea85689a47366eed7b72e0"
-metafile = true
-
-[[files]]
-file = "mods/.index/lmd.pw.toml"
-hash = "031a6f137338c27fcb2d1789711f1141cdd71da71ca53c1519ecb5e5da6e908c"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-profiler.pw.toml"
-hash = "ba6eb14538afcf78297b9f0a738ea7313c12de80f6a2fa1ac6115aa609f4ca1e"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-progress-bar.pw.toml"
-hash = "63d49210c3674b3526af5bb1212d2ed4dcf1a53e207e430488835e2650e4d687"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-screens.pw.toml"
-hash = "d19fe7e50c45d2a1c9b335995bfe00e6f47d5cd0bc0e9d46058a4a97d5ab2df5"
-metafile = true
-
-[[files]]
-file = "mods/.index/mantle.pw.toml"
-hash = "7f0e07d0f819d6aa795110131434fc0e92b9cf90735526f9b28fdb402862c4b5"
-metafile = true
-
-[[files]]
-file = "mods/.index/more-sound-config.pw.toml"
-hash = "dc8b63f367d1736335d1f55b3e9afca0a00f78f0736303fa51ce52daa16124ef"
-metafile = true
-
-[[files]]
-file = "mods/.index/nuclear-option.pw.toml"
-hash = "36b14ec9c5967cf7faa311c698af84033a6e10ead6c25f9386a968e9daf9aadc"
-metafile = true
-
-[[files]]
-file = "mods/.index/quark.pw.toml"
-hash = "ba283903e029acaac18cf335d614281fb6a80ff3101d4c8e04f18afec9c1c7ff"
-metafile = true
-
-[[files]]
-file = "mods/.index/refined-storage.pw.toml"
-hash = "bc122e4ea1da4cd15116ba3e226f7ffea5dc00aa1a656d1885d28cc7bc973e73"
-metafile = true
-
-[[files]]
-file = "mods/.index/resource-loader.pw.toml"
-hash = "e41134c12bce055f7120d254e353bef04860b80f99e1afe68bfb88f34419c4ad"
-metafile = true
-
-[[files]]
-file = "mods/.index/scaling-health.pw.toml"
-hash = "12fdf2c3b433bbc9fc1b0f877891b2eb069b537fb739f7975e46da10243bad24"
-metafile = true
-
-[[files]]
-file = "mods/.index/shadowfacts-forgelin.pw.toml"
-hash = "79cd8e68fa92c866219eb9c318d59814cb0c229552b312043c6279b47e3f3b7b"
-metafile = true
-
-[[files]]
-file = "mods/.index/silent-gear.pw.toml"
-hash = "7bfe1d1749cc9a6139318eb2bd4d51a759209760c21ccd9389c037cd81a7c501"
-metafile = true
-
-[[files]]
-file = "mods/.index/silent-lib.pw.toml"
-hash = "576f08a79118b6a1dd570a566ea91f011d183b976bac1e00bb048fb3eebaf5aa"
-metafile = true
-
-[[files]]
-file = "mods/.index/silents-gems-tic-support.pw.toml"
-hash = "fe17e1457efef893f59e3b82edc564aa0df4c31f315c758368b080df799aac4e"
-metafile = true
-
-[[files]]
-file = "mods/.index/silents-gems.pw.toml"
-hash = "8e1b5b9d29de55d475c464a2e7a4082eebf5aef674b03a331bd6ad973180b1bc"
-metafile = true
-
-[[files]]
-file = "mods/.index/storage-drawers.pw.toml"
-hash = "3199d71da7f36218dfd494cd295fa15b71caff56b06c1f277dcf546ecb266f34"
-metafile = true
-
-[[files]]
-file = "mods/.index/terrafirmacraft.pw.toml"
-hash = "998c147c7f306ca3f86b9f7e897fad8c8dad9b998653484b6f1c55f3c60397fa"
-metafile = true
-
-[[files]]
-file = "mods/.index/terrafirmathings.pw.toml"
-hash = "46cade3a081367b96e147cd45d5fda7f327a5f5d1289f5851a1f84f4636f24bd"
-metafile = true
-
-[[files]]
-file = "mods/.index/texfix.pw.toml"
-hash = "66024ffe96c3a5aca24783c867468a2ebe7dfb7f2895fdeaf125d252b54d35d3"
-metafile = true
-
-[[files]]
-file = "mods/.index/tinkers-construct.pw.toml"
-hash = "ef319c3fcf03f1a1606e7c311eab694753c7dd4c17cf7fd2efac05ec030a44c9"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "55e2cd33ba50937020de3121f016ce54fb6495822d3c66c8ec2ab274f1c6c2b7"
 metafile = true
@@ -1394,14 +1135,6 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
-file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar"
-hash = "de8b85e79cb73826ec77d038bb8bae38e8e3e334526bac1a4812b29f6cf2ae24"
-
-[[files]]
-file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar.meta"
-hash = "72c0d1254909cdfc2a47f26239ec0ce4c65994609db111510534cda6719bf34a"
-
-[[files]]
 file = "mods/mixin-0-7-0-8-compatibility.pw.toml"
 hash = "77ccda6fa0da13ce6b524248a579c0a5733aaf628f617f0c68f2370d84dd6e4d"
 metafile = true
@@ -1485,6 +1218,10 @@ metafile = true
 file = "mods/tinkers-construct.pw.toml"
 hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
+
+[[files]]
+file = "packwiz runner temp.bat"
+hash = "8f4d22a24b936b81020d3c6414c69d4632507eba4974fcb21f6671764450734c"
 
 [[files]]
 file = "resources/customloadingscreen/config/loading/custom.json"
