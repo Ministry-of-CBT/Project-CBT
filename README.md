@@ -10,6 +10,10 @@ Project CBT is the codename. The real name is Cock and Ball Touhouture: NuclearG
 
 Will there be a curseforge upload: No but do it yourself. 
 
+# Project CBT - Modlist:
+
+TBD soon
+
 # Contributing
 
 Use Issues and Pull Pequests to contribute.
@@ -17,4 +21,7 @@ Use Issues and Pull Pequests to contribute.
 # Note:
 
 You are allowed to fork this repository and continue development. This modpack has literally only 1 person working for GODS sake.
+
+
+
 
