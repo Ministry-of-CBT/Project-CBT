@@ -10,7 +10,7 @@ Project CBT is the codename. The real name is Cock and Ball Touhouture: NuclearG
 
 Will there be a curseforge upload: No but do it yourself. 
 
-# Project CBT - Modlist:
+## Project CBT - Modlist:
 
 Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request. 
 
@@ -81,15 +81,7 @@ Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to
 - MixinBooter
 - First Join Message
 
-# Contributing
-
-Use Issues and Pull Pequests to contribute.
-
-# Note:
-
-You are allowed to fork this repository and continue development. This modpack has literally only 1 person working for GODS sake.
-
-# Lore
+## Lore
 
 Summary: In the world of Cock and Ball Touhouture: NuclearGreg Horizons, where technology rules supreme., an unexpected portal opens, connecting the advanced industrial realm to the mystical land of Gensokyo. As the worlds collide, the characters from Gensokyo find themselves thrust into a spellbinding adventure, facing challenges they've never imagined. Together with the Touhou Project heroines, they must learn to harness the power of both science and magic to preserve the balance between the two worlds and overcome a common threat that could endanger them all.
 
@@ -98,6 +90,14 @@ Now you, the player are one of the characters stuck in this unfamilliar world.
 So what do you do? WING IT. 
 
 Gregification Imminent. 
+
+# Contributing
+
+Use Issues and Pull Pequests to contribute.
+
+# Note:
+
+You are allowed to fork this repository and continue development. This modpack has literally only 1 person working for GODS sake.
 
 # Build
 
