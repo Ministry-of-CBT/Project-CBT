@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "875c55b5eeb27e9674dea96f2047543d56013e98307dab292189da3c47aaf93d"
+hash = "4fd27c024ed1779deca6830f6aef1d29d7b900ce47959e044256db88f6f4ac3a"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -51,6 +51,10 @@ hash = "324165778bc9015ee1ab271ad32301712e62908f726e9c25af5f98ed0567affb"
 [[files]]
 file = "config/TinkerModules.cfg"
 hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
+
+[[files]]
+file = "config/advancementplaques.cfg"
+hash = "f09243321c50a7b73081aca9fd99a1a852655dd6be8a030734d6b68cd708842a"
 
 [[files]]
 file = "config/battletowers.cfg"
@@ -147,6 +151,22 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "f27db2df244107a607158267a180cf1ad0adcd33b582e0394aa58b690a25806e"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "78acc6f6472d9519e350625fabdf412bd871f84e18b6fe5b16f3d4b22e3b1332"
+
+[[files]]
+file = "config/fastfurnace.cfg"
+hash = "7c8db5e40867d4adc12f920ed5f22a7194d8cb68da287108d92af74604592c9f"
+
+[[files]]
+file = "config/firstjoinmessage.cfg"
+hash = "5d7864bd46aee7690a891804051d16b7abf7a78dae8062ba8eeb016eb29d94f0"
+
+[[files]]
+file = "config/foamfix.cfg"
+hash = "03d3c2949be252ea5e3d24c614622287c34d965c232f8391692297064fddcffc"
 
 [[files]]
 file = "config/forge.cfg"
@@ -793,6 +813,10 @@ file = "config/gregtech/worldgen_extracted.json"
 hash = "6c66739cadefe6e73a1cb0c23fbda336670a9e52c5e35d00e23a4696d26b79ed"
 
 [[files]]
+file = "config/gregtechfoodoption.cfg"
+hash = "8e58979c889c451266e55a1f93c7981dc65822ff717dbfa1e871628d930b8fa2"
+
+[[files]]
 file = "config/hardcoredarkness.cfg"
 hash = "ace2c977195f95125578f9901867124b9f81c2827ae2947ada2673906c44955c"
 
@@ -853,12 +877,28 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4"
 
 [[files]]
+file = "config/legendarytooltips.cfg"
+hash = "cdc266a933bea350b54cb44c68b7284c35bace99ee08ceafc5e761f49d2542f5"
+
+[[files]]
 file = "config/loadingprofiler.cfg"
 hash = "97d190dbc32e23e14f7041170c97435ae0cd92ec7588dd76151cda152ab8ed84"
 
 [[files]]
+file = "config/loadingscreens/LoadingScreens.txt"
+hash = "1004894566d3a89059b18f3fb26119fd15c4eccf41398c25075d8dc0a7b2aef4"
+
+[[files]]
 file = "config/loadmyresources/config.cfg"
 hash = "d7a9b2712d17945f21a3a938bdb49cc5448e3aa53b2c084670163fa8eb2f297c"
+
+[[files]]
+file = "config/moresoundconfig.cfg"
+hash = "4884ed27e19b2701ef452ec61f5cfae377224179a113946991a857c73b7b7b39"
+
+[[files]]
+file = "config/nuclearoption.cfg"
+hash = "b3c3ccc51414932952af30752262194080dd05ec61c96dbb336332559283fe14"
 
 [[files]]
 file = "config/quark.cfg"
@@ -867,6 +907,10 @@ hash = "d844eab17b1c36355455e672bd1144bc5ea8b83536eaa4eace4af78961952240"
 [[files]]
 file = "config/refinedstorage.cfg"
 hash = "d1f265c3b9ecbe4dd2bc732b3e4a98c013fafcfcea6578b375adb5c2a5e01461"
+
+[[files]]
+file = "config/scalinghealth/main.cfg"
+hash = "aec8e35100673686e3c90626401e95451a823a9323f79d0c7d4abb9a203a9720"
 
 [[files]]
 file = "config/silentchaos512/silentgear/silentgear.cfg"

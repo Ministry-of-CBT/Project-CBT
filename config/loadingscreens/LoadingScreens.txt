@@ -1,0 +1,11 @@
+
+background = addStretchedTexture("top_left", "customloadingscreen:image/loading/bgloading.png")
+background.setRelRender(1, 1)
+
+tips = addRandomText("top_left")
+tips.setAbsXOffset(5)
+tips.setAbsYOffset(5)
+tips.addTip("FUCK YOU! FUCK ALL OF YOU LUNARIANS! RAHHHHHHHHHHH!")
+tips.addTip("What.... On Earth...")
+tips.addTip("Where's the GregTech Lean????")
+tips.addTip("@HBMMods can we have schrabidium lean?")
