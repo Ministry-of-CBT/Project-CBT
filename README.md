@@ -78,6 +78,7 @@ Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to
 - Refined Storage
 - Resource Loader
 - Scaling Health
+- Scape and Run - Parasites
 - Shadowfacts' Forgelin
 - Silent Gear
 - Silent Lib (silentlib)
