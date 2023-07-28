@@ -114,6 +114,6 @@ You are allowed to fork this repository and continue development. This modpack h
 
 # Build
 
-clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforge export.'
+clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforge export.' import the exported zip to the launcher that supports curseforge modpacks and boom. greg greg greg
 
 
