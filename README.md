@@ -6,6 +6,8 @@
 
 ## What is this and how do i get rid of it?
 
+
+
 Project CBT: A minecraft modpack that tries to combine aspects of RLCraft, GTNH, Touhou and HBM's Nuclear Tech Mod into 1 totally not buggy masterpiece that will totally not destroy your c***
 
 ## What is Project CBT:
@@ -115,5 +117,24 @@ You are allowed to fork this repository and continue development. This modpack h
 # Build
 
 clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforge export.' import the exported zip to the launcher that supports curseforge modpacks and boom. greg greg greg
+
+# Public Domain Leaks Section
+
+---
+
+![2023-07-28_20 26 42](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/f0f29bc3-5a17-444c-8106-e12db6c9420b)
+
+---
+
+![2023-07-28_18 20 44](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/41ae6e91-1bc0-4cb4-b459-1534e639f53c)
+
+---
+
+![2023-07-28_14 26 58](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/c0c10202-438f-45e6-aa25-1e7660b19bb8)
+
+---
+
+![Minecraft 1 12 2 28_07_2023 4_32_27 pm](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/9344845a-f2d0-433a-b527-833046d11bd2)
+
 
 
