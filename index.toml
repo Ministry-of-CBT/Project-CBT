@@ -1403,6 +1403,11 @@ hash = "ce611cd223f8163c68e1527d9499de1180c287c3dc9cffa7b0a549b4b4f4ddd8"
 metafile = true
 
 [[files]]
+file = "mods/scape-and-run-parasites.pw.toml"
+hash = "9ce5e765ff7d3c5f0890ffc1f2f711e5b00777d844d1ea191c1fa6e044344160"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true

@@ -1,0 +1,72 @@
+{
+	title: "1000 Cobblestone Blocks????????",
+	x: 0.0d,
+	y: 4.5d,
+	description: "Yes. Now go find it, or else I will teleport you to the backrooms.",
+	text: [
+		"\"Well, looks like we have our first task,\" Marisa said with a grin. \"Let's go find those missing blocks!\"",
+		"",
+		"Reimu nodded, trying to suppress the thought that this world felt a bit like a game, and that the tasks and rewards reminded her of a certain incident in Gensokyo. Nevertheless, she couldn't deny the excitement building within her as she and Marisa set off to find the missing blocks.",
+		"",
+		"As they explored the cubey landscape, they encountered more of the square-shaped villagers who seemed to have simple but peculiar needs. One wanted to find a rare, sparkling flower, while another needed help gathering resources for a strange-looking potion. Reimu and Marisa enthusiastically tackled each quest they encountered, finding the villagers' missing items and solving their problems."
+	],
+	dependencies: [
+		"c11477b6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7b4ff4c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "7e864ac8",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				}
+			},
+			id: "tfc:metal/saw/wrought_iron"
+		}
+	},
+	{
+		uid: "482e9124",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 48000L
+				}
+			},
+			id: "minecraft:golden_apple",
+			Damage: 1s
+		},
+		only_one: true
+	}]
+}

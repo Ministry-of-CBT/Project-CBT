@@ -1,0 +1,22 @@
+{
+	title: "Heads up!",
+	x: -1.5d,
+	y: 2.0d,
+	description: "A fork in the timeline",
+	text: [
+		"Tou can choose if you will take this quest or not."
+	],
+	dependencies: [
+		"18fdd6e5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f9768567",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "920cdc44",
+		type: "item",
+		item: "hbm:book_guide_book 1 1"
+	}]
+}

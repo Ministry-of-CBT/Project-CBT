@@ -1,0 +1,21 @@
+{
+	title: "STARTERS",
+	x: 0.0d,
+	y: -1.5d,
+	description: "Here's what to expect in Cock and Ball Touhouture: NuclearGreg Horizons",
+	text: [
+		"This is the story mode quest. You complete tasks to unlock the next piece of the story.",
+		"",
+		"There will be multiple forks for each story."
+	],
+	tasks: [{
+		uid: "11ad4c49",
+		type: "checkmark",
+		title: "So here's what to expect in this modpack"
+	}],
+	rewards: [{
+		uid: "448b99e2",
+		type: "item",
+		item: "tfc:stone/axe/igneous_intrusive"
+	}]
+}

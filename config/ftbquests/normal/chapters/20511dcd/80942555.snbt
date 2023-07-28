@@ -1,0 +1,13 @@
+{
+	title: "Hi!",
+	x: 0.5d,
+	y: 0.0d,
+	description: "CBT Contest Mode",
+	text: [
+		"You can do repeated quests for rewards in here."
+	],
+	tasks: [{
+		uid: "e14ee49b",
+		type: "checkmark"
+	}]
+}

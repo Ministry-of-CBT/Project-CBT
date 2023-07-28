@@ -1,0 +1,33 @@
+{
+	title: "Chapter 2",
+	x: 0.0d,
+	y: 0.5d,
+	description: "Complete this quest to proceed to the next one.",
+	text: [
+		"As Reimu and Marisa ventured further into the cubey world, they soon realized that their surroundings were not just an empty field. The landscape was dotted with peculiar structures, some resembling houses, others like strange pixelated trees, and there were even floating islands made of cubes. They also noticed some small, curious creatures hopping around, resembling a mix between rabbits and squares. Everything felt like a surreal blend of fantasy and video game aesthetics.",
+		"",
+		"As they began to explore, they stumbled upon their first \"quest\" marker, a floating, glowing sign with a question mark on it. Marisa, with her adventurous spirit, approached it first. As she touched the sign, it transformed into a list of tasks that appeared before them. They read the instructions together:",
+		"",
+		"Quest 1: A Peculiar Request",
+		"Objective: Find the missing blocks for the villager's house.",
+		"Reward (Story Mode Lore): 100 golden cubes and a magic charm that enhances abilities."
+	],
+	dependencies: [
+		"29325f1b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "97d5acb5",
+		type: "item",
+		items: [{
+			item: "tfc:rock/granite"
+		}]
+	},
+	{
+		uid: "030254a2",
+		type: "item",
+		items: [{
+			item: "tfc:rock/slate"
+		}]
+	}]
+}

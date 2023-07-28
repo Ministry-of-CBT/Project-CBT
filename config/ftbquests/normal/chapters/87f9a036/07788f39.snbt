@@ -1,0 +1,25 @@
+{
+	title: "Want to die?",
+	icon: "hbm:mush",
+	x: 0.5d,
+	y: -3.0d,
+	description: "Are you tired of existing?",
+	text: [
+		"Yes I'm tired of existing. I hate you and your modpack. I hate this game. I don't want to exist anymore and I don't like greg. I want to shit myself in the chair."
+	],
+	can_repeat: true,
+	dependencies: [
+		"c227dbce"
+	],
+	tasks: [{
+		uid: "9a56c341",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "46a5ce13",
+		type: "command",
+		auto: "invisible",
+		command: "/kill @s",
+		player_command: true
+	}]
+}

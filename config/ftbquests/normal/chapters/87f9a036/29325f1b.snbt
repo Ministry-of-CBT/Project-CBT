@@ -1,0 +1,48 @@
+{
+	title: "Start Here! Touhou x GTNH Storyline",
+	x: -1.5d,
+	y: -0.5d,
+	description: "We promise to finish the Touhou x GTNH Storyline. Here's what they left here.",
+	text: [
+		"Reimu and Marisa woke up, it was an unfamiliar place, yet somehow as familiar as anywhere else they’ve been. There were still cherry blossoms, there was still grass and flowers on the ground, in the distance they could hear running water. The only difference was everything looked… cubey.",
+		"",
+		"Reimu sat up with a groan, she felt like she had the worst headache of her life. What didn’t help was the complete oddity of the place she could see with her eyes half open. Even with hazy vision she could tell something was off… Or maybe everything was off, she didn’t decide yet.",
+		"",
+		"Marisa yawned awake, like she was used to sleeping on hard dirt. She was more quick to adjust to the new world than Reimu was, but both were immediately struck with confusion. Not only was being isekai’d to some weird cherry blossom field odd enough, they also couldn’t see anything that looked very normal. It all looked blocky, like someone put it through a CRT.",
+		"",
+		"“Hey Reimu?” Marisa called, crouching on her feet, “Where the hell are we?”",
+		"",
+		"“I couldn’t tell you,” She replied, gazing off in the other direction, “I can barely even remember what happened last night,”. Finally turning around to look at what she thought would be Marisa’s smile, but just met with a look of daze and confusion.",
+		"",
+		"“All I remember is that we went to bed and-oop!” Marisa got cut off, she felt something under her bottom, reaching for it and bringing it up brought a well covered book, with a large red ribbon encircling the cover. Reimu got up and walked over, standing behind Marisa’s shoulders and peering down, they opened the book together.",
+		"",
+		"“What a rip-off!” Marisa yelled, standing up and rotating the book every which way, the pages were completely blank, there was seemingly a tagging system, like one might find in a textbook, but it made no sense and didn’t help the issue of a completely empty book. They both looked at the book with disgust, until Reimu peered down at the ground and noticed a loose piece of paper, picking it up, she read it off.",
+		"",
+		"“Hello Reimu and Marisa, you may seem confused as to where you currently are, and to be honest I barely remember where I put you. One of the games on Sumireko’s computer, I think. Either way your goal is to finish out the rest of the book that I gave you, as it is a very special book. There will be ‘quests’ that you must complete, and when you do you gain tangible objects: money, food, essentials. It may seem empty, but once you hit the checkmark on this paper, the whole world will open up for you, good luck, lovers,”. Reimu finished reading the insignia at the bottom, “Signed, Yukari Yakumo,”. Reimu breathed a long sigh, knowing that Yukari gave them another meaningless task.",
+		"“Well, we should get started, shouldn’t we?” Marisa jubilantly said, seemingly not caring about the predicament they were both in. Reimu giggled a bit inside, this was just like her, caring about them being together instead of where they were together. It made her feel happy, and glad that of all the people she got trapped here with, it was Marisa.",
+		"",
+		"“C’mon, we can’t be burning daylight!!” She kept begging, Reimu breathed a sigh of relief, at least one of them would be staying sane."
+	],
+	dependencies: [
+		"c227dbce"
+	],
+	tasks: [{
+		uid: "5dcb806e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}],
+		consume_items: false
+	}]
+}

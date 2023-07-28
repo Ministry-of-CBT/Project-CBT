@@ -1,0 +1,13 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	dependencies: [
+		"c1c8a8c8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "760a8cfb",
+		type: "checkmark",
+		title: "Deny Quest"
+	}]
+}
