@@ -5,12 +5,24 @@ file = "README.md"
 hash = "4fd27c024ed1779deca6830f6aef1d29d7b900ce47959e044256db88f6f4ac3a"
 
 [[files]]
+file = "ambience_music/ambience.properties"
+hash = "f59d3380549b623e8b20857625c2b5f954a5dfdbe7134a3c34734c48363fa1b9"
+
+[[files]]
+file = "ambience_music/music/legalizenuclearbombs.mp3"
+hash = "604791d85f3a59ade983058af0151181a79f7dcbf908425c67e01d12aab98da5"
+
+[[files]]
+file = "ambience_music/music/silence0.mp3"
+hash = "3897bf809e2ec1751722a85cd6a6517ce0dcbe6f2835acd508a25e1f054d8cf7"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "e5a59e83866461320ed742d049d14cafbd35dc1f753835b56e75f92605cb3d84"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "a6fafcc123b384aafb08f381701dc4578e0a97572fd641f50cb59009df801cfa"
+hash = "f592781675c159606d71413a7b614678182e0c3a97f00600fd7ab527779f1983"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -22,7 +34,79 @@ hash = "02ec67db31e322e87eaea1531695d149eafce08c67af7bf33dc4e9a2f88389aa"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "080c3700335b672f7c27ada76fc047de068a1612ca3433a28c4b63ca14cd8580"
+hash = "10b267a264100a6f6ada128ca0119306fd97cdf861a227521908d9fad2289e16"
+
+[[files]]
+file = "config/AsmodeusCore/core.conf"
+hash = "6baced4e53186b19d531642526318899916c6733467a9734929b4e6b5be3d422"
+
+[[files]]
+file = "config/ExtraPlanets.cfg"
+hash = "2359b6066a3f1b84c3c0cf9a76275624c1dd7d644732552b77a72b30cd7f48b7"
+
+[[files]]
+file = "config/Galacticraft/MicdoodleCore.cfg"
+hash = "0f59c83a4de964b34a92bbf739a5cfecb251d7d75e0c0bd753481d09cbacfb13"
+
+[[files]]
+file = "config/Galacticraft/chunkloading.cfg"
+hash = "3f9f75228eaf2061f7a161849196f3721289e686ad4f9e58812fc6b8ba119543"
+
+[[files]]
+file = "config/Galacticraft/core.cfg"
+hash = "65c93a9eda2a3724b2aaeffd96271c2b9ee4a16f72fe48a0ed66d4e7998ba9c1"
+
+[[files]]
+file = "config/Galacticraft/energy.cfg"
+hash = "473f7e7e60e2c028f536942b92117c4a7bd1dad75f1c95c0028944b2ef4c9e93"
+
+[[files]]
+file = "config/Galacticraft/planets.cfg"
+hash = "cb7089ea048559100bda4de8baa921194040fb69138642958e956ed88664f5ad"
+
+[[files]]
+file = "config/GalaxySpace/alpha_centauri/core.conf"
+hash = "2cbeb8f2a4c6646c5f4c5b1ec7d202cbbe55691245df833cda74307f5531ba70"
+
+[[files]]
+file = "config/GalaxySpace/alpha_centauri/dimensions.conf"
+hash = "3c06c03d5115f1ffc6c62701c9c15f144f552871f6773b6a73512d4f02fbb985"
+
+[[files]]
+file = "config/GalaxySpace/barnards/core.conf"
+hash = "0bf2cde39064aae2d8433a849ae4f158364f9f186ce22ac89e6ad71820ad5320"
+
+[[files]]
+file = "config/GalaxySpace/barnards/dimensions.conf"
+hash = "317bb2e868cc433a89a0b2cf9a952e71116ee22d30f3f6c5789a2ae7b295582d"
+
+[[files]]
+file = "config/GalaxySpace/core.conf"
+hash = "808262292d8598412d9e4ed8212cf955a168150273df0de01777ad76158cc3b5"
+
+[[files]]
+file = "config/GalaxySpace/dimensions.conf"
+hash = "83510c678144e9dbd25a92c01f5a0ab4d7fea114181a647d3731d05e8eab4b64"
+
+[[files]]
+file = "config/GalaxySpace/energy.conf"
+hash = "d5a1e6ffe5b1b4d7afcdd9e52db2d80287f6b85db2c22d853e85b5c825958087"
+
+[[files]]
+file = "config/GalaxySpace/schematics.conf"
+hash = "4f086baee73c608e2ca7a6cf2413e62f7ecc74da8c0633a9b20dc000b3236d5e"
+
+[[files]]
+file = "config/GalaxySpace/tau_ceti/core.conf"
+hash = "2388f6e930e2fc03a46ba645eacb69f8ec7d8df219e7eceb2b1c91e9b36c0f97"
+
+[[files]]
+file = "config/MorePlanetsExtras.cfg"
+hash = "3320ef714286f9b23e8b65c0b25e4de0cad9cf6f4adb7a9da0e67fc453ce40ef"
+
+[[files]]
+file = "config/MorePlayerModels.cfg"
+hash = "326cfd2fc50773af5605484355a02908d34376004ee4a836f1e015559f362563"
 
 [[files]]
 file = "config/TerraFirmaCraft - Animals.cfg"
@@ -53,12 +137,20 @@ file = "config/TinkerModules.cfg"
 hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
 
 [[files]]
+file = "config/ZollernGalaxy/core.cfg"
+hash = "7d5f695d4c5428aa904cdeb300b5fdeca8a97ae77e910eb7afecdd641e16bd2d"
+
+[[files]]
 file = "config/advancementplaques.cfg"
 hash = "f09243321c50a7b73081aca9fd99a1a852655dd6be8a030734d6b68cd708842a"
 
 [[files]]
+file = "config/ambience.cfg"
+hash = "679ecf7921d7e8ad5337571473b530043d6559da79c70732fa1440cf47515816"
+
+[[files]]
 file = "config/battletowers.cfg"
-hash = "3f89231689806d3ee3402f49360886aa825840a126ecb28022ec5429a323c1b2"
+hash = "ff5ae5601e489616be6406bbed360fa5daa26b11801e90a882cee3fc552fa3e4"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -94,7 +186,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "92e1c9ba4d3f8e9d3fb01e553b71a5bf8406afd23a5c18994951fd4a6ee3e9db"
+hash = "797f6bc2c9bc06bd551e3d2678b9a2005030c24f4b1a56efdaf9865c8c835cb9"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -114,35 +206,39 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "14bae5ea000da4628c86e1bbd392a28182a3af1060522b7fbf037273f4ac2b78"
+hash = "1b54e4b58bcd30aa963b5ca6c8fda7144e62beae70e10fd63d27d346e524d35d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "79b6f286a63a7f403ad46be07453aa8e0544f3935b9719d5fb2fd7c56e6003b3"
+hash = "aeaddf26b72e014225ec0f37983b90c51731e5944e762f3a40b881794ffb45e4"
 
 [[files]]
 file = "config/fancymenu/customization/temp.txt"
-hash = "8fea8aa7b87132cb194ad6a9ad55d07f77ad5a20c83f1a9340f68bed1fc56063"
+hash = "cd287f1b34a5cfba401130f13be564efd0420279dbb9e6e4d151a550fe726e9e"
+
+[[files]]
+file = "config/fancymenu/customization/universalbackground.txt"
+hash = "04680435d33582e1866f542cdbdda53bcef5ce247be53c730b61f2f835332560"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
-hash = "5a6e49aa18f4e113a96832b2d386046c199a86293aa573200d9df67c2d938b58"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "bd08db9bceeffa3d03553dc4ab4244c5745a4a0f71f99f7714f17b896f3b04d2"
+hash = "c658ee05d87b33c341bdc4a88a89a601d6387885f806ae10c96ab0700adf571f"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
-hash = "de116f0404dfba5a2ac1f61d15d7aae198ab8e0cf7402148d0018b3ab3e08e45"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
 
 [[files]]
 file = "config/fancymenu/locals/pt_br.local"
-hash = "afd40caa6c2681f9aa0efca3d05dc68d9415d206a052d33fb31dceae9765ebfd"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
 
 [[files]]
 file = "config/fancymenu/locals/zh_cn.local"
-hash = "0fe06b353073577fe10811f5d01b4ef1e677a02386a5e46e6f3e27da48777f47"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -150,7 +246,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f27db2df244107a607158267a180cf1ad0adcd33b582e0394aa58b690a25806e"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -162,7 +258,7 @@ hash = "7c8db5e40867d4adc12f920ed5f22a7194d8cb68da287108d92af74604592c9f"
 
 [[files]]
 file = "config/firstjoinmessage.cfg"
-hash = "5d7864bd46aee7690a891804051d16b7abf7a78dae8062ba8eeb016eb29d94f0"
+hash = "68839ec95cdd724f296af6d7bd1eb37a8f9ba58f83532c204d1c287c4797a300"
 
 [[files]]
 file = "config/foamfix.cfg"
@@ -826,7 +922,7 @@ hash = "a3653759f542e9d8f209539256ba50e5253675744af5d219e5c34eabdca9ca1b"
 
 [[files]]
 file = "config/hbm/assemblerConfig.cfg"
-hash = "eb7bae51f60d5954a160bca9373d66da7ede802b7ca579c30976694a050de2d9"
+hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
@@ -834,7 +930,7 @@ hash = "5f4ff1da967d20a7068b7e167a2fdbc83688b827e7a97bea934681017594904f"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
-hash = "b3bc164474954360ebb467341c3ce8400a786a484d8795f86556b5eb932db5d8"
+hash = "cbd908a466fd70061173c6cc8ca26d63a283bdc9cfb8481ef4f909591761f6e7"
 
 [[files]]
 file = "config/hbm/hbm_dimensions.cfg"
@@ -842,7 +938,7 @@ hash = "ec42704310c4509b391498bb97c128e37beed6717691a41a010e0564bff432b9"
 
 [[files]]
 file = "config/hbm/solinium.cfg"
-hash = "53ac1a56efa6d9d6d73bfb08f79eb136c967f6fa29123af95d780620b78d280a"
+hash = "14cdc5fde9bcbc2bcda02e0ce03952ea7d65cd34d5b206291694ce5a9c42309b"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -858,23 +954,23 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "2b225f8383ea985065d79e86b85a844c659c75706c09beda141c3aa097d23ac0"
+hash = "732de7bee2e027b0e478740f9510e577e5d0ee9a54b71c6ac4d524af65cda948"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
-hash = "9cf580b889772edd244b5ea7cf42439bbae7bf2834bd759b819052d8f147e5fd"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
 [[files]]
 file = "config/konkrete/locals/en_us.local"
-hash = "7e47765e16c56722a24ff7343191913b00ef2c8493b7172c641d61c8b583b0d4"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
 
 [[files]]
 file = "config/konkrete/locals/pl_pl.local"
-hash = "29e0e9f6e599f34ce351814cd4bbfa1bbea884122aff4b5072bff105d94f6862"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 
 [[files]]
 file = "config/konkrete/locals/pt_br.local"
-hash = "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/legendarytooltips.cfg"
@@ -886,11 +982,19 @@ hash = "97d190dbc32e23e14f7041170c97435ae0cd92ec7588dd76151cda152ab8ed84"
 
 [[files]]
 file = "config/loadingscreens/LoadingScreens.txt"
-hash = "1004894566d3a89059b18f3fb26119fd15c4eccf41398c25075d8dc0a7b2aef4"
+hash = "227bdd93d592ad319faeb8ca48a1e2e105cac42214df913f3bedc7e6f24e46ff"
 
 [[files]]
 file = "config/loadmyresources/config.cfg"
-hash = "d7a9b2712d17945f21a3a938bdb49cc5448e3aa53b2c084670163fa8eb2f297c"
+hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
+
+[[files]]
+file = "config/moreplanets.cfg"
+hash = "67885dd55d8fbab72fc32ec4c75fa1ac7290068e0a8940e24cb0e9bf31e7a8de"
+
+[[files]]
+file = "config/moreplanets_server.cfg"
+hash = "2d9d8bd5f38e82fc4a89c9b64b1510dc0d4e583e5652947ff5a362e897c391a3"
 
 [[files]]
 file = "config/moresoundconfig.cfg"
@@ -902,7 +1006,7 @@ hash = "b3c3ccc51414932952af30752262194080dd05ec61c96dbb336332559283fe14"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "d844eab17b1c36355455e672bd1144bc5ea8b83536eaa4eace4af78961952240"
+hash = "34739b864ac9c98d973ca676f80b796992a61d10a80b32528f9ecbd2864fe281"
 
 [[files]]
 file = "config/refinedstorage.cfg"
@@ -922,7 +1026,11 @@ hash = "bb1f985b94fdf2644828536971ebd852306c515b385477ff353e952ff4f43fb4"
 
 [[files]]
 file = "config/splash.properties"
-hash = "86476dc5ac277493c755ff0f74230a4bbfb646bd9db8fadcaa90f0e9605f694d"
+hash = "e86a7d117df716cb9e18e59f0e2bb3679417510c901426748cb0c289e8fa7a2a"
+
+[[files]]
+file = "config/stevekung's_lib.cfg"
+hash = "3c3a78418882d31d2f639cf409b69df2a5b4e1273e1eec4b269c8e642597de49"
 
 [[files]]
 file = "config/storagedrawers.cfg"
@@ -934,19 +1042,19 @@ hash = "b25295006846c2e58b8f24b1d6a5bb0ca6c22bf2e926a592ead0911e402a8c83"
 
 [[files]]
 file = "config/tfc/animal_food_data.json"
-hash = "626fc65756c7dd548f52f8edc77a015d6cd0d324d7d740d8d05ba3b5d5a0c549"
+hash = "3824277c9659b1fdadd05aba29973825e7919d890868bb356b516d6c080cb3a5"
 
 [[files]]
 file = "config/tfc/entity_resistance_data.json"
-hash = "4960be6934b621b75090450406dfe2adef2920cff733917a75dcd5265cc1dc25"
+hash = "a9f306b530c2251715e0c6c84e03fa51af43f69181c10627ab7770e2d877ca1f"
 
 [[files]]
 file = "config/tfc/ore_spawn_data.json"
-hash = "83f901ecff4fe45b203be67d6534fef3f9dd1687cc0d8acdc7a28ac43d1b1d68"
+hash = "c477d8542d32c16088eee84b99706266193eef6dac9ba71d807edc2b08a05b87"
 
 [[files]]
 file = "config/tfc/ore_spawn_data.json.old"
-hash = "83f901ecff4fe45b203be67d6534fef3f9dd1687cc0d8acdc7a28ac43d1b1d68"
+hash = "c477d8542d32c16088eee84b99706266193eef6dac9ba71d807edc2b08a05b87"
 
 [[files]]
 file = "config/time.history"
@@ -994,8 +1102,18 @@ hash = "55e2cd33ba50937020de3121f016ce54fb6495822d3c66c8ec2ab274f1c6c2b7"
 metafile = true
 
 [[files]]
+file = "mods/ambience-extras.pw.toml"
+hash = "043cb48981bb7e613462612ae78a005bc9cb63928f982f2453d38715e9fa68c9"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
+file = "mods/asmodeuscore.pw.toml"
+hash = "2d42af07ea3232b9b8520b37dbd85c185dac62ec15c4f3392454d2334e091f6c"
 metafile = true
 
 [[files]]
@@ -1074,6 +1192,11 @@ hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
 
 [[files]]
+file = "mods/extraplanets.pw.toml"
+hash = "f71ac7b38cb5f43c8f3bce12df374e3bdaab926d682e11ff71acfae5bb9a8cef"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "73380390faad25fc5dc327ccf09c9bc590ba4d4b6c236d0d88810b5f95df88ed"
 metafile = true
@@ -1096,6 +1219,16 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "1e470a72b6e3b2c14dd377c1d34f962aa1efe603a61f4ca8db3afe7c8298b5b4"
+metafile = true
+
+[[files]]
+file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
+hash = "82833d881a0989540edfd031036dbeffd5faf229524b4cf31349904bdb402c1c"
 metafile = true
 
 [[files]]
@@ -1184,6 +1317,26 @@ hash = "77ccda6fa0da13ce6b524248a579c0a5733aaf628f617f0c68f2370d84dd6e4d"
 metafile = true
 
 [[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "4b4b6e0241af3357ddab7998432199b82ef0c2a8b3dc0567e28c9a83cbfbc1fe"
+metafile = true
+
+[[files]]
+file = "mods/mjrlegendslib.pw.toml"
+hash = "f0254cdd6d5f1c170dfdd1fb91c92f38962f3a5b37c241aea562e57645c8677b"
+metafile = true
+
+[[files]]
+file = "mods/more-planets-gc-addon.pw.toml"
+hash = "aef2c26f9c5f5414db36edbb0b686c01a00ccd0b859f4abfc54348a3926fcf98"
+metafile = true
+
+[[files]]
+file = "mods/more-player-models.pw.toml"
+hash = "e87ac88dd5517a4a3fa4904bcf1c3b7ec228df27cdf702059b41ee06b8f68d3e"
+metafile = true
+
+[[files]]
 file = "mods/more-sound-config.pw.toml"
 hash = "0e441cd0488974c8df21a7a2b13c988b5c416487615943d0e8b4e0ae41396b20"
 metafile = true
@@ -1239,6 +1392,11 @@ hash = "4ab138f7c54a88f762a7ddf8b7d397a05477d708b8f043821d9faf0a684260fa"
 metafile = true
 
 [[files]]
+file = "mods/stevekungs-lib.pw.toml"
+hash = "50d06c55022b9dcdfe9d9564fd4d2ff38abbc227a57f1626f9ed6f8d006962c7"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
 metafile = true
@@ -1264,12 +1422,17 @@ hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
+file = "mods/zollern-galaxy.pw.toml"
+hash = "36e762297530c54513e3eb9cab408d344be6acbb527338e2af2225a98bb56aff"
+metafile = true
+
+[[files]]
 file = "packwiz runner temp.bat"
 hash = "8f4d22a24b936b81020d3c6414c69d4632507eba4974fcb21f6671764450734c"
 
 [[files]]
 file = "resources/customloadingscreen/config/loading/custom.json"
-hash = "5d3128a0ba6032e529d291e552da720dda5be4de089a73411b3f3f601b8de60d"
+hash = "e081f94c7baa6b0739397c1eb73e1465d0ba460c8f1a48973daa27ef607010e1"
 
 [[files]]
 file = "resources/customloadingscreen/font/ascii.png"
@@ -1277,19 +1440,15 @@ hash = "fce4bdfb3883570ec29bcde15dada00cef2d9041429de32b657d8daa2d06ff83"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/banner.json"
-hash = "5e8a4c1b79744dab6cabf066ded2a047ddac25dc4fe682377101c64d62b7740b"
+hash = "76ec76e4c6b461cea7a993656ce8bad729c5e1d78b003640b7ef0f1cda952073"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/banner.png"
 hash = "33e6b43e69416fb6363270a8644db61fcea8542eb98365129c6678f4a37e395e"
 
 [[files]]
-file = "resources/customloadingscreen/image/loading/bg.png"
-hash = "575d5c0312f95e1f584faced699924c0fb2c6b66f0fe97adc9b63f255becb3fe"
-
-[[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.json"
-hash = "3fd12710a1b2abbc3cd9b3531dba6fcfe7eebfe957218e1d1b7c0f0658fafe8f"
+hash = "69aec65b37eca502441d5d2de9bf8c3962589a87f97d0db333bfbaab978123fb"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.png"
@@ -1297,15 +1456,15 @@ hash = "91bd049b35e4fb52ce2273c62aee9ad346ce4dce40a8607bda4c2d24d830077d"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/loading_bar_white.json"
-hash = "30c1db8b07fa77ac8192251ce8c92a0aeaa8db5c192c2a7daa4632462afa0dd8"
+hash = "4633254704cd19d185914b32880fa392679d3c27da6ce34ec39fa4d30eee4528"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_left.json"
-hash = "4f6ab127ad22f6c64bbffaeb26715a9c707da6d1ba77e611c660ab247b763877"
+hash = "2b6fcef6cbb0856ea39b44b2f994842c189063df3eaf2c7657bcec20dccc8280"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_right.json"
-hash = "51ee91dea0b1fa86c54ed914124f11874ac848d2f5e6c0edb9f058eb7123602b"
+hash = "5140a2e5ec7e237cdc1eeeace4ea2d9ec9a80653a75b9fbf00a525dae5535b3d"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/mojang.png"
@@ -1313,11 +1472,11 @@ hash = "8d3e274085104ee5ec31b4eb2fac6517a058d25a4d45fb871c6143d8c9508a1c"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/mojang_logo.json"
-hash = "a266560704ce9776bb601562cbab2288ed47bde01890f7a5b12031d6ee5561ff"
+hash = "79a2849a1089d976faee7e8ea5eb9dab899886b492a7cd7c81b0238d6f85a4cd"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/percentage_text.json"
-hash = "b84a759af79d3498679923887a1d38b5edb5502d62a9a5e1ccc21ce8b38a3143"
+hash = "7816fc2d8a4e76fc210cfb277ccb084e28b91951ee221318c8cff8b0941c2a25"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_bar.png"
@@ -1325,7 +1484,7 @@ hash = "5787ff362cdba919d827b498c628f5f77eee060f31a2315e8e37a71ceecd74f1"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_base.json"
-hash = "905324c6cc2bc2981501f7f044a400906dfedd67f64fac5f59464b46740d741f"
+hash = "bc198605914b0a84edb69b192e5d3a7725bddd3dc21687c0770f9197a97a9460"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_round.png"
@@ -1333,15 +1492,15 @@ hash = "41b0978114e783385d8e15069f7a56ffc31b7868a8169e3be4f669324e322b74"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_text.json"
-hash = "6a1d7ddc666bdea38d5840efb3d67a3e9d7b9ddbc3c2285912634ec38b349e34"
+hash = "6f38d10cdb67ffff03c89a2a9f9aa6ac8670dc3750ac81cfbceb5ba08eca421f"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_text_sub.json"
-hash = "792c8d968268773cd735a48b5a82b61382d24103d054ad25578f4f30551860e9"
+hash = "80791a8f6242112bfd17d6e740319d8df3afa7fb882eb010b95f7bee1a7af05b"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/ram_bar.json"
-hash = "8b06a7cfc6a7d19e38fea6ca7d8230ed90a710d1925700e6663b8cc3a9c113fe"
+hash = "4f3297ab4691f11afca27e5d123ae329a82fe67163e319e52bfe458c60321746"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/ram_bar.png"
@@ -1349,20 +1508,32 @@ hash = "3f1c834843c99641528d20a925ab572067a77394d35431355303effbe864b700"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/slideshow.json"
-hash = "6ab18762b40572dd7762edd928c21c4ccd4f90b2354237004fbd447b93971414"
+hash = "97499f6c31fc1ce58771d45e6b4eeac933ed6324a82287f6273c8b9fff1a5fbd"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/time_passed_text.json"
-hash = "2f4f8671b6a5556c0f5eac0759681f26a6d0bdb387d949311de3c9f0815cadca"
+hash = "b7ebc5ca6502a860b1d2ea0c86a94e94e767957f0e074dafcf5761663df3a93f"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/tips.json"
-hash = "2f6fd8edadbe9e02416c56565c712ac37d090e6f4ed956e3a674e0a812cb6ef4"
+hash = "46c63f9a33d864837c52276c4e400ce9b1bb869fb80774020fb873c7fc14f381"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning.json"
-hash = "3263c7ee4cf369d6172840354b327a33adab1f8702eddc084abe98c22cc5ad72"
+hash = "b62c732fdaacfc32bcd9a33a37ea1e9e2ed9670e7b20c9dc9f94eb49627fb19e"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning2.json"
-hash = "e9a889c75fb0b8ed81a4323db68df7f04f10b5709268c72efe68a10356af78c5"
+hash = "b8133203bf98fe6bca0231fc92a776c45fb7f0492c1ec9dd8bcff935c9acaa3c"
+
+[[files]]
+file = "resources/minecraft/lang/en_us.lang"
+hash = "2fe959450847ad669ab8f8935273a031b64ac8f5ae4a585901cd5ff6c9049aa2"
+
+[[files]]
+file = "resources/minecraft/sounds/music/menu/menu1.ogg"
+hash = "a86415355a33ccb5322ca055afbface2699d4efc2bd1fcffbb74da0c9c0989f1"
+
+[[files]]
+file = "resources/minecraft/sounds/music/menu/menu2.ogg"
+hash = "04bb7b8714446f81ab38867b8e76c9dd69cfb8b334aa5389fd3c15a8c688e611"

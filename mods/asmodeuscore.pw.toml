@@ -1,0 +1,13 @@
+name = "AsmodeusCore"
+filename = "AsmodeusCore-1.12.2-0.0.31.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f108df1a21ed39afd3cc85f8372820596624e78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3873588
+project-id = 303101

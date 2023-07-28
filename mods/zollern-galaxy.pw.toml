@@ -1,0 +1,13 @@
+name = "Zollern Galaxy"
+filename = "ZollernGalaxy-1.12.2-2.0.45.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f22f9f741f8e937004b7a967273e67b0ea23201"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4046635
+project-id = 241940

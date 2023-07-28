@@ -272,7 +272,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Opening Music: \nSweet Dreams (greg.mp3) \nLegalize Nuclear Bombs
+  source = Opening Music: \nSweet Dreams (greg.mp3) \nNuked Out Dance Party\nAlbum By DJ Smokey
   text_border = 0
   case_mode = normal
   source_mode = direct

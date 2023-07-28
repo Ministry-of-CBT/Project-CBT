@@ -1,0 +1,13 @@
+name = "More Player Models"
+filename = "MorePlayerModels_1.12.2-(05Dec19).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0305e34d0f6c1375239e6a0dcda0608667e460c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2837187
+project-id = 221939

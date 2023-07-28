@@ -1,0 +1,13 @@
+name = "ExtraPlanets"
+filename = "ExtraPlanets-1.12.2-0.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14a8affe29f464660acc3b5eb80ccec88bb3c24d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4466264
+project-id = 241291
