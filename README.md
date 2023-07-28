@@ -14,61 +14,72 @@ Will there be a curseforge upload: No but do it yourself.
 
 Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request. 
 
-- Advancement Plaques
-- Applied Energistics 2
-- AtomicStryker's Battletowers
-- AutoRegLib
-- Baubles
-- Better Advancements
-- BNBGamingLib
-- Carry On
-- Chameleon
-- Clumps
-- CodeChicken Lib
-- Collective
-- Custom FOV
-- Custom Loading Screen
-- Custom Window Title
-- Enchantment Descriptions
-- Ex Nihilo Creatio
-- FancyMenu
-- FastFurnace
-- FastWorkbench
-- First Join Message
-- Foamfix
-- Gregicality Multiblocks
-- GregTech
-- GregTech Food Option
-- Had Enough Items
-- Hardcore Darkness
-- Hardcore Revival
-- HBMs Nuclear Tech - Extended Edition
-- JustEnoughlDs
-- Konkrete
-- Legendary Tooltips
-- Let Me Despawn
-- Load My Resources
-- Loading Profiler
-- Loadin Progress Bar
-- Loadin Screens
-- Mantle
-- Mixin Compatibility
-- More Sound Config
-- NuclearOption
-- Quark
-- Refined Storage
-- Resource Loader
-- Scaling Health
-- Shadowfacts' For#lin
-- Silent Gear
-- Silent Lib
 - Silent's Gems
-- Silent's Gems - TIC
-- Storage Drawers
-- TerraFtrmaCraft
+- FancyMenu [Forge]
+- Loading Profiler
+- ExtraPlanets
+- Custom Loading Screen
+- MJRLegends Lib
+- Custom FoV (Fabric/Forge/Quilt)
+- Custom Window Title
+- Tinkers Construct
+- Load My Resources [Forge]
+- AtomicStryker's Battle Towers
+- Galacticraft Legacy
+- More Player Models
+- Legendary Tooltips [Forge]
+- More Planets - Galacticraft Add-on
+- Silent Lib (silentlib)
+- JustEnoughIDs
+- AutoRegLib
+- BNBGamingLib
+- Foam​Fix
 - TerraFirmaThings
+- Sound Device Options
+- Nuclear Option
+- AsmodeusCore
+- Gregicality Multiblocks
+- Chameleon
 - TexFix
-- Tinkers' Construct
+- SteveKunG's Lib
+- Collective
+- Loading Progress Bar
+- TerraFirmaCraft
+- Applied Energistics 2
+- Clumps
+- Baubles
+- CodeChicken Lib 1.8.+
+- Carry On
+- Mixin 0.7-0.8 Compatibility
+- Ex Nihilo: Creatio
+- Galaxy Space [Addon for GalactiCraft]
+- Hardcore Revival
+- Storage Drawers
+- Enchantment Descriptions
+- FastWorkbench
+- Better Advancements
+- Refined Storage
+- Shadowfacts' Forgelin
+- Silent Gear
+- Advancement Plaques [Forge]
+- Konkrete [Forge]
+- Silent's Gems - TiC Support
+- GregTech CE Unofficial
+- Had Enough Items
+- Ambience - Extras (Music Mod)
+- Zollern Galaxy
+- Hardcore Darkness
+- Quark
+- Let Me Despawn
+- Loading Screens
+- Resource Loader
+- Hbm's Nuclear Tech - Extended Edition
+- FastFurnace
+- GregTech Food Option
+- Scaling Health
+- Mantle
+- MixinBooter
+- First Join Message
 
 # Contributing
 
@@ -87,5 +98,9 @@ Now you, the player are one of the characters stuck in this unfamilliar world.
 So what do you do? WING IT. 
 
 Gregification Imminent. 
+
+# Build
+
+clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforge export.'
 
 
