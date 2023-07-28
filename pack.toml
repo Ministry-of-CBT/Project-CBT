@@ -1,12 +1,12 @@
 name = "Project CBT"
 author = "Nrmot"
-version = "Dev"
+version = "DEV"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0cbd72d558ac06e097a307fd40ab9059481448b9af1ae7fa8e3cdceaffc167b1"
+hash = "acf86786599ff2f43c42613a8ae6525c22a5f03f038e3db8aee5a2b24a29ec31"
 
 [versions]
 forge = "14.23.5.2860"

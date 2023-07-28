@@ -43,42 +43,11 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
-  x = 0
-  action = movebutton
-  y = -24
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  action = setbuttonlabel
-  value = Options
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\button.png
-  backgroundnormal = fm\button.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = bottom-centered
   x = -50
   action = movebutton
-  y = -23
+  y = -22
 }
 
 customization {
@@ -101,11 +70,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\button.png
   backgroundnormal = fm\button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = hidebutton
 }
 
 customization {
@@ -133,12 +97,59 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Fuck You.
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 52
+  action = movebutton
+  y = -45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
-  x = 0
+  x = -104
   action = movebutton
-  y = -23
+  y = 0
 }
 
 customization {
@@ -155,17 +166,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\button.png
   backgroundnormal = fm\button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = setbuttonlabel
-  value = Fuck You.
 }
 
 customization {
@@ -258,11 +258,11 @@ customization {
   source_mode = direct
   line_spacing = 1
   orientation_element = vanillabtn:button_compatibility_id:forge_titlescreen_mods_button
-  x = -49
+  x = 2
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 86357a23-5e52-49f8-b787-a213852814cc1690359189640
-  y = -21
+  y = -23
   alignment = centered
   height = 21
 }
@@ -284,5 +284,23 @@ customization {
   y = -42
   alignment = left
   height = 40
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui
+  backgroundhovered = fm\button.png
+  label = Customizations
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 0
+  width = 100
+  actionid = 0514e497-0605-411b-bb79-a3d109215e5b1690536733326
+  action = addbutton
+  y = -23
+  backgroundnormal = fm\button.png
+  value = PackSettings
+  height = 20
 }
 

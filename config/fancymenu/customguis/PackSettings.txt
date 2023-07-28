@@ -1,0 +1,3 @@
+identifier = PackSettings
+title = Pack Settings
+allowesc = true

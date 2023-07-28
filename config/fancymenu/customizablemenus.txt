@@ -9,9 +9,6 @@ net.minecraft.client.gui.GuiWorldSelection {
 net.minecraft.client.gui.GuiOptions {
 }
 
-net.minecraft.client.gui.GuiCreateWorld {
-}
-
 net.dries007.tfc.client.gui.GuiCustomizeWorld {
 }
 
@@ -58,5 +55,14 @@ net.minecraft.client.gui.GuiCustomizeSkin {
 }
 
 net.minecraft.client.gui.GuiSnooper {
+}
+
+net.minecraft.client.gui.GuiLanguage {
+}
+
+net.minecraftforge.fml.client.GuiModList {
+}
+
+net.minecraft.client.gui.GuiCreateWorld {
 }
 

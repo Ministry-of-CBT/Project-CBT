@@ -1,0 +1,45 @@
+type = menu
+
+customization-meta {
+  identifier = PackSettings
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = disable_layout
+  x = -161
+  width = 157
+  actionid = f223c1f1-a8ab-483e-b445-755efde8bf421690536845429
+  action = addbutton
+  y = -24
+  label = Disable Universal Background
+  value = universalbackground
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = enable_layout
+  x = -161
+  width = 157
+  actionid = 9a390369-df23-4284-a4f1-78d93d4db9931690536857225
+  action = addbutton
+  y = -47
+  label = Enable Universal Background
+  value = universalbackground
+  height = 20
+}
+

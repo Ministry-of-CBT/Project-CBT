@@ -6,7 +6,7 @@ hash = "4fd27c024ed1779deca6830f6aef1d29d7b900ce47959e044256db88f6f4ac3a"
 
 [[files]]
 file = "ambience_music/ambience.properties"
-hash = "f59d3380549b623e8b20857625c2b5f954a5dfdbe7134a3c34734c48363fa1b9"
+hash = "0b306bec974627355a4bdcf610834e3c93d629edf1e0ddeef28cc3945eebee82"
 
 [[files]]
 file = "ambience_music/music/legalizenuclearbombs.mp3"
@@ -22,7 +22,7 @@ hash = "e5a59e83866461320ed742d049d14cafbd35dc1f753835b56e75f92605cb3d84"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "f592781675c159606d71413a7b614678182e0c3a97f00600fd7ab527779f1983"
+hash = "faf470c47c5eef3ab1db82c0e4886dee7e518e100f716d051daf1d2c36907e1e"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -34,7 +34,7 @@ hash = "02ec67db31e322e87eaea1531695d149eafce08c67af7bf33dc4e9a2f88389aa"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "10b267a264100a6f6ada128ca0119306fd97cdf861a227521908d9fad2289e16"
+hash = "6772452f59b9987b4346e51002ee1c3d2b74c6388a969852ce354778e870912e"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -150,7 +150,7 @@ hash = "679ecf7921d7e8ad5337571473b530043d6559da79c70732fa1440cf47515816"
 
 [[files]]
 file = "config/battletowers.cfg"
-hash = "ff5ae5601e489616be6406bbed360fa5daa26b11801e90a882cee3fc552fa3e4"
+hash = "aad1e99ab2bd694737c1af05cdbb0e508767140b0ea8263d94d741f0edf211de"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -186,7 +186,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "797f6bc2c9bc06bd551e3d2678b9a2005030c24f4b1a56efdaf9865c8c835cb9"
+hash = "01b6eda942687c958677aeff27afd6de60396c4fc88bdef1c4af65b9ce2f04d8"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -206,15 +206,23 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "1b54e4b58bcd30aa963b5ca6c8fda7144e62beae70e10fd63d27d346e524d35d"
+hash = "b00ba44ea35ff0cae9a28f2d2b221776540a7d387af946c72da8c2434b6d34c8"
+
+[[files]]
+file = "config/fancymenu/customguis/PackSettings.txt"
+hash = "d3a3c0e033be4855eabdb01b87b21857a5cd4712ef9fbb36a22735c804c9c5b5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "aeaddf26b72e014225ec0f37983b90c51731e5944e762f3a40b881794ffb45e4"
+hash = "66a011d76510f4274c194970dafb2b73d9e1c980a1a53a80bbf935f8f9180382"
+
+[[files]]
+file = "config/fancymenu/customization/PackSetttings.txt"
+hash = "8489be19e82d12f30213c3df564f90bb7e81f525627fa97730718864cc423e8d"
 
 [[files]]
 file = "config/fancymenu/customization/temp.txt"
-hash = "cd287f1b34a5cfba401130f13be564efd0420279dbb9e6e4d151a550fe726e9e"
+hash = "34208549f167e51b6ed8a4d1a686cf4260bc2ea5b09370fa1d65173f00bdad31"
 
 [[files]]
 file = "config/fancymenu/customization/universalbackground.txt"
@@ -271,6 +279,14 @@ hash = "c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662"
 [[files]]
 file = "config/forgeChunkLoading.cfg"
 hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
+
+[[files]]
+file = "config/ftbbackups.cfg"
+hash = "08f58653a25082e11d04f3830994d1ca9e2c366f48ffce9c21dbcc2fba646c3f"
+
+[[files]]
+file = "config/ftblib.cfg"
+hash = "0c2a28be1dcc0fd1823e88430b8038de265c153b3441d9f972860e1df5c9d025"
 
 [[files]]
 file = "config/gcym.cfg"
@@ -954,7 +970,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "732de7bee2e027b0e478740f9510e577e5d0ee9a54b71c6ac4d524af65cda948"
+hash = "52317144edb7cffdaf438721b7b608ad9fffa340e22f9475de60e344ad1c8c09"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1026,7 +1042,7 @@ hash = "bb1f985b94fdf2644828536971ebd852306c515b385477ff353e952ff4f43fb4"
 
 [[files]]
 file = "config/splash.properties"
-hash = "e86a7d117df716cb9e18e59f0e2bb3679417510c901426748cb0c289e8fa7a2a"
+hash = "3482bbc45f689f0e879f116c48b656c0b884cb81b99c5714a627a8f7b5f9fb09"
 
 [[files]]
 file = "config/stevekung's_lib.cfg"
@@ -1222,6 +1238,21 @@ hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-forge.pw.toml"
+hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-legacy-forge.pw.toml"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "957762b6d44988e01eda99f71ceac8642a81d1398a8842fa006fdf4a1646bcf7"
+metafile = true
+
+[[files]]
 file = "mods/galacticraft-legacy.pw.toml"
 hash = "1e470a72b6e3b2c14dd377c1d34f962aa1efe603a61f4ca8db3afe7c8298b5b4"
 metafile = true
@@ -1264,6 +1295,11 @@ metafile = true
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
 hash = "a985df50ba2c52415affc2bfd70ddace02ecc884478ee435c480042534e62398"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "34d15131bc2ade2772fc98488400018f26b8e2ad38dee94c0d98890bb29e6c9e"
 metafile = true
 
 [[files]]
@@ -1452,7 +1488,7 @@ hash = "69aec65b37eca502441d5d2de9bf8c3962589a87f97d0db333bfbaab978123fb"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.png"
-hash = "91bd049b35e4fb52ce2273c62aee9ad346ce4dce40a8607bda4c2d24d830077d"
+hash = "b2c6305bd76c49c1a901c8306f2a9c7e6b042b70e8c978f16d38af42e6fbd442"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/loading_bar_white.json"
@@ -1460,7 +1496,7 @@ hash = "4633254704cd19d185914b32880fa392679d3c27da6ce34ec39fa4d30eee4528"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_left.json"
-hash = "2b6fcef6cbb0856ea39b44b2f994842c189063df3eaf2c7657bcec20dccc8280"
+hash = "9ed54cb40b3863f6b7a269e60138b45c990e2bd7e19e1ebb93a30fdb8289a4f8"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_right.json"
@@ -1528,7 +1564,7 @@ hash = "b8133203bf98fe6bca0231fc92a776c45fb7f0492c1ec9dd8bcff935c9acaa3c"
 
 [[files]]
 file = "resources/minecraft/lang/en_us.lang"
-hash = "2fe959450847ad669ab8f8935273a031b64ac8f5ae4a585901cd5ff6c9049aa2"
+hash = "7f0856826276f0f8cb36ef2c57230b1999756005e51a2ad5e8780558a4696371"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu1.ogg"
@@ -1537,3 +1573,127 @@ hash = "a86415355a33ccb5322ca055afbface2699d4efc2bd1fcffbb74da0c9c0989f1"
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu2.ogg"
 hash = "04bb7b8714446f81ab38867b8e76c9dd69cfb8b334aa5389fd3c15a8c688e611"
+
+[[files]]
+file = "resources/minecraft/textures/entity/enderdragon/dragon.png"
+hash = "53f378fbe3135b5e082b02719c17603d94934e25c771a0c3ca004e7cb912b415"
+
+[[files]]
+file = "resources/minecraft/textures/entity/enderdragon/dragon_exploding.png"
+hash = "438f7a2cc4c1009c080bc4403dcf4f66d4824eb80a892864363ee84ffcd3fd06"
+
+[[files]]
+file = "resources/minecraft/textures/entity/enderdragon/dragon_eyes.png"
+hash = "0b323fbaf7c12dae380e4f9455a65cedb7a2949b6027407e14b7dab7f722b441"
+
+[[files]]
+file = "resources/minecraft/textures/entity/enderdragon/dragon_fireball.png"
+hash = "f7ad9ddda3b0e4ac1118496d3451e6053ef3e2ee227c03040e75a915f3b55209"
+
+[[files]]
+file = "resources/minecraft/textures/entity/villager/butcher.png"
+hash = "71bd2d6f3627dbd1f7af2652e34f43c28e2972393cfd3e60c3426e501fa769e0"
+
+[[files]]
+file = "resources/minecraft/textures/entity/villager/farmer.png"
+hash = "525b4101a056016f8f02076310e2e460f56bc96ae90550385c49c56c3f20fb7e"
+
+[[files]]
+file = "resources/minecraft/textures/entity/villager/librarian.png"
+hash = "ae3f7bc10e7596a9dec5f814d2178445363f8033d766b57ae95c6d4da817e57e"
+
+[[files]]
+file = "resources/minecraft/textures/entity/villager/priest.png"
+hash = "d3cf76bb66815fa89d028ed6679afc3f6f802c9e8351d6f0b5db4d77cd35d4d2"
+
+[[files]]
+file = "resources/minecraft/textures/entity/villager/smith.png"
+hash = "4d3c12c80eb2a4c6bd84a45455f51dc7bd94447ea39eef1bfd27cbe8fe3ba319"
+
+[[files]]
+file = "resources/minecraft/textures/entity/villager/villager.png"
+hash = "0d3510fff9f9241b4a8d075c0e4ea94cfdbd557ac7d0266529de2ab6142d75ba"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/anvil.png"
+hash = "2fcd441759824d2e316a5eab91a26e0ba401eb67d23f526f3ae4b99a99d621d5"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/beacon.png"
+hash = "caa63b79a67b5891234f7b175d538a35266b1f26ce784c411445244e5adcf83d"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/brewing_stand.png"
+hash = "28fbb3b66d645b4a5410686225a33ea97937a64f94a6015e2fc3a52af43aaee0"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/crafting_table.png"
+hash = "1202a7044f06b221cdc3e2e059a8e83417f6afa6640038548022dc3b0d165394"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "a7bb9f5012935dcf9e2e2d24ee6faa72f68702a1e4a521f3daee4e62ecb8a573"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "92789c4d09c832b266f002a6bd2b351468d64b2dcd56cfef13846adb1921692e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "3c643b9a864995d4eba39657dac1c56ea60ce18d4c4848242dd7b1f96c9041c1"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "5fc11f81b09fd6f35c4d22e3b8d7f26754b40e4781326f2447edb45c567944a0"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/dispenser.png"
+hash = "5bbc202cc7838989c7041c6f3d19f74ff2064aae852dc917553ab503b786dd7e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/enchanting_table.png"
+hash = "f96be0d6cb1ca5d691aab12ec4e9d0ff02d96ea2cde939349f3a256aa1b429b6"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/furnace.png"
+hash = "a8f780d91a075b886b80507b1c511ee78e50ee638b3dee98ace9ed837294ff0b"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/generic_54.png"
+hash = "bb476e2ac2a891627ad9b97aa15faf069e10102cb71bfe8b41a29bc8ec8f1722"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/hopper.png"
+hash = "b52dbcae557adfe84bd038b182eadd98e807a8c73ee6ad11acf26af331b877a3"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/horse.png"
+hash = "8e29bc3fea765a1398928f84d98258ba6f4cc668b11773c74cbea0ab53cd57bd"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/inventory.png"
+hash = "c390c83a636490745e405c9b34865ef2b08007a6c189617fd621afcb57cf14e8"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/recipe_background.png"
+hash = "3a2947cab760bcc8c87e320931110cd1fd081962455ee9d260e0243099fef4a3"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/shulker_box.png"
+hash = "e457c3b07d89a55dfed9a9c57e45ac0c319958583abad65a31c9eb3cee17f032"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/stats_icons.png"
+hash = "b4d361e5260cdbf5f13dd53a03fa9f20215493f6efb3fe5cf973aaa853f45140"
+
+[[files]]
+file = "resources/minecraft/textures/gui/container/villager.png"
+hash = "a0cb2a66c7d71d0085e54365afcf5e2918fa49d460f1a00240cfe8c4552e7365"
+
+[[files]]
+file = "resources/minecraft/textures/gui/options_background.png"
+hash = "1b6f2b4313a13ae47badd4ab784473ec79cdbd8237e47b12d101e88087bbac04"
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets.png"
+hash = "5afdf164caf84d358b31d1e53dea7d664b3d6c28b0b340c67421ad7614652517"
