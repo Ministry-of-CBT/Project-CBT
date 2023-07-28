@@ -18,72 +18,80 @@ Will there be a curseforge upload: No but do it yourself.
 
 Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request. 
 
-- Silent's Gems
-- FancyMenu [Forge]
-- Loading Profiler
-- ExtraPlanets
-- Custom Loading Screen
-- MJRLegends Lib
-- Custom FoV (Fabric/Forge/Quilt)
-- Custom Window Title
-- Tinkers Construct
-- Load My Resources [Forge]
-- AtomicStryker's Battle Towers
-- Galacticraft Legacy
-- More Player Models
-- Legendary Tooltips [Forge]
-- More Planets - Galacticraft Add-on
-- Silent Lib (silentlib)
-- JustEnoughIDs
-- AutoRegLib
-- BNBGamingLib
-- Foam​Fix
-- TerraFirmaThings
-- Sound Device Options
-- Nuclear Option
-- AsmodeusCore
-- Gregicality Multiblocks
-- Chameleon
-- TexFix
-- SteveKunG's Lib
-- Collective
-- Loading Progress Bar
-- TerraFirmaCraft
+- Advancement Plaques [Forge]
+- Ambience - Extras (Music Mod)
 - Applied Energistics 2
-- Clumps
+- AsmodeusCore
+- AtomicStryker's Battle Towers
+- AutoRegLib
 - Baubles
-- CodeChicken Lib 1.8.+
-- Carry On
-- Mixin 0.7-0.8 Compatibility
-- Ex Nihilo: Creatio
-- Galaxy Space [Addon for GalactiCraft]
-- Hardcore Revival
-- Storage Drawers
-- Enchantment Descriptions
-- FastWorkbench
+- BNBGamingLib
 - Better Advancements
+- Carry On
+- Chameleon
+- Clumps
+- CodeChicken Lib 1.8.+
+- Collective
+- Custom FoV (Fabric/Forge/Quilt)
+- Custom Loading Screen
+- Custom Window Title
+- Enchantment Descriptions
+- Ex Nihilo: Creatio
+- ExtraPlanets
+- FancyMenu [Forge]
+- FastFurnace
+- FastWorkbench
+- First Join Message
+- Foam​Fix
+- FTB Backups (Forge)
+- FTB Library (Forge) (Legacy)
+- FTB Quests (Forge)
+- Galacticraft Legacy
+- Galaxy Space [Addon for GalactiCraft]
+- Gregicality Multiblocks
+- GregTech CE Unofficial
+- GregTech Food Option
+- Had Enough Items
+- Hardcore Darkness
+- Hardcore Revival
+- Hbm's Nuclear Tech - Extended Edition
+- Item Filters
+- JustEnoughIDs
+- Konkrete [Forge]
+- Legendary Tooltips [Forge]
+- Let Me Despawn
+- Loading Profiler
+- Loading Progress Bar
+- Loading Screens
+- Load My Resources [Forge]
+- Mantle
+- Mixin 0.7-0.8 Compatibility
+- MixinBooter
+- MJRLegends Lib
+- More Player Models
+- More Planets - Galacticraft Add-on
+- Mutable [Forge]
+- Nuclear Option
+- Quark
+- Reforged Mod (Forge)
+- Reforged Mod - Vanilla (Forge)
 - Refined Storage
+- Resource Loader
+- Scaling Health
 - Shadowfacts' Forgelin
 - Silent Gear
-- Advancement Plaques [Forge]
-- Konkrete [Forge]
+- Silent Lib (silentlib)
+- Silent's Gems
 - Silent's Gems - TiC Support
-- GregTech CE Unofficial
-- Had Enough Items
-- Ambience - Extras (Music Mod)
+- Sound Device Options
+- SteveKunG's Lib
+- Storage Drawers
+- TerraFirmaCraft
+- TerraFirmaThings
+- TexFix
+- Tinkers Construct
 - Zollern Galaxy
-- Hardcore Darkness
-- Quark
-- Let Me Despawn
-- Loading Screens
-- Resource Loader
-- Hbm's Nuclear Tech - Extended Edition
-- FastFurnace
-- GregTech Food Option
-- Scaling Health
-- Mantle
-- MixinBooter
-- First Join Message
+
 
 ## Lore
 
