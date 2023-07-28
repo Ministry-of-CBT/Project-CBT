@@ -18,7 +18,7 @@ Will there be a curseforge upload: No but do it yourself.
 
 ## Project CBT - Modlist:
 
-Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request. 
+Aight The Modlist are as follows.
 
 - [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
