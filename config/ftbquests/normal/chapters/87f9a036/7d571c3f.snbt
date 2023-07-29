@@ -1,6 +1,18 @@
 {
+	title: "An Encounter With GregoriousT - The Factory Must Grow",
 	x: -1.5d,
 	y: 8.0d,
+	description: "Things are getting very very Interesting... So GregoriousT is now canon in Gensokyo New Horizons",
+	text: [
+		"As Reimu and Marisa continued their journey, they couldn't shake the feeling that there was more to this world than meets the eye. The shadow figure of GregoriousT, who had tasked them with building a factory, remained an enigmatic presence, and they wondered about his true motives. Nevertheless, they pressed on, curious about what lay ahead.",
+		"",
+		"As they delved deeper into the cubey landscape, they encountered more challenging puzzles and powerful enemies. The once-friendly square-shaped villagers had transformed into formidable adversaries, guarding valuable resources and coveted treasures. Reimu and Marisa had to use their wits and skills to overcome these obstacles, and with each victory, they grew stronger.",
+		"",
+		"Along their journey, they stumbled upon ancient ruins that held secrets of this mysterious world. The ruins spoke of a forgotten civilization that had harnessed the power of the golden cubes for technological advancements. Could this be the same factory that the shadow figure had mentioned? Was there a deeper purpose behind its construction?"
+	],
+	dependencies: [
+		"49973a4a"
+	],
 	tasks: [{
 		uid: "7128fbf4",
 		type: "item",

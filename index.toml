@@ -6,7 +6,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "3c28f87e714d71420dc86102f239b8468113a96f5a761f5981f30b4c8112d461"
+hash = "03e25410572e922b2ad82bf71d73e5866a6e751791defa5c4a5e95e6b5ba8263"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -30,7 +30,7 @@ hash = "e5a59e83866461320ed742d049d14cafbd35dc1f753835b56e75f92605cb3d84"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "576de2d583b95ab447d65d6e366c67811aaa3cf52877f02ce3c613dffaa8909b"
+hash = "c9cfac1b73bf029b0a7d16543377a6e634ffb565da3b9ebdeaed45b2c9b2a4d7"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -42,7 +42,7 @@ hash = "fc52f3ffcacd087ba22eb3f48490668a8fc2ffac104bc916b4d024eb5a15eea4"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "54fdb2463cdacd5325b8ac9d1aa934dd3df176e69d19e218fd72e28213a62f3e"
+hash = "d5073c3e1229ddb3b3476975fd9fa1b8c6126bb40a4b86e8307c1fcf6ba3afc3"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -145,6 +145,10 @@ file = "config/TinkerModules.cfg"
 hash = "f66fd47e09f4a7d95e2b0348d8424bad7ab50a1f4535e65db8b6c22d2a453ce4"
 
 [[files]]
+file = "config/TouhouLittleMaid.cfg"
+hash = "91ef92ff345b4eaae60fb8685090be7529ada48ef033ff26d4f61845a0e8ccad"
+
+[[files]]
 file = "config/ZollernGalaxy/core.cfg"
 hash = "7d5f695d4c5428aa904cdeb300b5fdeca8a97ae77e910eb7afecdd641e16bd2d"
 
@@ -158,7 +162,7 @@ hash = "2d026b76fcea903ecf124c4acd293e82d748e1ff8e9122fbd60bde086b0305b9"
 
 [[files]]
 file = "config/battletowers.cfg"
-hash = "67c0b65a3e5af397828f192544e372171e088d2fe39f51e8c6eeb9c9e640dfc1"
+hash = "c58e8ccccb27c38753e4d58b3f622697dac695f57a790d30ff8178af44f25352"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -194,7 +198,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "f50dba0e8267c2348454ed6c0bf2bf94e84a44ebee52b6fc4c4286cbb7e8837e"
+hash = "f79195604bbc203200a9f49b90246257c47b4a22fb1ed4d3df74befaa059da3d"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -298,7 +302,7 @@ hash = "0c2a28be1dcc0fd1823e88430b8038de265c153b3441d9f972860e1df5c9d025"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/42f59851.snbt"
-hash = "08b5116a6608ef449c89eb43e85369bd1aef5a9d9fa5908322123bd37602f95d"
+hash = "66cd254acdf83db1ae7a464ccd76de50d088a786f64029a8cc139fa6409fa026"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/4e538fd5.snbt"
@@ -306,7 +310,7 @@ hash = "b65f033daa5e66f90bcb7554012cbcb2e6ed57298efba92ef736c241a68cdb1d"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/4fce1a92.snbt"
-hash = "f8126637a34097a3bfe983b57b36ffd8088b7918e82fa8c8f5aadb2ce778c8d2"
+hash = "f0044bd2c069496c9d1d2e825a1a5b63d8c6696d72ceb643303e95cadf2d1c63"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/80942555.snbt"
@@ -326,7 +330,7 @@ hash = "8c2e62173a2b01267f478adf3b79ac386eaa479310ae93861f1ac4d8c3f722c2"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/chapter.snbt"
-hash = "4ad242d3b3105c34333d9d377d1cb6793158acf995d54d197f32d85d6e340414"
+hash = "6701279645979dc5ec624370fd0d196f83dd1383f468500b71da0b798ccebde9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/643dc270/chapter.snbt"
@@ -365,6 +369,10 @@ file = "config/ftbquests/normal/chapters/87f9a036/2f1d3d50.snbt"
 hash = "52bf7c6126de9ba530eb071a72242108542e86851533144ea95a33f444ce94ee"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/33aaed07.snbt"
+hash = "d23fc69ea6a46e3ad8011893bd03226534e3a1ee55b1e6c0d9884c6d699e0eb7"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/35cb755a.snbt"
 hash = "969a7875f62b8a232069e5b97b79b503baa003e9da5456c306fb042b528bfd4c"
 
@@ -381,6 +389,10 @@ file = "config/ftbquests/normal/chapters/87f9a036/49973a4a.snbt"
 hash = "b1c44ecccd282560912ebdebfd952f3a3592e94d0668a8c0822aadf8dcc7c513"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/519c7667.snbt"
+hash = "4f02b7fa16ac4bd7a946c6b73bfff6b4535d782486f99725024e86bbf8f71454"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/613e1fa3.snbt"
 hash = "737eab3d919743497afa22996b5fd75f5d9161faf70c28886d89608b4c7a8b61"
 
@@ -393,16 +405,36 @@ file = "config/ftbquests/normal/chapters/87f9a036/64698654.snbt"
 hash = "9609f3a53e370fedd2cfe7d49805b01870bb0160bbd125691b058ec41449143d"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/6842f3cd.snbt"
+hash = "548b6e57f55b69da224e23b7120d7d09e48fbe5166577579b752307403dbea85"
+
+[[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/6dcc41fb.snbt"
+hash = "1e56fbb08ce57bd75b4f85b5a4ffcc8c0474f352acd546f62b2db46fefc13d64"
+
+[[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/6f19927b.snbt"
+hash = "f4e0ff570a934fc7104f67a7833a2e2ed5c4c7a4ba38ea3e60af5cf82f99a92b"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/712b1359.snbt"
 hash = "cd0fb3dbce3652472ca3f36df04cdf1eff09c512d0443f58b439fb2bedce693e"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/7d571c3f.snbt"
-hash = "86f0321bd28691c72f91c4b26d5481daf3e1929764e84347c8359ccf9e72a4e0"
+hash = "76d7374539c4fcdd9c73de684f63c260deb4c8f63ddf73b135b9e95043663090"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/916bda3b.snbt"
 hash = "d71f1353830afbe2ab302c627e4d0e6ddf51ecbb3fab7e7698144fc490e9431b"
+
+[[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/98b8abec.snbt"
+hash = "5dee728faf0892a841177e8412950cf5b7f0ae5a464f2737f577c715a1409df2"
+
+[[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/a68830b1.snbt"
+hash = "42f94203ec4b83813c4b296cab3301f3a4f925cb39bca002e487de3cb02427db"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/b0460b85.snbt"
@@ -438,7 +470,7 @@ hash = "746d1d416a2745829ab880943f7c12a9cc611780ba4740143945f66487b3dc4b"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/db627b72.snbt"
-hash = "c452d9df5513ea2e3ff22e34c976a876c963ec6a5256234ea02b1d6fe2eb174e"
+hash = "910f38bd3452b85d4b3a8d88a8dabb8b7a4f700dfac502452a48d6617dc19ad1"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/e51bdaa4.snbt"
@@ -462,7 +494,7 @@ hash = "174dde841b689f9a769494e58268432c4b18505f8f6100a0a4506d8d0d69bf75"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/a1cab6f3/ea6a0e0e.snbt"
-hash = "05e898f260201246c8d5715b42a1e31c155f424971b89e28999536bce19b8744"
+hash = "191e4a061fee09c0b4c6b5b46ced2a91cac22b92f02e36ee612d7d118dc3a600"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/index.snbt"
@@ -495,6 +527,10 @@ hash = "3e59fda649b3f2953ac73458d9dce6b93da64c8415794ca2bfd0dbf12dbbc65c"
 [[files]]
 file = "config/gregtech/terminal/config/RECIPE_CHART.nbt"
 hash = "95a8df04ed9e2e6f0f50eef7d6f6ee7807aaa132ac4aed8d84a1026505851de6"
+
+[[files]]
+file = "config/gregtech/terminal/config/STORE.nbt"
+hash = "4971f35b9622c5e4e9e56375fd6cf8ba6bf4616ff2c4c94643c829accaf1b3ee"
 
 [[files]]
 file = "config/gregtech/terminal/config/os_settings.nbt"
@@ -1162,7 +1198,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "7428063bf2bfe1d8c179b035803fde7447eff5c38e1f712ecd843950a8113989"
+hash = "9ca81fc41b8bcd953561e83fcdcac706f9c7cdd5f2a64bb73d3e58f0c5b78bf9"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1234,7 +1270,7 @@ hash = "bb1f985b94fdf2644828536971ebd852306c515b385477ff353e952ff4f43fb4"
 
 [[files]]
 file = "config/splash.properties"
-hash = "7ab6fabdb41837d4d05c4ab39031de5a540199bf5593e5153756f40dacc80705"
+hash = "bc1af5ed0438b2fc65459ac025c7b679b1c5c2544f65190936d795ae994d2c8f"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
@@ -1283,6 +1319,98 @@ hash = "c477d8542d32c16088eee84b99706266193eef6dac9ba71d807edc2b08a05b87"
 [[files]]
 file = "config/time.history"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/1.png"
+hash = "40b86148a650dc2b5ef760d24f6d3b90ce0f433a55d84ff4dcc2d46707a17c87"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/10.png"
+hash = "6d01836fdff613fd990747d9fb448aedc28ce304ea37b5735b1a9b4338f29542"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/11.png"
+hash = "6b0fd3ee7ea5375594b09b3c9974bfc7af29c691f75a8df472dd73ce9cd8760f"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/12.png"
+hash = "80a6bf22b36051279e589c51be863539eac2384fbb9d98706d08bcafb9ca8aff"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/13.png"
+hash = "7ca300e2f97e59ca9aaa883006e326131d3968be536f2ff5df79bb29b4dab708"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/14.png"
+hash = "7690bb006fc476bc24cc3ea0cdc88f56781f9ea3d2a81bcb869aee76a79a87e4"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/15.png"
+hash = "4b1f49440a992aeceb43c764673a02abeadffaf5c3c7cc64bf0d0cb83a57e0b1"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/16.png"
+hash = "09cb93677ed71a4bae2495807d451c6b010205b3faee8c0ed3185d9093228f56"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/17.png"
+hash = "2d22e34820f1232393f3c415b379cca9aec3e6dc1f7a1fceca8f351aac325315"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/18.png"
+hash = "27b4e3b62fc73c40c393b2406745841a1e445980b729a975014dd229da399e2b"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/19.png"
+hash = "44450ebc9a29074e662ba20188254176ba784ed5b05450c67a4c1f9b43d8dd25"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/2.png"
+hash = "bc1a7fca4c0309fa1b3247248bb02b2e9106b1bd096e231712d6c976e234185e"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/20.png"
+hash = "d5a141d531313f73998646921eafc5e081158e27cbeee5644fdb7e9eaea59661"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/3.png"
+hash = "b8b935c3637c4040f698ecb6eef7cd454a49cfacc20e3bcf72ef69cd86ef377b"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/4.png"
+hash = "c965d646d16096effd2f3bfa87d38df07b855753b39bdbf9a78f07d0125ffc4a"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/5.png"
+hash = "b739d20cdfea7608dc8122de4e816f11aeb138759b6e2445fec70a76cbc59998"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/6.png"
+hash = "460dbf115feb25df2bfc8ba50b79f4be68c6fe97f47ca1772e6951e577a04d21"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/7.png"
+hash = "30e5680b33e23dd4be2cc9a2e3ff5f7807c3124c4beb4eada0d9122146d927bd"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/8.png"
+hash = "773865fe3a032f0ba964637f9e3a16c43f138b003dbde70e52eb08319f147e15"
+
+[[files]]
+file = "config/touhou_little_maid/hata_texture/9.png"
+hash = "ec44a9730d4014ac98a255cd4ea9e10fadcaba5473e14dd614c3900e40e414f9"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "f8a6b735e9f095f5a75cf8c6e0920c7ea275b08a6cf7d6cad1fe8320663e606d"
 
 [[files]]
 file = "fm/button.png"

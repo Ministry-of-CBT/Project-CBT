@@ -50,5 +50,11 @@
 		type: "item",
 		auto: "disabled",
 		item: "hbm:crowbar"
+	},
+	{
+		uid: "52240dcc",
+		type: "item",
+		item: "srparasites:evolutionlure 1 7",
+		count: 16
 	}]
 }

@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "6d339795",
+		type: "item",
+		items: [{
+			item: "minecraft:red_flower 1 2"
+		}]
+	}]
+}

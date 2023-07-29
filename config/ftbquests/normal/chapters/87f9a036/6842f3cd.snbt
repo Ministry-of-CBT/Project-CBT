@@ -1,0 +1,18 @@
+{
+	title: "Well....",
+	x: 0.5d,
+	y: 11.0d,
+	description: "I guess you can go exploring....",
+	text: [
+		"The duo's quest to collect blocks for the factory led them to various biomes, each with its unique challenges. In the ice biome, they faced freezing temperatures and had to find a way to stay warm. The volcanic biome tested their endurance as they navigated treacherous lava-filled landscapes. They also encountered lush jungles, vast deserts, and floating islands, each with its set of trials.",
+		"",
+		"As they progressed, Reimu and Marisa began to see the potential of the factory they were building. It wasn't just a mere structure; it could be a symbol of hope for the cubey villagers and a means to restore balance to this world. The thought of using their hard-earned resources and knowledge to create something meaningful filled them with a renewed sense of determination."
+	],
+	tasks: [{
+		uid: "a6f0628b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 4"
+		}]
+	}]
+}

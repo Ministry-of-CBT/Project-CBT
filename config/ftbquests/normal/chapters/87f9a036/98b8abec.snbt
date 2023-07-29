@@ -1,0 +1,28 @@
+{
+	title: "Gregic Quest 2",
+	x: -0.5d,
+	y: 9.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7d571c3f"
+	],
+	tasks: [{
+		uid: "4a9e3c8f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "3b70387a",
+		type: "item",
+		item: "minecraft:diamond"
+	},
+	{
+		uid: "1a25d506",
+		type: "item",
+		item: "hbm:protection_charm"
+	}]
+}

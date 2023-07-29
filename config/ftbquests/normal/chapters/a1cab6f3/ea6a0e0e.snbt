@@ -5,7 +5,9 @@
 	text: [
 		"Welcome to Cock and Ball Touhouture: NuclearGreg Horizons.",
 		"",
-		"Now may i ask why you exist?"
+		"Now may i ask why you exist?",
+		"",
+		"This is the main area. Underneath Project CBT Story mode is GTNH x Touhou Story mode which will be in development. Special Episodes Quests will be the ones that will be added by the community."
 	],
 	tasks: [{
 		uid: "f333c5af",

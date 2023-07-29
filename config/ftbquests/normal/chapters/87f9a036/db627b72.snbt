@@ -6,6 +6,9 @@
 	text: [
 		""
 	],
+	dependencies: [
+		"62049b36"
+	],
 	tasks: [{
 		uid: "2b9a9899",
 		type: "kill",

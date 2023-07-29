@@ -1,0 +1,14 @@
+{
+	title: "Try to defend yourself from parasites...",
+	x: 2.0d,
+	y: 11.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f0d4d105",
+		type: "kill",
+		entity: "srparasites:buglin",
+		value: 100L
+	}]
+}

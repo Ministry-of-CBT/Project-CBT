@@ -2,15 +2,16 @@
 	title: "Creeper farm just dropped bois and girls!",
 	x: 2.0d,
 	y: -2.0d,
+	description: "Heh. I know you will abuse it.",
 	text: [
-		""
+		"AHAHHAHAHAHHAHAHAHHAHAHHAHAHAHHAHAHHAHAHHAHAHHAHAHAHHAHAHHAHAHAHA"
 	],
 	can_repeat: true,
 	tasks: [{
 		uid: "b6857472",
 		type: "kill",
 		entity: "minecraft:creeper",
-		value: 14L
+		value: 20L
 	}],
 	rewards: [{
 		uid: "17f2fc41",
