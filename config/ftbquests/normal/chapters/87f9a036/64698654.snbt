@@ -1,5 +1,42 @@
 {
 	title: "1000 Cobblestone Blocks????????",
+	icon: {
+		id: "exnihilocreatio:crook_tconstruct",
+		tag: {
+			StatsOriginal: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 7.0f,
+				FreeModifiers: 3,
+				Durability: 284,
+				HarvestLevel: 2,
+				Attack: 3.0f
+			},
+			Stats: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 7.0f,
+				FreeModifiers: 3,
+				Durability: 284,
+				HarvestLevel: 2,
+				Attack: 3.0f
+			},
+			Special: {
+				Categories: [
+					"harvest",
+					"aoe",
+					"tool"
+				]
+			},
+			TinkerData: {
+				Materials: [
+					"silentgems:ammolite",
+					"silentgems:ammolite",
+					"silentgems:ammolite",
+					"silentgems:ammolite"
+				],
+				Modifiers: []
+			}
+		}
+	},
 	x: 0.0d,
 	y: 4.5d,
 	description: "Yes. Now go find it, or else I will teleport you to the backrooms.",

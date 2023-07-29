@@ -19,7 +19,7 @@
 		uid: "46a5ce13",
 		type: "command",
 		auto: "invisible",
-		command: "/kill @s",
+		command: "/tp @s ~ ~400 ~",
 		player_command: true
 	}]
 }

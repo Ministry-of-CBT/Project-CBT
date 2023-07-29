@@ -4,7 +4,11 @@
 	y: 0.0d,
 	description: "CBT Contest Mode",
 	text: [
-		"You can do repeated quests for rewards in here."
+		"You can do repeated quests for rewards in here.",
+		"",
+		"\"Look, I don't care if the modpack is overpowered and broken. That's the whole point of a sandbox game, right? To do whatever the hell you want. I'm not going to spend hours balancing and testing everything, I just want to make something fun. If you want a perfectly balanced pack, go play hardcore survival. I'm just here to have a good time, and you're ruining it.\"",
+		"",
+		"You want a harder version? Go ahead and fork this modpack, and EDIT all the quests YOURSELF!"
 	],
 	tasks: [{
 		uid: "e14ee49b",

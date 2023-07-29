@@ -1,0 +1,43 @@
+{
+	title: "Mob farm abuse #1",
+	x: 0.0d,
+	y: -2.0d,
+	description: "ZombiAss",
+	text: [
+		"No Rosa. I'm not a child. I am a real person that played one chess game with you, which you won. Instead of going about your life, you decided to message me, because apparently you don't get satisfaction from winning a game, you get satisfaction from trying to make people feel bad. It doesn't work. I don't understand the mentality you must have to play a short game online with someone you've never met, and then message them to try to rub it in. It's a little pathetic to be honest. I even tried to reason with you and you just keep going. I don't care about you rosa, okay? So just keep playing your chess games. Think twice next time before you message someone. Maybe ask yourself why you feel the need to do that before you do it? Maybe ask yourself if you are affecting the world in a positive or negative way?"
+	],
+	tasks: [{
+		uid: "1853d5d5",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "f0c7109f",
+		type: "item",
+		item: "minecraft:log"
+	},
+	{
+		uid: "a8193b17",
+		type: "item",
+		item: "minecraft:log 1 2"
+	},
+	{
+		uid: "d317683d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 102000L
+				}
+			},
+			id: "minecraft:apple"
+		}
+	},
+	{
+		uid: "72079e73",
+		type: "item",
+		item: "minecraft:bone"
+	}]
+}

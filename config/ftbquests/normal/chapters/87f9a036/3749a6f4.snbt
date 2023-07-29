@@ -1,0 +1,16 @@
+{
+	title: "Continuation 2",
+	x: -7.5d,
+	y: 5.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"18dc0687"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fcb2efcb",
+		type: "checkmark"
+	}]
+}

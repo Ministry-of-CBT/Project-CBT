@@ -1,0 +1,36 @@
+{
+	title: "Fuck... WHAT DID YOU DO???? REIMU AND MARISSA???",
+	x: -8.5d,
+	y: 6.5d,
+	description: "oh no r/anarchychess crossover????????????? TAKE A SCREENSHOT AND POST THIS IN r/anarcychess FOR FREE KARMA DONT FORGET TO CREDIT NRMOT THE DEV OF COCK AND BALL TOUHOUTURE: NUCLEARGREG HORIZONS FOR PUTTING THIS IN THE MODPACK!!!!",
+	text: [
+		"Before they could ponder further, eerie voices echoed through the strange chess-themed realm, sending shivers down their spines.",
+		"",
+		"\"Google En Passant!\" one voice called out, followed by another saying, \"Holy Hell.\"",
+		"",
+		"A third voice chimed in, saying, \"New Chess Move Just Dropped!\"",
+		"",
+		"Reimu and Marisa exchanged puzzled glances. The voices didn't seem to come from any particular direction, making it difficult to identify their source.",
+		"",
+		"\"Who's there? Show yourselves!\" Marisa called out, trying to sound brave despite the unsettling situation.",
+		"",
+		"As if in response, spectral images materialized in front of them. Three ghostly figures hovered above the checkered ground. Each figure resembled a mysterious being with a combination of chess and fantasy elements. One had the appearance of a regal queen, another of a knight, and the third of a rook.",
+		"",
+		"\"We are the Watchers of the Chess Realm,\" the queen-like figure spoke, her voice carrying an ethereal authority. \"You have intruded upon our domain, mortals from a distant world.\""
+	],
+	dependencies: [
+		"3749a6f4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "aefb0537",
+		type: "kill",
+		entity: "minecraft:witch",
+		value: 3L
+	}],
+	rewards: [{
+		uid: "9363bd5f",
+		type: "command",
+		command: "/say Hi, @team!"
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Creeper farm just dropped bois and girls!",
+	x: 2.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "b6857472",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 14L
+	}],
+	rewards: [{
+		uid: "17f2fc41",
+		type: "item",
+		item: "minecraft:gold_block"
+	},
+	{
+		uid: "b663f622",
+		type: "item",
+		item: "minecraft:iron_block"
+	},
+	{
+		uid: "458f497a",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

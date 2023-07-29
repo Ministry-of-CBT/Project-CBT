@@ -1,0 +1,53 @@
+{
+	title: "Mob Farm Abuse #2",
+	x: 0.0d,
+	y: -3.0d,
+	description: "ZombiAss",
+	text: [
+		"Are you kidding ??? What the **** are you talking about man ? You are a biggest looser i ever seen in my life ! You was doing PIPI in your pampers when i was beating players much more stronger then you! You are not proffesional, because proffesionals knew how to lose and congratulate opponents, you are like a girl crying after i beat you! Be brave, be honest to yourself and stop this trush talkings!!! Everybody know that i am very good blitz player, i can win anyone in the world in single game! And \"w\"esley \"s\"o is nobody for me, just a player who are crying every single time when loosing, ( remember what you say about Firouzja ) !!! Stop playing with my name, i deserve to have a good name during whole my chess carrier, I am Officially inviting you to OTB blitz match with the Prize fund! Both of us will invest 5000$ and winner takes it all! I suggest all other people who's intrested in this situation, just take a look at my results in 2016 and 2017 Blitz World championships, and that should be enough... No need to listen for every crying babe, Tigran Petrosyan is always play Fair ! And if someone will continue Officially talk about me like that, we will meet in Court! God bless with true! True will never die ! Liers will kicked off..."
+	],
+	can_repeat: true,
+	dependencies: [
+		"a95cc7a3"
+	],
+	tasks: [{
+		uid: "1ad5e4d7",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "8418ef96",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:item_forge": {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				}
+			},
+			id: "minecraft:gold_ingot"
+		}
+	},
+	{
+		uid: "e6e08a27",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 192000L
+				}
+			},
+			id: "minecraft:golden_apple"
+		}
+	}]
+}

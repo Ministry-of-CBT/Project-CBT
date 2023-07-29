@@ -1,0 +1,30 @@
+{
+	title: "FUCK YOU!  FUCK ALL OF YOU!",
+	x: -1.0d,
+	y: -2.0d,
+	description: "9.2 Quintillion Items NEeded",
+	text: [
+		"HAH! YOU THINK GTNH IS HARD ENOUGH? HOW ABOUT YOU GREG YOURSELF EVEN FURTHER AND GREG THE ENTIRE UNIVERSE! ",
+		"",
+		"In all seriousness try to not complete this quest... There is literally no reward for it"
+	],
+	optional: true,
+	tasks: [{
+		uid: "269aa2ac",
+		type: "item",
+		items: [{
+			item: "hbm:block_schraranium"
+		}],
+		count: 9223372036854775807L,
+		consume_items: false,
+		only_from_crafting: true
+	},
+	{
+		uid: "7258d1b7",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 993"
+		}],
+		count: 1000000000L
+	}]
+}

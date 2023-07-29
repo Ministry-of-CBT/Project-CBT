@@ -1,0 +1,28 @@
+{
+	title: "Special Episodes README",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Special Episodes will be One-Off Fanfics that is not cannon to the main story",
+	text: [
+		"Disodium",
+		"",
+		"(12S,14aR,15aS,16aR,17aS,18Z,110aR,111aS,112aR,113 as,114aR,116R,117R,118aS,119aR,121as, 122aR,123a5,1 24aR,125aS,126aR,127as,22S,24aR,25as,26aR,27aS,28a R,29a5,211R,212R,213aR,214S,214aS,215aR,217aS,218a R,219a5,32R,33R,34a5,365,37R,38R,38,5R,7R,825,8 3R,84a5,86R,87R,88R,88a5,92R,93R,94R,94a5,95a5,96a R,97a5,98R,99R,910,911aR,912a5,913aR,914,914aR,1 1S,12R,132S,133R,134S,134aS,135aR,136as,137aR,1 385,138,1310S,1311R,1312aR,1313as,1314aR,1315a S,1317R,1317R)-12-[(1S,2R,4R,5S)-1,2-dihydroxy- 4,5-dimethyloct-7-en-1-",
+		"",
+		"yl]-117,211,214,33,37,38,5,7,83,87,88,93,94,98,914,11,1 2,133,134,138,131,1317-docosahydroxy- 14a, 15a 16a, 114a,116,119a, 121a,122a,25,27,29,214,2",
+		"",
+		"17a,1313a,1315a-pentadecamethyl- 132-[(2R,3R,4R,7S,8R,9R,11R,13E)-3,8,11,15- tetrahydroxy-4,9,13-trimethyl-12-methylidene-",
+		"",
+		"7-(sulfonatooxy)pentadec-13-en-2-",
+		"",
+		"yl]-13,14,14,15,16,16a,17a,110,110a, 111a,112,112a,113 a,114,114a 116,117,118,118a 119a, 120,121,121a, 122a,123, 123a,124a, 125,125a,126a,127,127a,22,23,24,24,25,26,2 6a 27a,28,28,29,210,211,212,213a,214,214a,215a,216,21 ба 7,217a,218,219,219a,32,33,34,348,36,37,38,389,82,83,84 ,84,86,87,88,88a 93,94,94a 95a 96,96a 97a 98,99,910,91 1a912,912a913a914,914a,133,134,134a,135a,136,136a, 137a,138,138,1310,1311,1312,1312a,1313a,1314,1314 a,1315a,1316,1317,1317a-octahectahydro-",
+		"",
+		"12H,92H,132H-1(16)-pyrano[2\" 3\" :5,6\"]pyrano[2\" 1,3\":6\",7\"]oxepino[2\",3\":5,6']pyrano[2'",
+		"",
+		",3':5,6]pyrano[3,2-b]pyrano[2\",3\":5\",6\"]pyrano[2\",3\" :5',6']pyrano[2',3':5,6]pyrano[2,3-gloxocina-2(2,12)- bis(pyrano[2\",3\":5,6]pyrano[2',3':5,6]pyrano)[3,2- b:2',3'-fJoxepina-13(10)-pyrano[3,2-b]pyrano[2\",3\" ':5\",6\"]pyrano[2\",3\":5',6']pyrano[2',3':5,6]pyrano[2,3- floxepina-9(2,10)-dipyrano[2,3-e:2',3'-e']pyrano[3,2- b:5,6-b']dipyrana-3,8(2,6)-bis(pyrano[3,2- b]pyrana)tridecaphan-99-yl sulfate"
+	],
+	tasks: [{
+		uid: "0ad8ca4d",
+		type: "checkmark",
+		title: "Special Episodes"
+	}]
+}

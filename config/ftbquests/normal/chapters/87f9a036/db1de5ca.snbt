@@ -1,0 +1,56 @@
+{
+	title: "[One Ending Found]",
+	x: -6.0d,
+	y: 7.5d,
+	shape: "circle",
+	description: "You found one of the good endings... Explore the other paths to see the other endings",
+	text: [
+		"\"That takes care of that,\" Reimu said with a sense of relief.",
+		"",
+		"Marisa laughed. \"Yeah, no more artificial quests for us. Let's stick to the real incidents in Gensokyo.\"",
+		"",
+		"As they continued their exploration of the cubey world, they encountered more quest markers, but now they simply ignored them, focusing on the natural wonders around them instead. They found hidden groves, interacted with the unique cubey creatures, and discovered the origin of this strange world – a powerful but playful youkai, who had unintentionally opened a portal between Gensokyo and the cubey realm.",
+		"",
+		"Working together, Reimu and Marisa managed to persuade the youkai to close the portal, returning the cubey world to its original state. The youkai apologized for the inconvenience and even rewarded them with some souvenirs from the cubey world as a token of appreciation.",
+		"",
+		"Back in Gensokyo, they looked at the souvenirs they had received, appreciating the memories they had made during their unexpected adventure. They were glad they had rejected the quest book and embraced the true essence of their world.",
+		"",
+		"From that day on, whenever they found themselves facing mysterious signs or unusual occurrences, they would remember the cubey world and the quest book they had rejected. And no matter how enticing the promise of rewards might be, they vowed to stay true to their path as protectors of Gensokyo, where genuine incidents and adventures awaited them at every turn."
+	],
+	dependencies: [
+		"613e1fa3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c5bce63b",
+		type: "item",
+		items: [{
+			item: "hbm:coil_copper"
+		}]
+	}],
+	rewards: [{
+		uid: "bc49c68a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 126000L
+				}
+			},
+			id: "minecraft:golden_apple",
+			Damage: 1s
+		}
+	},
+	{
+		uid: "e8c95497",
+		type: "item",
+		item: "minecraft:gold_block"
+	},
+	{
+		uid: "dbb8e0ab",
+		type: "item",
+		item: "minecraft:blaze_rod",
+		count: 2
+	}]
+}

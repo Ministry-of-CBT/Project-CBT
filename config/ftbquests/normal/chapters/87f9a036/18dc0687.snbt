@@ -1,0 +1,64 @@
+{
+	title: "What could go wrong, Mr Youkai?",
+	icon: "gregtech:meta_foil 1 310",
+	x: -6.0d,
+	y: 4.5d,
+	description: "Complete this quest before the next one",
+	text: [
+		"Marisa smirked mischievously. \"I've got an idea.\" She took out a small glass bottle from her pocket, filled with a bright, glowing liquid she had gathered from one of her magical experiments.",
+		"",
+		"\"What's that?\" Reimu asked, raising an eyebrow.",
+		"",
+		"\"This, my dear shrine maiden, is a potion I whipped up last week. It's designed to nullify magical energy and render any spell or charm inert.\" Marisa grinned. \"Let's pour it on this book and see what happens.\"",
+		"",
+		"Reimu agreed, and together they poured the potion on the quest book. Almost immediately, the book lost its luminescence and looked like an ordinary, dusty tome. Without hesitation, Marisa threw it into the air, and Reimu blasted it with a purification spell. The book burst into flames and disintegrated into a cloud of ash, carried away by a passing breeze."
+	],
+	dependencies: [
+		"fae31624"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4cacaa1b",
+		type: "xp",
+		value: 10L,
+		points: false
+	},
+	{
+		uid: "0e59d961",
+		type: "item",
+		items: [{
+			item: "tfc:cobble/slate"
+		}],
+		count: 13L
+	}],
+	rewards: [{
+		uid: "414fcd6f",
+		type: "item",
+		item: "silentgear:blueprint_helmet"
+	},
+	{
+		uid: "8d3abbb2",
+		type: "item",
+		item: "silentgear:blueprint_chestplate"
+	},
+	{
+		uid: "6de87b09",
+		type: "item",
+		item: "silentgear:blueprint_leggings"
+	},
+	{
+		uid: "08e4132b",
+		type: "item",
+		item: "silentgear:blueprint_boots"
+	},
+	{
+		uid: "683c6e7c",
+		type: "item",
+		item: {
+			id: "silentgear:blueprint_book",
+			tag: {
+				SGear_BlueprintBook: {}
+			}
+		}
+	}]
+}

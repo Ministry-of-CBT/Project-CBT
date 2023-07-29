@@ -1,0 +1,32 @@
+{
+	title: "Okay so you deny the quest mr youkai?",
+	x: -4.5d,
+	y: 3.5d,
+	description: "Yes! I deny the quest and there's nothing you can do about it, because fuck you, I don't want to mine a shit ton of cobblestone!.",
+	text: [
+		"Reimu and Marisa exchanged glances, unsure of how to feel about the sudden appearance of a quest book in this strange cubey world. The idea of completing tasks and getting rewards seemed tempting, but it also felt oddly out of place. This was their world, Gensokyo, where they dealt with incidents and youkai, not some artificial game-like environment.",
+		"",
+		"\"I don't know about this, Marisa,\" Reimu said skeptically, eyeing the quest book. \"This doesn't feel like something that belongs here. It's like we're being led on some kind of artificial adventure.\"",
+		"",
+		"Marisa nodded in agreement. \"You're right, Reimu. Gensokyo has its own natural flow of incidents, and we solve them to maintain the balance. This just feels... wrong.\"",
+		"",
+		"With a determined look, Reimu reached out and grabbed the quest book, tearing it from its floating signpost. \"Let's get rid of it. We don't need this thing telling us what to do.\""
+	],
+	dependencies: [
+		"916bda3b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e9b2fcdc",
+		type: "item",
+		items: [{
+			item: "tfc:wood/log/oak"
+		}],
+		count: 128L
+	}],
+	rewards: [{
+		uid: "35cfe396",
+		type: "item",
+		item: "minecraft:crafting_table"
+	}]
+}
