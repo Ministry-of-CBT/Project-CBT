@@ -24,32 +24,31 @@
 	rewards: [{
 		uid: "f399c4a3",
 		type: "item",
-		auto: "no_toast",
 		item: "hbm:crate",
 		count: 14
 	},
 	{
 		uid: "7741dd96",
 		type: "item",
-		auto: "enabled",
 		item: "hbm:crate_weapon",
 		count: 7
 	},
 	{
 		uid: "be452f58",
 		type: "item",
-		auto: "enabled",
 		item: "hbm:crate_lead",
 		count: 3
 	},
 	{
 		uid: "17a5586c",
 		type: "item",
+		auto: "disabled",
 		item: "hbm:crate_metal"
 	},
 	{
 		uid: "46d0c83b",
 		type: "item",
+		auto: "disabled",
 		item: "hbm:crowbar"
 	}]
 }

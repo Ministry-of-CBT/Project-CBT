@@ -1,0 +1,13 @@
+{
+	title: "Why are there two power systems? HE and EU",
+	x: -1.5d,
+	y: 0.0d,
+	description: "THE GREG THE GREG",
+	text: [
+		"Fuck your ass~ :)"
+	],
+	tasks: [{
+		uid: "7d8eb028",
+		type: "checkmark"
+	}]
+}

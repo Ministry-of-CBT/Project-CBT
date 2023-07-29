@@ -4,7 +4,10 @@
 	y: 2.0d,
 	description: "A fork in the timeline",
 	text: [
-		"Tou can choose if you will take this quest or not."
+		"You can choose if you will take this quest or not...",
+		"",
+		"",
+		"There are always forks waiting to be discovered, alternative timelines to procrastinate over and perform CBT sessions over..."
 	],
 	dependencies: [
 		"18fdd6e5"

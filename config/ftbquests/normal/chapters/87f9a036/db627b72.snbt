@@ -1,0 +1,15 @@
+{
+	title: "An encounter with parasites.....",
+	x: 1.5d,
+	y: 8.0d,
+	description: "No. No... AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "2b9a9899",
+		type: "kill",
+		entity: "srparasites:buglin",
+		value: 1L
+	}]
+}

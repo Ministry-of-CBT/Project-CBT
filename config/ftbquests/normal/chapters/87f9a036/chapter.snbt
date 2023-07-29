@@ -2,6 +2,6 @@
 	title: "The Touhou x GTNH Storyline",
 	icon: "zollerngalaxy:stargate_moon",
 	always_invisible: false,
-	group: 0,
+	group: -1580550413,
 	default_quest_shape: "gear"
 }

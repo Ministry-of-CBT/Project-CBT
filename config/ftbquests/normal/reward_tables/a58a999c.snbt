@@ -1,0 +1,7 @@
+{
+	title: "fuck your ass",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:iron_ingot"
+	}]
+}

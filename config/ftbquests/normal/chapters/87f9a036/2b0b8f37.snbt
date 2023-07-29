@@ -1,0 +1,60 @@
+{
+	title: "Chess Moves influence Reality around us...",
+	icon: {
+		ForgeCaps: {
+			"tfc:item_forge": {
+				heat: 0.0f,
+				ticks: -1L,
+				forge: {
+					work: 0,
+					steps: {
+						last: -1,
+						third: -1,
+						second: -1
+					}
+				}
+			}
+		},
+		id: "gregtech:meta_dust",
+		Damage: 41s
+	},
+	x: -10.0d,
+	y: 10.0d,
+	description: "I hate bullshit",
+	text: [
+		"Reimu's eyes widened as she realized the implications. \"Are you saying that the very fabric of reality here is influenced by chess moves?\"",
+		"",
+		"\"Indeed,\" the knight-like figure replied. \"Certain powerful chess moves can alter the landscape and open doorways between dimensions. And you, by unknowingly invoking 'Google En Passant,' a move of great significance in the Chess Realm, have triggered a chain of events that led you here.\"",
+		"",
+		"\"And what about the other phrases we heard?\" Marisa asked, trying to make sense of it all. \"'Holy Hell' and 'New Chess Move Just Dropped'?\"",
+		"",
+		"\"The Chess Realm is not just a place but also a sentient entity,\" the rook-like figure explained. \"It evolves with time, adapting to new concepts and ideas. 'Holy Hell' signifies a radical shift in the balance of power, while 'New Chess Move Just Dropped' heralds the arrival of unprecedented changes.\"",
+		"",
+		"Reimu and Marisa exchanged glances once more, realizing that they had unwittingly become part of a grander scheme.",
+		"",
+		"\"What do we do now?\" Reimu inquired, her determination resurfacing."
+	],
+	dependencies: [
+		"19ac4024"
+	],
+	hide: true,
+	tasks: [{
+		uid: "be8bb744",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 5L
+	},
+	{
+		uid: "75c11a5e",
+		type: "item",
+		items: [{
+			item: "minecraft:bone"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "d44b419a",
+		type: "item",
+		item: "minecraft:iron_block"
+	}]
+}

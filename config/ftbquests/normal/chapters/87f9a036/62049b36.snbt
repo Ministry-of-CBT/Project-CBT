@@ -1,0 +1,25 @@
+{
+	title: "A parasite?????",
+	icon: "srparasites:parasitebush 1 2",
+	x: 1.0d,
+	y: 6.5d,
+	description: "WHAT IS THIS AND HOW DO I GET RID OF IT?????????????????????????",
+	text: [
+		"Oh god. "
+	],
+	dependencies: [
+		"e51bdaa4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e91c8646",
+		type: "checkmark",
+		title: "Oh my god...."
+	},
+	{
+		uid: "36d4bb11",
+		type: "kill",
+		entity: "srparasites:buglin",
+		value: 1L
+	}]
+}

@@ -1,0 +1,13 @@
+name = "Hwyla"
+filename = "Hwyla-1.8.26-B41_1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7280d5c0dab42436549bcefc63ff64a1049e5501"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2568751
+project-id = 253449

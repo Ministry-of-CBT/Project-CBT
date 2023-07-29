@@ -1,0 +1,34 @@
+{
+	title: "Ragequit atleast once",
+	x: -1.0d,
+	y: 1.5d,
+	description: "I HATE THIS MODPACK!!! WHY DID I LOSE MY ITEMS",
+	text: [
+		"skill issue",
+		"",
+		"./j",
+		"",
+		"this is a modpack named COCK AND BALL TOUHOUTURE: NUCLEARGREG HORIZONS"
+	],
+	tasks: [{
+		uid: "1ea3d16e",
+		type: "stat",
+		title: "Ragequit",
+		stat: "stat.leaveGame",
+		value: 1
+	}],
+	rewards: [{
+		uid: "6224571b",
+		type: "item",
+		item: {
+			id: "minecraft:writable_book",
+			tag: {
+				pages: [
+					"{\"text\":\"Sorry! GET THE FUCK OUT OF r/feedthememes! FUCK YOU AND YOUR UNGREGGY CREATE MACHINES!! YOUR PIPI WILL BE BRICKED AT YOUR LOCATION TONIGHT!! GO KILL YOURSELF BECAUSE YOU FAILED TO GREG! \"}"
+				],
+				author: "dev",
+				title: "a"
+			}
+		}
+	}]
+}

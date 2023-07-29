@@ -5,6 +5,7 @@
 	text: [
 		""
 	],
+	can_repeat: true,
 	tasks: [{
 		uid: "b6857472",
 		type: "kill",
@@ -14,16 +15,19 @@
 	rewards: [{
 		uid: "17f2fc41",
 		type: "item",
+		auto: "disabled",
 		item: "minecraft:gold_block"
 	},
 	{
 		uid: "b663f622",
 		type: "item",
+		auto: "disabled",
 		item: "minecraft:iron_block"
 	},
 	{
 		uid: "458f497a",
 		type: "item",
+		auto: "disabled",
 		item: "minecraft:diamond"
 	}]
 }

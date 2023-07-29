@@ -1,0 +1,42 @@
+{
+	title: "I demand iron from your inventory",
+	icon: "minecraft:iron_ore",
+	x: -10.5d,
+	y: 12.0d,
+	description: "I will send you to Jesus",
+	text: [
+		"The queen-like figure regarded them with a mix of seriousness and warmth. \"Your arrival was destined, and you possess qualities that can influence the Chess Realm's evolution. Embrace this opportunity, and you may find answers to questions you haven't yet asked.\"",
+		"",
+		"Marisa grinned, her adventurous spirit reigniting. \"Sounds like another exciting quest to me! Let's see what the Chess Realm has in store for us.\"",
+		"",
+		"With newfound resolve, Reimu and Marisa decided to embrace this unexpected adventure. They knew that this Chess Realm held untold mysteries, and they were ready to face them head-on. Little did they know that their actions and decisions in this realm would ripple across dimensions, leaving a profound impact on their own world and beyond.",
+		"",
+		"As they journeyed deeper into the enigmatic realm, they couldn't help but wonder what other surprises awaited them, and how their encounter with the Watchers and the Chess Realm would shape their destinies in ways they couldn't fathom. The chess pieces moved, and the game was set; it was time for Reimu and Marisa to play their part in this extraordinary tale.."
+	],
+	dependencies: [
+		"2b0b8f37"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a0d0dec3",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 10L
+	},
+	{
+		uid: "7404c31f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 318000L
+				}
+			},
+			id: "minecraft:apple"
+		}],
+		consume_items: false
+	}]
+}

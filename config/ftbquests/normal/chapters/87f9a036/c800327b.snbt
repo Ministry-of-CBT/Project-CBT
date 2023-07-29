@@ -1,5 +1,6 @@
 {
 	title: "Fuck... WHAT DID YOU DO???? REIMU AND MARISSA???",
+	icon: "gregtech:borderless_red_lamp",
 	x: -8.5d,
 	y: 6.5d,
 	description: "oh no r/anarchychess crossover????????????? TAKE A SCREENSHOT AND POST THIS IN r/anarcychess FOR FREE KARMA DONT FORGET TO CREDIT NRMOT THE DEV OF COCK AND BALL TOUHOUTURE: NUCLEARGREG HORIZONS FOR PUTTING THIS IN THE MODPACK!!!!",
@@ -29,8 +30,9 @@
 		value: 3L
 	}],
 	rewards: [{
-		uid: "9363bd5f",
-		type: "command",
-		command: "/say Hi, @team!"
+		uid: "7dc59a48",
+		type: "item",
+		item: "silentgear:blueprint_paper",
+		count: 25
 	}]
 }

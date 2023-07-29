@@ -1,0 +1,18 @@
+{
+	title: "The Factory Must Grow....",
+	x: -1.0d,
+	y: 6.5d,
+	description: "No... I thought I escaped greg but here are we...",
+	text: [
+		""
+	],
+	dependencies: [
+		"e51bdaa4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3aba1d04",
+		type: "checkmark",
+		title: "The Factory Must Grow: Fork"
+	}]
+}

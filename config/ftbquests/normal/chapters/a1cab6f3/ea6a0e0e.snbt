@@ -1,0 +1,15 @@
+{
+	title: "README.MD",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to Cock and Ball Touhouture: NuclearGreg Horizons.",
+		"",
+		"Now may i ask why you exist?"
+	],
+	tasks: [{
+		uid: "f333c5af",
+		type: "checkmark",
+		title: "README.MD"
+	}]
+}

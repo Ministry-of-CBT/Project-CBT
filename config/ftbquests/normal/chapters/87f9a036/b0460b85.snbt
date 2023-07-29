@@ -3,6 +3,7 @@
 	y: 4.0d,
 	tasks: [{
 		uid: "1f25fd78",
-		type: "checkmark"
+		type: "checkmark",
+		title: "Continuation 3"
 	}]
 }

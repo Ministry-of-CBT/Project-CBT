@@ -4,9 +4,7 @@
 	y: -2.0d,
 	description: "9.2 Quintillion Items NEeded",
 	text: [
-		"HAH! YOU THINK GTNH IS HARD ENOUGH? HOW ABOUT YOU GREG YOURSELF EVEN FURTHER AND GREG THE ENTIRE UNIVERSE! ",
-		"",
-		"In all seriousness try to not complete this quest... There is literally no reward for it"
+		"HAH! YOU THINK GTNH IS HARD ENOUGH? HOW ABOUT YOU GREG YOURSELF EVEN FURTHER AND GREG THE ENTIRE UNIVERSE! "
 	],
 	optional: true,
 	tasks: [{
@@ -26,5 +24,21 @@
 			item: "gregtech:machine 1 993"
 		}],
 		count: 1000000000L
+	},
+	{
+		uid: "a27ce6f1",
+		type: "dimension",
+		dim: -1
+	},
+	{
+		uid: "7b39c777",
+		type: "xp",
+		value: 1000000L,
+		points: false
+	},
+	{
+		uid: "82a21668",
+		type: "forge_energy",
+		value: 100000000L
 	}]
 }

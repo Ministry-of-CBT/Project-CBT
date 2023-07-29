@@ -1,0 +1,50 @@
+{
+	title: "Gensokyo New Horizons x Chess Confirmed!@!",
+	x: -9.5d,
+	y: 8.0d,
+	description: "Has the modpack dev gone insane????",
+	text: [
+		"Reimu stepped forward, her curiosity overcoming her unease. \"We apologize for any intrusion, but we didn't mean to come here. We were simply exploring the cubey world, and then suddenly, we ended up here.\"",
+		"",
+		"The knight-like figure spoke next, his voice echoing like distant thunder. \"The quest book you disposed of held immense power. It bridged the gap between dimensions, and you unwittingly triggered its magic.\"",
+		"",
+		"\"Indeed,\" added the rook-like figure. \"You now find yourselves in the Chess Realm, a place where the boundaries between worlds are blurred. Your presence here was not premeditated, but fate has led you to us.\"",
+		"",
+		"Marisa raised an eyebrow. \"Chess Realm, huh? So, is this place some kind of enchanted chessboard?\"",
+		"",
+		"\"Yes, mortal,\" the queen-like figure confirmed. \"This realm is intertwined with the art of chess, but it goes beyond conventional rules. Here, chess pieces are imbued with magical properties, and the game board can shift and change unexpectedly.\""
+	],
+	dependencies: [
+		"c800327b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "eb4b66bf",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 7L
+	}],
+	rewards: [{
+		uid: "beafb352",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Charge: 100000L
+			},
+			Damage: 466s
+		}
+	},
+	{
+		uid: "8b34df86",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "d84e4a90",
+		type: "toast",
+		title: "FUCK THE CHESS X TOUHOU COLLAB IS REAL",
+		icon: "minecraft:trapped_chest",
+		description: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+	}]
+}

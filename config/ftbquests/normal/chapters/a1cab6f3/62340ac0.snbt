@@ -1,0 +1,13 @@
+{
+	title: "Stop posting on Gregtech",
+	x: 1.5d,
+	y: 0.0d,
+	description: "STOP POSTING ABOUT GREGTECH, I'M TIRED OF SEEING IT! My friends on reddit send me memes, on discord it's fucking memes - I was in a subreddit, right? and ALLLLLLLLL of the POSTS are just GregTech stuff. I- I showed my Champion underwear to my girlfriend, and the logo I flipped it and I said, \"Hey babe: When the underwear greg :joy: :joy: :joy:\"",
+	text: [
+		"FUCK YOU! AND NO I WILL TELEPORT YOU TO GTNH! I WILL CONTINUE POSTING GREGTECH BECAUSE I WANT YOUR SOUL TO BE GREGGED~!"
+	],
+	tasks: [{
+		uid: "419c0292",
+		type: "checkmark"
+	}]
+}
