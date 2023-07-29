@@ -16,7 +16,7 @@ Will there be a curseforge upload: No but do it yourself.
 
 ## Project CBT - Modlist:
 
-Aight The Modlist are as follows.
+Aight The Modlist are as follows. - NOTICE: NEW MODS ARE COMING FEEL FREE TO MAKE ANOTHER PULL REQUEST AND LINK IT.
 
 - [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
@@ -55,6 +55,7 @@ Aight The Modlist are as follows.
 - [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
 - [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
+- Here's what you're looking at (HWYLA)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Konkrete [Forge]](https://www.curseforge.com/minecraft/mc-mods/konkrete)
@@ -87,6 +88,7 @@ Aight The Modlist are as follows.
 - [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft)
 - [TerraFirmaThings](https://www.curseforge.com/minecraft/mc-mods/terrafirmathings)
 - [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix)
+- Touhou Little Maid Mod
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Zollern Galaxy](https://www.curseforge.com/minecraft/mc-mods/zollern-galaxy)
 
