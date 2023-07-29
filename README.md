@@ -18,82 +18,82 @@ Will there be a curseforge upload: No but do it yourself.
 
 ## Project CBT - Modlist:
 
-Aight The Modlist are as follows. NOTE: I have not linked it yet so feel free to make a pull request. 
+Aight The Modlist are as follows.
 
-- Advancement Plaques [Forge]
-- Ambience - Extras (Music Mod)
-- Applied Energistics 2
-- AsmodeusCore
-- AtomicStryker's Battle Towers
-- AutoRegLib
-- Baubles
-- BNBGamingLib
-- Better Advancements
-- Carry On
-- Chameleon
-- Clumps
-- CodeChicken Lib 1.8.+
-- Collective
-- Custom FoV (Fabric/Forge/Quilt)
-- Custom Loading Screen
-- Custom Window Title
-- Enchantment Descriptions
-- Ex Nihilo: Creatio
-- ExtraPlanets
-- FancyMenu [Forge]
-- FastFurnace
-- FastWorkbench
-- First Join Message
-- Foam​Fix
-- FTB Backups (Forge)
-- FTB Library (Forge) (Legacy)
-- FTB Quests (Forge)
-- Galacticraft Legacy
-- Galaxy Space [Addon for GalactiCraft]
-- Gregicality Multiblocks
-- GregTech CE Unofficial
-- GregTech Food Option
-- Had Enough Items
-- Hardcore Darkness
-- Hardcore Revival
-- Hbm's Nuclear Tech - Extended Edition
-- Item Filters
-- JustEnoughIDs
-- Konkrete [Forge]
-- Legendary Tooltips [Forge]
-- Let Me Despawn
-- Loading Profiler
-- Loading Progress Bar
-- Loading Screens
-- Load My Resources [Forge]
-- Mantle
-- Mixin 0.7-0.8 Compatibility
-- MixinBooter
-- MJRLegends Lib
-- More Player Models
-- More Planets - Galacticraft Add-on
+- [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
+- [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
+- [AtomicStryker's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)
+- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
+- [BNBGamingLibs](https://www.curseforge.com/minecraft/mc-mods/bnbgaminglib)
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+- [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
+- [Custom FoV (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/custom-fov)
+- [Custom Loading Screen](https://www.curseforge.com/minecraft/mc-mods/better-loading-screen)
+- [Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title)
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio)
+- [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)
+- [FancyMenu [Forge]](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [First Join Message](https://www.curseforge.com/minecraft/mc-mods/first-join-message)
+- [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
+- [FTB Backups (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge)
+- [FTB Library (Forge) (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
+- [FTB Quests (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
+- [Galacticraft Legacy](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy)
+- [Galaxy Space [Addon for GalactiCraft]](https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft)
+- [Gregicality Multiblocks](https://www.curseforge.com/minecraft/mc-mods/gregicality-multiblocks)
+- [GregTech CE Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial)
+- [GregTech Food Option](https://www.curseforge.com/minecraft/mc-mods/gregtech-food-option)
+- [Had Enough Items](https://www.curseforge.com/minecraft/mc-mods/had-enough-items)
+- [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
+- [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
+- [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
+- [Konkrete [Forge]](https://www.curseforge.com/minecraft/mc-mods/konkrete)
+- [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
+- [Loading Profiler](https://www.curseforge.com/minecraft/mc-mods/loading-profiler)
+- [Loading Progress Bar](https://www.curseforge.com/minecraft/mc-mods/loading-progress-bar)
+- [Loading Screens](https://www.curseforge.com/minecraft/mc-mods/loading-screens)
+- [Load My Resources [Forge]](https://www.curseforge.com/minecraft/mc-mods/load-my-resources-forge)
+- [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
+- [Mixin 0.7-0.8 Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility)
+- [MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)
+- [MJRLegends Lib](https://www.curseforge.com/minecraft/mc-mods/mjrlegendslib)
+- [More Player Models](https://www.curseforge.com/minecraft/mc-mods/more-player-models)
+- [More Planets - Galacticraft Add-on](https://www.curseforge.com/minecraft/mc-mods/more-planets-gc-addon)
 - Mutable [Forge]
-- Nuclear Option
-- Quark
+- [Nuclear Option](https://www.curseforge.com/minecraft/mc-mods/nuclear-option)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 - Reforged Mod (Forge)
 - Reforged Mod - Vanilla (Forge)
-- Refined Storage
-- Resource Loader
-- Scaling Health
-- Scape and Run - Parasites
-- Shadowfacts' Forgelin
-- Silent Gear
-- Silent Lib (silentlib)
-- Silent's Gems
-- Silent's Gems - TiC Support
-- Sound Device Options
-- SteveKunG's Lib
-- Storage Drawers
-- TerraFirmaCraft
-- TerraFirmaThings
-- TexFix
-- Tinkers Construct
-- Zollern Galaxy
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [Resource Loader](https://www.curseforge.com/minecraft/mc-mods/resource-loader)
+- [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health)
+- [Scape and Run - Parasites](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites)
+- [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+- [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+- [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
+- [Silent's Gems - TiC Support](https://www.curseforge.com/minecraft/mc-mods/silents-gems-tic-support)
+- [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
+- [SteveKunG's Lib](https://www.curseforge.com/minecraft/mc-mods/stevekungs-lib)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft)
+- [TerraFirmaThings](https://www.curseforge.com/minecraft/mc-mods/terrafirmathings)
+- [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix)
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Zollern Galaxy](https://www.curseforge.com/minecraft/mc-mods/zollern-galaxy)
 
 
 ## Lore
