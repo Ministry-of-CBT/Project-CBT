@@ -136,5 +136,9 @@ clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforg
 
 ![Minecraft 1 12 2 28_07_2023 4_32_27 pm](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/9344845a-f2d0-433a-b527-833046d11bd2)
 
+---
 
+Licensing
+
+Read The Fucking License for the one person who asked for it.txt
 
