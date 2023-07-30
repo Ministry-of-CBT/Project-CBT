@@ -148,7 +148,7 @@ Leaked WIP Questline for Public Domain Purposes - May get updated as new quests 
 
 ---
 
-Licensing
+# Licensing
 
-Read The Fucking License for the one person who asked for it.txt
+Read LICENSE.MD
 
