@@ -1,7 +1,7 @@
 {
 	title: "Ragequit atleast once",
 	x: -1.0d,
-	y: 1.5d,
+	y: 2.0d,
 	description: "I HATE THIS MODPACK!!! WHY DID I LOSE MY ITEMS",
 	text: [
 		"skill issue",
@@ -24,7 +24,7 @@
 			id: "minecraft:writable_book",
 			tag: {
 				pages: [
-					"{\"text\":\"Sorry! GET THE FUCK OUT OF r/feedthememes! FUCK YOU AND YOUR UNGREGGY CREATE MACHINES!! YOUR PIPI WILL BE BRICKED AT YOUR LOCATION TONIGHT!! GO KILL YOURSELF BECAUSE YOU FAILED TO GREG! \"}"
+					"{\"text\":\"Dear Ragequitter, GET THE FUCK OUT OF r/feedthememes! FUCK YOU AND YOUR UNGREGGY CREATE MACHINES!! YOUR PIPI WILL BE BRICKED AT YOUR LOCATION TONIGHT!! GO KILL YOURSELF BECAUSE YOU FAILED TO GREG! \"}"
 				],
 				author: "dev",
 				title: "a"

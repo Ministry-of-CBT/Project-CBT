@@ -4,7 +4,11 @@
 	y: 8.0d,
 	description: "No. No... AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
 	text: [
-		""
+		"As Reimu and Marisa continued their journey through the cubey landscape, they couldn't shake the feeling that something was amiss. The cheerful atmosphere of the villagers and the seemingly innocent quests started to give way to a sense of unease. It was as if an invisible shadow loomed over the world, lurking in the corners of their vision.",
+		"",
+		"One day, while wandering deeper into the cube-filled wilderness, they stumbled upon a dark and ominous cave. Curiosity getting the better of them, they cautiously entered the foreboding darkness. The deeper they went, the more the air became suffused with an eerie aura. Inside, they discovered a strange, glowing crystal pulsating with an otherworldly energy.",
+		"",
+		"As they approached the mysterious crystal, an unsettling sensation crawled down their spines. It was as if the crystal itself was alive, humming with a malevolent power. Without warning, it burst open, and tiny, grotesque creatures poured out of it. Reimu and Marisa instinctively readied their weapons, but they were taken aback by the appearance of the creatures."
 	],
 	dependencies: [
 		"62049b36"
@@ -14,5 +18,16 @@
 		type: "kill",
 		entity: "srparasites:buglin",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "cd0d73eb",
+		type: "item",
+		item: "srparasites:evolutionlure 1 3"
+	},
+	{
+		uid: "c020fdff",
+		type: "item",
+		title: "Fuck you parasites! FUCK YOU!",
+		item: "hbm:grenade_aschrab"
 	}]
 }

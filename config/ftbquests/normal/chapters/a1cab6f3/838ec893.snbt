@@ -4,7 +4,11 @@
 	y: 0.0d,
 	description: "THE GREG THE GREG",
 	text: [
-		"Fuck your ass~ :)"
+		"Fuck your ass~ :)",
+		"",
+		"Also HBM in this pack is supposed to be used for warcrime production.",
+		"",
+		"GregTech CEu in this pack for automation and completing some of the quests."
 	],
 	tasks: [{
 		uid: "7d8eb028",

@@ -2,8 +2,9 @@
 	title: "Continuation 2",
 	x: -7.5d,
 	y: 5.5d,
+	description: "sus",
 	text: [
-		""
+		"SUSUSUSUSUSUSUUSUSUSUUSUSAMONGUSGETOUTOUTOUTOUTOUTOUTOUTUOTUTOUOTUTUOTUOTUOTOUHOUTURE"
 	],
 	dependencies: [
 		"18dc0687"

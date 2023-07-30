@@ -1,0 +1,20 @@
+{
+	title: "Questions...",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Okay so you sure you read everything here?",
+		"",
+		"If you have any questions try to find the answer yourself before asking..",
+		"",
+		"- Issues go to github",
+		"- Feature requests also go to github",
+		"- Posting anything else goes to r/feedthememes or if there's enough demand possibly a seperate subreddit or a forum",
+		"- WHEN POSTING ISSUES ON GITHUB INCLUDE A LABEL PLEASE"
+	],
+	tasks: [{
+		uid: "b275d07e",
+		type: "checkmark",
+		title: "FAQ"
+	}]
+}

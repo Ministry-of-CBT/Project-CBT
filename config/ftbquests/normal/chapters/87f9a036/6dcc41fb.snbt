@@ -2,8 +2,9 @@
 	title: "Gregic Quest 1",
 	x: -1.5d,
 	y: 9.5d,
+	description: "the greg",
 	text: [
-		""
+		"Gregtech and its consequences have been a disaster for minecraft players They have greatly increased the playtime-expectancy of those of us who play in “advanced” worlds, but they have destabilized society, have made gameplay unfulfilling, have subjected mob beings to indignities, have led to widespread psychological suffering (in project CBT to physical suffering as well) and have inflicted severe damage on the natural minecraft world. The continued development of gregtech will worsen the situation. It will certainly subject mob beings to greater indignities and inflict greater damage on the natural world, it will probably lead to greater social disruption and psychological suffering, and it may lead to increased physical suffering even in “advanced” worlds."
 	],
 	dependencies: [
 		"7d571c3f"

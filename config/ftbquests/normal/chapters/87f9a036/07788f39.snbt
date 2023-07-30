@@ -11,12 +11,5 @@
 	tasks: [{
 		uid: "9a56c341",
 		type: "checkmark"
-	}],
-	rewards: [{
-		uid: "46a5ce13",
-		type: "command",
-		auto: "invisible",
-		command: "/tp @s ~ ~400 ~",
-		player_command: true
 	}]
 }

@@ -9,6 +9,30 @@
 		uid: "f0d4d105",
 		type: "kill",
 		entity: "srparasites:buglin",
-		value: 100L
+		value: 69L
+	},
+	{
+		uid: "49b1736a",
+		type: "kill",
+		entity: "srparasites:sim_human",
+		value: 7L
+	}],
+	rewards: [{
+		uid: "0c0f995f",
+		type: "item",
+		item: "hbm:crate",
+		count: 17
+	},
+	{
+		uid: "70beec2c",
+		type: "item",
+		item: "hbm:crate_lead",
+		count: 14
+	},
+	{
+		uid: "e217bd28",
+		type: "item",
+		item: "hbm:crate_weapon",
+		count: 12
 	}]
 }

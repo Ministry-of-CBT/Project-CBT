@@ -1,5 +1,6 @@
 {
 	title: "[One Ending Found]",
+	icon: "hbm:coil_copper_torus",
 	x: -6.0d,
 	y: 7.5d,
 	shape: "circle",
@@ -21,6 +22,7 @@
 		"613e1fa3"
 	],
 	hide: true,
+	size: 2.0d,
 	tasks: [{
 		uid: "c5bce63b",
 		type: "item",

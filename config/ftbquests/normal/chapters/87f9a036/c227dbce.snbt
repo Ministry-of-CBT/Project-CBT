@@ -8,7 +8,13 @@
 		"",
 		"There will be multiple forks of the timeline.",
 		"",
-		"Therefore the goal to finishing story mode is to unlock the entire timeline, including the forks."
+		"Therefore the goal to finishing story mode is to unlock the entire timeline, including the forks.",
+		"",
+		"Gear shaped quests open to new quests",
+		"",
+		"Circle shaped quests are considered as Endings for the Story Mode",
+		"",
+		"Heart shaped quests are treasures which don't have an ending and leaves a cliff hanger"
 	],
 	tasks: [{
 		uid: "11ad4c49",

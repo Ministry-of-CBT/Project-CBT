@@ -10,6 +10,7 @@
 		"",
 		"You want a harder version? Go ahead and fork this modpack, and EDIT all the quests YOURSELF!"
 	],
+	size: 3.0d,
 	tasks: [{
 		uid: "e14ee49b",
 		type: "checkmark"

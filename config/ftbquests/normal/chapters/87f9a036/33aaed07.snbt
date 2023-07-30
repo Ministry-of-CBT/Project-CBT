@@ -2,8 +2,9 @@
 	title: "Gregic Quest 3",
 	x: -2.5d,
 	y: 9.5d,
+	description: "A... A... A....",
 	text: [
-		""
+		"Cockomelon"
 	],
 	dependencies: [
 		"7d571c3f"

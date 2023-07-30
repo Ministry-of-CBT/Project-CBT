@@ -9,6 +9,7 @@
 		"",
 		"This is the main area. Underneath Project CBT Story mode is GTNH x Touhou Story mode which will be in development. Special Episodes Quests will be the ones that will be added by the community."
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "f333c5af",
 		type: "checkmark",

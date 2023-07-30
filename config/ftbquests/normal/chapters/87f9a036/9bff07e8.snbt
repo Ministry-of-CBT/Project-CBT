@@ -1,0 +1,64 @@
+{
+	title: "Gregicality 1",
+	x: -3.5d,
+	y: 11.0d,
+	description: "BullShit!",
+	text: [
+		"WHAT IS THE PARASITES DOING ON MY LAND????? MARISSA HELP ME!!!!!! "
+	],
+	dependencies: [
+		"98b8abec",
+		"33aaed07",
+		"6dcc41fb"
+	],
+	tasks: [{
+		uid: "841e46ff",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1652"
+		}]
+	},
+	{
+		uid: "0d1a3bd2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1651"
+		}]
+	},
+	{
+		uid: "ced1df70",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 16"
+		}]
+	},
+	{
+		uid: "4ab8d74d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 6"
+		}]
+	},
+	{
+		uid: "58475ed7",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "217b2261",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "267c620c",
+		type: "item",
+		item: {
+			id: "hbm:survey_scanner",
+			tag: {
+				mode: 0
+			}
+		}
+	}]
+}

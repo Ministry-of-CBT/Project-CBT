@@ -1,11 +1,33 @@
 {
+	title: "Bad. Bad... BAD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
 	x: 2.0d,
 	y: 9.5d,
+	text: [
+		"These were parasites, dark entities that seemed to be born from the crystal itself. They latched onto the square villagers, infecting them one by one. The once happy and friendly creatures turned into mindless, aggressive beings, attacking Reimu and Marisa on sight.",
+		"",
+		"\"This is bad, Reimu!\" Marisa exclaimed, dodging a swipe from an infected villager. \"We have to find a way to stop these parasites!\"",
+		"",
+		"Reimu nodded, her determination strengthening. She recalled the countless incidents in Gensokyo where she had to confront various types of malevolent beings, and she knew that solving this crisis required quick thinking and action."
+	],
+	dependencies: [
+		"db627b72"
+	],
 	tasks: [{
-		uid: "6d339795",
+		uid: "548c3b87",
 		type: "item",
 		items: [{
-			item: "minecraft:red_flower 1 2"
-		}]
+			item: "srparasites:assimilated_flesh"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "bc89f0fa",
+		type: "item",
+		item: "srparasites:evolutionlure 1 1"
+	},
+	{
+		uid: "54e0c206",
+		type: "item",
+		item: "srparasites:evolutionlure 1 2"
 	}]
 }

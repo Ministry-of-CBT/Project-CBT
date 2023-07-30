@@ -43,7 +43,8 @@
 		uid: "17a5586c",
 		type: "item",
 		auto: "disabled",
-		item: "hbm:crate_metal"
+		item: "hbm:crate_metal",
+		count: 9
 	},
 	{
 		uid: "46d0c83b",
@@ -56,5 +57,15 @@
 		type: "item",
 		item: "srparasites:evolutionlure 1 7",
 		count: 16
+	},
+	{
+		uid: "d430770c",
+		type: "item",
+		item: "hbm:ducc"
+	},
+	{
+		uid: "f0f7005f",
+		type: "item",
+		item: "gregtech:meta_item_1 1 9"
 	}]
 }

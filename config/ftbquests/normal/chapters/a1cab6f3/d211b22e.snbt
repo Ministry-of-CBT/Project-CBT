@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	description: "Work in progress",
+	text: [
+		"So you just came here? Then let me introduce you how to survive in this meta right now.",
+		"",
+		"First - Get a light source as soon as possible. Silent Gem's glowing flowers do the trick and if you see one, grab it right away.",
+		"",
+		"In this modpack no more daylight for you. With TerraFirmaCraft and Scape and Run Parasites. things get harder.",
+		"",
+		"If you encounter a parasite unprepared just run away as fast as possible and if you're gonna fight anyway save all your important items to not lose it.",
+		"",
+		"Since there's no ingame guide unfortunately you may have to spend some hours looking up stuff on the wiki."
+	],
+	tasks: [{
+		uid: "1390c29e",
+		type: "checkmark",
+		title: "Getting Started: WIP"
+	}]
+}

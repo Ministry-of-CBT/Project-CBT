@@ -1,0 +1,62 @@
+{
+	icon: "hbm:coil_gold_torus",
+	x: -4.5d,
+	y: 12.5d,
+	shape: "heart",
+	description: "You found a treasure:",
+	text: [
+		"As Reimu and Marisa continued their journey, they stumbled upon a peculiar-looking structure in the distance. The closer they got, the more they realized it was a massive factory, belching out plumes of smoke and producing a constant symphony of clanks and hisses. The square-shaped villagers nearby seemed to be hard at work, transporting resources and maintaining the complex machinery.",
+		"",
+		"Curiosity piqued, the duo approached the factory and were met by a tall, imposing figure with a top hat and a stern expression. He introduced himself as Nigel, the overseer of the factory. Nigel explained that the factory was the heart of this cubey world, responsible for creating all the blocks and items that filled it. However, something was amiss. The factory had been facing a resource shortage, which was affecting its productivity and, consequently, the entire world's balance.",
+		"",
+		"With a sense of urgency, Nigel requested Reimu and Marisa's help in restoring the factory's operations. He handed them a list of rare resources needed for the production process. Some of the items on the list were familiar to the two, while others were entirely foreign. Nevertheless, Reimu and Marisa agreed to assist, understanding the importance of maintaining the world's equilibrium.",
+		"",
+		"Their quest to gather the rare resources took them to new and unexplored regions of the cubey landscape. They braved dangerous terrains, navigated treacherous caverns, and faced challenging puzzles to acquire what was needed. Along the way, they met more of the square-shaped villagers, some of whom joined their cause, offering valuable assistance and insights into the world's workings.",
+		"",
+		"As they progressed, Reimu and Marisa began to notice the impact of their actions on the environment. The world seemed to react to their choices, adapting and evolving based on the resources they collected and the quests they completed. It was as if their very presence shaped the cubey world's destiny.",
+		"",
+		"While the factory's needs were critical, Reimu couldn't shake the feeling that there was more to the story. She wondered if the resource shortage was a symptom of a deeper issue, something that required investigation beyond the immediate tasks at hand. Marisa, on the other hand, was fascinated by the technology and machinery in the factory, often pausing to tinker with the contraptions and discover new ways to optimize production.",
+		"",
+		"Throughout their adventure, Reimu and Marisa encountered challenges that tested not only their physical abilities but also their problem-solving skills. They had to use their wits and creativity to overcome obstacles, occasionally relying on their spell cards to clear the way forward.",
+		"",
+		"As they worked tirelessly to gather the required resources, the bond between Reimu and Marisa grew stronger. They relied on each other's strengths and supported one another during moments of doubt. The world they once thought was merely a game-like construct now felt like a living, breathing entity, and they both felt a sense of responsibility towards its inhabitants.",
+		"",
+		"With each rare resource they obtained, they returned to the factory and watched as Nigel and the square-shaped villagers set the machinery in motion. Slowly but surely, the factory came back to life, its productivity increasing as the resource shortage was alleviated. As a token of gratitude, Nigel gifted Reimu and Marisa a unique blueprint to craft an extraordinary flying broomstick, capable of reaching new heights in the cubey world."
+	],
+	dependencies: [
+		"9bff07e8"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "97b166a6",
+		type: "checkmark",
+		title: "Treasure"
+	},
+	{
+		uid: "1a80923a",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0fb33d70",
+		type: "item",
+		item: "hbm:geiger_counter"
+	},
+	{
+		uid: "56ca18a5",
+		type: "item",
+		item: "hbm:template_folder"
+	},
+	{
+		uid: "d4f8df2e",
+		type: "item",
+		item: "hbm:machine_press"
+	},
+	{
+		uid: "6231f676",
+		type: "item",
+		item: "hbm:machine_difurnace_off"
+	}]
+}
