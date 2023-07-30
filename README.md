@@ -57,6 +57,7 @@ Aight The Modlist are as follows.
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
 - [Here's what you're looking at (HWYLA)](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [Infinite Night](https://www.curseforge.com/minecraft/mc-mods/infinite-night)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Konkrete [Forge]](https://www.curseforge.com/minecraft/mc-mods/konkrete)
 - [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)

@@ -6,7 +6,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "03e25410572e922b2ad82bf71d73e5866a6e751791defa5c4a5e95e6b5ba8263"
+hash = "84c92c502e4cbe0653c9e714bbf99bcedab12ef653e4e460c7e28c2dcc2e0936"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -38,7 +38,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "fc52f3ffcacd087ba22eb3f48490668a8fc2ffac104bc916b4d024eb5a15eea4"
+hash = "7a5ac55251cf2f9c09e061219cdd8945b9a524ca92f762bf43bafa95b6d30f51"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
@@ -198,7 +198,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "f79195604bbc203200a9f49b90246257c47b4a22fb1ed4d3df74befaa059da3d"
+hash = "c0621de9c7e3bf6549399732af23c2fc71f6aeee98c40660226bbbc9376105d9"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -1198,7 +1198,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "9ca81fc41b8bcd953561e83fcdcac706f9c7cdd5f2a64bb73d3e58f0c5b78bf9"
+hash = "7bbfd333530598478c8b60db4111b71827371600ce40f892d0397f5563804304"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1270,7 +1270,7 @@ hash = "bb1f985b94fdf2644828536971ebd852306c515b385477ff353e952ff4f43fb4"
 
 [[files]]
 file = "config/splash.properties"
-hash = "bc1af5ed0438b2fc65459ac025c7b679b1c5c2544f65190936d795ae994d2c8f"
+hash = "c10dd0898cd7af89e0ea0918d5686cdba6ee7b4851df5c27d38322d2ee4a7813"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
@@ -1636,6 +1636,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/infinite-night.pw.toml"
+hash = "64e9c0de6d4474902f446f292ac14ac0eacc87a38a73b4e1f36146307e311695"
 metafile = true
 
 [[files]]

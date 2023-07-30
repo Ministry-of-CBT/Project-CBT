@@ -1,0 +1,13 @@
+name = "Infinite Night"
+filename = "innight-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e19be13a7a07a97df08cc551cb8ceebcb4ce6a86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2655836
+project-id = 310497
