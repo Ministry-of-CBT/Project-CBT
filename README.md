@@ -26,113 +26,29 @@ Will there be a curseforge upload: No but do it yourself.
 
 Aight The Modlist are as follows.
 
-NOTICE: MODLIST HAS BEEN REORDERED - THE OLD MODLIST HAS BEEN DEPRECATED - FEEL FREE TO RELINK THE MODLIST. NO MODS WERE REMOVED WITH ATLEAST 10 MODS ADDED
-
-Advancement Plaques [Forge]
-Ambience - Extras (Music Mod)
-Applied Energistics 2
-AsmodeusCore
-AtomicStryker's Battle Towers
-AttributeFix
-AutoRegLib
-Baubles
-Better Advancements
-BNBGamingLib
-Carry On
-Chameleon
-Clumps
-CodeChicken Lib 1.8.+
-Collective
-Cosmetic Armor Reworked
-Custom FoV (Fabric/Forge/Quilt)
-Custom Loading Screen
-Custom Window Title
-Dynamic Trees
-Dynamic Trees TFC
-Enchantment Descriptions
-Ex Nihilo: Creatio
-ExtraPlanets
-FancyMenu [Forge]
-FastFurnace
-FastWorkbench
-First Join Message
-Foam​Fix
-FTB Backups (Forge)
-FTB Library (Forge) (Legacy)
-FTB Quests (Forge)
-Galacticraft Legacy
-Galaxy Space [Addon for GalactiCraft]
-Gregicality Multiblocks
-GregTech CE Unofficial
-GregTech Food Option
-Had Enough Items
-Hardcore Darkness
-Hardcore Revival
-Hbm's Nuclear Tech - Extended Edition
-Hwyla
-Infinite Night
-Item Filters
-JustEnoughIDs
-Konkrete [Forge]
-Legendary Tooltips [Forge]
-Let Me Despawn
-Loading Profiler
-Loading Progress Bar
-Loading Screens
-Load My Resources [Forge]
-Mantle
-Mixin 0.7-0.8 Compatibility
-MixinBooter
-MJRLegends Lib
-More Planets - Galacticraft Add-on
-More Player Models
-Nuclear Option
-Patchouli
-Quark
-Reach Fix
-Refined Storage
-Resource Loader
-RLCombat
-Scaling Health
-Scape and Run: Parasites
-Shadowfacts' Forgelin
-Silent's Gems
-Silent's Gems - TiC Support
-Silent Gear
-Silent Lib (silentlib)
-Sound Device Options
-Spartan Weaponry
-SteveKunG's Lib
-Storage Drawers
-SwingThroughGrass
-TerraFirmaCraft
-TerraFirmaThings
-TexFix
-Tinkers Construct
-Touhou Little Maid
-YUNG's Better Caves (Forge)
-YUNG's Better Mineshafts (Forge)
-Zollern Galaxy
-
-Old Modlist:
+NOTICE: MODLIST HAS BEEN REORDERED
 
 - [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 - [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
 - [AtomicStryker's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
-- [BNBGamingLibs](https://www.curseforge.com/minecraft/mc-mods/bnbgaminglib)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [BNBGamingLibs](https://www.curseforge.com/minecraft/mc-mods/bnbgaminglib)
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 - [Custom FoV (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/custom-fov)
 - [Custom Loading Screen](https://www.curseforge.com/minecraft/mc-mods/better-loading-screen)
 - [Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title)
+- [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
+- [Dynamic Trees TFC](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio)
 - [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)
@@ -153,9 +69,9 @@ Old Modlist:
 - [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
 - [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
-- [Here's what you're looking at (HWYLA)](https://www.curseforge.com/minecraft/mc-mods/hwyla)
-- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Infinite Night](https://www.curseforge.com/minecraft/mc-mods/infinite-night)
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Konkrete [Forge]](https://www.curseforge.com/minecraft/mc-mods/konkrete)
 - [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
@@ -168,27 +84,34 @@ Old Modlist:
 - [Mixin 0.7-0.8 Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility)
 - [MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)
 - [MJRLegends Lib](https://www.curseforge.com/minecraft/mc-mods/mjrlegendslib)
-- [More Player Models](https://www.curseforge.com/minecraft/mc-mods/more-player-models)
 - [More Planets - Galacticraft Add-on](https://www.curseforge.com/minecraft/mc-mods/more-planets-gc-addon)
+- [More Player Models](https://www.curseforge.com/minecraft/mc-mods/more-player-models)
 - [Nuclear Option](https://www.curseforge.com/minecraft/mc-mods/nuclear-option)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- [Reach Fix](https://www.curseforge.com/minecraft/mc-mods/reach-fix)
 - [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 - [Resource Loader](https://www.curseforge.com/minecraft/mc-mods/resource-loader)
+- [RLCombat](https://www.curseforge.com/minecraft/mc-mods/rlcombat)
 - [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health)
 - [Scape and Run - Parasites](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites)
 - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)
-- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
-- [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
 - [Silent's Gems - TiC Support](https://www.curseforge.com/minecraft/mc-mods/silents-gems-tic-support)
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+- [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
+- [Spartan Weaponry]()
 - [SteveKunG's Lib](https://www.curseforge.com/minecraft/mc-mods/stevekungs-lib)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
 - [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft)
 - [TerraFirmaThings](https://www.curseforge.com/minecraft/mc-mods/terrafirmathings)
 - [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix)
-- [Touhou Little Maid Mod](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Touhou Little Maid Mod](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
+- [YUNG's Better Caves (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
+- [YUNG's Better Mineshafts (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
 - [Zollern Galaxy](https://www.curseforge.com/minecraft/mc-mods/zollern-galaxy)
 
 ## Getting Started
