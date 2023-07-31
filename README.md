@@ -101,6 +101,11 @@ Aight The Modlist are as follows.
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Zollern Galaxy](https://www.curseforge.com/minecraft/mc-mods/zollern-galaxy)
 
+## Getting Started
+
+With the world at permanent nighttime with hardcore darkness you must find a glowing flower from Silent's Gems as it is the only natural light source spawning. If your surroundings doesn't have one, you are either fucked or you need to travel long way before finding a glowing flower.
+
+Then your true CBT experience begins.
 
 ## Lore
 
