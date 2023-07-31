@@ -24,6 +24,8 @@ Project CBT is the codename. The real name is Cock and Ball Touhouture: NuclearG
 
 Will there be a curseforge upload: No but do it yourself. 
 
+Yes there are releases and only dev releases exist for research purposes. 
+
 ## Project CBT - Modlist:
 
 Aight The Modlist are as follows.
