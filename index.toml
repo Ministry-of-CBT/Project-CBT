@@ -6,7 +6,11 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "5f6636b8e51f3430030c9f6feca15fea9a5e3c1bb00891ad4a1050e2b1f199c7"
+hash = "721fc76aca78a9d132dd9d70ef13845961fed521ede0bcd77064e3c4e6c1123d"
+
+[[files]]
+file = "SECURITY.md"
+hash = "9eab40092e3ad3bcb009a44a9e737a15a6a2130c9335ebc18c6040e233b3aec5"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -1586,6 +1590,11 @@ hash = "b5845b085b68412be56643fae73e648bdf47ec1d4b4e7bae9d530d3726cef124"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a9eb05b4ceb68aa65ddcba69918c28265e7247d83a8bd76993cdc0a800f8c5da"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
@@ -1636,6 +1645,11 @@ hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
+metafile = true
+
+[[files]]
 file = "mods/custom-fov.pw.toml"
 hash = "159543668f332fc31c1c34add868208c5759b981e77ec88593fa89ea5906280c"
 metafile = true
@@ -1643,6 +1657,16 @@ metafile = true
 [[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "b7ba2673bb1b553597639acecaf83a76fec2602c6c031011e6f2062e347dca2e"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreestfc.pw.toml"
+hash = "0832513cd5c95a2c25051b8c36e07514b8d8f89596b18a7aeb164412b3f79d3e"
 metafile = true
 
 [[files]]
@@ -1841,8 +1865,18 @@ hash = "dedcb7ffa7557a537d20e2edc1761a1ac03e2c48db6caf0b2da2ed7caca0fd5f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+metafile = true
+
+[[files]]
+file = "mods/reach-fix.pw.toml"
+hash = "d374d3ce42712fd6815f2ce8476e93f5fb1c7bfed447860f33cb2ddead82d5fc"
 metafile = true
 
 [[files]]
@@ -1853,6 +1887,11 @@ metafile = true
 [[files]]
 file = "mods/resource-loader.pw.toml"
 hash = "5b23fff02027846cadc887ffe26fce12a4e20bdee2cc0c06732897a44f364357"
+metafile = true
+
+[[files]]
+file = "mods/rlcombat.pw.toml"
+hash = "e26495fd039c9a4131dd480aea9d6b8a47cc9039a53209142e2c834a305c6cda"
 metafile = true
 
 [[files]]
@@ -1891,6 +1930,11 @@ hash = "4ab138f7c54a88f762a7ddf8b7d397a05477d708b8f043821d9faf0a684260fa"
 metafile = true
 
 [[files]]
+file = "mods/spartan-weaponry.pw.toml"
+hash = "3b7b6c25c4e625c673b05145ddb986260d730afbc1b2970f86d19666cc78ccdd"
+metafile = true
+
+[[files]]
 file = "mods/stevekungs-lib.pw.toml"
 hash = "50d06c55022b9dcdfe9d9564fd4d2ff38abbc227a57f1626f9ed6f8d006962c7"
 metafile = true
@@ -1898,6 +1942,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
@@ -1923,6 +1972,16 @@ metafile = true
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "88f0e129a606601a53dd3133013bec497e7f08c5eea86eb8473e165d8fe0b2e4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "9b56c87a5c4a4086096082adef912aa826248ed2a1b3dec4259c16bbc4bf448c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
 metafile = true
 
 [[files]]

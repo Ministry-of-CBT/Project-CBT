@@ -1,0 +1,13 @@
+name = "RLCombat"
+filename = "RLCombat-1.12.2-2.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0cdb26d27e99a1f889a8ffbf5b51d4d9bc2b9ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4373489
+project-id = 711714
