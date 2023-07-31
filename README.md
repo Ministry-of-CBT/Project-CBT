@@ -130,7 +130,7 @@ clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforg
 
 Leaked WIP Questline for Public Domain Purposes - May get updated as new quests drop.
 
-![2023-07-29_15 48 20](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/bd1ec21e-afcc-4c13-8fb2-c747a49a7a66)
+![2023-07-30_23 25 53](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/f76df413-7616-451d-8535-053ae740242b)
 
 ---
 
