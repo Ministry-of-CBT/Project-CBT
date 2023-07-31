@@ -4,6 +4,8 @@ AN INDEV RELEASE HAS BEEN MADE! DO NOT USE IT FOR ACTUAL GAMEPLAY.
 
 EXPECT A NEW RELEASE ATLEAST IN THE SPAN OF A FEW DAYS
 
+ALSO IN THE FUTURE SECURITY.MD WILL BE USED TO DENOTE FULL RELEASES SO YEAH
+
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
 ## Banner
@@ -99,6 +101,11 @@ Aight The Modlist are as follows.
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Zollern Galaxy](https://www.curseforge.com/minecraft/mc-mods/zollern-galaxy)
 
+## Getting Started
+
+With the world at permanent nighttime with hardcore darkness you must find a glowing flower from Silent's Gems as it is the only natural light source spawning. If your surroundings doesn't have one, you are either fucked or you need to travel long way before finding a glowing flower.
+
+Then your true CBT experience begins.
 
 ## Lore
 
@@ -128,7 +135,7 @@ clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforg
 
 Leaked WIP Questline for Public Domain Purposes - May get updated as new quests drop.
 
-![2023-07-29_15 48 20](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/bd1ec21e-afcc-4c13-8fb2-c747a49a7a66)
+![2023-07-30_23 25 53](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/f76df413-7616-451d-8535-053ae740242b)
 
 ---
 
@@ -148,7 +155,7 @@ Leaked WIP Questline for Public Domain Purposes - May get updated as new quests 
 
 ---
 
-Licensing
+# Licensing
 
-Read The Fucking License for the one person who asked for it.txt
+Read LICENSE.MD
 
