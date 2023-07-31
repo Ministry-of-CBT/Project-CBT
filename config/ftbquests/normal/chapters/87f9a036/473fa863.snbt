@@ -1,0 +1,26 @@
+{
+	title: "What do we have next...",
+	x: -13.0d,
+	y: 1.0d,
+	text: [
+		"Once HBMTheBobCat was safely returned to his own realm, Marisa and Reimu emerged from the hole. The cubey world seemed quieter now, as if the energies that had been swirling around them had finally found their balance.",
+		"",
+		"\"We did well,\" Reimu said, looking at Marisa with appreciation.",
+		"",
+		"Marisa grinned. \"Teamwork, my dear. Teamwork and a touch of reckless curiosity.\"",
+		"",
+		"They both laughed, knowing that their adventures were far from over. But for now, they had restored peace to their world and helped an ancient guardian find his way home. With renewed determination, they set off towards new horizons, ready to face whatever challenges and wonders lay ahead."
+	],
+	dependencies: [
+		"62c655a1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f2ed5d9d",
+		type: "item",
+		items: [{
+			item: "hbm:red_cable"
+		}],
+		count: 22L
+	}]
+}

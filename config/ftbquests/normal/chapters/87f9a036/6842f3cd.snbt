@@ -13,6 +13,7 @@
 		"33aaed07",
 		"6dcc41fb"
 	],
+	hide: true,
 	tasks: [{
 		uid: "a6f0628b",
 		type: "item",

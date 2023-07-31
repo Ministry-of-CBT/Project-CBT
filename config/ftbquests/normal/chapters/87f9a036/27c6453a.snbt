@@ -1,0 +1,109 @@
+{
+	title: "LIES!!! YOU DID NOT GOOGLE EN PASSSANT!!!!!!!",
+	x: -14.25d,
+	y: 8.25d,
+	shape: "heart",
+	description: "Lies Lies Lies Lies Lies Lies Lies",
+	text: [
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!! ",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!"
+	],
+	dependencies: [
+		"28c48607"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "a1b39ef0",
+		type: "item",
+		title: "Fuck you",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "materialStoneTool",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any materialStoneTool"
+				}
+			}
+		},
+		{
+			item: "tfc:raw/rocksalt"
+		},
+		{
+			ForgeCaps: {
+				Parent: {
+					data: "materialStoneTool",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any log"
+				}
+			}
+		}],
+		count: 690L
+	},
+	{
+		uid: "788a9f54",
+		type: "checkmark",
+		title: "Treasure"
+	}],
+	rewards: [{
+		uid: "f8a21fe9",
+		type: "item",
+		item: "hbm:ingot_aluminium",
+		count: 6
+	},
+	{
+		uid: "7b51b31c",
+		type: "item",
+		item: "hbm:ingot_beryllium"
+	},
+	{
+		uid: "c3b9dabc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:item_forge": {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				}
+			},
+			id: "minecraft:gold_ingot"
+		}
+	},
+	{
+		uid: "654ca3ff",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 7
+	},
+	{
+		uid: "4946dda7",
+		type: "item",
+		item: "hbm:crate_metal",
+		count: 3
+	}]
+}

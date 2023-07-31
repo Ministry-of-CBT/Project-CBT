@@ -1,0 +1,29 @@
+{
+	title: "to be done",
+	x: -14.5d,
+	y: 0.5d,
+	description: "To be done",
+	text: [
+		"Summon HBMTheBobCat in the world",
+		"",
+		"/j"
+	],
+	dependencies: [
+		"473fa863"
+	],
+	tasks: [{
+		uid: "380493fc",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_sword"
+		}],
+		count: 9777777L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "362ed58a",
+		type: "checkmark",
+		title: "I understand that this is a work in progress timeline."
+	}]
+}

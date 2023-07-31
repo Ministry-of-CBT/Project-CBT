@@ -1,0 +1,22 @@
+{
+	title: "Gregic Quest 4",
+	x: 5.5d,
+	y: 12.5d,
+	description: "Make a flint and steel for arson purposes.",
+	text: [
+		""
+	],
+	dependencies: [
+		"08003954"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6ad3ec99",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

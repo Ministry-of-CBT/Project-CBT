@@ -1,7 +1,7 @@
 {
 	title: "I demand iron from your inventory",
 	icon: "minecraft:iron_ore",
-	x: -10.5d,
+	x: -11.0d,
 	y: 12.0d,
 	description: "I will send you to Jesus",
 	text: [

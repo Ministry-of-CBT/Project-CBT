@@ -1,10 +1,12 @@
 {
 	title: "Gregic Quest 3",
-	x: -2.5d,
+	x: -4.0d,
 	y: 9.5d,
 	description: "A... A... A....",
 	text: [
-		"Cockomelon"
+		"Cockomelon",
+		"",
+		"OMG😲😲 IS THAT👉 A MOTHER👨‍👩‍👧‍👦FUCKING😊 🌟GREGTECH🌟🔧🔧🔧🔧 REFERENCE!??!?!? GregTech🔧🔧🔧🔧 is the best mod ever made!!!! 🏆🏆GregoriousT for universe leadership 2030 🪐🌌 👑👑👑When the 只有格雷格。 is greggy! 🔧🛠️🔧🛠️🔧🛠️🔧🛠️ Ultra super mega extreme voltage tier 😳😳😳Death😵"
 	],
 	dependencies: [
 		"7d571c3f"
@@ -14,7 +16,8 @@
 		type: "item",
 		items: [{
 			item: "gregtech:machine 1 5"
-		}]
+		}],
+		only_from_crafting: true
 	}],
 	rewards: [{
 		uid: "5e4e8eda",

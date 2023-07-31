@@ -1,16 +1,27 @@
 {
 	title: "Gregicality 1",
-	x: -3.5d,
+	x: -5.0d,
 	y: 11.0d,
-	description: "BullShit!",
+	description: "BullShit! WHAT IS THE PARASITES DOING ON MY LAND????? MARISSA HELP ME!!!!!!",
 	text: [
-		"WHAT IS THE PARASITES DOING ON MY LAND????? MARISSA HELP ME!!!!!! "
+		"During the travels, Marissa and Reimu stumbled upon a portal that seemed to open to another dimension...",
+		"",
+		"\"Google En Passant\"",
+		"",
+		"\"Holy Hell\"",
+		"",
+		"\"New Chess Move Just Dropped\"",
+		"",
+		"Is all they can hear from the portal...",
+		"",
+		"Intrigued... The two of them stepped in to...."
 	],
 	dependencies: [
 		"98b8abec",
 		"33aaed07",
 		"6dcc41fb"
 	],
+	hide: true,
 	tasks: [{
 		uid: "841e46ff",
 		type: "item",

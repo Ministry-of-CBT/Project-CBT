@@ -12,6 +12,7 @@
 	dependencies: [
 		"db627b72"
 	],
+	hide: true,
 	tasks: [{
 		uid: "548c3b87",
 		type: "item",

@@ -1,0 +1,38 @@
+{
+	title: "Enough....ENOUGH!!! ARGHHHHHHHHHHHHHHHHHHH!",
+	x: 4.5d,
+	y: 11.0d,
+	text: [
+		"With their newfound agility from the magic charm, Reimu and Marisa fought back against the parasitic invasion. They discovered that the parasites were weak to purification magic, and with a well-timed barrage of purification shots and spells, they managed to cleanse some of the villagers from the parasitic influence.",
+		"",
+		"But the parasites were relentless. As they defeated one group, more seemed to emerge from the shadows. Reimu realized that they had to find the source of the parasitic infestation and put an end to it once and for all.",
+		"",
+		"Following the trail of infected villagers, they reached a massive, grotesque tree that seemed to be the epicenter of the parasitic outbreak. Its roots burrowed deep into the ground, and its branches stretched ominously towards the sky.",
+		"",
+		"\"This must be it,\" Reimu said with conviction. \"We have to destroy this tree to stop the parasites.\""
+	],
+	dependencies: [
+		"1d63882d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "efacac32",
+		type: "item",
+		items: [{
+			item: "srparasites:gore"
+		}],
+		count: 5L
+	},
+	{
+		uid: "0c7fb3da",
+		type: "item",
+		items: [{
+			item: "srparasites:gore 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "383f4d41",
+		type: "item",
+		item: "srparasites:evolutionlure 1 1"
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	title: "Sympathy for you HBMTheBobCat i guess?????",
+	x: -11.5d,
+	y: 1.5d,
+	description: "i need coal to power my estrogen factory",
+	text: [
+		"HBMTheBobCat looked pensive. \"I understand the consequences of my actions. However, I am trapped in this realm, unable to return to my own dimension. The fallout and chaos you witnessed were not intentional, but rather a side effect of my desperate attempts to escape.\"",
+		"",
+		"Marisa exchanged glances with Reimu, and they both empathized with the trapped guardian. \"We can help you,\" Marisa offered. \"Our abilities might be able to open a portal back to your dimension.\"",
+		"",
+		"\"Really?\" HBMTheBobCat's eyes shimmered with hope.",
+		"",
+		"\"Of course,\" Reimu said firmly. \"But you must promise never to cause such destruction again, intentionally or not.\"",
+		"",
+		"\"I swear,\" HBMTheBobCat replied solemnly. \"My purpose is to maintain harmony, not chaos.\"",
+		"",
+		"With a combined effort of Marisa's magical expertise and Reimu's spiritual power, they managed to create a portal leading back to HBMTheBobCat's dimension. As the guardian passed through, he thanked them profusely, promising that he would make amends for the damage caused."
+	],
+	dependencies: [
+		"a8f2f8be"
+	],
+	hide: true,
+	tasks: [{
+		uid: "43f24fdd",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 36L
+	}],
+	rewards: [{
+		uid: "7cfec186",
+		type: "item",
+		title: "You are funny. You thought you can abuse the coal to diamond generator huh?",
+		item: "minecraft:diamond"
+	},
+	{
+		uid: "52c0f2a7",
+		type: "command",
+		title: "Free Schrabidium Hammer??????",
+		icon: "hbm:schrabidium_hammer",
+		auto: "disabled",
+		command: "/me is now available for CBT session yehey",
+		player_command: true
+	}]
+}

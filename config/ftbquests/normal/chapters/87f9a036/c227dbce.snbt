@@ -12,9 +12,13 @@
 		"",
 		"Gear shaped quests open to new quests",
 		"",
-		"Circle shaped quests are considered as Endings for the Story Mode",
+		"Big Circle shaped quests are considered as Endings for the Story Mode",
 		"",
-		"Heart shaped quests are treasures which don't have an ending and leaves a cliff hanger"
+		"Heart shaped quests are treasures which don't have an ending and leaves a cliff hanger.",
+		"",
+		"You can play completely without story mode quests but that would make you suffer emotional damage from having no direction to go at.",
+		"",
+		"Also note: You are free to make a wiki for this modpack.."
 	],
 	tasks: [{
 		uid: "11ad4c49",

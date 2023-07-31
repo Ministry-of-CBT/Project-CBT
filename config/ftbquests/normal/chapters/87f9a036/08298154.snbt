@@ -1,0 +1,31 @@
+{
+	title: "GregChess",
+	x: -6.5d,
+	y: 12.0d,
+	description: "e.a.e.a.e.a.e.a.e.a.e.a.e.a",
+	text: [
+		"An Encounter with the chess realm",
+		"",
+		"The duo couldn't ignore the whispers from the chess realm that seemed to echo in the depths of their minds. \"Google En Passant!\" \"Holy Hell!\" \"Actual Zombie\" \"Bishop goes on vacation, never comes back\" \"I will brick your pipi\" – the strange chess phrases puzzled them, and they wondered if they were somehow connected to the ancient civilization's secrets.",
+		"",
+		"As they explored further, they discovered a peculiar portal hidden within the ruins. The portal shimmered with a mix of colors, seemingly a gateway to another realm. Curiosity got the better of them, and against their better judgment, they decided to step through.",
+		"",
+		"In an instant, they found themselves in a realm entirely different from the cubey landscape they were used to. Everything had a distinct chess theme, and the ground was a checkered board that stretched as far as the eye could see. Reimu and Marisa were bewildered but intrigued by this surreal new world."
+	],
+	dependencies: [
+		"9bff07e8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a7fc209c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1210"
+		}]
+	}],
+	rewards: [{
+		uid: "80ec3954",
+		type: "item",
+		item: "hbm:crate"
+	}]
+}

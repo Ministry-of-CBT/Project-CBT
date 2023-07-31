@@ -18,7 +18,7 @@
 		id: "gregtech:meta_dust",
 		Damage: 41s
 	},
-	x: -10.0d,
+	x: -10.5d,
 	y: 10.0d,
 	description: "I hate bullshit",
 	text: [

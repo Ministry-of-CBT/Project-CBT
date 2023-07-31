@@ -1,25 +1,37 @@
 {
-	x: -9.5d,
-	y: 15.5d,
+	title: "Aha... I think i know where this is going...",
+	x: -11.0d,
+	y: 14.0d,
+	description: "Haha where the copper?",
+	text: [
+		"The Chess Realm was a stunning sight to behold. A vast expanse of checkered landscapes sprawled out before Reimu and Marisa, each square a portal to new adventures and puzzles. As they navigated through the realm, they noticed that the colors of the squares alternated between light and dark, resembling a traditional chessboard.",
+		"",
+		"\"It's like a chess game come to life,\" Marisa remarked, examining the surrounding environment with fascination.",
+		"",
+		"Reimu nodded in agreement. \"And it seems like we're the pieces in this game. I wonder what challenges lie ahead.\"",
+		"",
+		"As they ventured further, they encountered various chess-themed creatures and entities. Pawns that moved with unwavering determination, knights that leaped in graceful arcs, rooks that rolled like thundering boulders, bishops that glided with an air of mystique, and knights that bounded with the elegance of a dancer. Each piece had its own personality and quirks, adding an element of unpredictability to the realm."
+	],
+	dependencies: [
+		"2f1d3d50"
+	],
 	tasks: [{
 		uid: "c247ab86",
 		type: "item",
 		items: [{
 			ForgeCaps: {
-				"tfc:item_forge": {
-					heat: 0.0f,
-					ticks: -1L,
-					forge: {
-						work: 0,
-						steps: {
-							last: -1,
-							third: -1,
-							second: -1
-						}
-					}
+				Parent: {
+					data: "ingotCopper",
+					id: "ore"
 				}
 			},
-			id: "hbm:ingot_copper"
-		}]
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotCopper"
+				}
+			}
+		}],
+		count: 14L
 	}]
 }

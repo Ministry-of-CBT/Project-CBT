@@ -13,11 +13,13 @@
 	dependencies: [
 		"49973a4a"
 	],
+	hide: true,
 	tasks: [{
 		uid: "7128fbf4",
 		type: "item",
 		items: [{
 			item: "gregtech:machine 1 1"
-		}]
+		}],
+		only_from_crafting: true
 	}]
 }

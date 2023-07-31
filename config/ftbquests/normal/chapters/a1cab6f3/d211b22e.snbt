@@ -17,5 +17,10 @@
 		uid: "1390c29e",
 		type: "checkmark",
 		title: "Getting Started: WIP"
+	}],
+	rewards: [{
+		uid: "b8182858",
+		type: "item",
+		item: "silentgems:glowrose 1 14"
 	}]
 }

@@ -1,0 +1,32 @@
+{
+	title: "Chess Mysteries",
+	x: -12.0d,
+	y: 13.0d,
+	description: "Go Reimu and Marisa!",
+	text: [
+		"With each victory, the chess realm's beings would offer cryptic riddles and puzzles. The answers they provided held clues about the true nature of the factory and its purpose in this world. Reimu and Marisa had to put their heads together, deciphering these enigmas and gaining a deeper understanding of their mission.",
+		"",
+		"As they delved deeper into the chess realm, they also uncovered the reason behind the strange phrases they had heard earlier. The chess beings' language had a unique charm and wit, much like the chess community's banter during intense matches."
+	],
+	dependencies: [
+		"80a92b5b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "427e1919",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 985"
+		}]
+	}],
+	rewards: [{
+		uid: "af39e770",
+		type: "item",
+		item: "gregtech:meta_item_1 1 9"
+	},
+	{
+		uid: "a67fe43a",
+		type: "item",
+		item: "gregtech:meta_item_1 1 460"
+	}]
+}

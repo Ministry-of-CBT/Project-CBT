@@ -9,5 +9,18 @@
 	tasks: [{
 		uid: "419c0292",
 		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "08554e1b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 6000L
+				}
+			},
+			id: "tfc:food/cooked_egg"
+		}
 	}]
 }

@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: 9.5d,
+	dependencies: [
+		"1d63882d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5f62090f",
+		type: "xp",
+		value: 169L,
+		points: false
+	},
+	{
+		uid: "142868b2",
+		type: "item",
+		items: [{
+			item: "silentgems:glowrose 1 11"
+		}]
+	}]
+}

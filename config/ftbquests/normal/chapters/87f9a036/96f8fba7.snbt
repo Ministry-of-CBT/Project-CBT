@@ -1,0 +1,53 @@
+{
+	title: "The Chessboard Plaza",
+	x: -11.0d,
+	y: 16.0d,
+	text: [
+		"After traveling for what felt like hours, they arrived at a vast chessboard plaza where an extraordinary sight awaited them. The chessboard was massive, with life-sized chess pieces placed neatly in their starting positions. The entire board was meticulously crafted, and the pieces stood like guardians of an ancient temple.",
+		"",
+		"At the center of the plaza stood the queen-like figure they had encountered earlier, watching over the chessboard with a serene expression. She turned towards Reimu and Marisa as they approached, a hint of approval in her eyes.",
+		"",
+		"\"You have come far,\" the queen-like figure said, her voice resonating with wisdom. \"Now, you must face a challenge that will test your strategic acumen and teamwork.\"",
+		"",
+		"Reimu and Marisa exchanged glances, understanding the gravity of the situation. They knew that this challenge was more than just a game; it held the key to unraveling deeper truths about the Chess Realm.",
+		"",
+		"\"Your objective is to conquer this chessboard together,\" the queen-like figure continued. \"You will lead the white pieces, and your opponent will be a formidable force representing the black pieces. Remember, this is not just about winning the game; it's about the choices you make and the bonds you strengthen as you play.\""
+	],
+	dependencies: [
+		"d50aa99b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7a575801",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 66000L
+				}
+			},
+			id: "tfc:food/red_apple"
+		},
+		{
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 66000L
+				}
+			},
+			id: "tfc:food/green_apple"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "9c006bb6",
+		type: "item",
+		item: "hbm:crate"
+	},
+	{
+		uid: "abc85458",
+		type: "item",
+		item: "hbm:crowbar"
+	}]
+}

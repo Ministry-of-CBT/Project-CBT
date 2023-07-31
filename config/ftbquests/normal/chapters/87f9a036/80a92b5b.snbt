@@ -1,0 +1,52 @@
+{
+	title: "Defeating the chess beings...",
+	x: -10.0d,
+	y: 13.0d,
+	description: "Oh hell no",
+	text: [
+		"And then they saw them – the chess pieces come to life. The \"Google En Passant\" was a rook-like creature with the ability to shift through dimensions, while the \"Actual Zombie\" was a menacing pawn that regenerated upon defeat. The \"Bishop goes on vacation, never comes back\" was a mischievous knight, and the \"I will brick your pipi\" was a formidable queen with deadly brick-based attacks.",
+		"",
+		"They realized that these were not mere chess pieces but powerful beings guarding the secrets of this realm. Each had its unique abilities, and Reimu and Marisa had to employ every tactic they knew to face them in battle.",
+		"",
+		"As they defeated the chess beings one by one, they began to grasp the significance of the chess realm. It seemed to be an alternate dimension where the forgotten civilization had brought the game of chess to life, imbuing it with mystical powers. They wondered if mastering this realm could aid them in their main quest to build the mysterious factory."
+	],
+	dependencies: [
+		"84afaa03"
+	],
+	hide: true,
+	tasks: [{
+		uid: "22921771",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1180"
+		}]
+	},
+	{
+		uid: "8719ba90",
+		type: "kill",
+		entity: "minecraft:enderman",
+		value: 6L
+	}],
+	rewards: [{
+		uid: "94023912",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:item_forge": {
+					heat: 0.0f,
+					ticks: -1L,
+					forge: {
+						work: 0,
+						steps: {
+							last: -1,
+							third: -1,
+							second: -1
+						}
+					}
+				}
+			},
+			id: "hbm:ingot_steel"
+		},
+		count: 4
+	}]
+}

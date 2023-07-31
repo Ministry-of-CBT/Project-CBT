@@ -1,0 +1,39 @@
+{
+	title: "haha bread",
+	x: -8.0d,
+	y: 16.5d,
+	description: "Bread bread bread bread bread bread bread bread",
+	text: [
+		"With renewed determination, Reimu and Marisa took their places at the helm of the white pieces. The black pieces started moving, and the game was underway. Each move was critical, and they had to think several steps ahead to outwit their opponent",
+		"",
+		"1.d4Nf6 2.Nf3d5 3.g3e6 4.Bg2Be7 5.O-OO-O 6.b3c57. 8.c4dxc4 9.Qc2Qe7 10.Nbd2Nc6 11.Nxc4b5 12.Nce5Nb4 13.Qb2Bb7 14.a3Nc6 15.Nd3Bb6 16.Bg5Rfd8 17.Bxf6gxf6 18.Rac1Nd4 19.Nxd4Bxd4 20.Qa2Bxg2 21.Kxg2Qb7+ 22.Kg1Qe4 23.Qc2a5 24.Rfd1Kg7 25.Rd2Rac8 26.Qxc8Rxc8 27.Rxc8Qd5 28.b4a4 29.e3Be5 30.h4h5 31.Kh2Bb2 32.Rc5Qd6 33.Rd1Bxa3 34.Rxb5Qd7 35.Rc5e5 36.Rc2Qd5 37.Rdd2Qb3 38.Ra2e4 39.Nc5Qxb4 40.Nxe4Qb3 ",
+		"",
+		"As the game progressed, they encountered challenges they had never faced before. The chess pieces' personalities came into play, making unexpected moves and surprising them with their creativity and intelligence. Reimu and Marisa had to adapt quickly and communicate effectively to succeed.",
+		"",
+		"41.Rac2Bf8 42.Nc5Qb5 43.Nd3a3 44.Nf4Qa5 45.Ra2Bb4 46.Rd3Kh6 47.Rd1Qa4 48.Rda1Bd6 49.Kg1Qb3 50.Ne2Qd3 51.Nd4Kh7 52.Kh2Qe4 53.Rxa3Qxh4+ 54.Kg1Qe4 55.Ra4Be5 56.Ne2Qc2 57.R1a2Qb3 58.Kg2Qd5+ 59.f3Qd1 ",
+		"",
+		"Time seemed to lose its meaning as they delved deeper into the intricate strategies of the chess game. They could feel the realm's energy resonating with their every move, as if their choices held the power to shape reality itself.",
+		"",
+		"60.f4Bc7 61.Kf2Bb6 62.Ra1Qb3 63.Re4Kg7 64.Re8f5 65.Raa8Qb4 66.Rac8Ba5 67.Rc1Bb6 68.Re5Qb3 69.Re8Qd5 70.Rcc8Qh1 71.Rc1Qd5 72.Rb1Ba7 73.Re7Bc5 74.Re5Qd3 75.Rb7Qc2 76.Rb5Ba7 77.Ra5Bb6 78.Rab5Ba7 79.Rxf5Qd3 80.Rxf7+Kxf7 81.Rb7+Kg6 82.Rxa7Qd5 83.Ra6+Kh7 84.Ra1Kg6 85.Nd4Qb7 86.Ra2Qh1 87.Ra6+Kf7 88.Nf3Qb1 89.Rd6Kg7 90.Rd5Qa2+ 91.Rd2Qb1 92.Re2Qb6 93.Rc2Qb1 94.Nd4Qh1 95.Rc7+Kf6 96.Rc6+Kf7 97.Nf3Qb1 98.Ng5+Kg7  99.Ne6+Kf7 100.Nd4Qh1 101.Rc7+Kf6 102.Nf3Qb1 103.Rd7Qb2+ 104.Rd2Qb1 105.Ng1Qb4 106.Rd1Qb3 107.Rd6+Kg7 108.Rd4Qb2+ 109.Ne2Qb1 110.e4Qh1 111.Rd7+Kg8 112.Rd4Qh2+ 113.Ke3h4 114.gxh4Qh3+ 115.Kd2Qxh4 116.Rd3Kf8 117.Rf3Qd8+ 118.Ke3Qa5 119.Kf2Qa7+ 120.Re3Qd7 121.Ng3Qd2+ 122.Kf3Qd1+ 123.Re2Qb3+ 124.Kg2Qb7 125.Rd2Qb3 126.Rd5Ke7 127.Re5+Kf7 128.Rf5+Ke8 129.e5Qa2+ 130.Kh3Qe6 131.Kh4Qh6+ 132.Nh5Qh7 133.e6Qg6 134.Rf7Kd8  135.f5Qg1 136.Ng71-0",
+		"",
+		"Eventually, after countless moves and intense moments, they found themselves standing victorious. The black pieces conceded defeat, and the chessboard plaza filled with a sense of harmony and contentment."
+	],
+	dependencies: [
+		"712b1359"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5fea5968",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"tfc:food": {
+					traits: [],
+					creationDate: 72000L
+				}
+			},
+			id: "minecraft:bread"
+		}],
+		count: 7L
+	}]
+}

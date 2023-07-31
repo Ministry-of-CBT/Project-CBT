@@ -1,0 +1,26 @@
+{
+	title: "HBMTheBobCat? What are you doing here???",
+	x: -10.5d,
+	y: 2.5d,
+	description: "Excuse me Aren't you supposed to be adding Estrogen processing chain in the NTM mod????",
+	text: [
+		"\"Hold on,\" Reimu warned, sensing that HBMTheBobCat's power was immense. \"We don't want to provoke it.\"",
+		"",
+		"Marisa, however, had a different approach in mind. \"Hey, HBMTheBobCat! What's the big idea causing nuclear explosions and wreaking havoc in our cubey world?\"",
+		"",
+		"The creature regarded them, and its growl softened somewhat. \"I am HBMTheBobCat,\" it spoke in a deep, reverberating voice that seemed to echo in their minds. \"I was summoned here accidentally, and my powers have gone haywire in this realm. I am the guardian of mystical energies and the balance of magic across dimensions.\"",
+		"",
+		"Reimu furrowed her brows. \"Guardian or not, causing nuclear explosions is unacceptable. You need to stop immediately!\""
+	],
+	dependencies: [
+		"42843a02"
+	],
+	hide: true,
+	tasks: [{
+		uid: "baa02f55",
+		type: "item",
+		items: [{
+			item: "hbm:machine_difurnace_off"
+		}]
+	}]
+}

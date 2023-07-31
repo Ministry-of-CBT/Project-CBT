@@ -1,0 +1,13 @@
+{
+	title: "Coming Soon",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Probably after finishing the touhou x gtnh storyline or when i get bored i will probably start here. I plan this to be another canon universe. "
+	],
+	tasks: [{
+		uid: "506fbb2e",
+		type: "checkmark",
+		title: "Coming Soon."
+	}]
+}

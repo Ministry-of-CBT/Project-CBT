@@ -1,7 +1,7 @@
 {
 	icon: "hbm:coil_gold_torus",
 	x: -4.5d,
-	y: 12.5d,
+	y: 12.75d,
 	shape: "heart",
 	description: "You found a treasure:",
 	text: [
@@ -21,7 +21,9 @@
 		"",
 		"As they worked tirelessly to gather the required resources, the bond between Reimu and Marisa grew stronger. They relied on each other's strengths and supported one another during moments of doubt. The world they once thought was merely a game-like construct now felt like a living, breathing entity, and they both felt a sense of responsibility towards its inhabitants.",
 		"",
-		"With each rare resource they obtained, they returned to the factory and watched as Nigel and the square-shaped villagers set the machinery in motion. Slowly but surely, the factory came back to life, its productivity increasing as the resource shortage was alleviated. As a token of gratitude, Nigel gifted Reimu and Marisa a unique blueprint to craft an extraordinary flying broomstick, capable of reaching new heights in the cubey world."
+		"With each rare resource they obtained, they returned to the factory and watched as Nigel and the square-shaped villagers set the machinery in motion. Slowly but surely, the factory came back to life, its productivity increasing as the resource shortage was alleviated. As a token of gratitude, Nigel gifted Reimu and Marisa a unique blueprint to craft an extraordinary flying broomstick, capable of reaching new heights in the cubey world.",
+		"------------------------",
+		"And that will be it for today. This is an alternative timeline that you have found. There is no ending and you can make your own conclusions on this timeline."
 	],
 	dependencies: [
 		"9bff07e8"

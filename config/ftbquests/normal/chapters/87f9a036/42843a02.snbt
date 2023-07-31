@@ -1,11 +1,51 @@
 {
+	title: "Suddenly a nuke was dropped....",
 	x: -9.0d,
 	y: 3.5d,
+	description: "oh no what happened to my fan fav Marissa?",
+	text: [
+		"As the last remnants of the quest book vanished into thin air, Marisa and Reimu exchanged satisfied looks. They had dealt with the potential danger posed by the book, but their curiosity about HBMTheBobCat persisted.",
+		"",
+		"\"Well, that's one problem solved,\" Reimu said, brushing her hands clean. \"Now, let's find out what that giant hole is all about.\"",
+		"",
+		"They approached the gaping pit cautiously, still wary of potential hazards. The edges of the hole were jagged and rough, as if something powerful had caused it. Peering inside, they saw a dim light emanating from the depths, and strange magical energies seemed to be swirling within.",
+		"",
+		"\"Looks like we found the source of all that chaos,\" Marisa said, her eyes glinting with excitement.",
+		"",
+		"\"Should we investigate further?\" Reimu asked, not quite sure what they might encounter.",
+		"",
+		"Marisa nodded firmly. \"Of course! It's what we do, right? Let's see if this HBMTheBobCat is responsible for all the destruction.\"",
+		"",
+		"As they descended into the hole, the temperature dropped significantly. The walls seemed to pulse with residual energy, and the air felt heavy with ancient power. The further they ventured, the more evident it became that they were treading in a realm untouched by human or yokai hands.",
+		"",
+		"At the heart of the abyss, they finally caught sight of HBMTheBobCat. The creature was like nothing they had ever seen before - a massive bobcat with ethereal, shimmering fur that seemed to blend with the magical essence surrounding it. Its eyes were pools of mystic energy, and as it noticed their presence, it let out a low, resonating growl."
+	],
+	dependencies: [
+		"b0460b85"
+	],
+	hide: true,
 	tasks: [{
 		uid: "d5532317",
 		type: "item",
 		items: [{
-			item: "gregtech:machine 1 1"
+			item: "hbm:machine_press"
 		}]
+	},
+	{
+		uid: "a9d147cb",
+		type: "item",
+		items: [{
+			item: "silentgems:glowrose 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "e264259c",
+		type: "item",
+		item: {
+			id: "hbm:battery_generic",
+			tag: {
+				charge: 5000L
+			}
+		}
 	}]
 }

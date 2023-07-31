@@ -1,6 +1,6 @@
 {
 	title: "Gregic Quest 2",
-	x: -0.5d,
+	x: -1.0d,
 	y: 9.5d,
 	description: "Rehehehehehehe",
 	text: [
@@ -45,7 +45,8 @@
 		type: "item",
 		items: [{
 			item: "gregtech:machine 1 2"
-		}]
+		}],
+		only_from_crafting: true
 	}],
 	rewards: [{
 		uid: "3b70387a",

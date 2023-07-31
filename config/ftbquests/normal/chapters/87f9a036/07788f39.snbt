@@ -11,5 +11,11 @@
 	tasks: [{
 		uid: "9a56c341",
 		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "3b968c32",
+		type: "item",
+		auto: "enabled",
+		item: "hbm:rbmk_pellet_drx 1 9"
 	}]
 }

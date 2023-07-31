@@ -1,5 +1,5 @@
 {
-	title: "1000 Cobblestone Blocks????????",
+	title: "100 Cobblestone Blocks????????",
 	icon: {
 		id: "exnihilocreatio:crook_tconstruct",
 		tag: {
@@ -68,7 +68,7 @@
 				}
 			}
 		}],
-		count: 1000L
+		count: 100L
 	}],
 	rewards: [{
 		uid: "7e864ac8",

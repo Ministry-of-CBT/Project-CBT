@@ -4,7 +4,7 @@
 	x: -6.0d,
 	y: 7.5d,
 	shape: "circle",
-	description: "You found one of the good endings... Explore the other paths to see the other endings",
+	description: "You found one... Complete to see the ending",
 	text: [
 		"\"That takes care of that,\" Reimu said with a sense of relief.",
 		"",
@@ -22,6 +22,7 @@
 		"613e1fa3"
 	],
 	hide: true,
+	hide_text_until_complete: true,
 	size: 2.0d,
 	tasks: [{
 		uid: "c5bce63b",

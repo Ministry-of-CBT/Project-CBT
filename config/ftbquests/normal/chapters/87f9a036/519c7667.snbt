@@ -2,9 +2,14 @@
 	title: "Try to defend yourself from parasites...",
 	x: 2.0d,
 	y: 11.0d,
+	description: "Fuck you and suffer",
 	text: [
-		""
+		"Notice: all parasites are now labeled as creatures of the lunarians"
 	],
+	dependencies: [
+		"6f19927b"
+	],
+	hide: true,
 	tasks: [{
 		uid: "f0d4d105",
 		type: "kill",

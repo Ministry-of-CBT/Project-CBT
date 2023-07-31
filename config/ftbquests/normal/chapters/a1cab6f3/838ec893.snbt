@@ -13,5 +13,17 @@
 	tasks: [{
 		uid: "7d8eb028",
 		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "e42691c3",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "hbm:entity_ntm_fbi"
+				}
+			}
+		}
 	}]
 }

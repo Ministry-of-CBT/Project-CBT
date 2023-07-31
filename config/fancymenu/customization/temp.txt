@@ -272,7 +272,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Opening Music: \nSweet Dreams (greg.mp3) \nNuked Out Dance Party\nAlbum By DJ Smokey
+  source = Opening Music: \nSweet Dreams (greg.mp3) \nNuked Out Dance Party\nBad Apple *Metal*\nSmile - Butterfly (Metal)
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -281,9 +281,9 @@ customization {
   width = 153
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 5eb87c10-1f35-41e5-8cc6-4f849f3c36071690428391378
-  y = -42
+  y = -52
   alignment = left
-  height = 40
+  height = 50
 }
 
 customization {

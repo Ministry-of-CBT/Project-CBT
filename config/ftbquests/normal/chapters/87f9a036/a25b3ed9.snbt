@@ -1,0 +1,42 @@
+{
+	title: "The Greg must keep gregging",
+	x: 2.0d,
+	y: 14.0d,
+	description: "Go craft ULV shit now or else the parasites will slice your spleen in half",
+	text: [
+		"Throughout their journey, the friendship between Reimu and Marisa deepened. They relied on each other's strengths, supported one another in times of difficulty, and celebrated each achievement as a team. The challenges they faced had only strengthened their bond.",
+		"",
+		"With their inventory brimming with valuable blocks, magic charms, and advanced equipment, Reimu and Marisa finally returned to the designated location to begin constructing the factory. The shadow figure of GregoriousT appeared once more, watching silently as they laid the foundation for the grand structure.",
+		"",
+		"As the factory's walls rose higher and higher, powered by the golden cubes they had collected, an aura of energy enveloped the area. The ground trembled, and the cubey landscape seemed to react to the construction of this colossal edifice. It was as if the world itself acknowledged the significance of their endeavor."
+	],
+	dependencies: [
+		"6f7bd6f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5e5348d3",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 985"
+		}]
+	},
+	{
+		uid: "96f0596e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine_casing"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "edb29e57",
+		type: "item",
+		item: "gregtech:machine 1 1150"
+	},
+	{
+		uid: "08849dbf",
+		type: "item",
+		item: "gregtech:machine 1 1165"
+	}]
+}
