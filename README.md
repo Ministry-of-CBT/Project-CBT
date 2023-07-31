@@ -26,6 +26,96 @@ Will there be a curseforge upload: No but do it yourself.
 
 Aight The Modlist are as follows.
 
+NOTICE: MODLIST HAS BEEN REORDERED - THE OLD MODLIST HAS BEEN DEPRECATED - FEEL FREE TO RELINK THE MODLIST. NO MODS WERE REMOVED WITH ATLEAST 10 MODS ADDED
+
+Advancement Plaques [Forge]
+Ambience - Extras (Music Mod)
+Applied Energistics 2
+AsmodeusCore
+AtomicStryker's Battle Towers
+AttributeFix
+AutoRegLib
+Baubles
+Better Advancements
+BNBGamingLib
+Carry On
+Chameleon
+Clumps
+CodeChicken Lib 1.8.+
+Collective
+Cosmetic Armor Reworked
+Custom FoV (Fabric/Forge/Quilt)
+Custom Loading Screen
+Custom Window Title
+Dynamic Trees
+Dynamic Trees TFC
+Enchantment Descriptions
+Ex Nihilo: Creatio
+ExtraPlanets
+FancyMenu [Forge]
+FastFurnace
+FastWorkbench
+First Join Message
+Foam​Fix
+FTB Backups (Forge)
+FTB Library (Forge) (Legacy)
+FTB Quests (Forge)
+Galacticraft Legacy
+Galaxy Space [Addon for GalactiCraft]
+Gregicality Multiblocks
+GregTech CE Unofficial
+GregTech Food Option
+Had Enough Items
+Hardcore Darkness
+Hardcore Revival
+Hbm's Nuclear Tech - Extended Edition
+Hwyla
+Infinite Night
+Item Filters
+JustEnoughIDs
+Konkrete [Forge]
+Legendary Tooltips [Forge]
+Let Me Despawn
+Loading Profiler
+Loading Progress Bar
+Loading Screens
+Load My Resources [Forge]
+Mantle
+Mixin 0.7-0.8 Compatibility
+MixinBooter
+MJRLegends Lib
+More Planets - Galacticraft Add-on
+More Player Models
+Nuclear Option
+Patchouli
+Quark
+Reach Fix
+Refined Storage
+Resource Loader
+RLCombat
+Scaling Health
+Scape and Run: Parasites
+Shadowfacts' Forgelin
+Silent's Gems
+Silent's Gems - TiC Support
+Silent Gear
+Silent Lib (silentlib)
+Sound Device Options
+Spartan Weaponry
+SteveKunG's Lib
+Storage Drawers
+SwingThroughGrass
+TerraFirmaCraft
+TerraFirmaThings
+TexFix
+Tinkers Construct
+Touhou Little Maid
+YUNG's Better Caves (Forge)
+YUNG's Better Mineshafts (Forge)
+Zollern Galaxy
+
+Old Modlist:
+
 - [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
