@@ -37,8 +37,8 @@
 			}
 		}
 	},
-	x: 0.0d,
-	y: 4.5d,
+	x: 0.5d,
+	y: 4.0d,
 	description: "Yes. Now go find it, or else I will teleport you to the backrooms.",
 	text: [
 		"\"Well, looks like we have our first task,\" Marisa said with a grin. \"Let's go find those missing blocks!\"",

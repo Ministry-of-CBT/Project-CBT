@@ -1,0 +1,58 @@
+{
+	title: "mDiyo has been offered help",
+	x: -19.0d,
+	y: 3.5d,
+	text: [
+		"mDiyo led them through his realm, showcasing incredible creations that blended the mystical and the mechanical. They saw fantastical machines powered by mystical crystals, enchanting weapons infused with technological enhancements, and even floating islands held aloft by hidden levitation devices.",
+		"",
+		"As they delved deeper into the realm, they stumbled upon a problem mDiyo was facing. A massive construct, designed to harness the energies of the sun and moon, had malfunctioned and was wreaking havoc on the local magical ecosystem. Without proper balance, the entire dimension was at risk of being destabilized.",
+		"",
+		"\"We've dealt with our fair share of magical mishaps,\" Reimu said, \"Maybe we can help.\"",
+		"",
+		"Marisa nodded enthusiastically. \"Yeah! We'll help you set things right.\""
+	],
+	dependencies: [
+		"a0b17952"
+	],
+	hide: true,
+	tasks: [{
+		uid: "09f0c270",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_steel_flat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "02548828",
+		type: "item",
+		items: [{
+			item: "hbm:machine_battery_potato"
+		}]
+	}],
+	rewards: [{
+		uid: "a08136db",
+		type: "item",
+		item: {
+			id: "hbm:battery_lithium",
+			tag: {
+				charge: 250000L
+			}
+		}
+	},
+	{
+		uid: "db2a91d0",
+		type: "item",
+		item: "gregtech:meta_item_1 1 717"
+	},
+	{
+		uid: "9e55d7c3",
+		type: "item",
+		item: {
+			id: "hbm:cell",
+			tag: {}
+		},
+		count: 16
+	}]
+}

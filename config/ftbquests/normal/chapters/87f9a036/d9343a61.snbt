@@ -1,0 +1,113 @@
+{
+	title: "[One Ending Found]",
+	icon: {
+		id: "tconstruct:crossbow",
+		tag: {
+			StatsOriginal: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 16.0f,
+				DrawSpeed: 28.0f,
+				FreeModifiers: 3,
+				ProjectileBonusDamage: 21.0f,
+				Durability: 2160,
+				HarvestLevel: 8,
+				Attack: 26.0f,
+				Range: 8.0f
+			},
+			Stats: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 16.0f,
+				DrawSpeed: 28.0f,
+				FreeModifiers: 3,
+				ProjectileBonusDamage: 21.0f,
+				Durability: 2160,
+				HarvestLevel: 8,
+				Attack: 26.0f,
+				Range: 8.0f
+			},
+			Special: {
+				Categories: [
+					"launcher",
+					"tool"
+				]
+			},
+			TinkerData: {
+				Materials: [
+					"materialradium",
+					"materialradium",
+					"materialradium",
+					"string"
+				],
+				Modifiers: []
+			},
+			Modifiers: [{
+				identifier: "trait_enlightened",
+				color: -256,
+				level: 1
+			}],
+			Traits: [
+				"trait_enlightened"
+			]
+		}
+	},
+	x: -20.0d,
+	y: 8.0d,
+	shape: "circle",
+	description: "Help suceeded.",
+	text: [
+		"mDiyo chuckled. \"Well, innovation knows no bounds. And now that you've experienced what my realm has to offer, you're always welcome to return if you ever find another one of those peculiar portals.\"",
+		"",
+		"With their mission accomplished, they bid farewell to mDiyo and returned to their cubey world. As they traversed back through the portal, Marisa and Reimu couldn't help but marvel at the wonders they had encountered.",
+		"",
+		"Their adventures had taken them to places beyond their wildest imaginations, and with every encounter, they grew stronger and more united. They knew that no matter what challenges lay ahead, as long as they were together, they could face anything that came their way."
+	],
+	dependencies: [
+		"f6fc4608"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "6896fad7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustIron"
+				}
+			}
+		}],
+		count: 18L
+	},
+	{
+		uid: "a6770b48",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustGold",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustGold"
+				}
+			}
+		}],
+		count: 14L
+	}],
+	rewards: [{
+		uid: "eb79a5f2",
+		type: "item",
+		item: "hbm:crate",
+		count: 5
+	}]
+}

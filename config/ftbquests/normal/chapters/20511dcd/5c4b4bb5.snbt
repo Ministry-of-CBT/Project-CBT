@@ -1,0 +1,51 @@
+{
+	title: "maid protection services 1",
+	x: 2.0d,
+	y: -7.0d,
+	description: "seggs",
+	text: [
+		"HAHAHAHFUAHIGFASHUGHSAHUASUHASHAHGUASHGIHASIGHIAHIASHGASHUHASHAHHAHAHAHAHHAA"
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "922a3dd2",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 34L
+	},
+	{
+		uid: "b1822f36",
+		type: "xp",
+		value: 100L,
+		points: false
+	},
+	{
+		uid: "2f9176ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotSteel"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "8aa206f0",
+		type: "item",
+		item: "touhou_little_maid:explosion_protect_bauble"
+	},
+	{
+		uid: "5caf5d31",
+		type: "item",
+		item: "touhou_little_maid:projectile_protect_bauble"
+	}]
+}

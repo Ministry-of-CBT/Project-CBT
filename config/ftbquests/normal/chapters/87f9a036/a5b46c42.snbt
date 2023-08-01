@@ -1,0 +1,39 @@
+{
+	title: "Greg the greg the greg the greg",
+	x: 2.5d,
+	y: 15.5d,
+	description: "Greg the greg the greg the greg the greg the greg",
+	text: [
+		"Upon completing the factory's core structure, the ground shook one last time, and a surge of power surged through Reimu and Marisa. Their abilities were further enhanced, and they felt more attuned to the world around them. They now possessed the strength to face whatever challenges lay ahead.",
+		"",
+		"But the shadow figure's presence loomed over them like a cryptic puzzle yet to be solved. Before they could confront him and uncover the truth behind their mission, the ground split open, revealing a hidden chamber deep below the factory.",
+		"",
+		"Curiosity drove them forward, and as they descended into the depths, they stumbled upon a holographic message left behind by the ancient civilization. The message revealed that the factory held the key to revitalizing the cubey landscape, to restore its fading magic, and to ensure the survival of this world."
+	],
+	dependencies: [
+		"a25b3ed9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a741c295",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1150"
+		}]
+	},
+	{
+		uid: "4c23e93c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1165"
+		}]
+	},
+	{
+		uid: "219ece30",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 985"
+		}],
+		count: 8L
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "mDiyo the traveller",
+	x: -17.5d,
+	y: 2.5d,
+	text: [
+		"They stepped through the portal, and as they emerged on the other side, they found themselves in a realm unlike anything they had seen before. It was a strange amalgamation of technology and magic, a place where advanced machinery coexisted with mystical elements.",
+		"",
+		"Before them stood a figure clad in a mix of futuristic armor and enchanted robes, a man with a curious look on his face. \"Greetings,\" he said with a nod. \"I am mDiyo, a traveler of dimensions. What brings you to my realm?\"",
+		"",
+		"Reimu introduced herself and Marisa, explaining how they stumbled upon the portal. \"We didn't mean to intrude, but we're always up for an adventure.\"",
+		"",
+		"mDiyo smiled warmly. \"No worries at all. It's not every day I meet visitors from another dimension. Your presence here might be fortuitous. I've been working on combining advanced technology with magic to create wondrous things.\"",
+		"",
+		"Marisa's eyes lit up with excitement. \"That sounds like something I'd love to see!\""
+	],
+	dependencies: [
+		"616f1868"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e5db1cf7",
+		type: "item",
+		items: [{
+			item: "hbm:circuit_raw"
+		}],
+		count: 6L
+	},
+	{
+		uid: "b05f20f8",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_iron"
+		}]
+	}]
+}

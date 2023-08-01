@@ -1,0 +1,28 @@
+{
+	title: "The Chess Realm Triumph",
+	x: -6.5d,
+	y: 17.5d,
+	description: "empty bucket of cum",
+	text: [
+		"The queen-like figure smiled, her presence filling the air with a soothing aura. \"Well done,\" she said, her voice a gentle breeze. \"You have proven your worth as guardians of the Chess Realm. Your bond and strategic prowess have allowed you to conquer this challenge.\"",
+		"",
+		"Reimu and Marisa felt a sense of fulfillment they had never experienced before. This was more than just a game; it was a profound lesson about the importance of cooperation, foresight, and embracing unexpected paths in life.",
+		"",
+		"\"As you venture further into the Chess Realm,\" the queen-like figure continued, \"remember that your choices echo across dimensions. The destinies you shape here will influence your world and others.\"",
+		"",
+		"With newfound wisdom and a deepened connection, Reimu and Marisa thanked the queen-like figure for the invaluable experience. They knew that their journey was far from over, and they looked forward to the adventures and mysteries that lay ahead.",
+		"",
+		"As they left the chessboard plaza, the white pieces remained arranged in victory. The chessboard was now a symbol of their triumph, a testament to the strength of their bond and the endless possibilities that awaited them in the Chess Realm."
+	],
+	dependencies: [
+		"c5288937"
+	],
+	tasks: [{
+		uid: "eacd6def",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_barrel_full",
+			tag: {}
+		}]
+	}]
+}

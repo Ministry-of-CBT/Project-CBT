@@ -1,6 +1,11 @@
 {
-	x: -12.5d,
-	y: 9.0d,
+	title: "Google En Passant",
+	x: -11.5d,
+	y: 8.5d,
+	description: "search up en passant on google",
+	text: [
+		"https://www.google.com/search?q=en+passant&oq=en+passant&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIHCAQQABiPAjIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE2MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+	],
 	dependencies: [
 		"19ac4024",
 		"08298154"

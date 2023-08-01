@@ -1,0 +1,54 @@
+{
+	title: "FUCK YOU! NOW HAND THE DIAMONDS TO ME OR I WILL GREG YOUR ASS!",
+	x: -26.5d,
+	y: 7.5d,
+	shape: "heart",
+	description: "Your spleen has been held hostage",
+	text: [
+		"now get 690 diamonds or you are fuckedassbitch"
+	],
+	dependencies: [
+		"06452168"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "4f910bcb",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 690L
+	},
+	{
+		uid: "0a6e744f",
+		type: "checkmark",
+		title: "Treasure"
+	}],
+	rewards: [{
+		uid: "32cc84e8",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Charge: 4000000L
+			},
+			Damage: 463s
+		}
+	},
+	{
+		uid: "752495b3",
+		type: "item",
+		item: {
+			id: "hbm:bomb_caller",
+			tag: {
+				callerType: 4
+			}
+		}
+	},
+	{
+		uid: "7786e9a9",
+		type: "item",
+		item: "srparasites:evolutionlure 1 6"
+	}]
+}

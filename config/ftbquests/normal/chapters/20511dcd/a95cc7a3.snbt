@@ -1,11 +1,12 @@
 {
 	title: "Mob farm abuse #1",
-	x: 0.0d,
-	y: -2.0d,
+	x: 3.0d,
+	y: -8.0d,
 	description: "ZombiAss",
 	text: [
 		"No Rosa. I'm not a child. I am a real person that played one chess game with you, which you won. Instead of going about your life, you decided to message me, because apparently you don't get satisfaction from winning a game, you get satisfaction from trying to make people feel bad. It doesn't work. I don't understand the mentality you must have to play a short game online with someone you've never met, and then message them to try to rub it in. It's a little pathetic to be honest. I even tried to reason with you and you just keep going. I don't care about you rosa, okay? So just keep playing your chess games. Think twice next time before you message someone. Maybe ask yourself why you feel the need to do that before you do it? Maybe ask yourself if you are affecting the world in a positive or negative way?"
 	],
+	can_repeat: true,
 	tasks: [{
 		uid: "1853d5d5",
 		type: "kill",

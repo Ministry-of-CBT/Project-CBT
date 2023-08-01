@@ -1,0 +1,47 @@
+{
+	title: "Fine Tuning mDiyo's machine",
+	x: -20.5d,
+	y: 4.0d,
+	description: "Fine tuning the machine's c*cks??????????????????????????????????????? SUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSY BAAKKKKKKKKKKKKKKKKKKKKKAAA",
+	text: [
+		"Grateful for their offer, mDiyo explained that they needed to recalibrate the construct by synchronizing it with the natural cycles of the sun and moon. Reimu and Marisa went to work, using their deep understanding of magic and intuition to fine-tune the machine.",
+		"",
+		"Hours passed, but their determination didn't wane. Finally, with a joint effort, they managed to realign the construct's mechanisms. As the sun and moon's energies flowed harmoniously into the machine, the realm began to regain its equilibrium.",
+		"",
+		"mDiyo was impressed and grateful. \"You two have a remarkable synergy in your abilities. Thank you for helping me restore balance to my realm.\"",
+		"",
+		"\"We're glad we could assist,\" Reimu said with a smile.",
+		"",
+		"Marisa added, \"And your realm is fascinating! Mixing magic and technology like this is so inventive.\""
+	],
+	dependencies: [
+		"b94430cb"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2a90ca38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any treeSapling"
+				}
+			}
+		}],
+		count: 14L
+	},
+	{
+		uid: "5b494858",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 986"
+		}]
+	}]
+}

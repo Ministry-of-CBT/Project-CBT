@@ -1,0 +1,26 @@
+{
+	x: 6.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "f1829e95",
+		type: "item",
+		items: [{
+			item: "srparasites:evolutionlure 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "8d695b65",
+		type: "item",
+		item: "srparasites:evolutionlure 1 6"
+	},
+	{
+		uid: "90f53512",
+		type: "item",
+		item: "silentgems:petsummoner 1 1"
+	},
+	{
+		uid: "4e18a752",
+		type: "item",
+		item: "touhou_little_maid:drown_protect_bauble"
+	}]
+}

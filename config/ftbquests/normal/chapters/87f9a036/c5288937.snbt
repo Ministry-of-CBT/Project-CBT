@@ -35,5 +35,20 @@
 			id: "minecraft:bread"
 		}],
 		count: 7L
+	}],
+	rewards: [{
+		uid: "5dc7f3c0",
+		type: "item",
+		title: "Grimace Shake",
+		icon: {
+			id: "tfc:wooden_bucket",
+			tag: {
+				Fluid: {
+					FluidName: "purple_dye",
+					Amount: 1000
+				}
+			}
+		},
+		item: "hbm:syringe_poison"
 	}]
 }

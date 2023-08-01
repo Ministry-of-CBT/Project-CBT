@@ -1,7 +1,7 @@
 {
 	title: "Fuckass Supply Crate Side Quest",
 	x: 4.0d,
-	y: -4.5d,
+	y: -9.0d,
 	description: "Extra supply crates waiting everytime you kill an ender swaggon",
 	text: [
 		"Ender Swaggon"

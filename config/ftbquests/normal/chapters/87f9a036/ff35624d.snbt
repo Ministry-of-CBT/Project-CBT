@@ -1,0 +1,36 @@
+{
+	title: "Fuck your parasitic ass",
+	x: 4.5d,
+	y: 6.0d,
+	description: "bullshit",
+	text: [
+		"i hate you. i hate you. i hate you."
+	],
+	dependencies: [
+		"62049b36"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8b7092a4",
+		type: "item",
+		items: [{
+			item: "srparasites:evolutionlure"
+		}]
+	},
+	{
+		uid: "a53086eb",
+		type: "xp",
+		value: 133L,
+		points: false
+	}],
+	rewards: [{
+		uid: "74eca93a",
+		type: "item",
+		item: "minecraft:bone"
+	},
+	{
+		uid: "4a2af78a",
+		type: "item",
+		item: "hbm:detonator_de"
+	}]
+}

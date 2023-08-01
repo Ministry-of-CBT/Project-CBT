@@ -1,29 +1,45 @@
 {
-	title: "to be done",
+	title: "After the HBMTheBobCat incident",
 	x: -14.5d,
 	y: 0.5d,
-	description: "To be done",
+	description: "Marisex Postulate",
 	text: [
-		"Summon HBMTheBobCat in the world",
+		"Several weeks had passed since Marisa and Reimu's encounter with HBMTheBobCat. The cubey world had returned to its peaceful and vibrant state, but the duo couldn't stay idle for long. Adventure always seemed to find them, and this time was no exception.",
 		"",
-		"/j"
+		"As they explored the forests on the outskirts of their territory, they stumbled upon a peculiar sight. A mysterious portal, shimmering with arcane energies, stood before them. Unlike any portal they had encountered before, this one seemed to lead to an entirely different realm altogether.",
+		"",
+		"Reimu approached cautiously, sensing powerful magical forces emanating from within. \"Marisa, be careful. This portal feels different.\"",
+		"",
+		"Marisa's eyes sparkled with excitement. \"Different means interesting! Let's check it out.\""
 	],
 	dependencies: [
 		"473fa863"
 	],
+	hide: true,
 	tasks: [{
-		uid: "380493fc",
+		uid: "b7c714d8",
 		type: "item",
 		items: [{
-			item: "hbm:schrabidium_sword"
-		}],
-		count: 9777777L,
-		ignore_damage: true,
-		ignore_nbt: 1b
+			item: "gregtech:meta_item_1 1 626"
+		}]
 	},
 	{
-		uid: "362ed58a",
-		type: "checkmark",
-		title: "I understand that this is a work in progress timeline."
+		uid: "c9ef9493",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 519"
+		}]
+	},
+	{
+		uid: "e1649f75",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 127"
+		}]
+	}],
+	rewards: [{
+		uid: "203feb6f",
+		type: "item",
+		item: "gregtech:meta_item_1 1 460"
 	}]
 }

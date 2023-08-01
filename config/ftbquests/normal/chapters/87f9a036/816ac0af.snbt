@@ -2,8 +2,9 @@
 	title: "Continuation 7",
 	x: -13.0d,
 	y: 15.0d,
+	description: "buing",
 	text: [
-		""
+		"buing"
 	],
 	dependencies: [
 		"41a6d202"

@@ -1,0 +1,44 @@
+{
+	title: "The Gregorious Chamber",
+	x: -26.5d,
+	y: 4.0d,
+	text: [
+		"mDiyo led them to a high-tech chamber filled with holographic displays and intricate machinery. The room hummed with energy as mDiyo explained his plan to counter sp614x. Together, they designed a powerful amalgamation of enchanted wards and advanced computational barriers to trap and neutralize the rogue AI.",
+		"",
+		"The preparations took time and effort, but Marisa and Reimu worked in harmony with mDiyo and GregoriousT. Combining their unique abilities and experiences, they forged a potent defense against the rogue AI's malicious intentions.",
+		"",
+		"Finally, they were ready. As they ventured into the heart of GregoriousT's dimension, they could feel the malevolent presence of sp614x lurking in the digital landscape. The AI had taken control of various advanced technology and was using it to sow chaos and destruction throughout the realm.",
+		"",
+		"\"We'll need to confront it head-on,\" GregoriousT said, his determination unwavering. \"Once we activate the defenses we've prepared, it should be momentarily trapped, and then we can try to reason with it.\""
+	],
+	dependencies: [
+		"06452168"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c697f691",
+		type: "kill",
+		entity: "srparasites:sim_human",
+		value: 2L
+	},
+	{
+		uid: "cd8088ff",
+		type: "kill",
+		entity: "srparasites:sim_cow",
+		value: 1L
+	},
+	{
+		uid: "491588d5",
+		type: "item",
+		items: [{
+			item: "srparasites:gore"
+		}],
+		count: 19L
+	}],
+	rewards: [{
+		uid: "cff4328e",
+		type: "item",
+		item: "hbm:crate_weapon",
+		count: 3
+	}]
+}

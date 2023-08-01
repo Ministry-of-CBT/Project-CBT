@@ -1,0 +1,46 @@
+{
+	title: "Gregic Quest 5",
+	x: -26.5d,
+	y: 5.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7d9a99e1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6124d23d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1211"
+		}],
+		count: 8L
+	},
+	{
+		uid: "d3665d5f",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_titanium_flat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cfe85c00",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 987"
+		}]
+	}],
+	rewards: [{
+		uid: "57cfce00",
+		type: "item",
+		item: "hbm:cable_diode"
+	},
+	{
+		uid: "18db95fb",
+		type: "item",
+		item: "gregtech:meta_item_1 1 202"
+	}]
+}

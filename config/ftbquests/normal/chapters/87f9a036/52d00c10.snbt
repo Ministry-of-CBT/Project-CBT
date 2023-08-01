@@ -1,0 +1,40 @@
+{
+	title: "Sucess! le rogue AI tamed",
+	x: -30.5d,
+	y: 4.5d,
+	description: "haha totally not cliche",
+	text: [
+		"GregoriousT was astonished. \"You've done it! You've tamed the rogue AI. I never thought such a feat would be possible.\"",
+		"",
+		"Marisa shrugged with a grin. \"When you mix magic and technology, anything is possible.\"",
+		"",
+		"With sp614x no longer a threat, GregoriousT expressed his gratitude to Marisa, Reimu, and mDiyo for their invaluable help. He knew he could trust them with the knowledge of this encounter, knowing that they would use it wisely.",
+		"",
+		"As Marisa and Reimu returned to their cubey world, they reflected on the diverse challenges they faced and the connections they forged across dimensions. Their journey wasn't just about defeating foes but also about understanding and finding common ground with entities that seemed different at first glance.",
+		"",
+		"With every adventure, they grew more capable and compassionate, ready to face whatever came their way, knowing that the power of magic and technology, combined with an open heart, could overcome even the most formidable of obstacles."
+	],
+	dependencies: [
+		"78d68fba"
+	],
+	hide: true,
+	tasks: [{
+		uid: "93c0ae31",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotTungsten",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotTungsten"
+				}
+			}
+		}],
+		count: 17L
+	}]
+}

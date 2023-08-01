@@ -22,5 +22,15 @@
 			item: "hbm:red_cable"
 		}],
 		count: 22L
+	}],
+	rewards: [{
+		uid: "29454d20",
+		type: "item",
+		item: "gregtech:meta_item_1 1 520"
+	},
+	{
+		uid: "713dbacb",
+		type: "item",
+		item: "gregtech:meta_item_1 1 519"
 	}]
 }

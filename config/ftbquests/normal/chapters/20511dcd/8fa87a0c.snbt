@@ -1,7 +1,7 @@
 {
 	title: "Ragequit atleast once",
 	x: 4.0d,
-	y: -5.5d,
+	y: -10.0d,
 	description: "I HATE THIS MODPACK!!! WHY DID I LOSE MY ITEMS",
 	text: [
 		"skill issue",

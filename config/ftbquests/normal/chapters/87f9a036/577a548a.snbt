@@ -1,6 +1,9 @@
 {
 	x: -14.5d,
 	y: 16.5d,
+	text: [
+		"haha funny sidebar"
+	],
 	dependencies: [
 		"35cb755a",
 		"816ac0af"

@@ -1,6 +1,6 @@
 {
 	title: "LIES!!! YOU DID NOT GOOGLE EN PASSSANT!!!!!!!",
-	x: -14.25d,
+	x: -12.75d,
 	y: 8.25d,
 	shape: "heart",
 	description: "Lies Lies Lies Lies Lies Lies Lies",
@@ -13,7 +13,12 @@
 		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
 		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
 		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
-		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!"
+		"YOU SHOULD GOOGLE EN PASSANT NOW!!!!!!!!!!!!!!!!!!!!!!!!",
+		"",
+		"acrually google en greggant ",
+		"hahhahhahahahaha greg",
+		"greg greg greg",
+		"google en greggant"
 	],
 	dependencies: [
 		"28c48607"
@@ -40,20 +45,6 @@
 		},
 		{
 			item: "tfc:raw/rocksalt"
-		},
-		{
-			ForgeCaps: {
-				Parent: {
-					data: "materialStoneTool",
-					id: "ore"
-				}
-			},
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any log"
-				}
-			}
 		}],
 		count: 690L
 	},
