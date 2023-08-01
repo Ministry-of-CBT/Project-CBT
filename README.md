@@ -97,6 +97,7 @@ NOTICE: MODLIST HAS BEEN REORDERED
 - [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 - [Resource Loader](https://www.curseforge.com/minecraft/mc-mods/resource-loader)
 - [RLCombat](https://www.curseforge.com/minecraft/mc-mods/rlcombat)
+- [SplashAnimation Mod](https://www.curseforge.com/minecraft/mc-mods/splashanimation)
 - [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health)
 - [Scape and Run - Parasites](https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites)
 - [Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)
