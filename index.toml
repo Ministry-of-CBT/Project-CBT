@@ -2079,6 +2079,11 @@ hash = "3b7b6c25c4e625c673b05145ddb986260d730afbc1b2970f86d19666cc78ccdd"
 metafile = true
 
 [[files]]
+file = "mods/splashanimation.pw.toml"
+hash = "157054d3a526f304823d3d0422392a70f28f647553b9b3de1b53ef3e7ac3f8fc"
+metafile = true
+
+[[files]]
 file = "mods/stevekungs-lib.pw.toml"
 hash = "50d06c55022b9dcdfe9d9564fd4d2ff38abbc227a57f1626f9ed6f8d006962c7"
 metafile = true
