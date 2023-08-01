@@ -137,7 +137,7 @@ Gregification Imminent.
 
 # Contributing
 
-Use Issues and Pull Pequests to contribute.
+See CONTRIBUTING.md
 
 # Note:
 
