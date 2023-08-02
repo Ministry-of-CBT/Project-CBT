@@ -34,7 +34,7 @@ Yes there are releases and only dev releases exist for research purposes.
 
 Aight The Modlist are as follows.
 
-NOTICE: MODLIST HAS BEEN REORDERED
+There are two mods that don't have links yet.
 
 - [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
@@ -58,6 +58,7 @@ NOTICE: MODLIST HAS BEEN REORDERED
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees TFC](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- Energy Converters [Link Needed]
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio)
 - [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)
 - [FancyMenu [Forge]](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
@@ -78,6 +79,7 @@ NOTICE: MODLIST HAS BEEN REORDERED
 - [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- Industrial Craft 2 [Needs link]
 - [Infinite Night](https://www.curseforge.com/minecraft/mc-mods/infinite-night)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
