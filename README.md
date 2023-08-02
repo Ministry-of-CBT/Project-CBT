@@ -8,6 +8,8 @@ ALSO IN THE FUTURE SECURITY.MD WILL BE USED TO DENOTE FULL RELEASES SO YEAH
 
 A WORK IN PROGRESS OFFICIAL WIKI HAS BEEN MADE, IN THE FUTURE IT WILL BE USED TO DOCUMENT GUIDES.
 
+ALSO yeah there's the Project-CBT discussion in github, so all other topics go there.
+
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
 ## Banner
