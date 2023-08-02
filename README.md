@@ -10,6 +10,8 @@ A WORK IN PROGRESS OFFICIAL WIKI HAS BEEN MADE, IN THE FUTURE IT WILL BE USED TO
 
 ALSO yeah there's the Project-CBT discussion in github, so all other topics go there.
 
+ALSO AGAIN CAN SOMEONE ADD MOD COMPATIBILITY BETWEEN TOUHOU LITTLE MAID, GREGTECH AND HBM FOR !.12.2?
+
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
 ## Banner
