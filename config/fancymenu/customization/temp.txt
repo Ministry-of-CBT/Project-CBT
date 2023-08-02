@@ -9,8 +9,8 @@ customization-meta {
 }
 
 customization {
-  path = fm/hbmnomi-toufou.jpg
-  action = texturizebackground
+  name = spinningebf
+  action = setbackgroundslideshow
 }
 
 customization {
