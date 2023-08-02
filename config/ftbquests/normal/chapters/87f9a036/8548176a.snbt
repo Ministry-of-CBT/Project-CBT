@@ -1,0 +1,13 @@
+{
+	x: -18.5d,
+	y: 19.0d,
+	dependencies: [
+		"3577465a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "45db4542",
+		type: "checkmark",
+		title: "Continuation 13"
+	}]
+}

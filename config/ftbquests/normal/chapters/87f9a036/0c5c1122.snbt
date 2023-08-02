@@ -1,0 +1,22 @@
+{
+	title: "The Words of the Queen Chess Piece",
+	x: -17.5d,
+	y: 22.5d,
+	text: [
+		"As the interdimensional battle escalated, the Queen piece that had been observing the events from afar took action. She had witnessed enough chaos and had no intention of letting it consume the Chess Realm. With regal grace, she stepped forward, her presence commanding attention from all parties involved.",
+		"",
+		"\"I am the Guardian of the Chess Realm,\" she proclaimed, her voice echoing with authority. \"This senseless conflict will not be tolerated. Cease your hostilities at once!\"",
+		"",
+		"Her words seemed to cut through the tension, momentarily stopping the clash. Both Yukari Yakumo and Flandre Scarlet hesitated, recognizing the Queen's power and understanding that they had stumbled into a domain far more significant than they had anticipated."
+	],
+	dependencies: [
+		"31e1558d"
+	],
+	tasks: [{
+		uid: "f24ff2cc",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 987"
+		}]
+	}]
+}

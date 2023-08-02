@@ -1,0 +1,45 @@
+{
+	title: "The Arrival of the SCP foundation...",
+	x: -17.0d,
+	y: 27.0d,
+	description: "Well.. Guess what happened? SCP entities are now leaking into this crossover world..",
+	text: [
+		"As the intense battle raged on in the Chess Realm, the arrival of O5 and O7 from the SCP Foundation brought a sense of urgency and gravity to the situation. Their presence commanded attention, and even the combatants, Yukari Yakumo and Flandre Scarlet, hesitated momentarily, recognizing the formidable organization they represented.",
+		"",
+		"O5, a figure shrouded in secrecy, spoke with a calm, authoritative tone. \"Yukari Yakumo, Flandre Scarlet, your actions have caused chaos across multiple dimensions, including our own. The stability of countless realms is at risk because of your reckless behavior.\"",
+		"",
+		"O7, standing beside O5, added, \"We have been tracking your movements, and now we find you embroiled in yet another conflict in this Chess Realm. You must cease your aggression immediately.\"",
+		"",
+		"Yukari Yakumo's eyes narrowed, and she crossed her arms defiantly. \"We are not bound by the rules of your Foundation. Gensokyo is our home, and we will defend it by any means necessary!\"",
+		"",
+		"Flandre Scarlet's excitement was palpable, and she seemed eager to take on even more opponents. \"Yeah, we don't care about your silly Foundation! We're just having some fun!\"",
+		"",
+		"The Queen of the Chess Realm stepped forward, her regal presence a stark contrast to the chaotic scene unfolding. \"This conflict is endangering not just Gensokyo but countless other realms as well. It must be stopped before it spreads further.\""
+	],
+	dependencies: [
+		"65f3f4d6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f4bff108",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 80"
+		}]
+	},
+	{
+		uid: "5b9f7a26",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 987"
+		}],
+		count: 8L
+	},
+	{
+		uid: "b485839b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 111"
+		}]
+	}]
+}

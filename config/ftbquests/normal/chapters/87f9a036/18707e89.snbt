@@ -1,0 +1,45 @@
+{
+	title: "haha america go brrrrrrrrrrrrrrrrrrrrrrrrrr",
+	x: -16.5d,
+	y: 17.0d,
+	description: "Stop Watching This Brother! We must fight the MLPA! DEATH TO THE MLPA!",
+	text: [
+		"After their triumphant victory on the chessboard plaza, Reimu and Marisa continued their exploration of the Chess Realm. Little did they know that another startling revelation awaited them just around the corner.",
+		"",
+		"As they strolled through a lush forest of animated chess pieces, a sudden rumbling sensation shook the ground beneath their feet. The air filled with a low hum, and the ground cracked open to reveal an otherworldly portal. From within emerged what appeared to be American military personnel, clad in advanced, futuristic uniforms.",
+		"",
+		"Reimu and Marisa exchanged bewildered glances, unsure of how to react to this unexpected sight. The soldiers seemed equally taken aback, their expressions mirroring surprise and disbelief."
+	],
+	dependencies: [
+		"577a548a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e7e472f1",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_barrel_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "oil",
+					Amount: 16000
+				}
+			}
+		},
+		{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oil",
+				Amount: 1000
+			}
+		},
+		{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oil_medium",
+				Amount: 1000
+			}
+		}],
+		count: 14L
+	}]
+}

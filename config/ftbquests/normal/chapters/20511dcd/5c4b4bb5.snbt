@@ -17,7 +17,7 @@
 		uid: "b1822f36",
 		type: "xp",
 		value: 100L,
-		points: false
+		points: true
 	},
 	{
 		uid: "2f9176ba",

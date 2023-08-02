@@ -1,0 +1,35 @@
+{
+	title: "Yukari and Flander.png",
+	x: -17.5d,
+	y: 20.0d,
+	description: "Yo what the hell boi! what the hell boi! go back to gtnh boi! go back to gtnh boi!",
+	text: [
+		"The officer's expression softened slightly, understanding the confusion of the two girls. \"I apologize for the abruptness of our arrival. My name is Colonel Alex Turner, and yes, we are from Earth, but not your Earth. We come from a parallel dimension where the Chess Realm is a trans-dimensional battleground used by various factions to settle disputes.\"",
+		"",
+		"Before Colonel Turner could explain further, another portal materialized nearby. This time, it opened with a mesmerizing swirl of colorful danmaku, and from it emerged two elegant figures. One was a woman with striking purple eyes and long, silver hair adorned with a single red ribbon – Yukari Yakumo. The other was a young girl with vivid scarlet eyes and long, blonde hair, dressed in a frilly red and white dress – Flandre Scarlet.",
+		"",
+		"The moment they stepped out of the portal, they locked their sights on Reimu and Marisa. There was an unmistakable aura of power emanating from them, and it was clear that they weren't here for a friendly chat.",
+		"",
+		"Yukari smirked, her eyes gleaming with mischief. \"Well, well, what do we have here? Humans meddling in the affairs of Gensokyo, even in a realm beyond their comprehension. How quaint.\"",
+		"",
+		"Flandre seemed equally eager to unleash her power. Her eyes sparkled with excitement. \"Let's have some fun, Yukari! I want to see how strong they are!\""
+	],
+	dependencies: [
+		"8548176a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fb15a53d",
+		type: "kill",
+		entity: "minecraft:witch",
+		value: 12L
+	},
+	{
+		uid: "e9cb9345",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 985"
+		}],
+		count: 6L
+	}]
+}

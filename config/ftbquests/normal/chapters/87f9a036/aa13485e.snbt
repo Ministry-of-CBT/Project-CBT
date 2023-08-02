@@ -1,0 +1,35 @@
+{
+	title: "HBMTheBobCat and mDiyo's arrival",
+	x: -19.0d,
+	y: 23.5d,
+	description: "More touhou more greg more fun now where's the part that HBMT- (FRICK YOU AND NO I WON'T LET YOU HAVE SEGGS WITH MARISSA YOU FUCKING IDIOT)",
+	text: [
+		"However, the sudden arrival of two more individuals further complicated the situation. From another portal emerged HBMTheBobCat, a skilled interdimensional traveler known for his resourcefulness and wit, and mDiyo, a master of crafting and wielding powerful tools from different worlds.",
+		"",
+		"HBMTheBobCat surveyed the scene with a hint of amusement in his eyes. \"Well, well, it seems like things are getting a bit out of hand here, isn't it?\" he remarked casually.",
+		"",
+		"mDiyo, on the other hand, had a more serious expression on his face. \"I didn't expect to find a conflict like this when we came through the portal,\" he said, his hand resting on the hilt of an otherworldly sword.",
+		"",
+		"The Queen regarded the newcomers with a mix of curiosity and concern. \"You are not from this realm either, are you?\" she asked, already knowing the answer.",
+		"",
+		"HBMTheBobCat shrugged. \"That's right. We're just innocent travelers who happened to get caught up in all of this. But don't worry, we're not taking sides. We're here to put an end to this madness.\""
+	],
+	dependencies: [
+		"0c5c1122"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7325206b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1152"
+		}]
+	},
+	{
+		uid: "133422e8",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1167"
+		}]
+	}]
+}

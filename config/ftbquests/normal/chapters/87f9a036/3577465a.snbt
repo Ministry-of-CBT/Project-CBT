@@ -1,0 +1,31 @@
+{
+	title: "A cautious encounter...",
+	x: -18.5d,
+	y: 17.5d,
+	description: "Google oil dupe exploit :)",
+	text: [
+		"A stern-looking officer stepped forward, his gaze fixed on Reimu and Marisa. \"Identify yourselves and state your purpose in the Chess Realm,\" he commanded, his voice crisp and authoritative.",
+		"",
+		"\"I am Reimu Hakurei, and this is Marisa Kirisame,\" Reimu responded cautiously. \"We arrived here by chance and have been exploring the Chess Realm, seeking answers and embracing the quests presented to us.\"",
+		"",
+		"The officer's eyes narrowed as he assessed the two visitors. \"Chess Realm, you say?\" he muttered to himself, as if processing the information.",
+		"",
+		"Marisa's curiosity got the better of her. \"And who might you be? Are you from Earth?\""
+	],
+	dependencies: [
+		"18707e89"
+	],
+	hide: true,
+	tasks: [{
+		uid: "29ef37c0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_well"
+		}]
+	}],
+	rewards: [{
+		uid: "571f1999",
+		type: "item",
+		item: "hbm:machine_pumpjack"
+	}]
+}

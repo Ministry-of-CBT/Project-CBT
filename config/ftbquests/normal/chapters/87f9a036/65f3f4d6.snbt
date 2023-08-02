@@ -1,0 +1,31 @@
+{
+	title: "The First Skirmishes in the Chess Realm",
+	x: -18.5d,
+	y: 26.0d,
+	description: "the greg must greg must greg must greg must greg must greg HAHAHHA",
+	text: [
+		"Flandre Scarlet seemed eager to continue the fight as well, her eyes gleaming with excitement.",
+		"",
+		"Sensing the imminent danger, Reimu, Marisa, HBMTheBobCat, mDiyo, and even the Queen realized that it was time to join forces and put an end to the conflict. In unity, they stood against the aggressors, determined to protect the sanctity of the Chess Realm and each of their dimensions.",
+		"",
+		"The interdimensional war had reached a critical juncture, and the outcome was uncertain. However, the combined strength, skill, and resourcefulness of these diverse individuals could very well determine the fate of the Chess Realm and beyond. As the clash resumed with newfound intensity, the fate of multiple dimensions hung in the balance."
+	],
+	dependencies: [
+		"1af9698a"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fb04cb4c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine_casing 1 2"
+		}]
+	},
+	{
+		uid: "05798f81",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_iron_ammo"
+		}]
+	}]
+}

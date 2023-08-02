@@ -43,5 +43,15 @@
 		items: [{
 			item: "gregtech:machine 1 986"
 		}]
+	}],
+	rewards: [{
+		uid: "15839103",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+			}
+		}
 	}]
 }

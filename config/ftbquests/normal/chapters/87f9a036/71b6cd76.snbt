@@ -1,0 +1,9 @@
+{
+	x: -19.5d,
+	y: 16.0d,
+	tasks: [{
+		uid: "1c61ad32",
+		type: "checkmark",
+		title: "Continuation 12"
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "HBMTheBobCat and mDiyo's Arrival (Continuation)",
+	x: -17.0d,
+	y: 24.5d,
+	text: [
+		"With the entry of HBMTheBobCat and mDiyo, the battlefield grew even more volatile. It was now a four-sided confrontation, each faction representing its own dimension and power. The fate of the Chess Realm hung in the balance.",
+		"",
+		"Meanwhile, the soldiers from Colonel Turner's Earth were caught in the middle, unsure of who to align with or how to escape this surreal conflict.",
+		"",
+		"Colonel Turner stepped forward, his voice firm but diplomatic. \"We don't want to be involved in your war. We only seek a way to return to our own dimension peacefully. If you could help us find a portal back home, we promise not to interfere further.\"",
+		"",
+		"The Queen regarded Colonel Turner with a thoughtful expression, understanding the urgency of his request. However, before she could respond, Yukari Yakumo's mischievous smile returned, and she raised her hands, gathering energy for another powerful spell."
+	],
+	dependencies: [
+		"aa13485e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "051f2423",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1212"
+		}]
+	},
+	{
+		uid: "3ba82c63",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 51"
+		}]
+	}]
+}

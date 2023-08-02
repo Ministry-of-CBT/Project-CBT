@@ -1,7 +1,7 @@
 {
 	title: "Gregic Quest 6",
 	x: -25.5d,
-	y: 2.5d,
+	y: 5.0d,
 	description: "ea",
 	text: [
 		"haha",
@@ -37,5 +37,10 @@
 			id: "minecraft:gold_nugget"
 		}],
 		count: 690L
+	}],
+	rewards: [{
+		uid: "654a3f7f",
+		type: "item",
+		item: "gregtech:machine 1 50"
 	}]
 }

@@ -9,7 +9,7 @@
 		uid: "5f62090f",
 		type: "xp",
 		value: 169L,
-		points: false
+		points: true
 	},
 	{
 		uid: "142868b2",

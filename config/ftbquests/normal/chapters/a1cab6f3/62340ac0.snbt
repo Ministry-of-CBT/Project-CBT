@@ -17,7 +17,7 @@
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
-					creationDate: 6000L
+					creationDate: -9223372036854775808L
 				}
 			},
 			id: "tfc:food/cooked_egg"

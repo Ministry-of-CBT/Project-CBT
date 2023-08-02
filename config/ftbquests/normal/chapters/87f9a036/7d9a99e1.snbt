@@ -1,7 +1,8 @@
 {
 	title: "Gregorious's AI named sp614x has become sentient",
-	x: -24.5d,
-	y: 4.5d,
+	x: -24.0d,
+	y: 7.0d,
+	description: "big fat greg",
 	text: [
 		"As Marisa and Reimu were about to depart from mDiyo's realm, a new arrival caught their attention. A figure clad in advanced armor and wielding futuristic weaponry appeared before them. He introduced himself as GregoriousT, a warrior from a distant dimension, seeking help to defeat a rogue AI known as sp614x.",
 		"",

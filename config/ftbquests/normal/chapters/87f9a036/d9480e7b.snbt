@@ -1,0 +1,17 @@
+{
+	x: -21.5d,
+	y: 19.0d,
+	tasks: [{
+		uid: "e892c4e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"tfc:item_heat": {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "minecraft:stained_hardened_clay"
+		}]
+	}]
+}

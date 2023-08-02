@@ -1,0 +1,37 @@
+{
+	title: "The... Unnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnity",
+	x: -18.5d,
+	y: 28.5d,
+	description: "e",
+	text: [
+		"Colonel Turner and his military personnel, as well as Reimu, Marisa, HBMTheBobCat, and mDiyo, found themselves in the midst of a clash between powerful entities and the enigmatic SCP Foundation. They realized that the stakes were much higher than they had initially thought.",
+		"",
+		"Colonel Turner exchanged glances with his soldiers, understanding that this was no ordinary situation they could handle on their own. \"We want to go home and prevent any further damage to our world. But we're willing to help stop this conflict before we leave.\"",
+		"",
+		"Reimu and Marisa nodded in agreement, realizing the importance of containing the situation. \"We can't let this chaos spread to Gensokyo either. We'll do whatever we can to help,\" Reimu stated firmly.",
+		"",
+		"HBMTheBobCat and mDiyo chimed in, \"We didn't come here for a fight, but if it means restoring balance and protecting multiple worlds, count us in.\""
+	],
+	dependencies: [
+		"9d9f84c2"
+	],
+	tasks: [{
+		uid: "41e43975",
+		type: "item",
+		items: [{
+			item: "hbm:machine_assembler"
+		}]
+	},
+	{
+		uid: "50392690",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 13L
+	},
+	{
+		uid: "e735830a",
+		type: "xp",
+		value: 233L,
+		points: true
+	}]
+}

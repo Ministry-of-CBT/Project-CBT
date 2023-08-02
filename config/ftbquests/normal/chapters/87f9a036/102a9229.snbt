@@ -1,0 +1,28 @@
+{
+	title: "Beginning of the Gensokyo Nuclear Horizons Arc",
+	x: -16.5d,
+	y: 29.0d,
+	description: "gregtech new horizons battlegreound",
+	text: [
+		"HBMTheBobCat and mDiyo chimed in, \"We didn't come here for a fight, but if it means restoring balance and protecting multiple worlds, count us in.\"",
+		"",
+		"Seeing the determination and unity among those present, the Queen smiled approvingly. \"Very well, then. Let's put an end to this madness together.\"",
+		"",
+		"With the SCP Foundation, the Queen of the Chess Realm, Colonel Turner's military personnel, Reimu, Marisa, HBMTheBobCat, and mDiyo now united against Yukari Yakumo and Flandre Scarlet, the battle took a dramatic turn. The clash of powers and dimensions intensified, and it became evident that it would take a combined effort to bring a resolution to the conflict.",
+		"",
+		"As they fought to contain the two powerful adversaries, they also had to be cautious about any potential breaches between dimensions, as mentioned by O5 and O7. The safety of countless worlds hung in the balance, and they had to find a way to restore order and prevent dangerous SCP entities from escaping into other realms.",
+		"",
+		"The Chess Realm, once a place of serene strategy, was now the battleground for an interdimensional war with the fate of multiple worlds at stake. In this chaotic clash of powers, only through unity, cooperation, and determination could they hope to bring about a peaceful resolution and safeguard the integrity of the realms beyond."
+	],
+	dependencies: [
+		"76f6d0c1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4037839d",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_beryllium"
+		}]
+	}]
+}

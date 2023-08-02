@@ -21,7 +21,7 @@
 		uid: "a53086eb",
 		type: "xp",
 		value: 133L,
-		points: false
+		points: true
 	}],
 	rewards: [{
 		uid: "74eca93a",
