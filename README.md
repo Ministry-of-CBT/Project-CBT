@@ -181,3 +181,7 @@ Leaked WIP Questline for Public Domain Purposes - May get updated as new quests 
 
 Read LICENSE.MD
 
+# All Credits:
+
+[Spinning EBF Background by u/LyeoChan on r/feedthememes on reddit](https://www.reddit.com/r/feedthememes/comments/15gad7g/ebf_chan_taking_2_ingots_on_every_input_hatch/)
+
