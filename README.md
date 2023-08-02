@@ -32,11 +32,10 @@ Yes there are releases and only dev releases exist for research purposes.
 
 ## Project CBT - Modlist:
 
-Aight The Modlist are as follows.
+Aight The Modlist are as follows:
 
-There are two mods that don't have links yet.
 
-- [Advancement Plaques [Forge]](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
+- [Advancement Plaques (Forge)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
 - [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 - [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
@@ -58,10 +57,10 @@ There are two mods that don't have links yet.
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees TFC](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- Energy Converters [Link Needed]
+- [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters)
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio)
 - [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)
-- [FancyMenu [Forge]](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
+- [FancyMenu (Forge)](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [First Join Message](https://www.curseforge.com/minecraft/mc-mods/first-join-message)
@@ -70,7 +69,7 @@ There are two mods that don't have links yet.
 - [FTB Library (Forge) (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
 - [FTB Quests (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
 - [Galacticraft Legacy](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy)
-- [Galaxy Space [Addon for GalactiCraft]](https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft)
+- [Galaxy Space (Addon for GalactiCraft)](https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft)
 - [Gregicality Multiblocks](https://www.curseforge.com/minecraft/mc-mods/gregicality-multiblocks)
 - [GregTech CE Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial)
 - [GregTech Food Option](https://www.curseforge.com/minecraft/mc-mods/gregtech-food-option)
@@ -79,17 +78,17 @@ There are two mods that don't have links yet.
 - [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
-- Industrial Craft 2 [Needs link]
+- [Industrial Craft 2](https://forum.industrial-craft.net)
 - [Infinite Night](https://www.curseforge.com/minecraft/mc-mods/infinite-night)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
-- [Konkrete [Forge]](https://www.curseforge.com/minecraft/mc-mods/konkrete)
-- [Legendary Tooltips [Forge]](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+- [Konkrete (Forge)](https://www.curseforge.com/minecraft/mc-mods/konkrete)
+- [Legendary Tooltips (Forge)](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
 - [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
 - [Loading Profiler](https://www.curseforge.com/minecraft/mc-mods/loading-profiler)
 - [Loading Progress Bar](https://www.curseforge.com/minecraft/mc-mods/loading-progress-bar)
 - [Loading Screens](https://www.curseforge.com/minecraft/mc-mods/loading-screens)
-- [Load My Resources [Forge]](https://www.curseforge.com/minecraft/mc-mods/load-my-resources-forge)
+- [Load My Resources (Forge)](https://www.curseforge.com/minecraft/mc-mods/load-my-resources-forge)
 - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
 - [Mixin 0.7-0.8 Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility)
 - [MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)
