@@ -186,3 +186,5 @@ Read LICENSE.MD
 
 [Spinning EBF Background by u/LyeoChan on r/feedthememes on reddit](https://www.reddit.com/r/feedthememes/comments/15gad7g/ebf_chan_taking_2_ingots_on_every_input_hatch/)
 
+[Alex does learned the true potential of the Create Steam Engine by u/LyeoChan on r/feedthememes on reddit](https://www.reddit.com/r/feedthememes/comments/15gnhce/alex_does_learned_the_true_potential_of_the/)
+
