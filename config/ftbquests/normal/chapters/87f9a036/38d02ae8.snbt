@@ -1,0 +1,24 @@
+{
+	x: -22.5d,
+	y: 38.5d,
+	text: [
+		"\"We have to act quickly,\" Colonel Turner said, his voice resolute. \"The SCP Universe needs our help, and we can't let this chaos spread any further.\"",
+		"",
+		"HBMTheBobCat and mDiyo immediately started to devise a plan to contain the damage and protect the SCP Universe. Using their combined knowledge of interdimensional travel and crafting, they aimed to create a barrier that would prevent the chaos from spreading further.",
+		"",
+		"Meanwhile, Reimu and Marisa volunteered to reach out to the Hakurei Border, hoping to establish a connection between Gensokyo and the SCP Universe. They knew that the unique properties of the Hakurei Border might be the key to containing and repairing the damage caused by the interdimensional conflict.",
+		"",
+		"The Queen of the Chess Realm utilized her strategic prowess to coordinate efforts across different realms. She worked with Colonel Turner's military personnel to direct resources and assistance to the SCP Universe. They needed to contain the threat and stabilize the situation as quickly as possible.",
+		"",
+		"GregoriousT tapped into the defensive tech of GregTech New Horizons once again, but this time, his focus was on protecting the SCP Universe from further harm. He channeled the immense power of his realm to create a barrier, reinforcing it with advanced technology and the essence of the Chess Realm.",
+		"",
+		"The team worked tirelessly, drawing from their unique strengths and skills to address the crisis. As the barrier began to take shape, they noticed something unexpected – the SCP entities that had been unleashed were now being drawn back towards the SCP Universe, as if they were being pulled by an unseen force."
+	],
+	tasks: [{
+		uid: "daefa0e6",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

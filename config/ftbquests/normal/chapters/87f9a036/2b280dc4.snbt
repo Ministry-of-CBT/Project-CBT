@@ -1,0 +1,26 @@
+{
+	x: -32.5d,
+	y: 36.5d,
+	text: [
+		"In a daring move, Reimu and Marisa used a combination of powerful spellcards to create a temporary gap in the fabric of space. This gap allowed them to redirect the black hole's gravitational forces, steering it away from the SCP Universe and towards a remote and uninhabited region of space.",
+		"",
+		"As the black hole veered off course, it began to lose strength and eventually dissipated in the emptiness of space.",
+		"",
+		"Exhausted and in awe of what they had just witnessed, the team took a moment to catch their breaths. They had successfully averted a catastrophic disaster that could have spelled doom for countless dimensions.",
+		"",
+		"Flandre, witnessing the outcome of her creation, stared in disbelief. For the first time, she seemed to grasp the consequences of her actions. The destructive power she had unleashed was beyond her control, and it had nearly brought about her own downfall.",
+		"",
+		"Yukari, still present on the battlefield, looked upon Flandre with a mix of concern and amusement. \"It seems even your power has its limits, Flandre,\" she remarked cryptically.",
+		"",
+		"Flandre, her pride wounded, didn't respond. Instead, she clenched her fists, vowing to continue her fight with renewed determination.",
+		"",
+		"With the threat of the black hole neutralized, the team once again regrouped and prepared for the next phase of the battle. Yukari Yakumo, Flandre Scarlet, Remilia Scarlet, and Satori Komeiji were still formidable adversaries, and the interdimensional war was far from over."
+	],
+	tasks: [{
+		uid: "b6666d12",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 1"
+		}]
+	}]
+}

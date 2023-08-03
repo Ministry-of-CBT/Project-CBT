@@ -1,0 +1,24 @@
+{
+	x: -22.0d,
+	y: 35.5d,
+	text: [
+		"As the dust settled, the team took a moment to catch their breaths. Their triumph in driving back the adversaries was tempered by the knowledge that the battle was far from over. The realms were still at risk, and they knew that Yukari and Flandre might regroup and strike again.",
+		"",
+		"\"We did well,\" the Queen of the Chess Realm praised the team. \"But we must remain vigilant. Yukari and Flandre won't give up easily, and we need to be prepared for whatever comes next.\"",
+		"",
+		"Colonel Turner's military personnel assessed the damage caused by the battle and nodded in agreement. \"We'll continue to do what we can to contain the SCP entities and prevent any further breaches. We'll also maintain communication with our Earth and monitor for any signs of trouble.\"",
+		"",
+		"HBMTheBobCat and mDiyo shared a knowing look. They knew that their work was far from over, but they were determined to keep going. \"We'll keep devising strategies to counter Yukari's manipulations and protect the realms,\" mDiyo affirmed.",
+		"",
+		"Reimu and Marisa nodded, their determination unwavering. \"We've faced tough challenges before, and we'll face them again,\" Reimu said with a determined smile.",
+		"",
+		"GregoriousT, the creator of GregTech New Horizons, approached the team, a sense of gratitude in his eyes. \"Thank you all for defending my realm and standing with me. I won't forget this.\""
+	],
+	tasks: [{
+		uid: "7e4f8875",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

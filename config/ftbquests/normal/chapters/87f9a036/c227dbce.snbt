@@ -20,6 +20,7 @@
 		"",
 		"Also note: You are free to make a wiki for this modpack.."
 	],
+	size: 5.0d,
 	tasks: [{
 		uid: "11ad4c49",
 		type: "checkmark",

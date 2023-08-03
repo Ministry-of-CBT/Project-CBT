@@ -1,0 +1,22 @@
+{
+	x: -31.0d,
+	y: 40.0d,
+	text: [
+		"But Yukari was not one to be underestimated. She laughed gleefully, reveling in the challenge before her. \"Oh, this is delightful,\" she exclaimed. \"You've all given me quite the show! But let's see how long you can keep up this resistance.\"",
+		"",
+		"The Battle of the SCP Universe continued, with GregoriousT now at the forefront of the struggle against Yukari Yakumo. The fate of the multiverse still hung in the balance, and only time would tell if GregoriousT's resolve and the unity of the team would be enough to withstand Yukari's onslaught and put an end to the chaos she had unleashed.",
+		"",
+		"As the Battle of the SCP Universe escalated, Flandre Scarlet, frustrated by the resistance she faced, tapped into the immense power within her. With a burst of energy, she unleashed an unprecedented force, creating a black hole that threatened to consume everything in its path.",
+		"",
+		"The battlefield trembled as the black hole's gravitational pull began to draw in the surrounding matter, tearing through dimensions and destabilizing the fabric of reality.",
+		"",
+		"The team, including GregoriousT, Reimu, Marisa, HBMTheBobCat, mDiyo, and the others, found themselves facing an entirely new level of threat. The black hole's destructive power was beyond anything they had encountered before, and its event horizon expanded rapidly, threatening to engulf everything."
+	],
+	tasks: [{
+		uid: "18dc5c59",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

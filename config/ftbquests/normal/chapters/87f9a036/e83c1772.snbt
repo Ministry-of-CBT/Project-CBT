@@ -1,0 +1,20 @@
+{
+	x: -26.0d,
+	y: 37.5d,
+	text: [
+		"Flandre, eager for a challenge, unleashed a burst of destructive power, creating a wave of energy that swept through the battlefield. The team quickly scattered, avoiding the attack as they regrouped and responded with their own coordinated assault.",
+		"",
+		"The Battle of the SCP Universe intensified, with the team facing not just one, but four powerful adversaries. The clash of powers, tactics, and strategy reached an unprecedented level as each side pushed themselves to their limits.",
+		"",
+		"As the battle waged on, the team knew that every decision they made and every action they took would have far-reaching consequences. They needed to find a way to neutralize the threat posed by Yukari, Flandre, Remilia, and Satori without causing further harm to the dimensions they sought to protect.",
+		"",
+		"The outcome of this battle would determine the fate of multiple realms and the safety of countless lives. The team's unity, strength, and determination were once again put to the test as they faced the most formidable challenge yet in the interdimensional war. Only time would reveal whether they had what it took to prevail against such powerful adversaries."
+	],
+	tasks: [{
+		uid: "25909f10",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 1"
+		}]
+	}]
+}

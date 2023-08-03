@@ -1,0 +1,24 @@
+{
+	x: -36.5d,
+	y: 36.5d,
+	text: [
+		"As the UIA expanded, communication hubs were established, allowing instantaneous contact across dimensions. The O5 Council, with their experience in secrecy and management, facilitated coordination among the various realms and ensured that information was shared effectively.",
+		"",
+		"With each realm contributing to the UIA's efforts, they made progress in sealing the breaches, containing the chaos, and confronting Yukari Yakumo and Flandre Scarlet.",
+		"",
+		"The battles that followed were fierce, but with their combined strength and unity, the UIA slowly gained ground. The chaos unleashed by Yukari and Flandre began to recede, contained by the collective efforts of the alliance.",
+		"",
+		"As the UIA worked tirelessly to protect the multiverse, they became a symbol of hope and resistance across dimensions. The once divided realms now stood united, recognizing that their shared destiny bound them together.",
+		"",
+		"The flag of the United Interdimensional Alliance flew proudly, a beacon of hope that shone brighter with each victory. The star at its center represented the alliance itself, while the many stars surrounding it symbolized the myriad realms working as one.",
+		"",
+		"The Battle of the SCP Universe, the Star Wars Realm, and countless other dimensions had evolved into a war for the preservation of all existence. The UIA knew that they could not afford to falter, for the fate of the multiverse rested on their shoulders."
+	],
+	tasks: [{
+		uid: "0edf6b9f",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 2"
+		}]
+	}]
+}

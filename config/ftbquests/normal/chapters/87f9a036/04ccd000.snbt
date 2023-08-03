@@ -1,0 +1,26 @@
+{
+	x: -38.0d,
+	y: 36.5d,
+	text: [
+		"As the UIA faced this united front, the battles became even more intense and relentless. The fate of the multiverse now hung in the balance, and both sides understood that the outcome of this conflict would shape the destiny of countless dimensions.",
+		"",
+		"The UIA knew that they needed a new approach to counter this unprecedented threat. The Queen of the Chess Realm devised a daring plan that involved splitting the UIA into smaller task forces, each one focusing on confronting a specific aspect of The Scarlet's forces.",
+		"",
+		"One task force led by Reimu and Marisa would confront Yukari Yakumo directly, using their unique abilities and experiences in battling powerful youkai to gain an advantage.",
+		"",
+		"Another task force led by GregoriousT would focus on containing Flandre Scarlet's destructive power. Armed with advanced technology, they would develop new defenses and weapons to neutralize her attacks.",
+		"",
+		"HBMTheBobCat and mDiyo, together with specialized Foundation personnel, formed a third task force. They would work on disrupting Satori Komeiji's mind-reading abilities, using their technological expertise to shield the UIA's strategic plans from her influence.",
+		"",
+		"Colonel Turner and his military personnel led a fourth task force, coordinating efforts to confront the Sith Lords and dark forces among The Scarlet's allies. Their tactical prowess and experience in dealing with anomalous threats proved invaluable in these confrontations.",
+		"",
+		"Each task force would be supported by the combined efforts of the entire UIA, with communication hubs and information-sharing networks connecting them in real-time. This division of forces allowed them to be more agile and adaptable in their strategies, responding to the ever-changing battlefield."
+	],
+	tasks: [{
+		uid: "145e5676",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

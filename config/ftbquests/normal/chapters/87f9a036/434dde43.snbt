@@ -1,0 +1,26 @@
+{
+	x: -34.0d,
+	y: 36.5d,
+	text: [
+		"With the Star Wars Universe in crisis, they knew they needed to form an alliance with those who understood the realm best – the Jedi and the Sith. Reaching out to both sides, they sought to unite them in a common cause: the preservation of their universe.",
+		"",
+		"However, the Jedi and Sith were initially hesitant to trust outsiders, especially those who hailed from different dimensions. It took the combined efforts of Reimu and Marisa, who had faced similar prejudices in their own world, to bridge the gap and show that they were allies, not adversaries.",
+		"",
+		"HBMTheBobCat and mDiyo used their technological expertise to assist the engineers and mechanics of the Star Wars Universe in repairing damaged ships and infrastructure. This act of goodwill helped further gain the trust of both Jedi and Sith.",
+		"",
+		"As the team worked alongside the Jedi and Sith, they realized that there were greater forces at play. The chaotic influence had spread beyond the Chess Realm and even the SCP Universe. It had become a threat to all known dimensions, and the repercussions of failure were unthinkable.",
+		"",
+		"Yukari Yakumo and Flandre Scarlet, still determined to achieve their goals, had continued to manipulate the chaos and use it to their advantage. Their actions had sparked an interdimensional conflict with devastating consequences.",
+		"",
+		"The O5 Council, knowing the importance of sealing the breaches and containing the chaos, worked with the specialized Foundation personnel to implement containment measures within the Star Wars Universe. They sought to reinforce the realm's boundaries and prevent further destabilization.",
+		"",
+		"Meanwhile, the Queen of the Chess Realm provided strategic insights, advising on how to utilize the unique properties of the Star Wars Universe to counter the chaos more effectively."
+	],
+	tasks: [{
+		uid: "5af5e02e",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 2"
+		}]
+	}]
+}

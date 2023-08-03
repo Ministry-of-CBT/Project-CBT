@@ -1,0 +1,20 @@
+{
+	x: -19.5d,
+	y: 32.0d,
+	text: [
+		"Meanwhile, Reimu and Marisa used their danmaku to create a diversion, drawing Flandre's attention away from mDiyo and HBMTheBobCat. They unleashed a barrage of colorful bullets, skillfully dodging Flandre's attacks while keeping her occupied.",
+		"",
+		"HBMTheBobCat and mDiyo, taking advantage of the momentary distraction, quickly devised a plan. With HBMTheBobCat's interdimensional expertise and mDiyo's crafting skills, they crafted specialized devices that would counteract Yukari's manipulation over the SCP entities. These devices were infused with the essence of different dimensions, disrupting the control Yukari had over the anomalous creatures.",
+		"",
+		"With the help of the Queen of the Chess Realm and Colonel Turner's military personnel, they coordinated a multi-pronged attack. The Queen used her strategic abilities to guide the team's efforts, while the soldiers focused on containing the unleashed SCP entities within the realm.",
+		"",
+		"As the team regrouped, they launched a coordinated offensive against Yukari Yakumo and Flandre Scarlet. Reimu and Marisa combined their powers, creating a powerful spellcard that weaved through the battlefield, aiming to restrain Yukari's movements."
+	],
+	tasks: [{
+		uid: "7e6129e3",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 2"
+		}]
+	}]
+}

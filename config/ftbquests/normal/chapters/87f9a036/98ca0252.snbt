@@ -1,0 +1,26 @@
+{
+	x: -37.0d,
+	y: 35.0d,
+	text: [
+		"With the united strength of the UIA, they pressed forward, determined to confront Yukari Yakumo and Flandre Scarlet once and for all. The interdimensional war was far from over, but the alliance knew that together, they held the power to restore balance, safeguard their realms, and protect the future of existence itself.",
+		"",
+		"As the United Interdimensional Alliance (UIA) made strides in containing the chaos and pushing back the threat, the Forces of The Scarlet, led by Yukari Yakumo and Flandre Scarlet, intensified their efforts. Realizing that the UIA was a formidable opponent, they gathered their allies from various dimensions to rally against the alliance.",
+		"",
+		"The Forces of The Scarlet proved to be a formidable and diverse coalition. Youkai, supernatural entities, Sith Lords, dark forces from different realms, and those who sought to exploit the chaos for their own gain joined their ranks. The scope and scale of the conflict expanded as new realms became battlegrounds.",
+		"",
+		"Yukari Yakumo, ever the manipulative mastermind, used her gap manipulation abilities to appear seemingly out of nowhere, striking at the UIA's weaknesses and disrupting their strategies.",
+		"",
+		"Flandre Scarlet unleashed her overwhelming power, creating bursts of destructive energy that threatened to unravel the very fabric of the dimensions.",
+		"",
+		"Remilia Scarlet, joined by other powerful entities, commanded her forces with cunning tactics and fierce determination.",
+		"",
+		"Satori Komeiji, utilizing her mind-reading abilities, attempted to gain insights into the UIA's plans and weaknesses, offering tactical advantages to her allies."
+	],
+	tasks: [{
+		uid: "0b07d0d8",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

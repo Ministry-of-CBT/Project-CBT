@@ -1,0 +1,22 @@
+{
+	x: -18.5d,
+	y: 30.0d,
+	text: [
+		"Meanwhile, HBMTheBobCat and mDiyo continued their efforts to disrupt Yukari's manipulations, using the devices they crafted to interfere with her abilities. Their coordination and ingenuity played a crucial role in maintaining the upper hand against her.",
+		"",
+		"Reimu and Marisa, ever the stalwart defenders of Gensokyo, persisted in their efforts to contain and neutralize Flandre's power. Their danmaku and spellcasting skills served as a crucial barrier between Flandre and the rest of the team.",
+		"",
+		"Colonel Turner's military personnel and the SCP Foundation continued their strategic engagements, trying to isolate and contain the unleashed SCP entities. The Queen of the Chess Realm showcased her tactical prowess, coordinating the efforts of everyone to minimize collateral damage and protect the realms from the chaotic onslaught.",
+		"",
+		"As the battle reached its peak, the sheer intensity of the clashes threatened to destabilize the very fabric of the Chess Realm itself. The realm's landscape shifted and transformed with each exchange of power, revealing its fragility in the face of such immense forces.",
+		"",
+		"In this climactic showdown, the fate of multiple dimensions hung in the balance. The united front against Yukari Yakumo and Flandre Scarlet showcased the power of cooperation and determination in the face of adversity. But the question remained: Could they overcome these formidable adversaries and restore balance to the realms before it was too late? The answer was yet to be determined as the interdimensional war continued to unfold."
+	],
+	tasks: [{
+		uid: "028a1a6d",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}]
+}

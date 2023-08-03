@@ -1,0 +1,20 @@
+{
+	x: -18.0d,
+	y: 33.5d,
+	text: [
+		"GregoriousT, aware of the danger posed by Flandre's raw power, redirected the overcharged defensive tech towards her. The formidable barriers and countermeasures channeled the immense energy, creating a shield that dampened Flandre's attacks and protected mDiyo and HBMTheBobCat.",
+		"",
+		"Fueled by the determination to protect their realms, the team fought with renewed vigor and coordination. Their combined efforts were slowly turning the tide of the battle, pushing back against the chaos caused by Yukari and Flandre.",
+		"",
+		"However, the battle was far from over, and the adversaries were not ones to be underestimated. Yukari's manipulation over the SCP entities proved to be cunning and persistent, while Flandre's power seemed almost limitless. The realm of GregTech New Horizons still faced a dire threat, and the team knew that they had to press on with everything they had if they were to stand a chance of restoring balance and peace to the realms.",
+		"",
+		"The battle of GregTech New Horizons had reached a pivotal moment, and the outcome hinged on the resilience and unity of the team against these formidable adversaries. Only through their unwavering determination and combined strength could they hope to overcome the chaos unleashed upon the realms."
+	],
+	tasks: [{
+		uid: "f443ae2f",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 2"
+		}]
+	}]
+}

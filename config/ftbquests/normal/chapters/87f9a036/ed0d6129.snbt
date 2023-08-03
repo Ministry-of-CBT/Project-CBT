@@ -1,0 +1,15 @@
+{
+	title: "Gregic Quest ----",
+	x: -25.0d,
+	y: 34.0d,
+	text: [
+		"Gregic Quest "
+	],
+	tasks: [{
+		uid: "fcaaf7f1",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

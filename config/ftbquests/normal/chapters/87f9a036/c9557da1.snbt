@@ -1,0 +1,28 @@
+{
+	x: -25.5d,
+	y: 35.5d,
+	text: [
+		"The team knew that they were up against a formidable combination. Yukari and Flandre's raw power, coupled with the tactical genius of Remilia and the mind-reading abilities of Satori, made for a dangerous alliance.",
+		"",
+		"HBMTheBobCat, always quick-thinking, spoke up. \"We need to stay focused and work together. We can't let them distract us or use our own thoughts against us.\"",
+		"",
+		"Colonel Turner's military personnel adjusted their tactics, knowing that they needed to counter both the offensive power and the psychological warfare brought by Satori's abilities.",
+		"",
+		"The Queen of the Chess Realm addressed Remilia and Satori, her regal aura unwavering. \"We didn't come here for a fight, but we won't back down either. We seek to put an end to the chaos and restore balance to the multiverse.\"",
+		"",
+		"Reimu and Marisa readied themselves, knowing that they had faced powerful foes before, but this time the odds were even more stacked against them.",
+		"",
+		"In the midst of the confrontation, mDiyo had an idea. \"If Satori can read minds, maybe I can create a device to disrupt her abilities,\" he suggested.",
+		"",
+		"HBMTheBobCat nodded in agreement. \"Good thinking. We need to level the playing field as much as possible.\"",
+		"",
+		"As they continued their preparations, Yukari's mischievous smile returned. \"You're quite the resourceful bunch,\" she remarked. \"But you'll find that we're not so easily defeated.\""
+	],
+	tasks: [{
+		uid: "9b299903",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -30.5d,
+	y: 38.0d,
+	text: [
+		"As the intense Battle of the SCP Universe raged on, Yukari Yakumo saw an opportunity amidst the chaos. She noticed GregoriousT, the creator and guardian of GregTech New Horizons, standing amidst the fray, tirelessly working to protect his realm and the dimensions it was connected to.",
+		"",
+		"Yukari's mischievous smile returned as she teleported closer to GregoriousT. \"My dear GregoriousT, you must be exhausted,\" she said with an air of false concern. \"All this fighting, all this destruction – it doesn't have to continue. You can put an end to it all by surrendering to me.\"",
+		"",
+		"GregoriousT, though weary from the battle, stood his ground with a determined expression. He knew better than to trust the devious youkai before him. \"I will not surrender, Yukari,\" he replied firmly. \"The realms under my care must be protected, and I won't let you or anyone else bring them to ruin.\"",
+		"",
+		"Yukari's eyes narrowed slightly, her attempt to sway GregoriousT not yielding the results she desired. \"Such a shame,\" she said, feigning disappointment. \"You could have had it all – peace, power, and the freedom to explore the gaps between dimensions. But if you wish to continue resisting, so be it.\"",
+		"",
+		"With a wave of her fan, Yukari summoned a barrage of danmaku, aimed directly at GregoriousT. But GregoriousT was no stranger to adversity. Drawing from the technological marvels of GregTech New Horizons, he swiftly erected a barrier to protect himself from Yukari's onslaught.",
+		"",
+		"\"Your tricks won't work on me, Yukari,\" GregoriousT called out, his voice laced with conviction. \"I have witnessed the consequences of your actions, and I won't let you harm any more dimensions.\"",
+		"",
+		"Yukari's grin widened, intrigued by GregoriousT's determination. \"Very well,\" she said, her tone shifting from playful to serious. \"If you won't surrender willingly, I shall take what I desire by force.\""
+	],
+	tasks: [{
+		uid: "1e7bcb4e",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

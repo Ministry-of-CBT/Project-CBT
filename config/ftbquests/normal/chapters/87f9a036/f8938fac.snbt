@@ -1,0 +1,20 @@
+{
+	x: -32.0d,
+	y: 38.0d,
+	text: [
+		"Faced with the imminent danger, the team acted quickly. GregoriousT channeled the full might of the defensive technology in GregTech New Horizons, creating a force field that acted as a barrier against the black hole's pull. He strained to maintain the barrier's stability, pouring all his expertise into protecting his realm and the dimensions linked to it.",
+		"",
+		"Reimu and Marisa focused on strengthening their spellcards, trying to counteract the black hole's gravitational forces. HBMTheBobCat and mDiyo worked together to craft a device that could potentially disrupt the black hole's formation, while the Queen of the Chess Realm and Colonel Turner's military personnel coordinated efforts to assist in containing the black hole.",
+		"",
+		"The O5 Council, observing the situation from their central command, immediately dispatched specialized Foundation personnel with advanced technology to reinforce the team's efforts.",
+		"",
+		"Despite their best efforts, the black hole's power proved overwhelming. The event horizon continued to expand, threatening to swallow the entire battlefield and beyond."
+	],
+	tasks: [{
+		uid: "90d72ef8",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 2"
+		}]
+	}]
+}

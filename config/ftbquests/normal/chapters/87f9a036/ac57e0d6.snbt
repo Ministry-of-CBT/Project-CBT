@@ -1,0 +1,20 @@
+{
+	x: -34.5d,
+	y: 38.5d,
+	text: [
+		"The team's determination to protect this iconic universe, along with their growing camaraderie with the Jedi and Sith, started to shift the tide of the battle. The factions of the Star Wars Universe, once divided, began to find common ground in the face of an unprecedented threat.",
+		"",
+		"Even some Force-sensitive individuals, initially influenced by the chaos, began to regain control of their abilities and use them to aid the team and their newfound allies.",
+		"",
+		"The Battle of the Star Wars Realm was far from over, and the struggle against Yukari Yakumo and Flandre Scarlet continued on multiple fronts. But the unity and determination of the team, together with the alliance they forged with the Jedi and Sith, provided a glimmer of hope in the face of overwhelming darkness.",
+		"",
+		"As they fought side by side in this iconic realm, they understood that the fate of not only the Star Wars Universe but all known dimensions depended on their resilience, ingenuity, and unity. Their interdimensional war had evolved into a battle for the preservation of existence itself, and they knew they must give it everything they had to succeed."
+	],
+	tasks: [{
+		uid: "581174cd",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

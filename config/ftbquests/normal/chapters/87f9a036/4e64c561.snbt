@@ -1,0 +1,22 @@
+{
+	x: -28.5d,
+	y: 36.0d,
+	text: [
+		"As the Battle of the SCP Universe continued, a sudden shift in the atmosphere signaled the arrival of new forces. The O5 Council and their carefully selected personnel from the SCP Foundation appeared on the battlefield, their presence commanding attention.",
+		"",
+		"The team on the front lines, engaged in the struggle against Yukari Yakumo, Flandre Scarlet, Remilia Scarlet, and Satori Komeiji, halted momentarily, their eyes turning towards the newly arrived council members.",
+		"",
+		"O5-1 stepped forward, his presence exuding authority. \"We have come to assist in containing this crisis,\" he declared, his voice steady and firm. \"The SCP Foundation will not stand idle when the safety of our universe and countless others is at stake.\"",
+		"",
+		"Colonel Turner and his military personnel, who had been fighting with valor, saluted their superiors. \"Sir, we are at your command,\" Colonel Turner said, acknowledging the authority of the O5 Council.",
+		"",
+		"The Queen of the Chess Realm, who had been coordinating the efforts of the team, welcomed the council members with a respectful nod. \"Your assistance is greatly appreciated,\" she said. \"Together, we can face the threat posed by these adversaries.\""
+	],
+	tasks: [{
+		uid: "4388d263",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

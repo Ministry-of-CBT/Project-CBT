@@ -1,0 +1,24 @@
+{
+	x: -30.0d,
+	y: 36.0d,
+	text: [
+		"As the chaos from the Chess Realm receded, the rifts between dimensions began to close, and the SCP entities gradually returned to containment.",
+		"",
+		"Yukari, Flandre, Remilia, and Satori found themselves facing not just a single group of powerful opponents but an entire coalition of forces united in the cause of protecting the multiverse.",
+		"",
+		"Yukari's mischievous grin faded, and Flandre's enthusiasm wavered as they realized that their plans were crumbling around them.",
+		"",
+		"However, the adversaries were not ones to be defeated easily. Yukari and Flandre still possessed immense power, and Remilia and Satori added their own unique abilities to the mix.",
+		"",
+		"The battle was far from over, and the resolution of this interdimensional war hung in the balance. The team knew that they had gained a crucial advantage with the arrival of the O5 Council and their forces, but they also knew that they had to stay vigilant and determined to ensure the safety of their worlds.",
+		"",
+		"The Battle of the SCP Universe continued, a testament to the resilience of unity and the unwavering commitment to safeguard the dimensions from chaos. Only through their combined strength and resolve could they hope to prevail against the formidable adversaries and restore balance to the multiverse."
+	],
+	tasks: [{
+		uid: "b3c3b6ed",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Battle of GregTech New Horizons #1",
+	x: -19.5d,
+	y: 26.5d,
+	description: "What is this and how do i get rid of it?",
+	text: [
+		"As the battle continued, the combined efforts of the SCP Foundation, the Chess Realm's Queen, Colonel Turner's military personnel, Reimu, Marisa, HBMTheBobCat, and mDiyo managed to hold their ground against Yukari Yakumo and Flandre Scarlet. However, the situation took a turn for the worse when Yukari's abilities of manipulation extended beyond the combatants present.",
+		"",
+		"With her gap manipulation powers, Yukari started to control and redirect the chaotic energy of the unleashed SCP entities. What was once a stalemate turned into a far more dangerous situation as these anomalous creatures, already powerful in their own right, were now under Yukari's influence.",
+		"",
+		"Reimu and Marisa sensed the growing instability, and their faces filled with concern. \"We need to end this quickly,\" Marisa said, her voice strained. \"If she keeps controlling the SCP entities, things will spiral out of control.\"",
+		"",
+		"The Queen of the Chess Realm nodded in agreement. \"Indeed. We must find a way to neutralize Yukari's influence over these creatures before they wreak havoc not only on this realm but countless others.\""
+	],
+	dependencies: [
+		"102a9229"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4e745332",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 988"
+		}]
+	}]
+}

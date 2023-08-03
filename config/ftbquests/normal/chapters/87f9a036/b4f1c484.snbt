@@ -1,0 +1,22 @@
+{
+	title: "Distressing News!?!?!?!??!?!",
+	x: -22.0d,
+	y: 37.0d,
+	description: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+	text: [
+		"With the adversaries momentarily driven back, the team took a moment to regroup and plan their next steps. They knew that Yukari and Flandre would not rest for long, and they needed to stay prepared for the next confrontation.",
+		"",
+		"The Battle of GregTech New Horizons had been a testament to the strength of unity and the resolve to protect what they held dear. As they readied themselves for the challenges ahead, the team knew that their interdimensional war was far from over, but they also knew that together, they had the strength to face whatever came their way.",
+		"",
+		"As the team regrouped after their hard-fought victory in the Battle of GregTech New Horizons, they received distressing news. The SCP Foundation's universe was under attack, and the chaos from the Chess Realm had started to spread, affecting multiple dimensions, including the SCP Universe.",
+		"",
+		"The team's hearts sank as they realized the implications of this new development. The interdimensional war had taken an even darker turn, and the consequences of their actions were far-reaching."
+	],
+	tasks: [{
+		uid: "e5ae7b7d",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 5"
+		}]
+	}]
+}

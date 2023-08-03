@@ -1,0 +1,20 @@
+{
+	x: -16.5d,
+	y: 29.5d,
+	text: [
+		"The combined onslaught from the SCP Foundation, the Chess Realm's Queen, Colonel Turner's military personnel, Reimu, Marisa, HBMTheBobCat, mDiyo, and now GregoriousT, was formidable. The battlefield erupted into a cacophony of spells, danmaku, futuristic weapons, and alchemical explosions.",
+		"",
+		"Yukari and Flandre found themselves cornered by this relentless assault from all sides. For the first time, they were facing adversaries who refused to back down, united in their goal to protect their worlds from further destruction.",
+		"",
+		"However, Yukari was not one to be underestimated. She manipulated gaps and boundaries to evade the attacks, slipping through the dimensional fabric to appear elsewhere on the battlefield. Flandre, on the other hand, unleashed her raw power, creating openings in the enemy's ranks with each strike.",
+		"",
+		"GregoriousT, with his deep understanding of the inner workings of his realm, tried to anticipate and counter Yukari's gap manipulation. He used his expertise to calculate her movements and direct his attacks with precision."
+	],
+	tasks: [{
+		uid: "fa7ecf99",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}]
+}

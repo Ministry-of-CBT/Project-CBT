@@ -1,0 +1,24 @@
+{
+	x: -22.0d,
+	y: 33.5d,
+	text: [
+		"As the combined efforts of the team intensified, Yukari Yakumo and Flandre Scarlet found themselves pushed back, losing ground in the Battle of GregTech New Horizons. The relentless attacks from the SCP Foundation, the Queen of the Chess Realm, Colonel Turner's military personnel, Reimu, Marisa, HBMTheBobCat, mDiyo, and the overdrive of GregoriousT's defensive technology proved to be overwhelming.",
+		"",
+		"Despite their formidable powers, Yukari and Flandre were no match for the united force opposing them. The team's coordination, determination, and trust in one another allowed them to gain the upper hand.",
+		"",
+		"Feeling the weight of their defeat, Yukari's mischievous grin faltered, and Flandre's enthusiasm waned. They realized that they were up against more than just powerful adversaries; they were facing a united front of beings who had come together for the greater good.",
+		"",
+		"\"We can't keep this up much longer,\" Yukari admitted, her voice tinged with frustration. \"Their unity is stronger than I anticipated.\"",
+		"",
+		"Flandre, usually eager for a fight, nodded in agreement. \"Yeah, they're all working together. It's no fun if we can't win.\"",
+		"",
+		"With defeat looming and the potential consequences of their actions sinking in, Yukari and Flandre decided it was time to retreat. Yukari opened a gap, and the two of them vanished from the battlefield, leaving behind a sense of relief and victory among the team."
+	],
+	tasks: [{
+		uid: "26a3e020",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -29.5d,
+	y: 34.5d,
+	text: [
+		"With the arrival of the O5 Council, the team gained a valuable advantage. The council members brought with them specialized personnel and advanced containment technology from the SCP Foundation, enhancing the team's capabilities in countering the chaos unleashed by Yukari and Flandre.",
+		"",
+		"As the battle continued, O5-4, known for their strategic prowess, coordinated the forces. They devised a plan to exploit weaknesses in the adversaries' formation and utilized SCP Foundation assets to redirect and contain the unleashed SCP entities.",
+		"",
+		"O5-3, who had a deep understanding of the SCP Universe's anomalies, analyzed the nature of the chaos, seeking ways to counteract its effects more effectively.",
+		"",
+		"Meanwhile, O5-5 coordinated communications across dimensions, ensuring that all allies were in sync and that information was shared promptly. This allowed the team to adapt their strategies in real-time based on the evolving situation.",
+		"",
+		"With the unified efforts of the O5 Council, Colonel Turner's military personnel, the Queen of the Chess Realm, Reimu, Marisa, HBMTheBobCat, mDiyo, and the rest of the team, the tide of the battle started to turn. The adversaries, who had been confident at the start of the conflict, now faced a united front they hadn't anticipated."
+	],
+	tasks: [{
+		uid: "7873febd",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

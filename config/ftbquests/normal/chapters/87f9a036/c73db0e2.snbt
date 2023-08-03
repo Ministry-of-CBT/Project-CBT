@@ -1,0 +1,26 @@
+{
+	x: -26.5d,
+	y: 39.0d,
+	text: [
+		"In the midst of the interdimensional chaos and the ongoing Battle of the SCP Universe, the O5 Council of the SCP Foundation convened an emergency meeting in their secure headquarters. The council members, known for their utmost secrecy and authority, were now faced with a crisis that transcended the boundaries of their organization.",
+		"",
+		"Around a large, dimly lit table, the council members gathered, their expressions a mix of concern and urgency. The news of the SCP Universe being under attack and the potential ramifications for all known dimensions had reached them, and they understood the gravity of the situation.",
+		"",
+		"O5-1, the council's chairman, addressed the council with a solemn tone. \"The situation has escalated far beyond our expectations. The chaos from the Chess Realm is spreading rapidly, and we must take decisive action to contain it before it engulfs all the worlds we have worked so hard to protect.\"",
+		"",
+		"O5-4, known for their pragmatic approach, spoke up. \"We cannot ignore the implications of this crisis. The SCP entities are out of containment, and our usual procedures won't suffice. We need to work with external entities if we are to have any hope of containing the threat.\"",
+		"",
+		"O5-2 nodded in agreement. \"As much as we value secrecy, this is a situation that surpasses even our capabilities. We must reach out to the allies we have in the outside world and form alliances to address this crisis.\"",
+		"",
+		"Meanwhile, O5-7, who was known for being cautious and meticulous, spoke up. \"We must also consider the ramifications of our actions. The balance between dimensions is fragile, and any misstep could lead to further instability. We need a carefully crafted plan.\"",
+		"",
+		"The council members agreed that cooperation with external forces was essential. They knew that they had to reach out to the allies they had in various realms to form a united front against the chaos unleashed by Yukari Yakumo and Flandre Scarlet."
+	],
+	tasks: [{
+		uid: "0a9300fe",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}]
+}

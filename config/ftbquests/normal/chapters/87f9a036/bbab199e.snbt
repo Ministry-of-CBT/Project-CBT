@@ -1,0 +1,22 @@
+{
+	x: -33.0d,
+	y: 35.0d,
+	text: [
+		"The Battle of the SCP Universe had shown them the extent of the danger they faced and the importance of unity in the face of overwhelming chaos. The team knew that they must continue to stand together, combining their strengths and resolve, if they were to protect the realms and put an end to the conflict once and for all.",
+		"",
+		"As the Battle of the SCP Universe subsided, the team received an urgent message from a distant realm: the Star Wars Universe. The chaos unleashed by Yukari Yakumo and Flandre Scarlet had spread, affecting even the most iconic and well-known dimensions.",
+		"",
+		"The team, joined now by specialized Foundation personnel from the SCP Universe and the O5 Council, gathered once again to face the new threat. With the Queen of the Chess Realm's guidance, they prepared to enter the Star Wars Universe, knowing they would need to adapt their tactics to the unique challenges of this realm.",
+		"",
+		"As they arrived in the Star Wars Universe, they were immediately faced with a scene of devastation. Planets were in turmoil, ships clashed in the skies, and both the dark and light sides of the Force were thrown into disarray by the chaos from the Chess Realm.",
+		"",
+		"They quickly discovered that the Force-sensitive individuals in the Star Wars Universe were affected in unpredictable ways. Some had gained newfound powers, while others struggled to control their abilities. The delicate balance between the light and dark sides of the Force was teetering on the edge of collapse."
+	],
+	tasks: [{
+		uid: "d772d9c3",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 2"
+		}]
+	}]
+}

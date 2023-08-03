@@ -1,0 +1,20 @@
+{
+	x: -20.0d,
+	y: 30.0d,
+	text: [
+		"As the battle intensified, the manipulated SCP entities, now under Yukari Yakumo's control, started wreaking havoc on GregTech New Horizons. They tore through the realm with their anomalous powers, causing unprecedented destruction and chaos. The situation became dire as the stability of GregoriousT's realm hung in the balance.",
+		"",
+		"Amidst the chaos, Flandre Scarlet singled out mDiyo and HBMTheBobCat for a direct attack. Her raw power was overwhelming, and it seemed as though she could overpower them effortlessly. The two of them found themselves in a dire situation, desperately trying to defend against Flandre's onslaught.",
+		"",
+		"Seeing the destruction caused by the SCP entities and the danger faced by his allies, GregoriousT knew that he had to act decisively. With determination, he activated the defensive technology integrated into GregTech New Horizons to its maximum capacity. The realm's defenses surged, forming an intricate network of barriers, force fields, and countermeasures.",
+		"",
+		"The technological marvels created by GregoriousT were designed to protect his realm from external threats, but they were now being pushed beyond their limits. The defensive barriers held for the moment, giving the team a much-needed respite and an opportunity to regroup."
+	],
+	tasks: [{
+		uid: "520024f3",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}]
+}

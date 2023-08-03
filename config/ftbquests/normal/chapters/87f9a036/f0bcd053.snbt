@@ -1,0 +1,32 @@
+{
+	x: -36.0d,
+	y: 38.5d,
+	text: [
+		"As the team and their newfound allies fought side by side in the Star Wars Universe, their unity and determination began to inspire others across dimensions. News of their efforts spread like wildfire, and many realms reached out, seeking to join the cause and put an end to the chaos that threatened them all.",
+		"",
+		"Recognizing the urgency of the situation and the need for a coordinated effort, the team, along with the O5 Council and the Queen of the Chess Realm, decided to form the United Interdimensional Alliance (UIA). This alliance would bring together representatives from various realms, each with their unique strengths, to combat the threat posed by Yukari Yakumo and Flandre Scarlet.",
+		"",
+		"The team's flag, a star surrounded by many stars, symbolized unity, hope, and the interconnectedness of all dimensions. It represented the collective power of the UIA, which now included members from the SCP Universe, Star Wars Universe, the Chess Realm, and many more.",
+		"",
+		"The Jedi and Sith of the Star Wars Universe, once divided by conflict, now fought shoulder to shoulder, realizing that their common enemy transcended any differences they had.",
+		"",
+		"Representatives from Gensokyo, the home of Reimu and Marisa, brought their experience in dealing with youkai and other supernatural entities to the alliance.",
+		"",
+		"The advanced technology of GregTech New Horizons, represented by GregoriousT, provided the UIA with valuable tools to counter the chaos unleashed by Yukari and Flandre.",
+		"",
+		"Colonel Turner's military personnel and the SCP Foundation contributed their expertise in containment and tactical strategies, essential in dealing with the anomalous threats emanating from the Chess Realm.",
+		"",
+		"The Queen of the Chess Realm, with her strategic brilliance, served as the leader and guiding force of the UIA, ensuring that every decision made was calculated and coordinated.",
+		"",
+		"HBMTheBobCat and mDiyo brought their knowledge of crafting and engineering, developing specialized devices to aid the alliance in their mission.",
+		"",
+		"From other realms, representatives added their unique abilities, skills, and knowledge to bolster the UIA's ranks. Beings from realms of magic, advanced technology, and supernatural wonders joined forces"
+	],
+	tasks: [{
+		uid: "683292a4",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 5"
+		}]
+	}]
+}

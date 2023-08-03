@@ -1,0 +1,24 @@
+{
+	x: -19.0d,
+	y: 35.5d,
+	text: [
+		"However, HBMTheBobCat was not one to be easily swayed. He had encountered countless challenges in his interdimensional travels and had learned the importance of staying true to his convictions.",
+		"",
+		"Despite the exhaustion, he shook his head and responded firmly, \"I may be tired, but I won't surrender to you, Yukari. I've seen the damage your actions have caused, and I can't let you continue unchecked. The safety of countless dimensions depends on stopping you.\"",
+		"",
+		"The Queen of the Chess Realm, witnessing this exchange, understood the gravity of the situation. She stepped forward, her presence reassuring. \"HBMTheBobCat, you are not alone in this fight. We stand united against the chaos caused by Yukari and Flandre. Together, we will prevail.\"",
+		"",
+		"Reimu and Marisa, who had fought side by side with HBMTheBobCat through many trials, added their encouragement. \"You've always been our ally in times of need,\" Reimu said, \"and now, we need you more than ever.\"",
+		"",
+		"Marisa nodded in agreement. \"Yeah, don't let her get to ya! We've faced plenty of tough opponents together, and we'll get through this one too!\"",
+		"",
+		"The team's unwavering support bolstered HBMTheBobCat's resolve, and he pushed aside the doubts that had momentarily clouded his judgment. He focused on the task at hand, the weight of the interdimensional war pressing on his shoulders."
+	],
+	tasks: [{
+		uid: "0f4f3d60",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

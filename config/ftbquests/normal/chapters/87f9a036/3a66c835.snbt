@@ -1,0 +1,20 @@
+{
+	x: -17.5d,
+	y: 35.5d,
+	text: [
+		"As the intense Battle of GregTech New Horizons continued, Yukari Yakumo, known for her cunning and manipulative nature, saw an opportunity to exploit the situation further. Amidst the chaos and the relentless onslaught of powers, she turned her attention to HBMTheBobCat.",
+		"",
+		"HBMTheBobCat, an interdimensional traveler with a reputation for resourcefulness and wit, had been instrumental in devising strategies and devices to counter Yukari's manipulation of the SCP entities. Yukari recognized his intellect and unique perspective, which made him a potential target for her influence.",
+		"",
+		"\"Ah, HBMTheBobCat, why continue to resist?\" Yukari called out, her voice weaving through the battlefield like a haunting melody. \"I can see the exhaustion in your eyes, the burden of this conflict weighing on your shoulders. You don't have to fight any longer. Surrender to me, and I promise you a life of peace and contentment in the gaps between dimensions.\"",
+		"",
+		"HBMTheBobCat felt the allure of Yukari's words, and for a moment, doubt crept into his mind. The thought of peace and an end to the relentless battle was tempting, especially when he was confronted with the sheer scale of destruction surrounding him."
+	],
+	tasks: [{
+		uid: "e2ad837b",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 5.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "e0121ac5",
+		type: "kill",
+		entity: "srparasites:buglin",
+		value: 100L
+	}]
+}

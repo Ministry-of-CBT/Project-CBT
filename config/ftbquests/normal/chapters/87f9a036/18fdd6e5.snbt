@@ -1,7 +1,7 @@
 {
 	title: "Where the original author left off....",
-	x: 0.0d,
-	y: 0.5d,
+	x: -3.0d,
+	y: 1.0d,
 	description: "Complete this quest to proceed to the next one.",
 	text: [
 		"As Reimu and Marisa ventured further into the cubey world, they soon realized that their surroundings were not just an empty field. The landscape was dotted with peculiar structures, some resembling houses, others like strange pixelated trees, and there were even floating islands made of cubes. They also noticed some small, curious creatures hopping around, resembling a mix between rabbits and squares. Everything felt like a surreal blend of fantasy and video game aesthetics.",

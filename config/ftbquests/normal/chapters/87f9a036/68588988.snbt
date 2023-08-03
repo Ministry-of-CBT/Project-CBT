@@ -1,0 +1,39 @@
+{
+	title: "Battle of GregTech New Horizons #2",
+	x: -21.0d,
+	y: 27.0d,
+	description: "Spinning EBF",
+	text: [
+		"Colonel Turner's military personnel adjusted their tactics, focusing on isolating and containing the SCP entities to minimize their destructive potential. Working in sync with the SCP Foundation's specialized knowledge, they did their best to counteract Yukari's manipulations.",
+		"",
+		"However, it was evident that Yukari's abilities were overwhelming, and even with the combined strength of the team, she proved to be a formidable adversary. Flandre Scarlet, too, added to the chaos, her raw power amplifying the destruction around them.",
+		"",
+		"HBMTheBobCat and mDiyo used their unique skills to devise a plan to disrupt Yukari's manipulation. HBMTheBobCat tapped into his interdimensional expertise, trying to find a weakness in Yukari's technique. Meanwhile, mDiyo crafted special devices to interfere with her gap manipulation powers.",
+		"",
+		"The Chess Realm's Queen showcased her own formidable abilities, creating barriers and using strategic maneuvers to protect the team from the unleashed SCP entities. The SCP Foundation provided valuable insights into the nature of these creatures, helping the team understand their weaknesses.",
+		"",
+		"As the battle intensified, it became a race against time. If Yukari's control over the SCP entities wasn't stopped soon, the consequences could be disastrous. The delicate balance between dimensions was at risk of collapsing, and the potential for catastrophe loomed over them."
+	],
+	dependencies: [
+		"eb953a5d"
+	],
+	tasks: [{
+		uid: "912c8b2e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1153"
+		}]
+	},
+	{
+		uid: "c24baf6b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1168"
+		}]
+	}],
+	rewards: [{
+		uid: "a680f037",
+		type: "item",
+		item: "silentgems:materialgrader"
+	}]
+}
