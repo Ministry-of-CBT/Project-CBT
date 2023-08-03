@@ -5,6 +5,10 @@ file = ".github/ISSUE_TEMPLATE/the-funny-issue-template.md"
 hash = "72affe61d6738b94dabd97fbf97c4a968dab9062c02da94a82e1c12d0ff3e178"
 
 [[files]]
+file = "CODE_OF_CONDUCT.md"
+hash = "f8dde7c69a6150fd9167a319332dc4f44c4b61e82b58e238f7cebecdc67d739f"
+
+[[files]]
 file = "CONTRIBUTING.md"
 hash = "364adb650ddd90b6650fd3a624591466cc29b753e0962087fe0cd1243bffc4d3"
 
@@ -14,7 +18,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "f50aa4c2124fdc245d5401e0166dcf069dccfc5fdc16f4ebc397643f4bb4fbe5"
+hash = "e08b2dced8d9c1094755ec26ad1b809ee3d3f07432bf7c63e19427d15c91bdbf"
 
 [[files]]
 file = "SECURITY.md"
