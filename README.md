@@ -11,6 +11,8 @@ Terms of Copyright for OSTs:
 - A WORK IN PROGRESS OFFICIAL WIKI HAS BEEN MADE, IN THE FUTURE IT WILL BE USED TO DOCUMENT GUIDES.
 - ALSO yeah there's the Project-CBT discussion in github, so all other topics go there.
 - ALSO AGAIN CAN SOMEONE ADD MOD COMPATIBILITY BETWEEN TOUHOU LITTLE MAID, GREGTECH AND HBM FOR 1.12.2?
+------
+- Gameplay wise please set your world to TFC CLASSIC. YOU MAY NOT BE ABLE TO PROGRESS THROUGH THE QUESTS IF YOU USE A DIFFERENT WORLD TYPE. BEWARE.
 
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
