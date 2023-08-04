@@ -19,10 +19,14 @@ Issue/Feature Request:
 
 Affected Items:
 
+Culprit Items:
+
 Evidence:
 
 Solution:
 
-Your Issue Label: 
+[if bug/crash] Error Messages: 
+
+Put Your Issue Label here: 
 
 Optional: [Computer Specs, OS version]
