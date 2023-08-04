@@ -24,7 +24,7 @@ customization {
   action = addbutton
   y = -24
   label = Disable Universal Background
-  value = universalbackground
+  value = universalbackground_1_1
   height = 20
 }
 
@@ -39,7 +39,7 @@ customization {
   action = addbutton
   y = -47
   label = Enable Universal Background
-  value = universalbackground
+  value = universalbackground_1_1
   height = 20
 }
 
