@@ -40,7 +40,7 @@ Aight The Modlist are as follows:
 
 - [Advancement Plaques (Forge)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
-- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [AE2EL >>Sorry. the previous mod AE2 was yeeted due to a request.](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life)
 - [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
 - [AtomicStryker's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
