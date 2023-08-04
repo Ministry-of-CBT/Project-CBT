@@ -1,0 +1,35 @@
+{
+	title: "fuck you",
+	x: 5.0d,
+	y: -11.0d,
+	text: [
+		"you want thaumcraft? NO. here's this instead",
+		"",
+		"fluxposting"
+	],
+	tasks: [{
+		uid: "c17ed212",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cobblestone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cobblestone"
+				}
+			}
+		}],
+		count: 1444444444444L,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "b3f5770a",
+		type: "item",
+		item: "gregtech:meta_item_1 1 9"
+	}]
+}

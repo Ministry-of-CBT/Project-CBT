@@ -19,11 +19,12 @@
 	dependencies: [
 		"3a66c835"
 	],
+	hide: true,
 	tasks: [{
-		uid: "0f4f3d60",
+		uid: "275d296c",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
+			item: "gregtech:meta_item_1 1 630"
 		}]
 	}]
 }

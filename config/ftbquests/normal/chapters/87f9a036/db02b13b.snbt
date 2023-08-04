@@ -17,6 +17,7 @@
 	dependencies: [
 		"200322bc"
 	],
+	hide: true,
 	tasks: [{
 		uid: "b365ff99",
 		type: "item",

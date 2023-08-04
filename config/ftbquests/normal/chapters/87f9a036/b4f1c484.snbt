@@ -13,10 +13,17 @@
 		"The team's hearts sank as they realized the implications of this new development. The interdimensional war had taken an even darker turn, and the consequences of their actions were far-reaching."
 	],
 	tasks: [{
-		uid: "e5ae7b7d",
+		uid: "3762fe06",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 5"
+			id: "hbm:fluid_barrel_full",
+			tag: {}
 		}]
+	},
+	{
+		uid: "0b05209a",
+		type: "kill",
+		entity: "minecraft:witch",
+		value: 4L
 	}]
 }

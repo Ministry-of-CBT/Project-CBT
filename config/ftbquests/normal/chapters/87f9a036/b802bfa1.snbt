@@ -1,6 +1,8 @@
 {
+	title: "Big-ass Victory....",
 	x: -18.0d,
 	y: 34.0d,
+	description: "right? NOW GIVE ME THE BIGASS TANK OR ILL SHOVE A-",
 	text: [
 		"As the dust settled, the team took a moment to catch their breaths. Their triumph in driving back the adversaries was tempered by the knowledge that the battle was far from over. The realms were still at risk, and they knew that Yukari and Flandre might regroup and strike again.",
 		"",
@@ -14,11 +16,15 @@
 		"",
 		"GregoriousT, the creator of GregTech New Horizons, approached the team, a sense of gratitude in his eyes. \"Thank you all for defending my realm and standing with me. I won't forget this.\""
 	],
+	dependencies: [
+		"18682ed2"
+	],
+	hide: true,
 	tasks: [{
-		uid: "7e4f8875",
+		uid: "736637e3",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
+			item: "hbm:machine_bat9000"
 		}]
 	}]
 }

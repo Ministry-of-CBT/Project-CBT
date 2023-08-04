@@ -1,6 +1,8 @@
 {
+	title: "Holy Manipulation Attempt Continuation",
 	x: -17.0d,
 	y: 34.0d,
+	description: "now i want your soul to be gregged",
 	text: [
 		"Yukari's attempts at manipulation did not end there. She also tried to sow discord among the team, using her gap manipulation to create illusions that played on their fears and insecurities. However, the team had faced trials together before, and they recognized these illusions for what they were.",
 		"",
@@ -10,11 +12,21 @@
 		"",
 		"The Battle of GregTech New Horizons had become not just a clash of powers and dimensions but a test of resolve and the strength of the bonds forged in the face of adversity. Only time would tell if the team's united front against Yukari Yakumo and Flandre Scarlet would be enough to restore balance and protect the realms from the chaos that threatened to consume them."
 	],
+	dependencies: [
+		"2ae94074"
+	],
 	tasks: [{
-		uid: "7f0d7a2a",
+		uid: "e444ffd7",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			item: "gregtech:meta_item_1 1 633"
+		}]
+	},
+	{
+		uid: "0134407d",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
 		}]
 	}]
 }

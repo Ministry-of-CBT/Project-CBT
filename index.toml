@@ -18,7 +18,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "047779788fb6e9a813de0a68d1baab4b8275eb3cc16395041cdb6e06da576817"
+hash = "048386f95f0b95f926bbd9b5cb8eac2cbce9383eac7db61ff22e3dd4f54d0879"
 
 [[files]]
 file = "SECURITY.md"
@@ -2014,13 +2014,13 @@ hash = "55e2cd33ba50937020de3121f016ce54fb6495822d3c66c8ec2ab274f1c6c2b7"
 metafile = true
 
 [[files]]
-file = "mods/ambience-extras.pw.toml"
-hash = "043cb48981bb7e613462612ae78a005bc9cb63928f982f2453d38715e9fa68c9"
+file = "mods/ae2-extended-life.pw.toml"
+hash = "a7d797cb495a21cadc55e847c0a986eb66372d6c90a8dd1410333f0c6a50638c"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+file = "mods/ambience-extras.pw.toml"
+hash = "043cb48981bb7e613462612ae78a005bc9cb63928f982f2453d38715e9fa68c9"
 metafile = true
 
 [[files]]

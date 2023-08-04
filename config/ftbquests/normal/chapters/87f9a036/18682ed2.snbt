@@ -1,6 +1,8 @@
 {
+	title: "Meanwhile - Tides are turning",
 	x: -17.5d,
 	y: 35.5d,
+	description: "eeeeeeeeeeegggggggggggggggggggggggggggggggggggggggggggggggggreg",
 	text: [
 		"As the combined efforts of the team intensified, Yukari Yakumo and Flandre Scarlet found themselves pushed back, losing ground in the Battle of GregTech New Horizons. The relentless attacks from the SCP Foundation, the Queen of the Chess Realm, Colonel Turner's military personnel, Reimu, Marisa, HBMTheBobCat, mDiyo, and the overdrive of GregoriousT's defensive technology proved to be overwhelming.",
 		"",
@@ -14,11 +16,27 @@
 		"",
 		"With defeat looming and the potential consequences of their actions sinking in, Yukari and Flandre decided it was time to retreat. Yukari opened a gap, and the two of them vanished from the battlefield, leaving behind a sense of relief and victory among the team."
 	],
+	dependencies: [
+		"cd7b1db5"
+	],
+	hide: true,
 	tasks: [{
-		uid: "26a3e020",
+		uid: "691e723c",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
-		}]
+			ForgeCaps: {
+				Parent: {
+					data: "ingotUranium235",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotUranium235"
+				}
+			}
+		}],
+		count: 34L
 	}]
 }
