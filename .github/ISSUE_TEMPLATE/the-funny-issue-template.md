@@ -25,4 +25,4 @@ Computer Specs [Optional]:
 Operating System [Optional]:
 ----------------------------
 
-Please add a label according to the issue.
+Please add a label according to the issue here: ___________________________________________________________________
