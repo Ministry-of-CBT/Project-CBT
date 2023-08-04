@@ -1,6 +1,8 @@
 {
-	x: -18.5d,
-	y: 30.0d,
+	title: "The First Climax ---- Battle of GregTech New Horizons",
+	x: -17.5d,
+	y: 28.5d,
+	description: "what the hell why is there porn in r/feedthememes",
 	text: [
 		"Meanwhile, HBMTheBobCat and mDiyo continued their efforts to disrupt Yukari's manipulations, using the devices they crafted to interfere with her abilities. Their coordination and ingenuity played a crucial role in maintaining the upper hand against her.",
 		"",
@@ -12,11 +14,28 @@
 		"",
 		"In this climactic showdown, the fate of multiple dimensions hung in the balance. The united front against Yukari Yakumo and Flandre Scarlet showcased the power of cooperation and determination in the face of adversity. But the question remained: Could they overcome these formidable adversaries and restore balance to the realms before it was too late? The answer was yet to be determined as the interdimensional war continued to unfold."
 	],
+	dependencies: [
+		"200322bc"
+	],
 	tasks: [{
-		uid: "028a1a6d",
+		uid: "b365ff99",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling"
+			item: "gregtech:machine 1 988"
+		}]
+	},
+	{
+		uid: "20cc962a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 172"
+		}]
+	},
+	{
+		uid: "6aa34795",
+		type: "item",
+		items: [{
+			item: "hbm:factory_advanced_hull"
 		}]
 	}]
 }

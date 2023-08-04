@@ -1,6 +1,8 @@
 {
-	x: -18.0d,
-	y: 33.5d,
+	title: "Yukari's persistence: [Battle of GregTech New Horizons]",
+	x: -17.5d,
+	y: 30.5d,
+	description: "u/LyeoChan you have caused a thaumatic rift in r/feedthememes by pornposting there.",
 	text: [
 		"GregoriousT, aware of the danger posed by Flandre's raw power, redirected the overcharged defensive tech towards her. The formidable barriers and countermeasures channeled the immense energy, creating a shield that dampened Flandre's attacks and protected mDiyo and HBMTheBobCat.",
 		"",
@@ -10,11 +12,20 @@
 		"",
 		"The battle of GregTech New Horizons had reached a pivotal moment, and the outcome hinged on the resilience and unity of the team against these formidable adversaries. Only through their unwavering determination and combined strength could they hope to overcome the chaos unleashed upon the realms."
 	],
+	dependencies: [
+		"50cbe6ce"
+	],
 	tasks: [{
-		uid: "f443ae2f",
+		uid: "1bc63f3d",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 1198"
 		}]
+	},
+	{
+		uid: "b653ba74",
+		type: "kill",
+		entity: "minecraft:spider",
+		value: 10L
 	}]
 }

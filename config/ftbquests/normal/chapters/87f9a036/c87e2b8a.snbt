@@ -1,0 +1,22 @@
+{
+	x: -40.5d,
+	y: 36.5d,
+	text: [
+		"The UIA's support bolstered the SCP Foundation's resolve, reminding them that they were not alone in this fight. With the combined efforts of humans and beings from various dimensions, they stood united against The Scarlet's forces.",
+		"",
+		"Colonel Turner's military personnel, who had faced anomalous threats before, provided crucial tactical expertise. Their knowledge of containment strategies and experience in dealing with dangerous entities proved invaluable in neutralizing the SCP entities influenced by The Scarlet.",
+		"",
+		"Meanwhile, the O5 Council ensured that communication channels remained open and coordinated efforts between the SCP Foundation and the UIA. They provided strategic direction and made use of the Foundation's vast intelligence network to analyze The Scarlet's tactics and weaknesses.",
+		"",
+		"As the defense of Earth intensified, the SCP Foundation's containment facilities faced unprecedented challenges. The SCP entities influenced by The Scarlet's chaos proved more unpredictable and dangerous than ever before.",
+		"",
+		"The SCP Foundation's personnel displayed unwavering dedication, risking their lives to secure and contain the anomalous entities. They utilized their vast knowledge of SCP objects, implementing countermeasures and employing their expertise in containing these threats."
+	],
+	tasks: [{
+		uid: "519bd5b8",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

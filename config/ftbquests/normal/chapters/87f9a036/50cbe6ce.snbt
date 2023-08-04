@@ -1,6 +1,7 @@
 {
-	x: -19.5d,
-	y: 32.0d,
+	title: "The Diversion...: Battle of GregTech New Horizons",
+	x: -19.0d,
+	y: 30.0d,
 	text: [
 		"Meanwhile, Reimu and Marisa used their danmaku to create a diversion, drawing Flandre's attention away from mDiyo and HBMTheBobCat. They unleashed a barrage of colorful bullets, skillfully dodging Flandre's attacks while keeping her occupied.",
 		"",
@@ -10,11 +11,14 @@
 		"",
 		"As the team regrouped, they launched a coordinated offensive against Yukari Yakumo and Flandre Scarlet. Reimu and Marisa combined their powers, creating a powerful spellcard that weaved through the battlefield, aiming to restrain Yukari's movements."
 	],
+	dependencies: [
+		"5411403b"
+	],
 	tasks: [{
-		uid: "7e6129e3",
+		uid: "b5b6542a",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 1640"
 		}]
 	}]
 }

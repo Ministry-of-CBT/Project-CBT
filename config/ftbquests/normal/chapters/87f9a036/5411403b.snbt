@@ -1,6 +1,8 @@
 {
-	x: -21.5d,
-	y: 30.5d,
+	title: "Regrouping....: Battle of GregTech New Horizons",
+	x: -20.5d,
+	y: 29.5d,
+	description: "Guys uhhhh how do you press J again?",
 	text: [
 		"Meanwhile, Reimu and Marisa used their danmaku to create a diversion, drawing Flandre's attention away from mDiyo and HBMTheBobCat. They unleashed a barrage of colorful bullets, skillfully dodging Flandre's attacks while keeping her occupied.",
 		"",
@@ -10,11 +12,29 @@
 		"",
 		"As the team regrouped, they launched a coordinated offensive against Yukari Yakumo and Flandre Scarlet. Reimu and Marisa combined their powers, creating a powerful spellcard that weaved through the battlefield, aiming to restrain Yukari's movements."
 	],
+	dependencies: [
+		"18fd9088"
+	],
 	tasks: [{
-		uid: "766b97e5",
+		uid: "33e851cc",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 5"
+			item: "gregtech:machine 1 988"
+		}],
+		count: 12L
+	},
+	{
+		uid: "e817aa94",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:solar"
+		}]
+	},
+	{
+		uid: "2ce14928",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:magnetic_table"
 		}]
 	}]
 }

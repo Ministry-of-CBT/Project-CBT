@@ -1,7 +1,7 @@
 {
 	title: "The First Skirmishes in the Chess Realm",
 	x: -19.0d,
-	y: 23.5d,
+	y: 24.0d,
 	description: "the greg must greg must greg must greg must greg must greg HAHAHHA",
 	text: [
 		"Flandre Scarlet seemed eager to continue the fight as well, her eyes gleaming with excitement.",
@@ -27,5 +27,10 @@
 		items: [{
 			item: "hbm:gun_revolver_iron_ammo"
 		}]
+	}],
+	rewards: [{
+		uid: "3fa64fe7",
+		type: "item",
+		item: "touhou_little_maid:potion_guide"
 	}]
 }

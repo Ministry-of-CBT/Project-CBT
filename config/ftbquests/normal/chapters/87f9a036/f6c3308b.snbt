@@ -1,0 +1,20 @@
+{
+	x: -41.0d,
+	y: 35.0d,
+	text: [
+		"Despite the tireless efforts of the SCP Foundation and the UIA, the battle for Earth remained arduous. The Scarlet's forces relentlessly pushed forward, seeking to bring chaos and destruction to the very heart of humanity.",
+		"",
+		"However, the resilience of humanity and the united strength of the SCP Foundation and the UIA began to take their toll on The Scarlet's forces. The alliance's ability to adapt, respond, and cooperate across dimensions proved to be an advantage in this interdimensional war.",
+		"",
+		"As the battle raged on, hope persevered. The courage and determination of the defenders, both human and from other realms, showed that even in the face of unimaginable darkness, the light of unity and hope could still shine bright.",
+		"",
+		"The Battle of Humanity [Interdimensional] had become a critical turning point in the interdimensional war. The outcome of this conflict would shape the destiny of all known dimensions, and the alliance's resolve to protect humanity and restore balance to the multiverse was stronger than ever before."
+	],
+	tasks: [{
+		uid: "bb914e61",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 4"
+		}]
+	}]
+}

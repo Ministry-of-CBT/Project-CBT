@@ -1,6 +1,8 @@
 {
-	x: -17.5d,
-	y: 35.5d,
+	title: "The Ungreggy Manipulation [Battle of GTNH]",
+	x: -16.0d,
+	y: 31.0d,
+	description: "haha funny substation",
 	text: [
 		"As the intense Battle of GregTech New Horizons continued, Yukari Yakumo, known for her cunning and manipulative nature, saw an opportunity to exploit the situation further. Amidst the chaos and the relentless onslaught of powers, she turned her attention to HBMTheBobCat.",
 		"",
@@ -10,11 +12,21 @@
 		"",
 		"HBMTheBobCat felt the allure of Yukari's words, and for a moment, doubt crept into his mind. The thought of peace and an end to the relentless battle was tempting, especially when he was confronted with the sheer scale of destruction surrounding him."
 	],
+	dependencies: [
+		"84f68ba0"
+	],
 	tasks: [{
-		uid: "e2ad837b",
+		uid: "e17666c1",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 5"
+			item: "hbm:substation"
+		}]
+	},
+	{
+		uid: "0696b0d6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1272"
 		}]
 	}]
 }

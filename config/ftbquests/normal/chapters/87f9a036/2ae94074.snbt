@@ -1,6 +1,8 @@
 {
-	x: -19.0d,
-	y: 35.5d,
+	title: "Can't be swayed, stay true to greg!",
+	x: -16.5d,
+	y: 32.5d,
+	description: "Stay true to greg, greg is eternal.",
 	text: [
 		"However, HBMTheBobCat was not one to be easily swayed. He had encountered countless challenges in his interdimensional travels and had learned the importance of staying true to his convictions.",
 		"",
@@ -13,6 +15,9 @@
 		"Marisa nodded in agreement. \"Yeah, don't let her get to ya! We've faced plenty of tough opponents together, and we'll get through this one too!\"",
 		"",
 		"The team's unwavering support bolstered HBMTheBobCat's resolve, and he pushed aside the doubts that had momentarily clouded his judgment. He focused on the task at hand, the weight of the interdimensional war pressing on his shoulders."
+	],
+	dependencies: [
+		"3a66c835"
 	],
 	tasks: [{
 		uid: "0f4f3d60",

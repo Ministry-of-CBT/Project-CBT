@@ -1,0 +1,12 @@
+{
+	title: "Fork in the timeline",
+	x: -42.0d,
+	y: 34.0d,
+	text: [
+		"Two different meetings in two different alliances"
+	],
+	tasks: [{
+		uid: "76a9358c",
+		type: "checkmark"
+	}]
+}

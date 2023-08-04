@@ -1,0 +1,24 @@
+{
+	x: -40.0d,
+	y: 38.0d,
+	text: [
+		"As the interdimensional war continued, the influence of The Forces of The Scarlet spread even further, affecting various dimensions, including Earth. The SCP Foundation, known for safeguarding humanity from anomalous entities, found themselves facing an unprecedented challenge as SCP entities, under The Scarlet's influence, wreaked havoc on Earth.",
+		"",
+		"Humanity's defense against the anomalous threats was spearheaded by the SCP Foundation, who had dealt with such phenomena before, but the scale of the current crisis tested their limits. The SCP Foundation faced an overwhelming tide of anomalous creatures, now amplified by The Scarlet's dark influence.",
+		"",
+		"As The Scarlet's forces continued to advance, the SCP Foundation collaborated closely with the United Interdimensional Alliance (UIA). The knowledge and expertise of the SCP Foundation combined with the UIA's diverse resources and unity offered a glimmer of hope in this desperate battle.",
+		"",
+		"The UIA dispatched representatives, including Reimu, Marisa, and GregoriousT, to aid the SCP Foundation in protecting Earth and its inhabitants. The heroes from different realms brought their unique skills to the defense of humanity.",
+		"",
+		"Reimu and Marisa utilized their spellcards to counter the anomalous threats that emerged from The Scarlet's influence. They proved to be formidable allies, their experience with youkai and supernatural entities enabling them to confront SCP entities driven mad by The Scarlet's chaos.",
+		"",
+		"GregoriousT deployed advanced technology from GregTech New Horizons to reinforce the SCP Foundation's defenses. He worked closely with the Foundation's scientists and engineers to develop containment protocols and specialized weaponry capable of countering the SCP entities' enhanced powers."
+	],
+	tasks: [{
+		uid: "bbc95dca",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 5"
+		}]
+	}]
+}

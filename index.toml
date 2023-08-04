@@ -18,27 +18,23 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "e08b2dced8d9c1094755ec26ad1b809ee3d3f07432bf7c63e19427d15c91bdbf"
+hash = "047779788fb6e9a813de0a68d1baab4b8275eb3cc16395041cdb6e06da576817"
 
 [[files]]
 file = "SECURITY.md"
-hash = "8c17060a24ac7b6b5958e4ef1fda1e4a946a780b6de2123976127b77d206342f"
+hash = "92b1dc25feee6c60dc60cf26534ff71a19ccddd5308e73793b59300d33b5342a"
 
 [[files]]
 file = "ambience_music/ambience.properties"
-hash = "d8800eac9bf04183919ee75f4c3189243b124458e53eacbc0f4c93d89232a99e"
-
-[[files]]
-file = "ambience_music/music/legalizenuclearbombs.mp3"
-hash = "604791d85f3a59ade983058af0151181a79f7dcbf908425c67e01d12aab98da5"
-
-[[files]]
-file = "ambience_music/music/nuclearbombsfullalbum.mp3"
-hash = "45c8308e6fb1ebccfc6c5ac66abec248ab0505cb4d8f9ec326e683249dabd4e2"
+hash = "cda72f5fca6d50b10dc3ce3baf0dd1e8d4a7cf0e0e3c01d0be2fb5fed26b7b9c"
 
 [[files]]
 file = "ambience_music/music/silence0.mp3"
 hash = "3897bf809e2ec1751722a85cd6a6517ce0dcbe6f2835acd508a25e1f054d8cf7"
+
+[[files]]
+file = "ambience_music/music/sweet_dreams_project_cbt.ogg"
+hash = "f8874d8691ae60e6f21084f01d18d070da6d25ea0b4c4e7ef2d9fc969b045335"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -54,7 +50,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "08aa1be0cc1166eeca953d13d836ec74ff7ed913689a2096c09dbfd08f5dec06"
+hash = "e285dccf444ba29995d62194fd8fc2e5776ecb91ca9ebfbf448fca725c03314f"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
@@ -126,7 +122,7 @@ hash = "2388f6e930e2fc03a46ba645eacb69f8ec7d8df219e7eceb2b1c91e9b36c0f97"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "a337fc4a7112e90061f944dbd66a08869d2851bef489bb29f25fc5b1561ef352"
+hash = "c73e0e2c4ea7de087c46c0724ddbc79d55ee6dda5a1467052eee95540359d514"
 
 [[files]]
 file = "config/MorePlanetsExtras.cfg"
@@ -254,7 +250,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "a2469509ccee13ac482a4a09802d09926890fc297dadbe5147b7807340ea66ab"
+hash = "4ee1998942bfd112b2eab8765a491fe1093854c99c67e9e7dd6bdd08ceab3c85"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -378,7 +374,7 @@ hash = "7c8db5e40867d4adc12f920ed5f22a7194d8cb68da287108d92af74604592c9f"
 
 [[files]]
 file = "config/firstjoinmessage.cfg"
-hash = "68839ec95cdd724f296af6d7bd1eb37a8f9ba58f83532c204d1c287c4797a300"
+hash = "8678b781a0905b3c4f49ee5f204e1b2347514db93b53b9bb91de77d8c3616bf5"
 
 [[files]]
 file = "config/foamfix.cfg"
@@ -477,6 +473,10 @@ file = "config/ftbquests/normal/chapters/87f9a036/06452168.snbt"
 hash = "7d0723b140e5958dc1ffb37d272f5c0301d69e3de9b08c9d687f170262268563"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/07680f75.snbt"
+hash = "7d9d1dc7573cf098c9932ebe88a2be743116694d5a76813efd7cbbda18971082"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/07788f39.snbt"
 hash = "274d8a6111d9175320b9656c82a114f15f5456273d441b913cebedac9fc73f20"
 
@@ -490,11 +490,11 @@ hash = "991817e6d17c094bdfa865bc587e545c8a9729591cd6aeda417b1bc5440d9fe7"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/0c366056.snbt"
-hash = "26dd5d8faefb0ceef1fdc9056ccc3fd9de298784648feb64367444d74d9a4190"
+hash = "c51b942f690a5497d8be366673cc3650ad749c3923dcfa52df070c5c8bfbe566"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/0c5c1122.snbt"
-hash = "e12f63f29c16477f90d2c48aadb9f688d31984639beb318c63202b2fc8c8ed5a"
+hash = "7a512ff1e03b586da6121b21809f09d9319da6597c006885459fd0da49740032"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/102a9229.snbt"
@@ -506,7 +506,7 @@ hash = "bb18a7a5c0d7442b4019cb293ed1830825861aba4a75218f1d422c9d4e5626b1"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/18682ed2.snbt"
-hash = "6c5cecb423ebcce45f1484676dbbf4d0e899167dbdfe8659565ca7d249c45522"
+hash = "34e7181d6977ad8b16adf7322e84e500881fc350800d7d63d877e337317f06f9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/18707e89.snbt"
@@ -518,7 +518,7 @@ hash = "8282322ff4bc6cfc45068ed59e056046865dc4e12f15be899ced52fa432318a9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/18fd9088.snbt"
-hash = "9befbaa81e32b68e07b35c84ba2287fb6261c7be62936e1b126763978d17a414"
+hash = "c685e65a8ddb7318b81ac7e14d5fbf7a55400c3b8eeeea611b5e73cd5a0483a5"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/18fdd6e5.snbt"
@@ -530,7 +530,7 @@ hash = "9048bb817a009927e586d638a8aaf80c2fb535a7cee89272ffa7ee9934cb6b6a"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/1af9698a.snbt"
-hash = "54964164288510e66cd799d3737944c5a0e9244f389447db9b2a3348bb5e45a9"
+hash = "8c29e65513abeee1c1e26fd8dce8196d38d071ae4588bbea951b438900eb9527"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/1d63882d.snbt"
@@ -538,7 +538,7 @@ hash = "ab18901a4073468de349788ee16435b6497fa66b6807639beabb64518a50f8cb"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/200322bc.snbt"
-hash = "121a0cabb093296ee95eefd152909b062bd5fa91075018fb873ad470d44b80d6"
+hash = "1f3eb4637d20166165038bab105531654a1f47ad8a02b37cf3e24bf84d7added"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/27c6453a.snbt"
@@ -558,7 +558,7 @@ hash = "fffc7b73de96f715db2d893cf123e2798030e0f47d06e9432d67d1da67af784e"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/2ae94074.snbt"
-hash = "c04eed5e664576bdb0976038e59f461fdd85a0eb1b57e12947acd6630c66929b"
+hash = "c43245cb888ef810dbe77e7ebdc4ebf2fd1838856959ecfb90f0d030a7c5b17c"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/2b0b8f37.snbt"
@@ -582,7 +582,7 @@ hash = "875073b7d1bef42ac615de3d3053fa56624411c0698e69cf49bdb826ae6fd5a2"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/31e1558d.snbt"
-hash = "16def35318b24b21073b4c2175e7769e1ca436f1f4e35e2df04a509d588ffa52"
+hash = "2ded0895920493fae6f2c784a9c01345a4d848dec623cb6888008399dc3e3fb0"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/33aaed07.snbt"
@@ -602,15 +602,15 @@ hash = "8c4909e8eb9b3672a611ab8837fbca61c850e016f5eb035b1ef273b3d3b25595"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/38d02ae8.snbt"
-hash = "239c2c00ff3d33490bfcaf5f43aad8a0cf7ac9f96c9b843d163710903cc521db"
+hash = "362bbdf8bf5fd022ac4f3cdb649e432b9ddb201df0c5f50357daea2bf1e70ccb"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/3a66c835.snbt"
-hash = "7825c0a58310a032902b10735b52b8780261080c3c3094d0f0620ab90bfa6243"
+hash = "6dd89794111a7dd506ea76579d67176eb30c1972feb6dddbe34e94574bf9e5a2"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/3ec9c697.snbt"
-hash = "5dec8aaf2d265ed9a51c1371dab5b6575adb5a5df1e6c6a0e5f24c49e6d9732f"
+hash = "72610002507a5975a916166a195c9af6727216e6b96a0bf1e0cef42eb31389d0"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/41a6d202.snbt"
@@ -625,6 +625,10 @@ file = "config/ftbquests/normal/chapters/87f9a036/434dde43.snbt"
 hash = "90fbd0498a2e5ff0e37b3675f473daca4a35252c193d42b40b77571ee5c98430"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/46bdb1d8.snbt"
+hash = "268cc160ec93b5c3302adf83b5926273ee50fc8a21f464b18221bb95f18b5e48"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/473fa863.snbt"
 hash = "138b956f30161438678be64152601c1ce9fc98e2ffeefa568d23e662d6c46a5c"
 
@@ -633,8 +637,12 @@ file = "config/ftbquests/normal/chapters/87f9a036/49973a4a.snbt"
 hash = "b1c44ecccd282560912ebdebfd952f3a3592e94d0668a8c0822aadf8dcc7c513"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/4b948b13.snbt"
+hash = "e75400afac425a29e5c05e080bdf39d6a9ed0f78aa10698d0a76a385c97622b3"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/4d048baa.snbt"
-hash = "f32dd0852f1a8fb7aa8e6ec9df6a8d7d3b598778df196d94c0826ccbfb48ec81"
+hash = "eabe62d233cbdc586ad25f9fd9cbef18bf565513c171ab677bc487d655e280b6"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/4e64c561.snbt"
@@ -642,7 +650,7 @@ hash = "945b31072828ac193410cb5904608a8356004a10050d323a39aee9bf55fe63fe"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/50cbe6ce.snbt"
-hash = "8f2338eacad2910a7885117fc639a31214244edbc2a4a0b7f3b2093047dee145"
+hash = "b492c33d478aa266e2f24923f8d04a3c6c54ad9a4ecb67fe612c4de072ebb8a3"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/519c7667.snbt"
@@ -654,7 +662,7 @@ hash = "5c4f47d9d798f13083499fd171fd33700a72065cd26884f6edb2a4e2c01ea3b5"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/5411403b.snbt"
-hash = "7a1c50ba5ed9cfb57b443a75f8153c7143352432f384dcbb5232fb3a7932b40c"
+hash = "d870ffec6e6562ddf37f400103bf605fd1a625e0b1e04ea2d068ebe0966375c4"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/577a548a.snbt"
@@ -682,7 +690,7 @@ hash = "01d0f3be56e7bc5a9a4c55cabc55782a6b035140526e1637bbfd02af073fb353"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/65f3f4d6.snbt"
-hash = "2332f03d9b9db57d19cd6656917310edbeb4bf14116a1b2f62c50c0fd041699d"
+hash = "0747161f490fb8bdd08d348008dbde8bfd5f52d31def209b50908c09c4e39043"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/6842f3cd.snbt"
@@ -690,7 +698,7 @@ hash = "8ff72617ecac6189adcad88aa28544ddb486b58e363f3fcf7cf8a4c58e50c8c9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/68588988.snbt"
-hash = "226b82e524ec1dcc0c580918bb4c1de8d5b816f8afbd7e5cf632bbf9e027bcb2"
+hash = "bc8fe99c0c1a5a0326a0abde379727243832515cd2d7bf80ef2f301309d8ae38"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/6dcc41fb.snbt"
@@ -722,7 +730,7 @@ hash = "7f3403fc8a7ab8ef1f5d86e4105b314fbc08fdad56844a80334b62b41d02516f"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/76f6d0c1.snbt"
-hash = "497e99477e601c8a38d813a0492246421024adb7d002d715b91ac9559f4aa35f"
+hash = "e38c228f4a33af5249a0cd7b5f8a47f474dd24fb2c944a7f9efc6a0ca61c4c7c"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/78d68fba.snbt"
@@ -734,7 +742,7 @@ hash = "98fffd8e6b95fb6a2714f2d2689d94a96e1f8bc72665f38f31b08e6feb1fc900"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/7a6f7c3e.snbt"
-hash = "8674d0489f9002bd2e01e0c48d65d146e89f4ebb6114cf0c9caf45383a15ff2a"
+hash = "67c8db361137e79393e05244fd9dfba85316e43d7e4bec010951c86e587c1006"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/7d571c3f.snbt"
@@ -758,7 +766,7 @@ hash = "caec459caa6d98a49f584d62539ea1dbf591a63a3d0986dfaf2bf37a37730f25"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/84f68ba0.snbt"
-hash = "6bdeee69034428fe34f7ccc0f93baa54c5625710028b00042b8c6f7e9b353807"
+hash = "a7134db089a055c4bd78cc243ede46a1ebea280242a845d839645926ea37fc5b"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/8548176a.snbt"
@@ -798,7 +806,7 @@ hash = "4deb4b4f97cd0c3d9742b4687ba63d8291e473ee6b67d8e9b25808537b41b023"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/9d9f84c2.snbt"
-hash = "f4563c2d689d951d640c5c59a7dffeb14b32f007c7eff729e8430902c77f2d82"
+hash = "c4d3f83dacf9b6424b630b932371d0ca4552c2dbf928b3848fe9798877711e86"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/a0b17952.snbt"
@@ -826,7 +834,7 @@ hash = "a410193e6e54121580b52786add85fadc41298bed32c3c8bba1a719760dd8326"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/aa13485e.snbt"
-hash = "88f91898444cf781d5eed9289dc98e6348fa3026a3ac19d40e29ffd5d6423210"
+hash = "30380b9f5097ae2dc0120f100608b5a9cf2781fc6dc2758254d4d74eb932f13a"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/ac57e0d6.snbt"
@@ -838,11 +846,11 @@ hash = "dbac2667ecd8072aaaf3bdc38d7923fd8382c299773d1fa6af1b635cecec3ddc"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/b4f1c484.snbt"
-hash = "4b3f2dc557e038e4918ff9bf9614a7df5e86579303e262e812b23f86ba792ffa"
+hash = "8f7013cb4061ae8cadae2ca44ae88ced8e0557795220f3b145a7c79d85de4d5b"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/b802bfa1.snbt"
-hash = "d3bf8f79d30e43ac42ca7c4d8fcc7eb9ee1b44edf70fe2fc6bdd4b13d1e85612"
+hash = "a186aeb88836f03bcfef0ec3df83ffc5b2efbdd99547a07c118ad5276c407f99"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/b94430cb.snbt"
@@ -889,12 +897,16 @@ file = "config/ftbquests/normal/chapters/87f9a036/c800327b.snbt"
 hash = "0c8290cd70639c228947a1833a882034983d2a22bf8f41c25c74c347e1e3b300"
 
 [[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/c87e2b8a.snbt"
+hash = "fbf75547a18d5a14c1fcd49c2bbcc424383571a033ec680e2076488f9ad05f29"
+
+[[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/c9557da1.snbt"
-hash = "8d2fe4bc6d81e3ac2f160db7d9d7336f8e6758f70aecb1638d5f3d097c11965e"
+hash = "b3a9e6b2cd6f1ae16e29a8cbc74fcef9067a783be73f5822209a5331ccf4d2e1"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/cd7b1db5.snbt"
-hash = "5af51645024621cb96c36e71c59f930f7e038cb709db9f6cf576066b691812a9"
+hash = "5036a98ceea40de2131a955f1a5626c2707c8b2d1a549eccd09507ca1fcb057a"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/cf2f32e6.snbt"
@@ -922,7 +934,7 @@ hash = "000d0e7da11bc5265e069963bfe1daedfcb53714d7f1cb57ccb1fbfdf9be69eb"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/db02b13b.snbt"
-hash = "ef33f78c3468e306f2a774a01234bc2f8426d29db49cffc893ab222f57087070"
+hash = "69c2d505fea08bed59167d75c9fb0bf7d73843fda55ed2ae7c0421c2c45db5c9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/db1de5ca.snbt"
@@ -934,7 +946,7 @@ hash = "7902b44ffa9186e34389658fecd82a754c13b32a96aaebda47e71afc17b66820"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/dee60ded.snbt"
-hash = "bef2a7d52556a4f9e90ffb8be4201e58ce3f19336bd6502bd8df7b5a642b97f2"
+hash = "1adaca92e50f23df91e24e933f73e7322fcb1c8e541de9bc890522d51a9c65fc"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/e51bdaa4.snbt"
@@ -946,11 +958,11 @@ hash = "5de733043ef782fdd48a8ffb57cad6741d06f13638374899e8acd92068063aa0"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/eb953a5d.snbt"
-hash = "9a767bf6cd928de2be9df6c5574f359c76e0c214d120f19b44e25036f057a9e8"
+hash = "75526df93acae25920a6b27acd96d34f9e8d21f2ef4b9d46969eb0501264ffae"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/ed0d6129.snbt"
-hash = "d2fd96f60eed209d985c551c97f8395ce08b85e3b50c44dadb59c5cb156e681b"
+hash = "d49f02f03ca907746f7c398cd4cf49c11e1018d8469925c40e8afb141465c042"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/f0bcd053.snbt"
@@ -963,6 +975,10 @@ hash = "a6a7676e94129d32892648a5ebdce18b0fb0b69aa2ced3fdbf7aff8c5b6d3068"
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/f67a07db.snbt"
 hash = "32a874bdc62271fdd406fdabe91f70461d520aa4c577327aba68dc76605a8bf8"
+
+[[files]]
+file = "config/ftbquests/normal/chapters/87f9a036/f6c3308b.snbt"
+hash = "bcfc05992c199fc074a064b87f77fe9d9e2ee78eb9872581ae603d04e671a267"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/f6c88571.snbt"
@@ -1722,7 +1738,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "45cf0bacce50ef20a06b70bec1cf6729cdd37861fab84cbf88c03613efc25fda"
+hash = "c80214aa92e39a786fe25b97e26c8a7a44b1f274b2cbdc8ed04de4144b12cce9"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1806,7 +1822,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "a6dc5cae569cfc75f48254d96d0b5902ba9979d673431b3c2ffc42577144242c"
+hash = "af85db3c76047cfaf7cab29b41ccb68db0f4bd35d12d8d4f3fed54d8ad2e0478"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -3146,7 +3162,7 @@ hash = "af0848aa6019b18e058d4e26d8906c365970e2a76e9baa45c96725334e6123ec"
 
 [[files]]
 file = "resources/minecraft/lang/en_us.lang"
-hash = "6a30bb4dbaaf0392dd37c8caebbd71977baee05d93e9ef83e63b4316c6cd48e3"
+hash = "6682eae90cd1305101327379fa36cd22f070b6f49544c1edcb6708621f478dd2"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu1.ogg"

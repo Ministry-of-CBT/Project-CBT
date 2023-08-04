@@ -1,6 +1,8 @@
 {
-	x: -20.0d,
-	y: 30.0d,
+	title: "The Onslaught: [Battle Of GregTech New Horizons]",
+	x: -19.0d,
+	y: 29.0d,
+	description: "haha im thauming rn",
 	text: [
 		"As the battle intensified, the manipulated SCP entities, now under Yukari Yakumo's control, started wreaking havoc on GregTech New Horizons. They tore through the realm with their anomalous powers, causing unprecedented destruction and chaos. The situation became dire as the stability of GregoriousT's realm hung in the balance.",
 		"",
@@ -10,11 +12,21 @@
 		"",
 		"The technological marvels created by GregoriousT were designed to protect his realm from external threats, but they were now being pushed beyond their limits. The defensive barriers held for the moment, giving the team a much-needed respite and an opportunity to regroup."
 	],
+	dependencies: [
+		"db02b13b"
+	],
 	tasks: [{
-		uid: "520024f3",
+		uid: "e6e865e5",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling"
+			item: "gregtech:machine 1 172"
+		}]
+	},
+	{
+		uid: "4be4e3d9",
+		type: "item",
+		items: [{
+			item: "hbm:heater_electric"
 		}]
 	}]
 }

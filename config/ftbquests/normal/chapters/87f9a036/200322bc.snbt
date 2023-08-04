@@ -1,6 +1,7 @@
 {
-	x: -16.5d,
-	y: 29.5d,
+	title: "Battle Of GregTech New Horizons #4",
+	x: -16.0d,
+	y: 28.0d,
 	text: [
 		"The combined onslaught from the SCP Foundation, the Chess Realm's Queen, Colonel Turner's military personnel, Reimu, Marisa, HBMTheBobCat, mDiyo, and now GregoriousT, was formidable. The battlefield erupted into a cacophony of spells, danmaku, futuristic weapons, and alchemical explosions.",
 		"",
@@ -10,11 +11,22 @@
 		"",
 		"GregoriousT, with his deep understanding of the inner workings of his realm, tried to anticipate and counter Yukari's gap manipulation. He used his expertise to calculate her movements and direct his attacks with precision."
 	],
+	dependencies: [
+		"7a6f7c3e"
+	],
 	tasks: [{
-		uid: "fa7ecf99",
+		uid: "a70754e6",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling"
+			item: "gregtech:machine 1 988"
 		}]
+	},
+	{
+		uid: "debf95e1",
+		type: "item",
+		items: [{
+			item: "gregtech:machine_casing 1 2"
+		}],
+		count: 6L
 	}]
 }

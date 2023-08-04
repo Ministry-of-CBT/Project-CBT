@@ -1,7 +1,7 @@
 {
 	title: "Battle of GregTech New Horizons #3",
-	x: -19.5d,
-	y: 28.0d,
+	x: -19.0d,
+	y: 27.0d,
 	text: [
 		"Reimu and Marisa used their danmaku and spellcasting skills to distract and engage Yukari and Flandre, attempting to buy HBMTheBobCat and mDiyo more time to execute their plan.",
 		"",
@@ -23,5 +23,11 @@
 		items: [{
 			item: "gregtech:machine 1 52"
 		}]
+	}],
+	rewards: [{
+		uid: "ecd52082",
+		type: "item",
+		auto: "disabled",
+		item: "gregtech:meta_ingot 1 50"
 	}]
 }

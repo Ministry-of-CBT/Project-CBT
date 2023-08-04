@@ -1,7 +1,7 @@
 {
 	title: "Gregorious Arrives",
-	x: -18.0d,
-	y: 28.5d,
+	x: -17.5d,
+	y: 27.5d,
 	text: [
 		"As the chaotic battle raged on in the Chess Realm, a new figure emerged from yet another portal – GregoriousT, the creator and guardian of the realm GregTech New Horizons. His arrival signaled a turning point in the conflict as he witnessed the destruction and destabilization caused by Yukari Yakumo and Flandre Scarlet.",
 		"",
@@ -10,6 +10,9 @@
 		"\"Yukari Yakumo, Flandre Scarlet, your reckless actions have brought chaos to my realm,\" he declared, his voice resonating with authority. \"I will not allow you to continue this path of destruction.\"",
 		"",
 		"With newfound determination, GregoriousT tapped into the essence of the GregTech New Horizons realm, channeling its energy into a powerful offensive. He unleashed a barrage of technological marvels, blending the arcane with the advanced, directed towards Yukari and Flandre."
+	],
+	dependencies: [
+		"0c366056"
 	],
 	tasks: [{
 		uid: "794915ae",
@@ -20,5 +23,17 @@
 		{
 			item: "gregtech:machine 1 67"
 		}]
+	},
+	{
+		uid: "12296026",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_lead"
+		}]
+	}],
+	rewards: [{
+		uid: "4812c9e9",
+		type: "item",
+		item: "hbm:piston_selenium"
 	}]
 }
