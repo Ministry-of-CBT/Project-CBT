@@ -1,6 +1,8 @@
 {
+	title: "egg the 4 of them",
 	x: -21.5d,
 	y: 32.5d,
+	description: "eg",
 	text: [
 		"Flandre, eager for a challenge, unleashed a burst of destructive power, creating a wave of energy that swept through the battlefield. The team quickly scattered, avoiding the attack as they regrouped and responded with their own coordinated assault.",
 		"",
@@ -10,11 +12,30 @@
 		"",
 		"The outcome of this battle would determine the fate of multiple realms and the safety of countless lives. The team's unity, strength, and determination were once again put to the test as they faced the most formidable challenge yet in the interdimensional war. Only time would reveal whether they had what it took to prevail against such powerful adversaries."
 	],
+	dependencies: [
+		"c9557da1"
+	],
+	hide: true,
 	tasks: [{
-		uid: "25909f10",
+		uid: "0aaf5fd2",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 1"
+			item: "hbm:upgrade_speed_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c529743d",
+		type: "item",
+		items: [{
+			item: "silentgear:spoon_upgrade"
 		}]
+	},
+	{
+		uid: "a11a65d7",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 9L
 	}]
 }

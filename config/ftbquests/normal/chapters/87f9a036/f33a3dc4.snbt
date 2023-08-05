@@ -1,6 +1,8 @@
 {
+	title: "Proceed plan 666",
 	x: -23.5d,
 	y: 35.5d,
+	description: "gggg",
 	text: [
 		"With the arrival of the O5 Council, the team gained a valuable advantage. The council members brought with them specialized personnel and advanced containment technology from the SCP Foundation, enhancing the team's capabilities in countering the chaos unleashed by Yukari and Flandre.",
 		"",
@@ -12,11 +14,21 @@
 		"",
 		"With the unified efforts of the O5 Council, Colonel Turner's military personnel, the Queen of the Chess Realm, Reimu, Marisa, HBMTheBobCat, mDiyo, and the rest of the team, the tide of the battle started to turn. The adversaries, who had been confident at the start of the conflict, now faced a united front they hadn't anticipated."
 	],
+	dependencies: [
+		"4e64c561"
+	],
 	tasks: [{
-		uid: "7873febd",
+		uid: "1ba7f8da",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			item: "hbm:machine_battery"
+		}]
+	},
+	{
+		uid: "9790cbdb",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1318"
 		}]
 	}]
 }

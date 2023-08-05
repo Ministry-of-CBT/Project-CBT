@@ -1,6 +1,8 @@
 {
+	title: "summon the 05 council meeting!",
 	x: -22.0d,
 	y: 31.0d,
+	description: "no way",
 	text: [
 		"In the midst of the interdimensional chaos and the ongoing Battle of the SCP Universe, the O5 Council of the SCP Foundation convened an emergency meeting in their secure headquarters. The council members, known for their utmost secrecy and authority, were now faced with a crisis that transcended the boundaries of their organization.",
 		"",
@@ -16,11 +18,29 @@
 		"",
 		"The council members agreed that cooperation with external forces was essential. They knew that they had to reach out to the allies they had in various realms to form a united front against the chaos unleashed by Yukari Yakumo and Flandre Scarlet."
 	],
+	dependencies: [
+		"e83c1772"
+	],
+	hide: true,
 	tasks: [{
-		uid: "0a9300fe",
+		uid: "d164f2cb",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling"
+			item: "silentgems:craftingmaterial 1 7"
+		}]
+	},
+	{
+		uid: "1e90c9e1",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 637"
+		}]
+	},
+	{
+		uid: "cb2fa51f",
+		type: "item",
+		items: [{
+			item: "srparasites:gore"
 		}]
 	}]
 }

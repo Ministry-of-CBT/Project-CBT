@@ -1,6 +1,8 @@
 {
+	title: "the nitanium blend",
 	x: -20.0d,
 	y: 34.0d,
+	description: "you want super fuel?",
 	text: [
 		"The Battle of the SCP Universe loomed ahead, and the outcome would determine the fate of not just the SCP Universe and the Chess Realm but countless dimensions connected to them. The team knew they had to be unwavering in their resolve and resolute in their unity if they were to prevail against the chaos and protect the multiverse from further harm.",
 		"",
@@ -12,11 +14,15 @@
 		"",
 		"Satori, who could read the thoughts and emotions of others, focused her gaze on the team, trying to gain insight into their strategies and weaknesses. \"You're an interesting group,\" she said with a faint smile. \"Let's see how well you fare against us.\""
 	],
+	dependencies: [
+		"dee60ded"
+	],
+	hide: true,
 	tasks: [{
-		uid: "79785f44",
+		uid: "edd983ec",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "hbm:powder_nitan_mix"
 		}]
 	}]
 }

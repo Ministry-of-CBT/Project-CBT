@@ -1,6 +1,8 @@
 {
+	title: "ItS wOkKinG",
 	x: -24.0d,
 	y: 34.0d,
+	description: "hahaHAHAHAHhhahahahHAHaHhA RGEGREGRGERGreg im thuaming rn",
 	text: [
 		"As the chaos from the Chess Realm receded, the rifts between dimensions began to close, and the SCP entities gradually returned to containment.",
 		"",
@@ -14,11 +16,14 @@
 		"",
 		"The Battle of the SCP Universe continued, a testament to the resilience of unity and the unwavering commitment to safeguard the dimensions from chaos. Only through their combined strength and resolve could they hope to prevail against the formidable adversaries and restore balance to the multiverse."
 	],
+	dependencies: [
+		"f33a3dc4"
+	],
 	tasks: [{
-		uid: "b3c3b6ed",
+		uid: "66e18e5a",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
+			item: "gregtech:machine 1 1517"
 		}]
 	}]
 }

@@ -1,6 +1,8 @@
 {
+	title: "Arrival of the SCP foundation",
 	x: -23.0d,
 	y: 34.0d,
+	description: "now wheres my greg factory marissa?",
 	text: [
 		"As the Battle of the SCP Universe continued, a sudden shift in the atmosphere signaled the arrival of new forces. The O5 Council and their carefully selected personnel from the SCP Foundation appeared on the battlefield, their presence commanding attention.",
 		"",
@@ -12,11 +14,33 @@
 		"",
 		"The Queen of the Chess Realm, who had been coordinating the efforts of the team, welcomed the council members with a respectful nod. \"Your assistance is greatly appreciated,\" she said. \"Together, we can face the threat posed by these adversaries.\""
 	],
+	dependencies: [
+		"7a2df8c5"
+	],
 	tasks: [{
-		uid: "4388d263",
+		uid: "d7afee1a",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3c825846",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
 		}]
+	},
+	{
+		uid: "fce07ee8",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 987"
+		}],
+		count: 69L
 	}]
 }

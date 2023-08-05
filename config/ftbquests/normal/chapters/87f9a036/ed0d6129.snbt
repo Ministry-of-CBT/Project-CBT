@@ -2,14 +2,48 @@
 	title: "Gregic Quest ----",
 	x: -20.5d,
 	y: 35.5d,
+	description: "haha greg",
 	text: [
 		"Gregic Quest "
 	],
+	dependencies: [
+		"3ec9c697"
+	],
+	hide: true,
 	tasks: [{
-		uid: "fcaaf7f1",
+		uid: "555a9f57",
 		type: "item",
 		items: [{
-			item: "minecraft:stone"
+			item: "gregtech:machine 1 217"
 		}]
+	},
+	{
+		uid: "e841d3b7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotTungsten",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotTungsten"
+				}
+			}
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "37402c32",
+		type: "item",
+		item: "minecraft:blaze_rod"
+	},
+	{
+		uid: "ebee69a3",
+		type: "item",
+		item: "hbm:chainsaw 1 10000"
 	}]
 }

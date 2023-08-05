@@ -12,6 +12,10 @@
 		"",
 		"The team's hearts sank as they realized the implications of this new development. The interdimensional war had taken an even darker turn, and the consequences of their actions were far-reaching."
 	],
+	dependencies: [
+		"b802bfa1"
+	],
+	hide: true,
 	tasks: [{
 		uid: "3762fe06",
 		type: "item",

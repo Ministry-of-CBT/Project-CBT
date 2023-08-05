@@ -1,6 +1,8 @@
 {
+	title: "secret meeting continuation",
 	x: -22.5d,
 	y: 32.5d,
+	description: "illuminati",
 	text: [
 		"As the emergency meeting continued, they established communications with Colonel Turner's military personnel, the Queen of the Chess Realm, and the other powerful entities involved in the interdimensional conflict. They knew that only through collaboration and unity could they hope to contain the crisis and protect their worlds.",
 		"",
@@ -14,11 +16,22 @@
 		"",
 		"The Battle of the SCP Universe had become a pivotal moment in the interdimensional war, and the SCP Foundation's actions would play a crucial role in shaping the outcome. The council members knew that the road ahead would be fraught with challenges, but they were determined to do whatever it took to protect their worlds and maintain the veil of secrecy that had defined their organization for so long."
 	],
+	dependencies: [
+		"c73db0e2"
+	],
+	hide: true,
 	tasks: [{
-		uid: "24dbbf43",
+		uid: "709d2e92",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 8533"
+		}]
+	},
+	{
+		uid: "3ae4836a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 234"
 		}]
 	}]
 }

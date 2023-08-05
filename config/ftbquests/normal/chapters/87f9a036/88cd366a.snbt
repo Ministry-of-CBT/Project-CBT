@@ -1,6 +1,8 @@
 {
+	title: "cyclotron",
 	x: -25.0d,
 	y: 31.0d,
+	description: "cyclotetraeurythane",
 	text: [
 		"But Yukari was not one to be underestimated. She laughed gleefully, reveling in the challenge before her. \"Oh, this is delightful,\" she exclaimed. \"You've all given me quite the show! But let's see how long you can keep up this resistance.\"",
 		"",
@@ -12,11 +14,14 @@
 		"",
 		"The team, including GregoriousT, Reimu, Marisa, HBMTheBobCat, mDiyo, and the others, found themselves facing an entirely new level of threat. The black hole's destructive power was beyond anything they had encountered before, and its event horizon expanded rapidly, threatening to engulf everything."
 	],
+	dependencies: [
+		"c72b4bdd"
+	],
 	tasks: [{
-		uid: "18dc5c59",
+		uid: "793cadad",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			item: "hbm:machine_cyclotron"
 		}]
 	}]
 }

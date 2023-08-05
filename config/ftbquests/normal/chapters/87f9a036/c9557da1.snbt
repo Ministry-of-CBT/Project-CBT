@@ -1,6 +1,8 @@
 {
+	title: "refinery",
 	x: -21.0d,
 	y: 34.0d,
+	description: "eeeeeeeeeeeeeeeee",
 	text: [
 		"The team knew that they were up against a formidable combination. Yukari and Flandre's raw power, coupled with the tactical genius of Remilia and the mind-reading abilities of Satori, made for a dangerous alliance.",
 		"",
@@ -18,11 +20,22 @@
 		"",
 		"As they continued their preparations, Yukari's mischievous smile returned. \"You're quite the resourceful bunch,\" she remarked. \"But you'll find that we're not so easily defeated.\""
 	],
+	dependencies: [
+		"ed0d6129"
+	],
+	hide: true,
 	tasks: [{
-		uid: "9b299903",
+		uid: "c9c83c3e",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 1"
+			item: "galacticraftcore:refinery"
+		}]
+	},
+	{
+		uid: "930b1c3d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 625"
 		}]
 	}]
 }

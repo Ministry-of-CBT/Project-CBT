@@ -1,6 +1,8 @@
 {
+	title: "haha manipulation go brrrrrrrrrrrrr",
 	x: -24.5d,
 	y: 32.5d,
+	description: "rererererererererere",
 	text: [
 		"As the intense Battle of the SCP Universe raged on, Yukari Yakumo saw an opportunity amidst the chaos. She noticed GregoriousT, the creator and guardian of GregTech New Horizons, standing amidst the fray, tirelessly working to protect his realm and the dimensions it was connected to.",
 		"",
@@ -16,11 +18,15 @@
 		"",
 		"Yukari's grin widened, intrigued by GregoriousT's determination. \"Very well,\" she said, her tone shifting from playful to serious. \"If you won't surrender willingly, I shall take what I desire by force.\""
 	],
+	dependencies: [
+		"002cd2d5"
+	],
 	tasks: [{
-		uid: "1e7bcb4e",
+		uid: "2580ffdb",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
-		}]
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1043"
+		}],
+		count: 14L
 	}]
 }
