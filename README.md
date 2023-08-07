@@ -1,6 +1,8 @@
 # BIG FAT NOTICE: 
 
-I, THE SOLO DEV OF PROJECT CBT WILL NOW BE ON VACATION. I WILL BE BACK AFTER 5* (Plans changed) DAYS.
+I, THE SOLO DEV OF PROJECT CBT WILL NOW BE ON VACATION. 
+
+aight i just got word that my vacation will end sooner than expected.
 
 ENJOY THE NEW OST FOR NOW 
 
