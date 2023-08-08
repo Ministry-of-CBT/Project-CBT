@@ -1,8 +1,8 @@
 # BIG FAT NOTICE: 
 
-I, THE SOLO DEV OF PROJECT CBT WILL NOW BE ON VACATION. 
+i am finaly back.
 
-aight i just got word that my vacation will end sooner than expected.
+now time to finish this masterpiece
 
 ENJOY THE NEW OST FOR NOW 
 
