@@ -17,10 +17,10 @@
 		"With the threat of the black hole neutralized, the team once again regrouped and prepared for the next phase of the battle. Yukari Yakumo, Flandre Scarlet, Remilia Scarlet, and Satori Komeiji were still formidable adversaries, and the interdimensional war was far from over."
 	],
 	tasks: [{
-		uid: "b6666d12",
+		uid: "ac340328",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 1"
+			item: "gregtech:meta_item_1 1 630"
 		}]
 	}]
 }

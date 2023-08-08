@@ -1,6 +1,8 @@
 {
+	title: "Ungreggy black hole",
 	x: -25.5d,
 	y: 32.5d,
+	description: "WHAT IS THIS AND HOW DO I GET RID OF IT",
 	text: [
 		"Faced with the imminent danger, the team acted quickly. GregoriousT channeled the full might of the defensive technology in GregTech New Horizons, creating a force field that acted as a barrier against the black hole's pull. He strained to maintain the barrier's stability, pouring all his expertise into protecting his realm and the dimensions linked to it.",
 		"",
@@ -11,10 +13,10 @@
 		"Despite their best efforts, the black hole's power proved overwhelming. The event horizon continued to expand, threatening to swallow the entire battlefield and beyond."
 	],
 	tasks: [{
-		uid: "90d72ef8",
+		uid: "f8826f59",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 217"
 		}]
 	}]
 }

@@ -30,5 +30,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f0d0ab0e",
+		type: "item",
+		item: "hbm:crate"
 	}]
 }
