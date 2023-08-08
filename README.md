@@ -156,14 +156,20 @@ Gregification Imminent.
 - 
 ### PROJECT CBT NOW HAS ORIGINAL SOUNDTRACKS:
 - Sweet Dreams (Greg.mp3) - Planned Main Menu Theme
+
 [][][] > General Theme:
+
 - Sweet Dreams: Project CBT Remix
 - Bad Apple: Project CBT Remix
 - Butterfly: Project CBT Remix
 - Golden Sky: Project CBT Remix
+- 
 [][][] > Note:
+
 The Old Main Menu Songs will be removed soon.
+
 [][][] > Planned OST:
+
 Never Gonna Give You Up: Project CBT Remix
 You may suggest other songs to be remixed at the Discussions Tab.
 
