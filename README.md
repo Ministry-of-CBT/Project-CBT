@@ -8,15 +8,9 @@ ENJOY THE NEW OST FOR NOW
 
 ALSO ANOTHER IMPORTANT: SCHOOL FOR ME STARTS IN LESS THAN 2 WEEKS, ONCE SCHOOL STARTS FOR ME (AUGUST 15) I WILL PROBABLY WIND DOWN A LOT BUT I WILL NOT FULLY ABANDON THIS PROJECT JUST BECAUSE OF LIL SCHOOL!
 
-Terms of Copyright for OSTs:
-- PROJECT CBT NOW HAS ORIGINAL SOUNDTRACKS:
-- Sweet Dreams (Greg.mp3) - Planned Main Menu Theme
-- Sweet Dreams: Project CBT Remix
-- Bad Apple: Project CBT Remix
-- Butterfly: Project CBT Remix
-- Golden Sky: Project CBT Remix
-- THOSE SOUNDTRACKS WILL HAVE THE SAME GNU LICENSE AS THE PROJECT ITSELF.
+ALL THE OSTS USED HAVE IT'S OWN SECTION..
 ------
+Notes:
 - AN INDEV RELEASE HAS BEEN MADE! DO NOT USE IT FOR ACTUAL GAMEPLAY.
 - ALSO IN THE FUTURE SECURITY.MD WILL BE USED TO DENOTE FULL RELEASES SO YEAH
 - A WORK IN PROGRESS OFFICIAL WIKI HAS BEEN MADE, IN THE FUTURE IT WILL BE USED TO DOCUMENT GUIDES.
@@ -154,6 +148,17 @@ Now you, the player are one of the characters stuck in this unfamilliar world.
 So what do you do? WING IT. 
 
 Gregification Imminent. 
+
+## Project CBT OST
+
+Terms of Copyright for OSTs:
+- PROJECT CBT NOW HAS ORIGINAL SOUNDTRACKS:
+- Sweet Dreams (Greg.mp3) - Planned Main Menu Theme
+- Sweet Dreams: Project CBT Remix
+- Bad Apple: Project CBT Remix
+- Butterfly: Project CBT Remix
+- Golden Sky: Project CBT Remix
+- THOSE SOUNDTRACKS WILL FALL UNDER GNU LESSER GENERAL PUBLIC LICENSE.
 
 # Contributing
 
