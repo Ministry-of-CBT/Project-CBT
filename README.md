@@ -10,9 +10,11 @@ ALSO ANOTHER IMPORTANT: SCHOOL FOR ME STARTS IN LESS THAN 2 WEEKS, ONCE SCHOOL S
 
 Terms of Copyright for OSTs:
 - PROJECT CBT NOW HAS ORIGINAL SOUNDTRACKS:
+- Sweet Dreams (Greg.mp3) - Planned Main Menu Theme
 - Sweet Dreams: Project CBT Remix
 - Bad Apple: Project CBT Remix
 - Butterfly: Project CBT Remix
+- Golden Sky: Project CBT Remix
 - THOSE SOUNDTRACKS WILL HAVE THE SAME GNU LICENSE AS THE PROJECT ITSELF.
 ------
 - AN INDEV RELEASE HAS BEEN MADE! DO NOT USE IT FOR ACTUAL GAMEPLAY.
