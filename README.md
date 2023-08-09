@@ -4,13 +4,10 @@ This repository now belongs to an organization owned by Nrmot
 
 NOTICES FOR THE NEXT RELEASES:
 AIGHT I WILL REMOVE THE FOLLOWING MODS FROM THE MODLIST NOW THAT I FOUND GT CONFIGS THAT ALLOW ENERGY CONVERSTION:
-- Industrial Craft 2
-- Energy Converters
+- FTB Backups due to issue #16
 
 MODS THAT WILL BE ADDED:
-- Thaumcraft
-- Avaritia
-- KubeJS
+- Another Backup mod possibly..
 
 ENJOY THE NEW OST FOR NOW 
 
