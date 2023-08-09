@@ -24,6 +24,8 @@ Notes:
 ------
 - Gameplay wise please set your world to TFC CLASSIC. YOU MAY NOT BE ABLE TO PROGRESS THROUGH THE QUESTS IF YOU USE A DIFFERENT WORLD TYPE. BEWARE.
 
+CODE_OF_CONDUCT.md
+
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
 ## Banner
