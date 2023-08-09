@@ -18,7 +18,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "069547fddcebec10cb4e52aa6d3650a18ec9913a984eb09306bbc7cab4e59c5d"
+hash = "f9557748f6cd00487e2763c10d2da7391d2d3e65a5bc43b2f8f65f2a2441e78d"
 
 [[files]]
 file = "SECURITY.md"
@@ -134,7 +134,7 @@ hash = "2388f6e930e2fc03a46ba645eacb69f8ec7d8df219e7eceb2b1c91e9b36c0f97"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "0040db875c462834c0b9d687c765830b43a241fa0761c72b2c4b6344c6a637d0"
+hash = "7ef267b3bf35895129501597bec62f620c5c98352432128d2216cdbfc18e7af9"
 
 [[files]]
 file = "config/MorePlanetsExtras.cfg"
@@ -166,7 +166,7 @@ hash = "f78e8e1c4126d21e9ad18918f766f9f5372149fa3ae14c7bae1ba9f7c16f3c4f"
 
 [[files]]
 file = "config/TerraFirmaThings - Misc.cfg"
-hash = "324165778bc9015ee1ab271ad32301712e62908f726e9c25af5f98ed0567affb"
+hash = "07c08cbb50030e0577f0bd6c9972a05e55d3efdd8361d500faa8639a3b35b956"
 
 [[files]]
 file = "config/TinkerModules.cfg"
@@ -262,7 +262,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "3d3caf2e7db58e765ba6e743a24a8afdc44c6530e9fd82c93fe35074610dfd43"
+hash = "19f54149afefaaaffc743e32e9236aa09dd03761983a1ebc22118ce6cc1d84e8"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -359,6 +359,10 @@ hash = "d9937dcf817b7d9a9438f5d5a5e5003b50dcb79f37dd5868254cf54fa0468670"
 [[files]]
 file = "config/fancymenu/slideshows/spinningebf/Images/image_4.png"
 hash = "0481fb74ef920ed41bd1bc2442bf4eaa84c0dee3bcb6d499f4f18ee5e4ebb2ae"
+
+[[files]]
+file = "config/fancymenu/slideshows/spinningebf/Images/image_5.png"
+hash = "62c96f9a0678f201091d828b265e4814f22e5a420cd85a4c5fb28c4a3e25b2c1"
 
 [[files]]
 file = "config/fancymenu/slideshows/spinningebf/properties.txt"
@@ -574,7 +578,7 @@ hash = "83bcfd02f09c8f4cb226e88f5944d272d55b3ed69f7915e46e578ffa36811631"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/2b280dc4.snbt"
-hash = "36831e563939e8f2e9811124e29a3aaabce053b40cdb22410d41d1636d74c1e9"
+hash = "4a2d759889a084175390e8399e46b8665b17ea918c4d14534d340c66732e57dd"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/2b560838.snbt"
@@ -630,7 +634,7 @@ hash = "396dddde2a7b7576b6519494dba345d79f09703c69f25d6361e9894fb79f6d59"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/434dde43.snbt"
-hash = "0c97b99320349c18bd8d3c57a6242a683462eb19709cfdfb2e52b5efec0b6bd8"
+hash = "ad9bab02db8cf3a820ae39f8b4ae84949d8b06b1a27b3428159c2e17710b8796"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/46bdb1d8.snbt"
@@ -866,7 +870,7 @@ hash = "f6c5f8806666de05bf79584d3cab06c153ac4f4096674bb8d78b800a67cdebb4"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/bbab199e.snbt"
-hash = "335485330e8e6a7f552d645fe23ab99638f0884b1f0df9ba80c26f539c0f5518"
+hash = "bea49e387ae2d05dd9abd07fbb554c75e51b26c126c7a48cf50bd6662b828941"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/c11477b6.snbt"
@@ -998,7 +1002,7 @@ hash = "3350202036fd88e44bb72d435c1ee42a595f171c3a2dde57d7b7300f962bc8a4"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/f8938fac.snbt"
-hash = "49662d52bf771096c13c3f86cbb697aa465213e4f7fc7987d0d18f0fa6a28259"
+hash = "278f6a25899a25f8a0bf9055c0a1c425a4d45215f92a898b889abcbc0779a545"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/f8a59632.snbt"
@@ -1066,7 +1070,7 @@ hash = "1b3671f762ec0f228bbb5d5eb0c7466c71f3f98e775271c3d8349807802edcfe"
 
 [[files]]
 file = "config/gregtech.cfg"
-hash = "5bb6796c70db20feb131739473d79df8816911fc2e71f0f155b908e526b00b21"
+hash = "d6f0edb7918472fbd43730e3370e15658880e40925c9106b5ea74bd398784068"
 
 [[files]]
 file = "config/gregtech/dimensions.json"
@@ -1750,7 +1754,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "981d946d8e7d2e88b303ca69419898f5f8de936dfba11937164643d3d73bc3ba"
+hash = "404c78415352f4d21e9e4acbe43bc44838465a80b20b74d9360d3de6a8f87b5d"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1834,7 +1838,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "f834b67d58bc2dea19cbfe9d8d86a99fc5869d5c4e419bc1b8d9c88e4414a605"
+hash = "d2506b215649d54da68f42d345978b995f5d1ac278be7ee2c949e26ebc262335"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2056,6 +2060,11 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
+file = "mods/avaritia-1-10.pw.toml"
+hash = "6f23d45fe071155dd4f3014e7b9f4af7b1336bfbe1c34f8aa23343cc80be3cf2"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -2128,11 +2137,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
-metafile = true
-
-[[files]]
-file = "mods/energy-converters.pw.toml"
-hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
 metafile = true
 
 [[files]]
@@ -2236,11 +2240,6 @@ hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
-file = "mods/industrial-craft.pw.toml"
-hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
-metafile = true
-
-[[files]]
 file = "mods/infinite-night.pw.toml"
 hash = "64e9c0de6d4474902f446f292ac14ac0eacc87a38a73b4e1f36146307e311695"
 metafile = true
@@ -2258,6 +2257,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "6b200b2407adde32ecaf3c4cded1f926ca0d732971daea264c64b65cc20977c9"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "3f090658eb8521a5abe44bf5413e8da67ae7011c3778570028e4fd38985cf35f"
 metafile = true
 
 [[files]]
@@ -2433,6 +2437,11 @@ metafile = true
 [[files]]
 file = "mods/texfix.pw.toml"
 hash = "c7a205d96c898c9d1ed408e008361dc00028eb38af7d35d6eb39fb82625407ea"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
 metafile = true
 
 [[files]]
