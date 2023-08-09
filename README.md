@@ -168,7 +168,7 @@ Gregification Imminent.
 - THOSE SOUNDTRACKS WILL FALL UNDER GNU LESSER GENERAL PUBLIC LICENSE.
 - 
 ### PROJECT CBT NOW HAS ORIGINAL SOUNDTRACKS:
-- Sweet Dreams (Greg.mp3) - Planned Main Menu Theme
+- Sweet Sans [Menu Theme]
 
 
 [][][] > General Theme:
@@ -183,7 +183,7 @@ Gregification Imminent.
 [][][] > Note:
 
 
-The Old Main Menu Songs will be removed soon.
+The Old Main Menu Songs has been removed
 
 
 [][][] > Planned OST:
