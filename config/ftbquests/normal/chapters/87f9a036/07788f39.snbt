@@ -1,8 +1,8 @@
 {
 	title: "Want to die?",
 	icon: "hbm:mush",
-	x: 3.0d,
-	y: -7.5d,
+	x: 3.5d,
+	y: -4.0d,
 	description: "Are you tired of existing?",
 	text: [
 		"Yes I'm tired of existing. I hate you and your modpack. I hate this game. I don't want to exist anymore and I don't like greg. I want to shit myself in the chair."

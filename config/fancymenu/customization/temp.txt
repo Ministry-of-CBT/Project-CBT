@@ -43,6 +43,71 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -50
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Unalive!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 75
+  action = resizebutton
+  height = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\singleplayer.png
+  backgroundnormal = fm\singleplayer.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Fuck You.
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
@@ -74,62 +139,8 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-centered
-  x = -50
-  action = movebutton
-  y = -22
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = setbuttonlabel
-  value = Unalive!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\button.png
-  backgroundnormal = fm\button.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -77
-  action = movebutton
-  y = -42
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 75
-  action = resizebutton
-  height = 75
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\singleplayer.png
-  backgroundnormal = fm\singleplayer.png
 }
 
 customization {
@@ -155,17 +166,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\button.png
   backgroundnormal = fm\button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = setbuttonlabel
-  value = Fuck You.
 }
 
 customization {
@@ -272,7 +272,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Opening Music: \nSweet Dreams (greg.mp3) \nNuked Out Dance Party\nBad Apple *Metal*\nSmile - Butterfly (Metal)
+  source = Opening Music: \nSweet Sans: Main Menu OST
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -281,9 +281,9 @@ customization {
   width = 153
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 5eb87c10-1f35-41e5-8cc6-4f849f3c36071690428391378
-  y = -52
+  y = -22
   alignment = left
-  height = 50
+  height = 20
 }
 
 customization {

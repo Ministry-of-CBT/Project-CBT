@@ -1,6 +1,8 @@
 {
+	title: "Unity in YinYang",
 	x: -27.5d,
 	y: 32.5d,
+	description: "gregyinyang",
 	text: [
 		"The team's determination to protect this iconic universe, along with their growing camaraderie with the Jedi and Sith, started to shift the tide of the battle. The factions of the Star Wars Universe, once divided, began to find common ground in the face of an unprecedented threat.",
 		"",
@@ -10,11 +12,21 @@
 		"",
 		"As they fought side by side in this iconic realm, they understood that the fate of not only the Star Wars Universe but all known dimensions depended on their resilience, ingenuity, and unity. Their interdimensional war had evolved into a battle for the preservation of existence itself, and they knew they must give it everything they had to succeed."
 	],
+	dependencies: [
+		"434dde43"
+	],
 	tasks: [{
-		uid: "581174cd",
+		uid: "34a28059",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
+			item: "gregtech:machine 1 1154"
+		}]
+	},
+	{
+		uid: "1ece75a6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1169"
 		}]
 	}]
 }

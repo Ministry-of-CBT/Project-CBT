@@ -1,6 +1,8 @@
 {
+	title: "Jedi and Sith Alliance???????????????????????????",
 	x: -27.0d,
 	y: 34.0d,
+	description: "ayaiaiaiai im your little butterflyayaiaiaiai im your little butterflyayaiaiaiai im your little butterflyayaiaiaiai im your little butterfly yes i need my samurai gregorioust",
 	text: [
 		"With the Star Wars Universe in crisis, they knew they needed to form an alliance with those who understood the realm best – the Jedi and the Sith. Reaching out to both sides, they sought to unite them in a common cause: the preservation of their universe.",
 		"",
@@ -16,14 +18,10 @@
 		"",
 		"Meanwhile, the Queen of the Chess Realm provided strategic insights, advising on how to utilize the unique properties of the Star Wars Universe to counter the chaos more effectively."
 	],
+	dependencies: [
+		"bbab199e"
+	],
 	tasks: [{
-		uid: "5af5e02e",
-		type: "item",
-		items: [{
-			item: "minecraft:sapling 1 2"
-		}]
-	},
-	{
 		uid: "ef16686f",
 		type: "item",
 		items: [{

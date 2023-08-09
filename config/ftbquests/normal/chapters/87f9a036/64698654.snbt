@@ -37,7 +37,7 @@
 			}
 		}
 	},
-	x: 0.5d,
+	x: -1.5d,
 	y: 4.0d,
 	description: "Yes. Now go find it, or else I will teleport you to the backrooms.",
 	text: [

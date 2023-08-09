@@ -1,11 +1,16 @@
 {
+	title: "HAHA GREGIC QUEST FUCK YOU FUCK YOU FUCK YOU!!!!!!!!!!",
 	x: -28.0d,
 	y: 31.0d,
+	description: "WHAT IS THIS BULLSJIT RECPIPE AND HOW DO I BRICK THE PIPI",
+	text: [
+		"avaritiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+	],
 	tasks: [{
-		uid: "d814d49d",
+		uid: "b3c0721a",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			item: "gregtech:machine 1 989"
 		}]
 	}]
 }

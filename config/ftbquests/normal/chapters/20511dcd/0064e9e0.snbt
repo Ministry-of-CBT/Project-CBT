@@ -1,0 +1,28 @@
+{
+	title: "You're gonna have a bad time",
+	x: 3.0d,
+	y: -11.0d,
+	text: [
+		"I want all your pipe bombs now or else."
+	],
+	tasks: [{
+		uid: "72333123",
+		type: "item",
+		items: [{
+			item: "hbm:nuke_tsar"
+		}]
+	}],
+	rewards: [{
+		uid: "5dcc0356",
+		type: "item",
+		item: {
+			id: "hbm:rbmk_fuel_drx",
+			tag: {
+				meltdown: 0.0d,
+				core: 20.0d,
+				yield: 1000000.0d,
+				hull: 20.0d
+			}
+		}
+	}]
+}

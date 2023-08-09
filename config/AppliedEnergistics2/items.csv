@@ -249,7 +249,7 @@ minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
 minecraft:slime, Green Slime Block
-minecraft:barrier, Barrier
+minecraft:barrier, Warding Aura
 minecraft:iron_trapdoor, Iron Trapdoor
 minecraft:prismarine:0, Prismarine
 minecraft:prismarine:1, Prismarine Bricks
@@ -643,6 +643,52 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
+avaritia:resource:0, Diamond Lattice
+avaritia:resource:1, Crystal Matrix Ingot
+avaritia:resource:2, Pile of Neutrons
+avaritia:resource:3, Neutronium Nugget
+avaritia:resource:4, Neutronium Ingot
+avaritia:resource:5, Infinity Catalyst
+avaritia:resource:6, Infinity Ingot
+avaritia:resource:7, Record Fragment
+avaritia:singularity:0, Iron Singularity
+avaritia:singularity:1, Golden Singularity
+avaritia:singularity:2, Lapis Singularity
+avaritia:singularity:3, Redstone Singularity
+avaritia:singularity:4, Nether Quartz Singularity
+avaritia:singularity:5, Copper Singularity
+avaritia:singularity:6, Tin Singularity
+avaritia:singularity:7, Lead Singularity
+avaritia:singularity:8, Silver Singularity
+avaritia:singularity:9, Nickel Singularity
+avaritia:singularity:10, Diamond Singularity
+avaritia:singularity:11, Emerald Singularity
+avaritia:singularity:12, Fluxed Singularity
+avaritia:singularity:13, Platinum Singularity
+avaritia:singularity:14, Iridium Singularity
+avaritia:infinity_sword, Sword of the Cosmos
+avaritia:infinity_bow, Longbow of the Heavens
+avaritia:infinity_pickaxe, World Breaker
+avaritia:infinity_shovel, Planet Eater
+avaritia:infinity_axe, Nature's Ruin
+avaritia:infinity_hoe, Hoe of the Green Earth
+avaritia:infinity_helmet, Infinity Helmet
+avaritia:infinity_chestplate, Infinity Breastplate
+avaritia:infinity_pants, Infinity Leggings
+avaritia:infinity_boots, Infinity Boots
+avaritia:skullfire_sword, Skullfire Sword
+avaritia:endest_pearl, Endest Pearl
+avaritia:ultimate_stew, Ultimate Stew
+avaritia:cosmic_meatballs, Cosmic Meatballs
+avaritia:matter_cluster, Matter Cluster
+avaritia:compressed_crafting_table, Compressed Crafting Table
+avaritia:double_compressed_crafting_table, Double Compressed Crafting Table
+avaritia:extreme_crafting_table, Extreme Crafting Table
+avaritia:block_resource:0, Neutronium Block
+avaritia:block_resource:1, Infinity Block
+avaritia:block_resource:2, Crystal Matrix
+avaritia:neutron_collector, Neutron Collector
+avaritia:neutronium_compressor, Neutronium Compressor
 carryon:tile_item, item.tile_item.name
 carryon:entity_item, item.entity_item.name
 zollerngalaxy:heartofzol, Zollus Heartium
@@ -1496,1225 +1542,6 @@ zollerngalaxy:garlic_crop, Garlic
 zollerngalaxy:ghostpepper_crop, Ghost Peppers
 zollerngalaxy:treasure_chest_tlaloc, Tlaloc Dungeon Treasure Chest
 zollerngalaxy:treasure_chest_eden, Eden's Treasure
-ic2:te:1, Industrial TNT
-ic2:te:2, Nuke
-ic2:te:3, Generator
-ic2:te:4, Geothermal Generator
-ic2:te:5, Kinetic Generator
-ic2:te:6, Radioisotope Thermoelectric Generator
-ic2:te:7, Semifluid Generator
-ic2:te:8, Solar Panel
-ic2:te:9, Stirling Generator
-ic2:te:10, Water Mill
-ic2:te:11, Wind Mill
-ic2:te:12, Electric Heater
-ic2:te:13, Liquid Fuel Firebox
-ic2:te:14, Radioisotope Heat Generator
-ic2:te:15, Solid Fuel Firebox
-ic2:te:16, Electric Motor
-ic2:te:17, Manual Kinetic Generator
-ic2:te:18, Steam Turbine
-ic2:te:19, Stirling Kinetic Generator
-ic2:te:20, Water Turbine
-ic2:te:21, Wind Turbine
-ic2:te:22, Nuclear Reactor
-ic2:te:23, Reactor Access Hatch
-ic2:te:24, Reactor Chamber
-ic2:te:25, Reactor Fluid Port
-ic2:te:26, Reactor Redstone Port
-ic2:te:27, Condenser
-ic2:te:28, Bottling Plant
-ic2:te:29, Fluid Distributor
-ic2:te:30, Fluid Regulator
-ic2:te:31, Liquid Heat Exchanger
-ic2:te:32, Pump
-ic2:te:33, Solar Distiller
-ic2:te:34, Steam Boiler
-ic2:te:35, Item Buffer
-ic2:te:36, Luminator
-ic2:te:37, Magnetizer
-ic2:te:38, Electric Sorting Machine
-ic2:te:39, Teleporter
-ic2:te:40, Terraformer
-ic2:te:41, Tesla Coil
-ic2:te:42, Fluid/Solid Canning Machine
-ic2:te:43, Compressor
-ic2:te:44, Electric Furnace
-ic2:te:45, Extractor
-ic2:te:46, Iron Furnace
-ic2:te:47, Macerator
-ic2:te:48, Recycler
-ic2:te:49, Solid Canning Machine
-ic2:te:50, Blast Furnace
-ic2:te:51, Block Cutting Machine
-ic2:te:52, Thermal Centrifuge
-ic2:te:53, Fermenter
-ic2:te:54, Induction Furnace
-ic2:te:55, Metal Former
-ic2:te:56, Ore Washing Plant
-ic2:te:57, Advanced Miner
-ic2:te:58, Crop Harvester
-ic2:te:59, Crop-Matron
-ic2:te:60, Miner
-ic2:te:92, Mass Fabricator
-ic2:te:93, UU Assembly Bench
-ic2:te:61, Matter Fabricator
-ic2:te:62, Pattern Storage
-ic2:te:63, Replicator
-ic2:te:64, Scanner
-ic2:te:65, Energy-O-Mat
-ic2:te:66, Personal Safe
-ic2:te:67, Trade-O-Mat
-ic2:te:94, Trading Terminal
-ic2:te:68, Charge Pad (BatBox)
-ic2:te:69, Charge Pad (CESU)
-ic2:te:70, Charge Pad (MFE)
-ic2:te:71, Charge Pad (MFSU)
-ic2:te:72, BatBox
-ic2:te:73, CESU
-ic2:te:74, MFE
-ic2:te:75, MFSU
-ic2:te:76, Electrolyzer
-ic2:te:77, LV-Transformer
-ic2:te:78, MV-Transformer
-ic2:te:79, HV-Transformer
-ic2:te:80, EV-Transformer
-ic2:te:81, Tank
-ic2:te:82, Chunk Loader
-ic2:te:83, Compact Item Buffer
-ic2:te:86, Creative Generator
-ic2:te:87, Steam Re-Pressurizer
-ic2:te:90, Weighted Fluid Distributor
-ic2:te:91, Weighted Item Distributor
-ic2:te:84, Reactor Coolant Injector (RSH)
-ic2:te:85, Reactor Coolant Injector (LZH)
-ic2:te:88, Industrial Workbench
-ic2:te:89, Batch Crafter
-ic2:te:100, Coke Kiln
-ic2:te:101, Coke Kiln Hatch
-ic2:te:102, Coke Kiln Grate
-ic2:te:111, Wooden Storage Box
-ic2:te:112, Iron Storage Box
-ic2:te:113, Bronze Storage Box
-ic2:te:114, Steel Storage Box
-ic2:te:115, Iridium Storage Box
-ic2:te:131, Bronze Tank
-ic2:te:132, Iron Tank
-ic2:te:133, Steel Tank
-ic2:te:134, Iridium Tank
-ic2:resource:0, Basalt
-ic2:resource:1, Copper Ore
-ic2:resource:2, Lead Ore
-ic2:resource:3, Tin Ore
-ic2:resource:4, Uranium Ore
-ic2:resource:5, Bronze Block
-ic2:resource:6, Copper Block
-ic2:resource:7, Lead Block
-ic2:resource:8, Steel Block
-ic2:resource:9, Tin Block
-ic2:resource:10, Uranium Block
-ic2:resource:11, Reinforced Stone
-ic2:resource:12, Basic Machine Casing
-ic2:resource:13, Advanced Machine Casing
-ic2:resource:14, Reactor Pressure Vessel
-ic2:resource:15, Silver Block
-ic2:leaves, ic2.leaves.name
-ic2:rubber_wood, ic2.rubber_wood.name
-ic2:sapling, ic2.sapling.rubber.name
-ic2:scaffold:0, Scaffold
-ic2:scaffold:1, Reinforced Scaffold
-ic2:scaffold:2, Iron Scaffold
-ic2:scaffold:3, Reinforced Iron Scaffold
-ic2:fence:0, Iron Fence
-ic2:sheet:0, Resin Sheet
-ic2:sheet:1, Rubber Sheet
-ic2:sheet:2, Wool Sheet
-ic2:glass:0, Reinforced Glass
-ic2:foam:0, Construction Foam
-ic2:foam:1, Reinforced Construction Foam
-ic2:wall:0, Construction Foam Wall (Black)
-ic2:wall:1, Construction Foam Wall (Blue)
-ic2:wall:2, Construction Foam Wall (Brown)
-ic2:wall:3, Construction Foam Wall (Cyan)
-ic2:wall:4, Construction Foam Wall (Gray)
-ic2:wall:5, Construction Foam Wall (Green)
-ic2:wall:6, Construction Foam Wall (Light Blue)
-ic2:wall:7, Construction Foam Wall (Light Gray)
-ic2:wall:8, Construction Foam Wall (Lime)
-ic2:wall:9, Construction Foam Wall (Magenta)
-ic2:wall:10, Construction Foam Wall (Orange)
-ic2:wall:11, Construction Foam Wall (Pink)
-ic2:wall:12, Construction Foam Wall (Purple)
-ic2:wall:13, Construction Foam Wall (Red)
-ic2:wall:14, Construction Foam Wall (White)
-ic2:wall:15, Construction Foam Wall (Yellow)
-ic2:mining_pipe:0, Mining Pipe
-ic2:reinforced_door, ic2.reinforced_door.name
-ic2:refractory_bricks, ic2.refractory_bricks.name
-ic2:uu_matter, ic2.uu_matter.name
-ic2:construction_foam, ic2.construction_foam.name
-ic2:coolant, ic2.coolant.name
-ic2:creosote, ic2.creosote.name
-ic2:hot_coolant, ic2.hot_coolant.name
-ic2:pahoehoe_lava, ic2.pahoehoe_lava.name
-ic2:biomass, ic2.biomass.name
-ic2:biogas, ic2.biogas.name
-ic2:distilled_water, ic2.distilled_water.name
-ic2:superheated_steam, ic2.superheated_steam.name
-ic2:steam, ic2.steam.name
-ic2:hot_water, ic2.hot_water.name
-ic2:weed_ex, ic2.weed_ex.name
-ic2:air, ic2.air.name
-ic2:hydrogen, ic2.hydrogen.name
-ic2:oxygen, ic2.oxygen.name
-ic2:heavy_water, ic2.heavy_water.name
-ic2:milk, ic2.milk.name
-ic2:advanced_batpack, ic2.advanced_batpack.name
-ic2:alloy_chestplate, ic2.alloy_chestplate.name
-ic2:batpack, ic2.batpack.name
-ic2:bronze_boots, ic2.bronze_boots.name
-ic2:bronze_chestplate, ic2.bronze_chestplate.name
-ic2:bronze_helmet, ic2.bronze_helmet.name
-ic2:bronze_leggings, ic2.bronze_leggings.name
-ic2:cf_pack, ic2.cf_pack.name
-ic2:energy_pack, ic2.energy_pack.name
-ic2:hazmat_chestplate, ic2.hazmat_chestplate.name
-ic2:hazmat_helmet, ic2.hazmat_helmet.name
-ic2:hazmat_leggings, ic2.hazmat_leggings.name
-ic2:jetpack, ic2.jetpack.name
-ic2:jetpack_electric, ic2.jetpack_electric.name
-ic2:lappack, ic2.lappack.name
-ic2:nano_boots, ic2.nano_boots.name
-ic2:nano_chestplate, ic2.nano_chestplate.name
-ic2:nano_helmet, ic2.nano_helmet.name
-ic2:nano_leggings, ic2.nano_leggings.name
-ic2:nightvision_goggles, ic2.nightvision_goggles.name
-ic2:quantum_boots, ic2.quantum_boots.name
-ic2:quantum_chestplate, ic2.quantum_chestplate.name
-ic2:quantum_helmet, ic2.quantum_helmet.name
-ic2:quantum_leggings, ic2.quantum_leggings.name
-ic2:rubber_boots, ic2.rubber_boots.name
-ic2:solar_helmet, ic2.solar_helmet.name
-ic2:static_boots, ic2.static_boots.name
-ic2:boat:0, Damaged Rubber Dinghy
-ic2:boat:1, Rubber Dinghy
-ic2:boat:2, Carbon Fiber Canoe
-ic2:boat:3, Electric Boat
-ic2:barrel, ic2.barrel.name
-ic2:mug:0, Stone Mug
-ic2:mug:1, Cold Coffee
-ic2:mug:2, Dark Coffee
-ic2:mug:3, Coffee
-ic2:booze_mug, ic2.booze_mug.name
-ic2:crushed:0, Crushed Copper Ore
-ic2:crushed:1, Crushed Gold Ore
-ic2:crushed:2, Crushed Iron Ore
-ic2:crushed:3, Crushed Lead Ore
-ic2:crushed:4, Crushed Silver Ore
-ic2:crushed:5, Crushed Tin Ore
-ic2:crushed:6, Crushed Uranium Ore
-ic2:purified:0, Purified Crushed Copper Ore
-ic2:purified:1, Purified Crushed Gold Ore
-ic2:purified:2, Purified Crushed Iron Ore
-ic2:purified:3, Purified Crushed Lead Ore
-ic2:purified:4, Purified Crushed Silver Ore
-ic2:purified:5, Purified Crushed Tin Ore
-ic2:purified:6, Purified Crushed Uranium Ore
-ic2:dust:0, Bronze Dust
-ic2:dust:1, Clay Dust
-ic2:dust:2, Coal Dust
-ic2:dust:3, Hydrated Coal Dust
-ic2:dust:4, Copper Dust
-ic2:dust:5, Diamond Dust
-ic2:dust:6, Energium Dust
-ic2:dust:7, Gold Dust
-ic2:dust:8, Iron Dust
-ic2:dust:9, Lapis Lazuli Dust
-ic2:dust:10, Lead Dust
-ic2:dust:11, Lithium Dust
-ic2:dust:12, Obsidian Dust
-ic2:dust:13, Silicon Dioxide
-ic2:dust:14, Silver Dust
-ic2:dust:15, Stone Dust
-ic2:dust:16, Sulfur Dust
-ic2:dust:17, Tin Dust
-ic2:dust:18, Tiny Pile of Bronze Dust
-ic2:dust:19, Tiny Pile of Copper Dust
-ic2:dust:20, Tiny Pile of Gold Dust
-ic2:dust:21, Tiny Pile of Iron Dust
-ic2:dust:22, Tiny Pile of Lapis Dust
-ic2:dust:23, Tiny Pile of Lead Dust
-ic2:dust:24, Tiny Pile of Lithium Dust
-ic2:dust:25, Tiny Pile of Obsidian Dust
-ic2:dust:26, Tiny Pile of Silver Dust
-ic2:dust:27, Tiny Pile of Sulfur Dust
-ic2:dust:28, Tiny Pile of Tin Dust
-ic2:dust:29, Hydrated Tin Dust
-ic2:dust:30, Netherrack Dust
-ic2:dust:31, Ender Pearl Dust
-ic2:dust:32, Ender Eye Dust
-ic2:dust:33, Milk Powder
-ic2:dust:34, Emerald Dust
-ic2:dust:35, Tiny Pile of Emerald Dust
-ic2:dust:36, Tiny Pile of Diamond Dust
-ic2:ingot:0, Mixed Metal Ingot
-ic2:ingot:1, Bronze Ingot
-ic2:ingot:2, Copper Ingot
-ic2:ingot:3, Lead Ingot
-ic2:ingot:4, Silver Ingot
-ic2:ingot:5, Steel Ingot
-ic2:ingot:6, Tin Ingot
-ic2:plate:0, Bronze Plate
-ic2:plate:1, Copper Plate
-ic2:plate:2, Gold Plate
-ic2:plate:3, Iron Plate
-ic2:plate:4, Lapis Lazuli Plate
-ic2:plate:5, Lead Plate
-ic2:plate:6, Obsidian Plate
-ic2:plate:7, Steel Plate
-ic2:plate:8, Tin Plate
-ic2:plate:9, Dense Bronze Plate
-ic2:plate:10, Dense Copper Plate
-ic2:plate:11, Dense Gold Plate
-ic2:plate:12, Dense Iron Plate
-ic2:plate:13, Dense Lapis Lazuli Plate
-ic2:plate:14, Dense Lead Plate
-ic2:plate:15, Dense Obsidian Plate
-ic2:plate:16, Dense Steel Plate
-ic2:plate:17, Dense Tin Plate
-ic2:casing:0, Bronze Item Casing
-ic2:casing:1, Copper Item Casing
-ic2:casing:2, Gold Item Casing
-ic2:casing:3, Iron Item Casing
-ic2:casing:4, Lead Item Casing
-ic2:casing:5, Steel Item Casing
-ic2:casing:6, Tin Item Casing
-ic2:nuclear:0, Enriched Uranium Nuclear Fuel
-ic2:nuclear:1, Uranium 235
-ic2:nuclear:2, Uranium 238
-ic2:nuclear:3, Plutonium
-ic2:nuclear:4, MOX Nuclear Fuel
-ic2:nuclear:5, Tiny Pile of Uranium 235
-ic2:nuclear:6, Tiny Pile of Uranium 238
-ic2:nuclear:7, Tiny Pile of Plutonium
-ic2:nuclear:8, Pellets of Enriched Uranium Nuclear Fuel
-ic2:nuclear:9, Pellets of MOX Nuclear Fuel
-ic2:nuclear:10, Pellets of RTG Fuel
-ic2:nuclear:11, Fuel Rod (Depleted Uranium)
-ic2:nuclear:12, Dual Fuel Rod (Depleted Uranium)
-ic2:nuclear:13, Quad Fuel Rod (Depleted Uranium)
-ic2:nuclear:14, Fuel Rod (Depleted MOX)
-ic2:nuclear:15, Dual Fuel Rod (Depleted MOX)
-ic2:nuclear:16, Quad Fuel Rod (Depleted MOX)
-ic2:misc_resource:0, Ashes
-ic2:misc_resource:1, Iridium Ore
-ic2:misc_resource:2, Iridium Shard
-ic2:misc_resource:3, UU-Matter
-ic2:misc_resource:4, Sticky Resin
-ic2:misc_resource:5, Slag
-ic2:misc_resource:6, Iodine
-ic2:misc_resource:7, Water
-ic2:misc_resource:8, Lava
-ic2:crafting:0, Rubber
-ic2:crafting:1, Electronic Circuit
-ic2:crafting:2, Advanced Circuit
-ic2:crafting:3, Advanced Alloy
-ic2:crafting:4, Iridium Reinforced Plate
-ic2:crafting:5, Coil
-ic2:crafting:6, Electric Motor
-ic2:crafting:7, Heat Conductor
-ic2:crafting:8, Copper Boiler
-ic2:crafting:9, Fuel Rod (Empty)
-ic2:crafting:10, Tin Can
-ic2:crafting:11, Small Power Unit
-ic2:crafting:12, Power Unit
-ic2:crafting:13, Raw Carbon Fibre
-ic2:crafting:14, Raw Carbon Mesh
-ic2:crafting:15, Carbon Plate
-ic2:crafting:16, Coal Ball
-ic2:crafting:17, Compressed Coal Ball
-ic2:crafting:18, Coal Chunk
-ic2:crafting:19, Industrial Diamond
-ic2:crafting:20, Plantball
-ic2:crafting:21, Bio Chaff
-ic2:crafting:23, Scrap
-ic2:crafting:24, Scrap Box
-ic2:crafting:25, CF Powder
-ic2:crafting:27, Crystal Memory (raw)
-ic2:crafting:29, Shaft (Iron)
-ic2:crafting:30, Shaft (Steel)
-ic2:crafting:31, Wood Rotor Blade
-ic2:crafting:32, Iron Rotor Blade
-ic2:crafting:33, Steel Rotor Blade
-ic2:crafting:34, Carbon Rotor Blade
-ic2:crafting:35, Steam Turbine Blade
-ic2:crafting:36, Steam Turbine
-ic2:crafting:37, Jetpack Attachment Plate
-ic2:crafting:38, Industrial Credit
-ic2:crafting:41, Bronze Rotor Blade
-ic2:crafting:42, Shaft (Bronze)
-ic2:block_cutting_blade:0, Block Cutting Blade (Iron)
-ic2:block_cutting_blade:1, Block Cutting Blade (Steel)
-ic2:block_cutting_blade:2, Block Cutting Blade (Diamond)
-ic2:upgrade_kit:0, MFSU Upgrade Kit
-ic2:crop_stick, ic2.crop_stick.name
-ic2:crop_res:0, Coffee Beans
-ic2:crop_res:1, Coffee Powder
-ic2:crop_res:2, Fertilizer
-ic2:crop_res:3, Grin Powder
-ic2:crop_res:4, Hops
-ic2:crop_res:5, Weed
-ic2:crop_res:6, Milk Wart
-ic2:crop_res:7, Oil Berry
-ic2:crop_res:8, Bobs-Yer-Uncle-Ranks Berry
-ic2:terra_wart, ic2.terra_wart.name
-ic2:cropnalyzer, ic2.cropnalyzer.name
-ic2:re_battery, ic2.re_battery.name
-ic2:advanced_re_battery, ic2.advanced_re_battery.name
-ic2:energy_crystal, ic2.energy_crystal.name
-ic2:lapotron_crystal, ic2.lapotron_crystal.name
-ic2:single_use_battery, ic2.single_use_battery.name
-ic2:charging_re_battery, ic2.charging_re_battery.name
-ic2:advanced_charging_re_battery, ic2.advanced_charging_re_battery.name
-ic2:charging_energy_crystal, ic2.charging_energy_crystal.name
-ic2:charging_lapotron_crystal, ic2.charging_lapotron_crystal.name
-ic2:heat_storage, ic2.heat_storage.name
-ic2:tri_heat_storage, ic2.tri_heat_storage.name
-ic2:hex_heat_storage, ic2.hex_heat_storage.name
-ic2:plating, ic2.plating.name
-ic2:heat_plating, ic2.heat_plating.name
-ic2:containment_plating, ic2.containment_plating.name
-ic2:heat_exchanger, ic2.heat_exchanger.name
-ic2:reactor_heat_exchanger, ic2.reactor_heat_exchanger.name
-ic2:component_heat_exchanger, ic2.component_heat_exchanger.name
-ic2:advanced_heat_exchanger, ic2.advanced_heat_exchanger.name
-ic2:heat_vent, ic2.heat_vent.name
-ic2:reactor_heat_vent, ic2.reactor_heat_vent.name
-ic2:overclocked_heat_vent, ic2.overclocked_heat_vent.name
-ic2:component_heat_vent, ic2.component_heat_vent.name
-ic2:advanced_heat_vent, ic2.advanced_heat_vent.name
-ic2:neutron_reflector, ic2.neutron_reflector.name
-ic2:thick_neutron_reflector, ic2.thick_neutron_reflector.name
-ic2:iridium_reflector, ic2.iridium_reflector.name
-ic2:rsh_condensator, ic2.rsh_condensator.name
-ic2:lzh_condensator, ic2.lzh_condensator.name
-ic2:heatpack, ic2.heatpack.name
-ic2:uranium_fuel_rod, ic2.uranium_fuel_rod.name
-ic2:dual_uranium_fuel_rod, ic2.dual_uranium_fuel_rod.name
-ic2:quad_uranium_fuel_rod, ic2.quad_uranium_fuel_rod.name
-ic2:mox_fuel_rod, ic2.mox_fuel_rod.name
-ic2:dual_mox_fuel_rod, ic2.dual_mox_fuel_rod.name
-ic2:quad_mox_fuel_rod, ic2.quad_mox_fuel_rod.name
-ic2:lithium_fuel_rod, ic2.lithium_fuel_rod.name
-ic2:depleted_isotope_fuel_rod, ic2.depleted_isotope_fuel_rod.name
-ic2:tfbp:0, TFBP - Empty
-ic2:tfbp:1, TFBP - Chilling
-ic2:tfbp:2, TFBP - Cultivation
-ic2:tfbp:3, TFBP - Desertification
-ic2:tfbp:4, TFBP - Flatification
-ic2:tfbp:5, TFBP - Irrigation
-ic2:tfbp:6, TFBP - Mushroom
-ic2:bronze_axe, ic2.bronze_axe.name
-ic2:bronze_hoe, ic2.bronze_hoe.name
-ic2:bronze_pickaxe, ic2.bronze_pickaxe.name
-ic2:bronze_shovel, ic2.bronze_shovel.name
-ic2:bronze_sword, ic2.bronze_sword.name
-ic2:cutter, ic2.cutter.name
-ic2:debug_item, ic2.debug_item.name
-ic2:foam_sprayer:0, CF Sprayer
-ic2:foam_sprayer:0, CF Sprayer
-ic2:forge_hammer, ic2.forge_hammer.name
-ic2:frequency_transmitter, ic2.frequency_transmitter.name
-ic2:meter, ic2.meter.name
-ic2:tool_box, ic2.tool_box.name
-ic2:treetap, ic2.treetap.name
-ic2:wrench, ic2.wrench.name
-ic2:wrench_new, ic2.wrench_new.name
-ic2:crowbar, ic2.crowbar.name
-ic2:containment_box, ic2.containment_box.name
-ic2:weeding_trowel, ic2.weeding_trowel.name
-ic2:crop_seed_bag, ic2.crop_seed_bag.name
-ic2:advanced_scanner, ic2.advanced_scanner.name
-ic2:chainsaw, ic2.chainsaw.name
-ic2:diamond_drill, ic2.diamond_drill.name
-ic2:drill, ic2.drill.name
-ic2:electric_hoe, ic2.electric_hoe.name
-ic2:electric_treetap, ic2.electric_treetap.name
-ic2:electric_wrench, ic2.electric_wrench.name
-ic2:iridium_drill, ic2.iridium_drill.name
-ic2:mining_laser, ic2.mining_laser.name
-ic2:nano_saber, ic2.nano_saber.name
-ic2:obscurator, ic2.obscurator.name
-ic2:scanner, ic2.scanner.name
-ic2:wind_meter, ic2.wind_meter.name
-ic2:painter:0, Painter
-ic2:painter:0, Black Painter
-ic2:painter:0, Blue Painter
-ic2:painter:0, Brown Painter
-ic2:painter:0, Cyan Painter
-ic2:painter:0, Dark Grey Painter
-ic2:painter:0, Green Painter
-ic2:painter:0, Light Blue Painter
-ic2:painter:0, Light Grey Painter
-ic2:painter:0, Lime Painter
-ic2:painter:0, Magenta Painter
-ic2:painter:0, Orange Painter
-ic2:painter:0, Pink Painter
-ic2:painter:0, Purple Painter
-ic2:painter:0, Red Painter
-ic2:painter:0, White Painter
-ic2:painter:0, Yellow Painter
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:fluid_cell:0, Universal Fluid Cell
-ic2:cable:0, Copper Cable
-ic2:cable:0, Insulated Copper Cable
-ic2:cable:1, Glass Fibre Cable
-ic2:cable:2, Gold Cable
-ic2:cable:2, Insulated Gold Cable
-ic2:cable:2, 2x Ins. Gold Cable
-ic2:cable:3, HV Cable
-ic2:cable:3, Insulated HV Cable
-ic2:cable:3, 2x Ins. HV Cable
-ic2:cable:3, 3x Ins. HV Cable
-ic2:cable:4, Tin Cable
-ic2:cable:4, Insulated Tin Cable
-ic2:cable:5, EU-Detector Cable
-ic2:cable:6, EU-Splitter Cable
-ic2:upgrade:0, Overclocker Upgrade
-ic2:upgrade:1, Transformer Upgrade
-ic2:upgrade:2, Energy Storage Upgrade
-ic2:upgrade:3, Redstone Signal Inverter Upgrade
-ic2:upgrade:4, Ejector Upgrade
-ic2:upgrade:5, Advanced Ejector Upgrade
-ic2:upgrade:6, Pulling Upgrade
-ic2:upgrade:7, Advanced Pulling Upgrade
-ic2:upgrade:8, Fluid Ejector Upgrade
-ic2:upgrade:9, Fluid Pulling Upgrade
-ic2:upgrade:10, Remote Interface Upgrade
-ic2:filled_tin_can, ic2.filled_tin_can.name
-ic2:filled_fuel_can, ic2.filled_fuel_can.name
-ic2:iodine_tablet, ic2.iodine_tablet.name
-ic2:crystal_memory, ic2.crystal_memory.name
-ic2:rotor_wood, ic2.rotor_wood.name
-ic2:rotor_bronze, ic2.rotor_bronze.name
-ic2:rotor_iron, ic2.rotor_iron.name
-ic2:rotor_steel, ic2.rotor_steel.name
-ic2:rotor_carbon, ic2.rotor_carbon.name
-ic2:dynamite, ic2.dynamite.name
-ic2:dynamite_sticky, ic2.dynamite_sticky.name
-ic2:remote, ic2.remote.name
-ic2:pipe:0, Tiny Bronze Pipe
-ic2:pipe:0, Small Bronze Pipe
-ic2:pipe:0, Medium Bronze Pipe
-ic2:pipe:0, Large Bronze Pipe
-ic2:pipe:1, Tiny Steel Pipe
-ic2:pipe:1, Small Steel Pipe
-ic2:pipe:1, Medium Steel Pipe
-ic2:pipe:1, Large Steel Pipe
-ic2:cover:0, Pump Attachment (LV)
-ic2:cover:1, Pump Attachment (MV)
-ic2:coke, ic2.coke.name
 moreplanets:diona_cobblestone_slab, Diona Cobblestone Slab
 moreplanets:chalos_cobblestone_slab, Chalos Cobblestone Slab
 moreplanets:nibiru_cobblestone_slab, Nibiru Cobblestone Slab
@@ -3597,24 +2424,6 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Radiance
 hbm:fluid_tank_full:0, Universal Fluid Tank: Space Milk
 hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Radite
 hbm:fluid_tank_full:0, Universal Fluid Tank: Kree Blood
-hbm:fluid_tank_full:0, Universal Fluid Tank: UU-Matter
-hbm:fluid_tank_full:0, Universal Fluid Tank: Construction Foam
-hbm:fluid_tank_full:0, Universal Fluid Tank: IC2 Coolant
-hbm:fluid_tank_full:0, Universal Fluid Tank: Creosote
-hbm:fluid_tank_full:0, Universal Fluid Tank: IC2 Hot Coolant
-hbm:fluid_tank_full:0, Universal Fluid Tank: Pahoehoe Lava
-hbm:fluid_tank_full:0, Universal Fluid Tank: Biomass
-hbm:fluid_tank_full:0, Universal Fluid Tank: Biogas
-hbm:fluid_tank_full:0, Universal Fluid Tank: Distilled Water
-hbm:fluid_tank_full:0, Universal Fluid Tank: Superheated Steam
-hbm:fluid_tank_full:0, Universal Fluid Tank: Steam
-hbm:fluid_tank_full:0, Universal Fluid Tank: Hotspring Water
-hbm:fluid_tank_full:0, Universal Fluid Tank: Weed-Ex
-hbm:fluid_tank_full:0, Universal Fluid Tank: Air
-hbm:fluid_tank_full:0, Universal Fluid Tank: Hydrogen
-hbm:fluid_tank_full:0, Universal Fluid Tank: Oxygen
-hbm:fluid_tank_full:0, Universal Fluid Tank: Heavy Water
-hbm:fluid_tank_full:0, Universal Fluid Tank: Milk
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Ethane-Methane
 hbm:fluid_tank_full:0, Universal Fluid Tank: Helium-3
 hbm:fluid_tank_full:0, Universal Fluid Tank: Ethane
@@ -4177,6 +2986,7 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Hydrogen-Tritium Plasma
 hbm:fluid_tank_full:0, Universal Fluid Tank: Plutonium-Tritium Plasma
 hbm:fluid_tank_full:0, Universal Fluid Tank: Xenon-Mercury Plasma
 hbm:fluid_tank_full:0, Universal Fluid Tank: Balefire Plasma
+hbm:fluid_tank_full:0, Universal Fluid Tank: UU-Matter
 hbm:fluid_tank_full:0, Universal Fluid Tank: Pandemonium(III)tantalite Solution
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Nuclear Waste
 hbm:fluid_tank_full:0, Universal Fluid Tank: Gaseous Nuclear Waste
@@ -4240,6 +3050,9 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Emerald
 hbm:fluid_tank_full:0, Universal Fluid Tank: Blood
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Blue Slime
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Purple Slime
+hbm:fluid_tank_full:0, Universal Fluid Tank: Flux Goo
+hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Death
+hbm:fluid_tank_full:0, Universal Fluid Tank: Purifying Fluid
 hbm:fluid_barrel_full:0, Empty Fluid Barrel
 hbm:fluid_barrel_full:0, Fluid Barrel: Water
 hbm:fluid_barrel_full:0, Fluid Barrel: Lava
@@ -4300,24 +3113,6 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Radiance
 hbm:fluid_barrel_full:0, Fluid Barrel: Space Milk
 hbm:fluid_barrel_full:0, Fluid Barrel: Molten Radite
 hbm:fluid_barrel_full:0, Fluid Barrel: Kree Blood
-hbm:fluid_barrel_full:0, Fluid Barrel: UU-Matter
-hbm:fluid_barrel_full:0, Fluid Barrel: Construction Foam
-hbm:fluid_barrel_full:0, Fluid Barrel: IC2 Coolant
-hbm:fluid_barrel_full:0, Fluid Barrel: Creosote
-hbm:fluid_barrel_full:0, Fluid Barrel: IC2 Hot Coolant
-hbm:fluid_barrel_full:0, Fluid Barrel: Pahoehoe Lava
-hbm:fluid_barrel_full:0, Fluid Barrel: Biomass
-hbm:fluid_barrel_full:0, Fluid Barrel: Biogas
-hbm:fluid_barrel_full:0, Fluid Barrel: Distilled Water
-hbm:fluid_barrel_full:0, Fluid Barrel: Superheated Steam
-hbm:fluid_barrel_full:0, Fluid Barrel: Steam
-hbm:fluid_barrel_full:0, Fluid Barrel: Hotspring Water
-hbm:fluid_barrel_full:0, Fluid Barrel: Weed-Ex
-hbm:fluid_barrel_full:0, Fluid Barrel: Air
-hbm:fluid_barrel_full:0, Fluid Barrel: Hydrogen
-hbm:fluid_barrel_full:0, Fluid Barrel: Oxygen
-hbm:fluid_barrel_full:0, Fluid Barrel: Heavy Water
-hbm:fluid_barrel_full:0, Fluid Barrel: Milk
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Ethane-Methane
 hbm:fluid_barrel_full:0, Fluid Barrel: Helium-3
 hbm:fluid_barrel_full:0, Fluid Barrel: Ethane
@@ -4880,6 +3675,7 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Hydrogen-Tritium Plasma
 hbm:fluid_barrel_full:0, Fluid Barrel: Plutonium-Tritium Plasma
 hbm:fluid_barrel_full:0, Fluid Barrel: Xenon-Mercury Plasma
 hbm:fluid_barrel_full:0, Fluid Barrel: Balefire Plasma
+hbm:fluid_barrel_full:0, Fluid Barrel: UU-Matter
 hbm:fluid_barrel_full:0, Fluid Barrel: Pandemonium(III)tantalite Solution
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Nuclear Waste
 hbm:fluid_barrel_full:0, Fluid Barrel: Gaseous Nuclear Waste
@@ -4943,6 +3739,9 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Molten Emerald
 hbm:fluid_barrel_full:0, Fluid Barrel: Blood
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Blue Slime
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Purple Slime
+hbm:fluid_barrel_full:0, Fluid Barrel: Flux Goo
+hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Death
+hbm:fluid_barrel_full:0, Fluid Barrel: Purifying Fluid
 hbm:fluid_barrel_infinite, Infinite Fluid Barrel
 hbm:inf_water, Infinite Water Tank
 hbm:inf_water_mk2, Heavy Infinite Water Tank
@@ -5065,7 +3864,7 @@ hbm:dns_helmet, DNT Nano Suit Helmet
 hbm:dns_plate, DNT Nano Suit Chestplate
 hbm:dns_legs, DNT Nano Suit Leggings
 hbm:dns_boots, DNT Nano Suit Boots
-hbm:goggles, Protection Goggles
+hbm:goggles, Goggles of Revealing
 hbm:ashglasses, Ash Goggles
 hbm:mask_rag, Dry Mask
 hbm:mask_damp, Crude Protective Mask
@@ -7115,24 +5914,6 @@ hbm:fluid_icon:0, Radiance
 hbm:fluid_icon:0, Space Milk
 hbm:fluid_icon:0, Molten Radite
 hbm:fluid_icon:0, Kree Blood
-hbm:fluid_icon:0, UU-Matter
-hbm:fluid_icon:0, Construction Foam
-hbm:fluid_icon:0, IC2 Coolant
-hbm:fluid_icon:0, Creosote
-hbm:fluid_icon:0, IC2 Hot Coolant
-hbm:fluid_icon:0, Pahoehoe Lava
-hbm:fluid_icon:0, Biomass
-hbm:fluid_icon:0, Biogas
-hbm:fluid_icon:0, Distilled Water
-hbm:fluid_icon:0, Superheated Steam
-hbm:fluid_icon:0, Steam
-hbm:fluid_icon:0, Hotspring Water
-hbm:fluid_icon:0, Weed-Ex
-hbm:fluid_icon:0, Air
-hbm:fluid_icon:0, Hydrogen
-hbm:fluid_icon:0, Oxygen
-hbm:fluid_icon:0, Heavy Water
-hbm:fluid_icon:0, Milk
 hbm:fluid_icon:0, Liquid Ethane-Methane
 hbm:fluid_icon:0, Helium-3
 hbm:fluid_icon:0, Ethane
@@ -7695,6 +6476,7 @@ hbm:fluid_icon:0, Hydrogen-Tritium Plasma
 hbm:fluid_icon:0, Plutonium-Tritium Plasma
 hbm:fluid_icon:0, Xenon-Mercury Plasma
 hbm:fluid_icon:0, Balefire Plasma
+hbm:fluid_icon:0, UU-Matter
 hbm:fluid_icon:0, Pandemonium(III)tantalite Solution
 hbm:fluid_icon:0, Liquid Nuclear Waste
 hbm:fluid_icon:0, Gaseous Nuclear Waste
@@ -7758,6 +6540,9 @@ hbm:fluid_icon:0, Molten Emerald
 hbm:fluid_icon:0, Blood
 hbm:fluid_icon:0, Liquid Blue Slime
 hbm:fluid_icon:0, Liquid Purple Slime
+hbm:fluid_icon:0, Flux Goo
+hbm:fluid_icon:0, Liquid Death
+hbm:fluid_icon:0, Purifying Fluid
 hbm:gadget_explosive, First Generation Explosive Lens
 hbm:gadget_explosive8, Bundle of First Generation Implosion Propellant
 hbm:gadget_wireing, Wiring
@@ -9781,6 +8566,197 @@ silentgems:chaospylon:1, Burner Chaos Pylon
 silentgems:phantomlight, Phantom Light
 silentgems:supercharger, Supercharger
 silentgems:soul_urn, Soul Urn
+thaumcraft:ore_amber, Amber Bearing Stone
+thaumcraft:ore_cinnabar, Cinnabar Ore
+thaumcraft:ore_quartz, Quartz Ore
+thaumcraft:crystal_aer, Air Crystal
+thaumcraft:crystal_ignis, Fire Crystal
+thaumcraft:crystal_aqua, Water Crystal
+thaumcraft:crystal_terra, Earth Crystal
+thaumcraft:crystal_ordo, Order Crystal
+thaumcraft:crystal_perditio, Entropy Crystal
+thaumcraft:crystal_vitium, Flux Crystal
+thaumcraft:stone_arcane, Arcane Stone
+thaumcraft:stone_arcane_brick, Arcane Stone Brick
+thaumcraft:stone_ancient, Ancient Stone
+thaumcraft:stone_ancient_tile, Ancient Stone Tile
+thaumcraft:stone_ancient_rock, Ancient Rock
+thaumcraft:stone_ancient_glyphed, Glyphed Stone
+thaumcraft:stone_ancient_doorway, Ancient Barrier
+thaumcraft:stone_eldritch_tile, Eldritch Stone
+thaumcraft:stone_porous, Porous Stone
+thaumcraft:stairs_arcane, Arcane Stone Stairs
+thaumcraft:stairs_arcane_brick, Arcane Brick Stairs
+thaumcraft:stairs_ancient, Ancient Stone Stairs
+thaumcraft:slab_arcane_stone:0, Arcane Stone Slab
+thaumcraft:slab_arcane_brick:0, Arcane Brick Slab
+thaumcraft:slab_ancient:0, Ancient Stone Slab
+thaumcraft:slab_eldritch:0, Eldritch Stone Slab
+thaumcraft:sapling_greatwood, Greatwood Sapling
+thaumcraft:sapling_silverwood, Silverwood Sapling
+thaumcraft:log_greatwood, Greatwood Log
+thaumcraft:log_silverwood, Silverwood Log
+thaumcraft:leaves_greatwood, Greatwood Leaves
+thaumcraft:leaves_silverwood, Silverwood Leaves
+thaumcraft:shimmerleaf, Shimmerleaf
+thaumcraft:cinderpearl, Cinderpearl
+thaumcraft:vishroom, Vishroom
+thaumcraft:plank_greatwood, Greatwood Planks
+thaumcraft:plank_silverwood, Silverwood Planks
+thaumcraft:stairs_greatwood, Greatwood Stairs
+thaumcraft:stairs_silverwood, Silverwood Stairs
+thaumcraft:slab_greatwood:0, Greatwood Slab
+thaumcraft:slab_silverwood:0, Silverwood Slab
+thaumcraft:amber_block, Amber Block
+thaumcraft:amber_brick, Amber Bricks
+thaumcraft:flesh_block, Block of Flesh
+thaumcraft:loot_crate_common, Common Crate
+thaumcraft:loot_crate_uncommon, Uncommon Crate
+thaumcraft:loot_crate_rare, Rare Crate
+thaumcraft:loot_urn_common, Common Urn
+thaumcraft:loot_urn_uncommon, Uncommon Urn
+thaumcraft:loot_urn_rare, Rare Urn
+thaumcraft:taint_fibre, Fibrous Taint
+thaumcraft:taint_crust, Crusted Taint
+thaumcraft:taint_soil, Tainted Soil
+thaumcraft:taint_rock, Tainted Rock
+thaumcraft:taint_geyser, Taint Geyser
+thaumcraft:taint_feature, Swollen Taint
+thaumcraft:taint_log, Taintwood Log
+thaumcraft:grass_ambient, Ambient Grass Block
+thaumcraft:table_wood, Wood Table
+thaumcraft:table_stone, Stone Table
+thaumcraft:pedestal_arcane, Arcane Pedestal
+thaumcraft:pedestal_ancient, Ancient Pedestal
+thaumcraft:pedestal_eldritch, Eldritch Pedestal
+thaumcraft:metal_brass, Brass Block
+thaumcraft:metal_thaumium, Thaumium Block
+thaumcraft:metal_void, Void Metal Block
+thaumcraft:metal_alchemical, Alchemical Construct
+thaumcraft:metal_alchemical_advanced, Advanced Alchemical Construct
+thaumcraft:paving_stone_travel, Paving Stone of Travel
+thaumcraft:paving_stone_barrier, Barrier Stone
+thaumcraft:pillar_arcane, Infusion Pillar
+thaumcraft:pillar_ancient, Ancient Infusion Pillar
+thaumcraft:pillar_eldritch, Eldritch Infusion Pillar
+thaumcraft:matrix_speed, Infusion Speed Stone
+thaumcraft:matrix_cost, Infusion Cost Stone
+thaumcraft:candle_white, White Tallow Candle
+thaumcraft:candle_orange, Orange Tallow Candle
+thaumcraft:candle_magenta, Magenta Tallow Candle
+thaumcraft:candle_lightblue, Light Blue Tallow Candle
+thaumcraft:candle_yellow, Yellow Tallow Candle
+thaumcraft:candle_lime, Lime Tallow Candle
+thaumcraft:candle_pink, Pink Tallow Candle
+thaumcraft:candle_gray, Gray Tallow Candle
+thaumcraft:candle_silver, Light Gray Tallow Candle
+thaumcraft:candle_cyan, Cyan Tallow Candle
+thaumcraft:candle_purple, Purple Tallow Candle
+thaumcraft:candle_blue, Blue Tallow Candle
+thaumcraft:candle_brown, Brown Tallow Candle
+thaumcraft:candle_green, Green Tallow Candle
+thaumcraft:candle_red, Red Tallow Candle
+thaumcraft:candle_black, Black Tallow Candle
+thaumcraft:banner_white, White Banner
+thaumcraft:banner_orange, Orange Banner
+thaumcraft:banner_magenta, Magenta Banner
+thaumcraft:banner_lightblue, Light Blue Banner
+thaumcraft:banner_yellow, Yellow Banner
+thaumcraft:banner_lime, Lime Banner
+thaumcraft:banner_pink, Pink Banner
+thaumcraft:banner_gray, Gray Banner
+thaumcraft:banner_silver, Light Gray Banner
+thaumcraft:banner_cyan, Cyan Banner
+thaumcraft:banner_purple, Purple Banner
+thaumcraft:banner_blue, Blue Banner
+thaumcraft:banner_brown, Brown Banner
+thaumcraft:banner_green, Green Banner
+thaumcraft:banner_red, Red Banner
+thaumcraft:banner_black, Black Banner
+thaumcraft:banner_crimson_cult, Crimson Cult Banner
+thaumcraft:nitor_white, White Nitor
+thaumcraft:nitor_orange, Orange Nitor
+thaumcraft:nitor_magenta, Magenta Nitor
+thaumcraft:nitor_lightblue, Light Blue Nitor
+thaumcraft:nitor_yellow, Yellow Nitor
+thaumcraft:nitor_lime, Lime Nitor
+thaumcraft:nitor_pink, Pink Nitor
+thaumcraft:nitor_gray, Gray Nitor
+thaumcraft:nitor_silver, Light Gray Nitor
+thaumcraft:nitor_cyan, Cyan Nitor
+thaumcraft:nitor_purple, Purple Nitor
+thaumcraft:nitor_blue, Blue Nitor
+thaumcraft:nitor_brown, Brown Nitor
+thaumcraft:nitor_green, Green Nitor
+thaumcraft:nitor_red, Red Nitor
+thaumcraft:nitor_black, Black Nitor
+thaumcraft:vis_battery, Vis Battery
+thaumcraft:inlay, Redstone Inlay
+thaumcraft:arcane_workbench, Arcane Workbench
+thaumcraft:arcane_workbench_charger, Workbench Charger
+thaumcraft:dioptra, Thaumic Dioptra
+thaumcraft:research_table, Research Table
+thaumcraft:crucible, Crucible
+thaumcraft:arcane_ear, Arcane Ear
+thaumcraft:arcane_ear_toggle, Arcane Ear (Toggle)
+thaumcraft:lamp_arcane, Arcane Lamp
+thaumcraft:lamp_fertility, Lamp of Fertility
+thaumcraft:lamp_growth, Lamp of Growth  
+thaumcraft:levitator, Arcane Levitator
+thaumcraft:centrifuge, Essentia Centrifuge
+thaumcraft:bellows, Arcane Bellows
+thaumcraft:smelter_basic, Essentia Smeltery
+thaumcraft:smelter_thaumium, Thaumium Essentia Smeltery
+thaumcraft:smelter_void, Void Metal Essentia Smeltery
+thaumcraft:smelter_aux, Auxiliary Slurry Pump
+thaumcraft:smelter_vent, Auxiliary Venting Port
+thaumcraft:alembic, Arcane Alembic
+thaumcraft:recharge_pedestal, Recharge Pedestal
+thaumcraft:wand_workbench, Focal Manipulator
+thaumcraft:hungry_chest, Hungry Chest
+thaumcraft:tube, Essentia Tube
+thaumcraft:tube_valve, Essentia Valve
+thaumcraft:tube_restrict, Restricted Essentia Tube
+thaumcraft:tube_oneway, Directional Essentia Tube
+thaumcraft:tube_filter, Filtered Essentia Tube
+thaumcraft:tube_buffer, Essentia Buffer
+thaumcraft:jar_normal, Warded Jar
+thaumcraft:jar_void, Void Jar
+thaumcraft:jar_brain, Brain in a Jar
+thaumcraft:infusion_matrix, Runic Matrix
+thaumcraft:infernal_furnace, Infernal Furnace
+thaumcraft:everfull_urn, Everfull Urn
+thaumcraft:thaumatorium, Thaumatorium
+thaumcraft:thaumatorium_top, Thaumatorium
+thaumcraft:brain_box, Mnemonic Matrix
+thaumcraft:spa, Arcane Spa
+thaumcraft:golem_builder, Golem Press
+thaumcraft:mirror, Magic Mirror
+thaumcraft:mirror_essentia, Essentia Mirror
+thaumcraft:essentia_input, Filling Essentia Transfuser
+thaumcraft:essentia_output, Emptying Essentia Transfuser
+thaumcraft:redstone_relay, Redstone Relay
+thaumcraft:pattern_crafter, Arcane Pattern Crafter
+thaumcraft:potion_sprayer, Potion Sprayer
+thaumcraft:activator_rail, Arcane Activator Rail
+thaumcraft:stabilizer, Stabilizer
+thaumcraft:vis_generator, Vis Generator
+thaumcraft:condenser, Flux Condenser
+thaumcraft:condenser_lattice, Flux Condenser Lattice
+thaumcraft:condenser_lattice_dirty, Clogged Flux Condenser Lattice
+thaumcraft:void_siphon, Void Siphon
+thaumcraft:hole, Dimensional Tear
+thaumcraft:effect_shock, Static Field
+thaumcraft:effect_sap, Sapping Field
+thaumcraft:effect_glimmer, Glimmer
+thaumcraft:placeholder_brick, Infernal Furnace
+thaumcraft:placeholder_obsidian, Infernal Furnace
+thaumcraft:placeholder_bars, Golem Press
+thaumcraft:placeholder_anvil, Golem Press
+thaumcraft:placeholder_cauldron, Golem Press
+thaumcraft:placeholder_table, Golem Press
+thaumcraft:empty, Empty Space
+thaumcraft:barrier, Warding Aura
 forge:bucketfilled, %s Bucket
 ambience:soundnizer, Soundnizer
 ambience:horn, Horn of the Gods
@@ -10127,6 +9103,11 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:facade:0, Cable Facade - Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Double Compressed Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Neutronium Block
+appliedenergistics2:facade:0, Cable Facade - Infinity Block
+appliedenergistics2:facade:0, Cable Facade - Crystal Matrix
 appliedenergistics2:facade:0, Cable Facade - Zolstone
 appliedenergistics2:facade:0, Cable Facade - Zolrock Cobblestone
 appliedenergistics2:facade:0, Cable Facade - Zolrock
@@ -10627,47 +9608,6 @@ appliedenergistics2:facade:0, Cable Facade - Maveth Electrum Ore
 appliedenergistics2:facade:0, Cable Facade - Maveth Amaranth Ore
 appliedenergistics2:facade:0, Cable Facade - Maveth Zollernium Ore
 appliedenergistics2:facade:0, Cable Facade - Maveth Vibranium Ore
-appliedenergistics2:facade:0, Cable Facade - Basalt
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Lead Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore
-appliedenergistics2:facade:0, Cable Facade - Bronze Block
-appliedenergistics2:facade:0, Cable Facade - Copper Block
-appliedenergistics2:facade:0, Cable Facade - Lead Block
-appliedenergistics2:facade:0, Cable Facade - Steel Block
-appliedenergistics2:facade:0, Cable Facade - Tin Block
-appliedenergistics2:facade:0, Cable Facade - Uranium Block
-appliedenergistics2:facade:0, Cable Facade - Reinforced Stone
-appliedenergistics2:facade:0, Cable Facade - Basic Machine Casing
-appliedenergistics2:facade:0, Cable Facade - Advanced Machine Casing
-appliedenergistics2:facade:0, Cable Facade - Reactor Pressure Vessel
-appliedenergistics2:facade:0, Cable Facade - Silver Block
-appliedenergistics2:facade:0, Cable Facade - Rubber Tree Leaves
-appliedenergistics2:facade:0, Cable Facade - Rubber Wood
-appliedenergistics2:facade:0, Cable Facade - Scaffold
-appliedenergistics2:facade:0, Cable Facade - Reinforced Scaffold
-appliedenergistics2:facade:0, Cable Facade - Iron Scaffold
-appliedenergistics2:facade:0, Cable Facade - Reinforced Iron Scaffold
-appliedenergistics2:facade:0, Cable Facade - Construction Foam
-appliedenergistics2:facade:0, Cable Facade - Reinforced Construction Foam
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Black)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Blue)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Brown)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Cyan)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Gray)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Green)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Light Blue)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Light Gray)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Lime)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Magenta)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Orange)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Pink)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Purple)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Red)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (White)
-appliedenergistics2:facade:0, Cable Facade - Construction Foam Wall (Yellow)
-appliedenergistics2:facade:0, Cable Facade - Refractory Bricks
 appliedenergistics2:facade:0, Cable Facade - Alien Ship Booster
 appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
 appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
@@ -11475,25 +10415,6 @@ appliedenergistics2:facade:0, Cable Facade - Triton Small Geyser
 appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
 appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
 appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
-appliedenergistics2:facade:0, Cable Facade - Surface
-appliedenergistics2:facade:0, Cable Facade - Subsurface
-appliedenergistics2:facade:0, Cable Facade - Stone
-appliedenergistics2:facade:0, Cable Facade - Ice Surface
-appliedenergistics2:facade:0, Cable Facade - Ash Rock
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Rocky Surface
-appliedenergistics2:facade:0, Cable Facade - Mushroom Skin
-appliedenergistics2:facade:0, Cable Facade - Mushroom Geyser
-appliedenergistics2:facade:0, Cable Facade - Mud
-appliedenergistics2:facade:0, Cable Facade - Burnt Wood
-appliedenergistics2:facade:0, Cable Facade - Frozen Wood
-appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
-appliedenergistics2:facade:0, Cable Facade - Grass
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass_1.name
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
@@ -11521,6 +10442,25 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Surface
+appliedenergistics2:facade:0, Cable Facade - Subsurface
+appliedenergistics2:facade:0, Cable Facade - Stone
+appliedenergistics2:facade:0, Cable Facade - Ice Surface
+appliedenergistics2:facade:0, Cable Facade - Ash Rock
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Rocky Surface
+appliedenergistics2:facade:0, Cable Facade - Mushroom Skin
+appliedenergistics2:facade:0, Cable Facade - Mushroom Geyser
+appliedenergistics2:facade:0, Cable Facade - Mud
+appliedenergistics2:facade:0, Cable Facade - Burnt Wood
+appliedenergistics2:facade:0, Cable Facade - Frozen Wood
+appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
+appliedenergistics2:facade:0, Cable Facade - Grass
 appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -13120,6 +12060,11 @@ appliedenergistics2:facade:0, Cable Facade - LuV Machine Casing
 appliedenergistics2:facade:0, Cable Facade - ZPM Machine Casing
 appliedenergistics2:facade:0, Cable Facade - UV Machine Casing
 appliedenergistics2:facade:0, Cable Facade - UHV Machine Casing
+appliedenergistics2:facade:0, Cable Facade - UEV Machine Casing
+appliedenergistics2:facade:0, Cable Facade - UIV Machine Casing
+appliedenergistics2:facade:0, Cable Facade - UXV Machine Casing
+appliedenergistics2:facade:0, Cable Facade - OpV Machine Casing
+appliedenergistics2:facade:0, Cable Facade - MAX Machine Casing
 appliedenergistics2:facade:0, Cable Facade - Bronze Hull
 appliedenergistics2:facade:0, Cable Facade - Bricked Bronze Hull
 appliedenergistics2:facade:0, Cable Facade - Steel Hull
@@ -14164,6 +13109,42 @@ appliedenergistics2:facade:0, Cable Facade - Birch Trim
 appliedenergistics2:facade:0, Cable Facade - Jungle Trim
 appliedenergistics2:facade:0, Cable Facade - Acacia Trim
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Trim
+appliedenergistics2:facade:0, Cable Facade - Amber Bearing Stone
+appliedenergistics2:facade:0, Cable Facade - Cinnabar Ore
+appliedenergistics2:facade:0, Cable Facade - Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone
+appliedenergistics2:facade:0, Cable Facade - Arcane Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Ancient Stone
+appliedenergistics2:facade:0, Cable Facade - Ancient Stone Tile
+appliedenergistics2:facade:0, Cable Facade - Ancient Rock
+appliedenergistics2:facade:0, Cable Facade - Glyphed Stone
+appliedenergistics2:facade:0, Cable Facade - Ancient Barrier
+appliedenergistics2:facade:0, Cable Facade - Eldritch Stone
+appliedenergistics2:facade:0, Cable Facade - Porous Stone
+appliedenergistics2:facade:0, Cable Facade - Greatwood Log
+appliedenergistics2:facade:0, Cable Facade - Silverwood Log
+appliedenergistics2:facade:0, Cable Facade - Greatwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Silverwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Greatwood Planks
+appliedenergistics2:facade:0, Cable Facade - Silverwood Planks
+appliedenergistics2:facade:0, Cable Facade - Amber Block
+appliedenergistics2:facade:0, Cable Facade - Amber Bricks
+appliedenergistics2:facade:0, Cable Facade - Block of Flesh
+appliedenergistics2:facade:0, Cable Facade - Crusted Taint
+appliedenergistics2:facade:0, Cable Facade - Tainted Soil
+appliedenergistics2:facade:0, Cable Facade - Tainted Rock
+appliedenergistics2:facade:0, Cable Facade - Taint Geyser
+appliedenergistics2:facade:0, Cable Facade - Taintwood Log
+appliedenergistics2:facade:0, Cable Facade - Ambient Grass Block
+appliedenergistics2:facade:0, Cable Facade - Brass Block
+appliedenergistics2:facade:0, Cable Facade - Thaumium Block
+appliedenergistics2:facade:0, Cable Facade - Void Metal Block
+appliedenergistics2:facade:0, Cable Facade - Alchemical Construct
+appliedenergistics2:facade:0, Cable Facade - Advanced Alchemical Construct
+appliedenergistics2:facade:0, Cable Facade - Infusion Speed Stone
+appliedenergistics2:facade:0, Cable Facade - Infusion Cost Stone
+appliedenergistics2:facade:0, Cable Facade - Vis Battery
+appliedenergistics2:facade:0, Cable Facade - Empty Space
 appliedenergistics2:facade:0, Cable Facade - Machine Casing
 appliedenergistics2:facade:0, Cable Facade - Block of Quartz Enriched Iron
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
@@ -14383,7 +13364,6 @@ appliedenergistics2:part:222, ME OreDict Storage Bus
 appliedenergistics2:part:469, P2P Tunnel - FE
 appliedenergistics2:part:463, P2P Tunnel - Fluid
 appliedenergistics2:part:470, P2P Tunnel - GTEU
-appliedenergistics2:part:465, P2P Tunnel - EU
 appliedenergistics2:part:462, P2P Tunnel - Item
 appliedenergistics2:part:467, P2P Tunnel - Light
 appliedenergistics2:part:460, P2P Tunnel - ME
@@ -14446,11 +13426,6 @@ galacticraftcore:magnetic_table, Magnetic Crafting Table
 galacticraftcore:enclosed:14, Sealable Aluminum Wire
 galacticraftcore:enclosed:15, Sealable Heavy Aluminum Wire
 galacticraftcore:enclosed:1, Sealable Fluid Pipe
-galacticraftcore:enclosed:2, Sealable Copper Cable
-galacticraftcore:enclosed:3, Sealable Gold Cable
-galacticraftcore:enclosed:0, Sealable HV Cable
-galacticraftcore:enclosed:5, Sealable Glass Fiber Cable
-galacticraftcore:enclosed:6, Sealable Tin Cable
 galacticraftcore:space_station_base, Space Station Arrival Block
 galacticraftcore:parachest, Parachest
 galacticraftcore:solar:0, Basic Solar Panel
@@ -14624,10 +13599,6 @@ galacticraftcore:parachute:15, Yellow Parachute
 galacticraftcore:prelaunch_checklist, Pre-Launch Checklist
 galacticraftcore:dungeonfinder, Dungeon Locator
 galacticraftcore:emergency_kit, Space Emergency Kit
-galacticraftcore:ic2compat:0, Aluminum Dust
-galacticraftcore:ic2compat:1, Purified Crushed Aluminum Ore
-galacticraftcore:ic2compat:2, Crushed Aluminum Ore
-galacticraftcore:ic2compat:7, Tiny Pile of Titanium Dust
 galacticraftplanets:sludge, Bacterial Sludge
 galacticraftplanets:bucket_sludge, Bacterial Sludge Bucket
 galacticraftplanets:treasure_t2, Tier 2 Treasure Chest
@@ -15122,27 +14093,6 @@ galaxyspace:tauceti_f_corals:7, Horn Coral Fan
 galaxyspace:tauceti_f_corals:8, Tube Coral
 galaxyspace:tauceti_f_corals:9, Tube Coral Fan
 galaxyspace:tauceti_f_corals:10, Sponge Coral
-galaxyspace:proxima_b_blocks:0, Surface
-galaxyspace:proxima_b_blocks:1, Subsurface
-galaxyspace:proxima_b_blocks:2, Stone
-galaxyspace:proxima_b_blocks:3, Ice Surface
-galaxyspace:proxima_b_blocks:4, Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_blocks:11, Rocky Surface
-galaxyspace:proxima_b_blocks:12, Mushroom Skin
-galaxyspace:proxima_b_blocks:13, Mushroom Geyser
-galaxyspace:proxima_b_blocks:14, Mud
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
-galaxyspace:proxima_b_mushroom_log, Mushroom Stem
-galaxyspace:proxima_b_grasses, Grass
-galaxyspace:proxima_b_dandelions:0, Red Tallgrass
-galaxyspace:proxima_b_dandelions:1, Red Tallgrass
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
@@ -15185,9 +14135,29 @@ galaxyspace:br_basic:0, Violet Reeds
 galaxyspace:br_basic:1, Lichen
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
+galaxyspace:proxima_b_blocks:0, Surface
+galaxyspace:proxima_b_blocks:1, Subsurface
+galaxyspace:proxima_b_blocks:2, Stone
+galaxyspace:proxima_b_blocks:3, Ice Surface
+galaxyspace:proxima_b_blocks:4, Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_blocks:11, Rocky Surface
+galaxyspace:proxima_b_blocks:12, Mushroom Skin
+galaxyspace:proxima_b_blocks:13, Mushroom Geyser
+galaxyspace:proxima_b_blocks:14, Mud
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
+galaxyspace:proxima_b_mushroom_log, Mushroom Stem
+galaxyspace:proxima_b_grasses, Grass
+galaxyspace:proxima_b_dandelions:0, Red Tallgrass
+galaxyspace:proxima_b_dandelions:1, Red Tallgrass
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
-quark:witch_hat, item.witch_hat.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -15312,6 +14282,23 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -15344,40 +14331,6 @@ quark:parrot_egg:2, Green Parrot Egg
 quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -15698,6 +14651,24 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -15773,7 +14744,7 @@ quark:candle:12, Brown Candle
 quark:candle:13, Green Candle
 quark:candle:14, Red Candle
 quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
+quark:tallow, Magic Tallow
 quark:rope, tile.rope.name
 quark:blaze_lantern, tile.blaze_lantern.name
 quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
@@ -15869,8 +14840,8 @@ tfc:wooden_bucket:0, Black Dye§r Bucket§r
 tfc:metal/bucket/blue_steel:0, Blue Steel Bucket
 tfc:metal/bucket/blue_steel:0, Lava§r Bucket§r
 tfc:metal/bucket/red_steel:0, Red Steel Bucket
-tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Fresh Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Water§r Bucket§r
 tfc:rock/granite, Granite Rock
@@ -18796,19 +17767,6 @@ dynamictreestfc:branch/white_cedar, White Cedar Branch
 dynamictreestfc:seed/white_cedar, White Cedar Seed
 dynamictreestfc:branch/willow, Willow Branch
 dynamictreestfc:seed/willow, Willow Seed
-energyconverters:energy_bridge, Energy Bridge
-energyconverters:energy_producer_fe, FE Energy Producer
-energyconverters:energy_consumer_fe, FE Energy Consumer
-energyconverters:energy_producer_eu:0, LV Energy Producer (IC2)
-energyconverters:energy_producer_eu:1, MV Energy Producer (IC2)
-energyconverters:energy_producer_eu:2, HV Energy Producer (IC2)
-energyconverters:energy_producer_eu:3, EV Energy Producer (IC2)
-energyconverters:energy_producer_eu:4, IV Energy Producer (IC2)
-energyconverters:energy_consumer_eu:0, LV Energy Consumer (IC2)
-energyconverters:energy_consumer_eu:1, MV Energy Consumer (IC2)
-energyconverters:energy_consumer_eu:2, HV Energy Consumer (IC2)
-energyconverters:energy_consumer_eu:3, EV Energy Consumer (IC2)
-energyconverters:energy_consumer_eu:4, IV Energy Consumer (IC2)
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -18943,34 +17901,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -22377,7 +21335,11 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -22529,62 +21491,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -22662,7 +21624,6 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
-exnihilocreatio:item_seed_rubber, Rubber Tree Seed
 exnihilocreatio:hammer_wood, Wooden Hammer
 exnihilocreatio:hammer_stone, Stone Hammer
 exnihilocreatio:hammer_iron, Iron Hammer
@@ -23677,6 +22638,11 @@ gregtech:machine:54, Elite Electric Furnace
 gregtech:machine:55, Elite Electric Furnace II
 gregtech:machine:56, Elite Electric Furnace III
 gregtech:machine:57, Ultimate Electric Furnace
+gregtech:machine:58, Epic Electric Furnace
+gregtech:machine:59, Epic Electric Furnace II
+gregtech:machine:60, Epic Electric Furnace III
+gregtech:machine:61, Epic Electric Furnace IV
+gregtech:machine:62, Legendary Electric Furnace
 gregtech:machine:65, Basic Macerator
 gregtech:machine:66, Advanced Macerator
 gregtech:machine:67, Advanced Macerator II
@@ -23685,6 +22651,11 @@ gregtech:machine:69, Elite Macerator
 gregtech:machine:70, Elite Macerator II
 gregtech:machine:71, Elite Macerator III
 gregtech:machine:72, Ultimate Macerator
+gregtech:machine:73, Epic Macerator
+gregtech:machine:74, Epic Macerator II
+gregtech:machine:75, Epic Macerator III
+gregtech:machine:76, Epic Macerator IV
+gregtech:machine:77, Legendary Macerator
 gregtech:machine:80, Basic Alloy Smelter
 gregtech:machine:81, Advanced Alloy Smelter
 gregtech:machine:82, Advanced Alloy Smelter II
@@ -23693,6 +22664,11 @@ gregtech:machine:84, Elite Alloy Smelter
 gregtech:machine:85, Elite Alloy Smelter II
 gregtech:machine:86, Elite Alloy Smelter III
 gregtech:machine:87, Ultimate Alloy Smelter
+gregtech:machine:88, Epic Alloy Smelter
+gregtech:machine:89, Epic Alloy Smelter II
+gregtech:machine:90, Epic Alloy Smelter III
+gregtech:machine:91, Epic Alloy Smelter IV
+gregtech:machine:92, Legendary Alloy Smelter
 gregtech:machine:95, Basic Arc Furnace
 gregtech:machine:96, Advanced Arc Furnace
 gregtech:machine:97, Advanced Arc Furnace II
@@ -23701,6 +22677,11 @@ gregtech:machine:99, Elite Arc Furnace
 gregtech:machine:100, Elite Arc Furnace II
 gregtech:machine:101, Elite Arc Furnace III
 gregtech:machine:102, Ultimate Arc Furnace
+gregtech:machine:103, Epic Arc Furnace
+gregtech:machine:104, Epic Arc Furnace II
+gregtech:machine:105, Epic Arc Furnace III
+gregtech:machine:106, Epic Arc Furnace IV
+gregtech:machine:107, Legendary Arc Furnace
 gregtech:machine:110, Basic Assembling Machine
 gregtech:machine:111, Advanced Assembling Machine
 gregtech:machine:112, Advanced Assembling Machine II
@@ -23709,6 +22690,11 @@ gregtech:machine:114, Elite Assembling Machine
 gregtech:machine:115, Elite Assembling Machine II
 gregtech:machine:116, Elite Assembling Machine III
 gregtech:machine:117, Ultimate Assembling Machine
+gregtech:machine:118, Epic Assembling Machine
+gregtech:machine:119, Epic Assembling Machine II
+gregtech:machine:120, Epic Assembling Machine III
+gregtech:machine:121, Epic Assembling Machine IV
+gregtech:machine:122, Legendary Assembling Machine
 gregtech:machine:125, Basic Autoclave
 gregtech:machine:126, Advanced Autoclave
 gregtech:machine:127, Advanced Autoclave II
@@ -23717,6 +22703,11 @@ gregtech:machine:129, Elite Autoclave
 gregtech:machine:130, Elite Autoclave II
 gregtech:machine:131, Elite Autoclave III
 gregtech:machine:132, Ultimate Autoclave
+gregtech:machine:133, Epic Autoclave
+gregtech:machine:134, Epic Autoclave II
+gregtech:machine:135, Epic Autoclave III
+gregtech:machine:136, Epic Autoclave IV
+gregtech:machine:137, Legendary Autoclave
 gregtech:machine:140, Basic Bending Machine
 gregtech:machine:141, Advanced Bending Machine
 gregtech:machine:142, Advanced Bending Machine II
@@ -23725,6 +22716,11 @@ gregtech:machine:144, Elite Bending Machine
 gregtech:machine:145, Elite Bending Machine II
 gregtech:machine:146, Elite Bending Machine III
 gregtech:machine:147, Ultimate Bending Machine
+gregtech:machine:148, Epic Bending Machine
+gregtech:machine:149, Epic Bending Machine II
+gregtech:machine:150, Epic Bending Machine III
+gregtech:machine:151, Epic Bending Machine IV
+gregtech:machine:152, Legendary Bending Machine
 gregtech:machine:155, Basic Brewery
 gregtech:machine:156, Advanced Brewery
 gregtech:machine:157, Advanced Brewery II
@@ -23733,6 +22729,11 @@ gregtech:machine:159, Elite Brewery
 gregtech:machine:160, Elite Brewery II
 gregtech:machine:161, Elite Brewery III
 gregtech:machine:162, Ultimate Brewery
+gregtech:machine:163, Epic Brewery
+gregtech:machine:164, Epic Brewery II
+gregtech:machine:165, Epic Brewery III
+gregtech:machine:166, Epic Brewery IV
+gregtech:machine:167, Legendary Brewery
 gregtech:machine:170, Basic Canning Machine
 gregtech:machine:171, Advanced Canning Machine
 gregtech:machine:172, Advanced Canning Machine II
@@ -23741,6 +22742,11 @@ gregtech:machine:174, Elite Canning Machine
 gregtech:machine:175, Elite Canning Machine II
 gregtech:machine:176, Elite Canning Machine III
 gregtech:machine:177, Ultimate Canning Machine
+gregtech:machine:178, Epic Canning Machine
+gregtech:machine:179, Epic Canning Machine II
+gregtech:machine:180, Epic Canning Machine III
+gregtech:machine:181, Epic Canning Machine IV
+gregtech:machine:182, Legendary Canning Machine
 gregtech:machine:185, Basic Centrifuge
 gregtech:machine:186, Advanced Centrifuge
 gregtech:machine:187, Advanced Centrifuge II
@@ -23749,6 +22755,11 @@ gregtech:machine:189, Elite Centrifuge
 gregtech:machine:190, Elite Centrifuge II
 gregtech:machine:191, Elite Centrifuge III
 gregtech:machine:192, Ultimate Centrifuge
+gregtech:machine:193, Epic Centrifuge
+gregtech:machine:194, Epic Centrifuge II
+gregtech:machine:195, Epic Centrifuge III
+gregtech:machine:196, Epic Centrifuge IV
+gregtech:machine:197, Legendary Centrifuge
 gregtech:machine:200, Basic Chemical Bath
 gregtech:machine:201, Advanced Chemical Bath
 gregtech:machine:202, Advanced Chemical Bath II
@@ -23757,6 +22768,11 @@ gregtech:machine:204, Elite Chemical Bath
 gregtech:machine:205, Elite Chemical Bath II
 gregtech:machine:206, Elite Chemical Bath III
 gregtech:machine:207, Ultimate Chemical Bath
+gregtech:machine:208, Epic Chemical Bath
+gregtech:machine:209, Epic Chemical Bath II
+gregtech:machine:210, Epic Chemical Bath III
+gregtech:machine:211, Epic Chemical Bath IV
+gregtech:machine:212, Legendary Chemical Bath
 gregtech:machine:215, Basic Chemical Reactor
 gregtech:machine:216, Advanced Chemical Reactor
 gregtech:machine:217, Advanced Chemical Reactor II
@@ -23765,6 +22781,11 @@ gregtech:machine:219, Elite Chemical Reactor
 gregtech:machine:220, Elite Chemical Reactor II
 gregtech:machine:221, Elite Chemical Reactor III
 gregtech:machine:222, Ultimate Chemical Reactor
+gregtech:machine:223, Epic Chemical Reactor
+gregtech:machine:224, Epic Chemical Reactor II
+gregtech:machine:225, Epic Chemical Reactor III
+gregtech:machine:226, Epic Chemical Reactor IV
+gregtech:machine:227, Legendary Chemical Reactor
 gregtech:machine:230, Basic Compressor
 gregtech:machine:231, Advanced Compressor
 gregtech:machine:232, Advanced Compressor II
@@ -23773,6 +22794,11 @@ gregtech:machine:234, Elite Compressor
 gregtech:machine:235, Elite Compressor II
 gregtech:machine:236, Elite Compressor III
 gregtech:machine:237, Ultimate Compressor
+gregtech:machine:238, Epic Compressor
+gregtech:machine:239, Epic Compressor II
+gregtech:machine:240, Epic Compressor III
+gregtech:machine:241, Epic Compressor IV
+gregtech:machine:242, Legendary Compressor
 gregtech:machine:245, Basic Cutting Machine
 gregtech:machine:246, Advanced Cutting Machine
 gregtech:machine:247, Advanced Cutting Machine II
@@ -23781,6 +22807,11 @@ gregtech:machine:249, Elite Cutting Machine
 gregtech:machine:250, Elite Cutting Machine II
 gregtech:machine:251, Elite Cutting Machine III
 gregtech:machine:252, Ultimate Cutting Machine
+gregtech:machine:253, Epic Cutting Machine
+gregtech:machine:254, Epic Cutting Machine II
+gregtech:machine:255, Epic Cutting Machine III
+gregtech:machine:256, Epic Cutting Machine IV
+gregtech:machine:257, Legendary Cutting Machine
 gregtech:machine:260, Basic Distillery
 gregtech:machine:261, Advanced Distillery
 gregtech:machine:262, Advanced Distillery II
@@ -23789,6 +22820,11 @@ gregtech:machine:264, Elite Distillery
 gregtech:machine:265, Elite Distillery II
 gregtech:machine:266, Elite Distillery III
 gregtech:machine:267, Ultimate Distillery
+gregtech:machine:268, Epic Distillery
+gregtech:machine:269, Epic Distillery II
+gregtech:machine:270, Epic Distillery III
+gregtech:machine:271, Epic Distillery IV
+gregtech:machine:272, Legendary Distillery
 gregtech:machine:275, Basic Electrolyzer
 gregtech:machine:276, Advanced Electrolyzer
 gregtech:machine:277, Advanced Electrolyzer II
@@ -23797,6 +22833,11 @@ gregtech:machine:279, Elite Electrolyzer
 gregtech:machine:280, Elite Electrolyzer II
 gregtech:machine:281, Elite Electrolyzer III
 gregtech:machine:282, Ultimate Electrolyzer
+gregtech:machine:283, Epic Electrolyzer
+gregtech:machine:284, Epic Electrolyzer II
+gregtech:machine:285, Epic Electrolyzer III
+gregtech:machine:286, Epic Electrolyzer IV
+gregtech:machine:287, Legendary Electrolyzer
 gregtech:machine:290, Basic Electromagnetic Separator
 gregtech:machine:291, Advanced Electromagnetic Separator
 gregtech:machine:292, Advanced Electromagnetic Separator II
@@ -23805,6 +22846,11 @@ gregtech:machine:294, Elite Electromagnetic Separator
 gregtech:machine:295, Elite Electromagnetic Separator II
 gregtech:machine:296, Elite Electromagnetic Separator III
 gregtech:machine:297, Ultimate Electromagnetic Separator
+gregtech:machine:298, Epic Electromagnetic Separator
+gregtech:machine:299, Epic Electromagnetic Separator II
+gregtech:machine:300, Epic Electromagnetic Separator III
+gregtech:machine:301, Epic Electromagnetic Separator IV
+gregtech:machine:302, Legendary Electromagnetic Separator
 gregtech:machine:305, Basic Extractor
 gregtech:machine:306, Advanced Extractor
 gregtech:machine:307, Advanced Extractor II
@@ -23813,6 +22859,11 @@ gregtech:machine:309, Elite Extractor
 gregtech:machine:310, Elite Extractor II
 gregtech:machine:311, Elite Extractor III
 gregtech:machine:312, Ultimate Extractor
+gregtech:machine:313, Epic Extractor
+gregtech:machine:314, Epic Extractor II
+gregtech:machine:315, Epic Extractor III
+gregtech:machine:316, Epic Extractor IV
+gregtech:machine:317, Legendary Extractor
 gregtech:machine:320, Basic Extruder
 gregtech:machine:321, Advanced Extruder
 gregtech:machine:322, Advanced Extruder II
@@ -23821,6 +22872,11 @@ gregtech:machine:324, Elite Extruder
 gregtech:machine:325, Elite Extruder II
 gregtech:machine:326, Elite Extruder III
 gregtech:machine:327, Ultimate Extruder
+gregtech:machine:328, Epic Extruder
+gregtech:machine:329, Epic Extruder II
+gregtech:machine:330, Epic Extruder III
+gregtech:machine:331, Epic Extruder IV
+gregtech:machine:332, Legendary Extruder
 gregtech:machine:335, Basic Fermenter
 gregtech:machine:336, Advanced Fermenter
 gregtech:machine:337, Advanced Fermenter II
@@ -23829,6 +22885,11 @@ gregtech:machine:339, Elite Fermenter
 gregtech:machine:340, Elite Fermenter II
 gregtech:machine:341, Elite Fermenter III
 gregtech:machine:342, Ultimate Fermenter
+gregtech:machine:343, Epic Fermenter
+gregtech:machine:344, Epic Fermenter II
+gregtech:machine:345, Epic Fermenter III
+gregtech:machine:346, Epic Fermenter IV
+gregtech:machine:347, Legendary Fermenter
 gregtech:machine:380, Basic Fluid Heater
 gregtech:machine:381, Advanced Fluid Heater
 gregtech:machine:382, Advanced Fluid Heater II
@@ -23837,6 +22898,11 @@ gregtech:machine:384, Elite Fluid Heater
 gregtech:machine:385, Elite Fluid Heater II
 gregtech:machine:386, Elite Fluid Heater III
 gregtech:machine:387, Ultimate Fluid Heater
+gregtech:machine:388, Epic Fluid Heater
+gregtech:machine:389, Epic Fluid Heater II
+gregtech:machine:390, Epic Fluid Heater III
+gregtech:machine:391, Epic Fluid Heater IV
+gregtech:machine:392, Legendary Fluid Heater
 gregtech:machine:395, Basic Fluid Solidifier
 gregtech:machine:396, Advanced Fluid Solidifier
 gregtech:machine:397, Advanced Fluid Solidifier II
@@ -23845,6 +22911,11 @@ gregtech:machine:399, Elite Fluid Solidifier
 gregtech:machine:400, Elite Fluid Solidifier II
 gregtech:machine:401, Elite Fluid Solidifier III
 gregtech:machine:402, Ultimate Fluid Solidifier
+gregtech:machine:403, Epic Fluid Solidifier
+gregtech:machine:404, Epic Fluid Solidifier II
+gregtech:machine:405, Epic Fluid Solidifier III
+gregtech:machine:406, Epic Fluid Solidifier IV
+gregtech:machine:407, Legendary Fluid Solidifier
 gregtech:machine:410, Basic Forge Hammer
 gregtech:machine:411, Advanced Forge Hammer
 gregtech:machine:412, Advanced Forge Hammer II
@@ -23853,6 +22924,11 @@ gregtech:machine:414, Elite Forge Hammer
 gregtech:machine:415, Elite Forge Hammer II
 gregtech:machine:416, Elite Forge Hammer III
 gregtech:machine:417, Ultimate Forge Hammer
+gregtech:machine:418, Epic Forge Hammer
+gregtech:machine:419, Epic Forge Hammer II
+gregtech:machine:420, Epic Forge Hammer III
+gregtech:machine:421, Epic Forge Hammer IV
+gregtech:machine:422, Legendary Forge Hammer
 gregtech:machine:425, Basic Forming Press
 gregtech:machine:426, Advanced Forming Press
 gregtech:machine:427, Advanced Forming Press II
@@ -23861,6 +22937,11 @@ gregtech:machine:429, Elite Forming Press
 gregtech:machine:430, Elite Forming Press II
 gregtech:machine:431, Elite Forming Press III
 gregtech:machine:432, Ultimate Forming Press
+gregtech:machine:433, Epic Forming Press
+gregtech:machine:434, Epic Forming Press II
+gregtech:machine:435, Epic Forming Press III
+gregtech:machine:436, Epic Forming Press IV
+gregtech:machine:437, Legendary Forming Press
 gregtech:machine:440, Basic Lathe
 gregtech:machine:441, Advanced Lathe
 gregtech:machine:442, Advanced Lathe II
@@ -23869,6 +22950,11 @@ gregtech:machine:444, Elite Lathe
 gregtech:machine:445, Elite Lathe II
 gregtech:machine:446, Elite Lathe III
 gregtech:machine:447, Ultimate Lathe
+gregtech:machine:448, Epic Lathe
+gregtech:machine:449, Epic Lathe II
+gregtech:machine:450, Epic Lathe III
+gregtech:machine:451, Epic Lathe IV
+gregtech:machine:452, Legendary Lathe
 gregtech:machine:455, Basic Scanner
 gregtech:machine:456, Advanced Scanner
 gregtech:machine:457, Advanced Scanner II
@@ -23877,6 +22963,11 @@ gregtech:machine:459, Elite Scanner
 gregtech:machine:460, Elite Scanner II
 gregtech:machine:461, Elite Scanner III
 gregtech:machine:462, Ultimate Scanner
+gregtech:machine:463, Epic Scanner
+gregtech:machine:464, Epic Scanner II
+gregtech:machine:465, Epic Scanner III
+gregtech:machine:466, Epic Scanner IV
+gregtech:machine:467, Legendary Scanner
 gregtech:machine:470, Basic Mixer
 gregtech:machine:471, Advanced Mixer
 gregtech:machine:472, Advanced Mixer II
@@ -23885,6 +22976,11 @@ gregtech:machine:474, Elite Mixer
 gregtech:machine:475, Elite Mixer II
 gregtech:machine:476, Elite Mixer III
 gregtech:machine:477, Ultimate Mixer
+gregtech:machine:478, Epic Mixer
+gregtech:machine:479, Epic Mixer II
+gregtech:machine:480, Epic Mixer III
+gregtech:machine:481, Epic Mixer IV
+gregtech:machine:482, Legendary Mixer
 gregtech:machine:485, Basic Ore Washing Plant
 gregtech:machine:486, Advanced Ore Washing Plant
 gregtech:machine:487, Advanced Ore Washing Plant II
@@ -23893,6 +22989,11 @@ gregtech:machine:489, Elite Ore Washing Plant
 gregtech:machine:490, Elite Ore Washing Plant II
 gregtech:machine:491, Elite Ore Washing Plant III
 gregtech:machine:492, Ultimate Ore Washing Plant
+gregtech:machine:493, Epic Ore Washing Plant
+gregtech:machine:494, Epic Ore Washing Plant II
+gregtech:machine:495, Epic Ore Washing Plant III
+gregtech:machine:496, Epic Ore Washing Plant IV
+gregtech:machine:497, Legendary Ore Washing Plant
 gregtech:machine:500, Basic Packager
 gregtech:machine:501, Advanced Packager
 gregtech:machine:502, Advanced Packager II
@@ -23901,6 +23002,11 @@ gregtech:machine:504, Elite Packager
 gregtech:machine:505, Elite Packager II
 gregtech:machine:506, Elite Packager III
 gregtech:machine:507, Ultimate Packager
+gregtech:machine:508, Epic Packager
+gregtech:machine:509, Epic Packager II
+gregtech:machine:510, Epic Packager III
+gregtech:machine:511, Epic Packager IV
+gregtech:machine:512, Legendary Packager
 gregtech:machine:530, Basic Gas Collector
 gregtech:machine:531, Advanced Gas Collector
 gregtech:machine:532, Advanced Gas Collector II
@@ -23909,6 +23015,11 @@ gregtech:machine:534, Elite Gas Collector
 gregtech:machine:535, Elite Gas Collector II
 gregtech:machine:536, Elite Gas Collector III
 gregtech:machine:537, Ultimate Gas Collector
+gregtech:machine:538, Epic Gas Collector
+gregtech:machine:539, Epic Gas Collector II
+gregtech:machine:540, Epic Gas Collector III
+gregtech:machine:541, Epic Gas Collector IV
+gregtech:machine:542, Legendary Gas Collector
 gregtech:machine:545, Basic Polarizer
 gregtech:machine:546, Advanced Polarizer
 gregtech:machine:547, Advanced Polarizer II
@@ -23917,6 +23028,11 @@ gregtech:machine:549, Elite Polarizer
 gregtech:machine:550, Elite Polarizer II
 gregtech:machine:551, Elite Polarizer III
 gregtech:machine:552, Ultimate Polarizer
+gregtech:machine:553, Epic Polarizer
+gregtech:machine:554, Epic Polarizer II
+gregtech:machine:555, Epic Polarizer III
+gregtech:machine:556, Epic Polarizer IV
+gregtech:machine:557, Legendary Polarizer
 gregtech:machine:560, Basic Precision Laser Engraver
 gregtech:machine:561, Advanced Precision Laser Engraver
 gregtech:machine:562, Advanced Precision Laser Engraver II
@@ -23925,6 +23041,11 @@ gregtech:machine:564, Elite Precision Laser Engraver
 gregtech:machine:565, Elite Precision Laser Engraver II
 gregtech:machine:566, Elite Precision Laser Engraver III
 gregtech:machine:567, Ultimate Precision Laser Engraver
+gregtech:machine:568, Epic Precision Laser Engraver
+gregtech:machine:569, Epic Precision Laser Engraver II
+gregtech:machine:570, Epic Precision Laser Engraver III
+gregtech:machine:571, Epic Precision Laser Engraver IV
+gregtech:machine:572, Legendary Precision Laser Engraver
 gregtech:machine:575, Basic Sifting Machine
 gregtech:machine:576, Advanced Sifting Machine
 gregtech:machine:577, Advanced Sifting Machine II
@@ -23933,6 +23054,11 @@ gregtech:machine:579, Elite Sifting Machine
 gregtech:machine:580, Elite Sifting Machine II
 gregtech:machine:581, Elite Sifting Machine III
 gregtech:machine:582, Ultimate Sifting Machine
+gregtech:machine:583, Epic Sifting Machine
+gregtech:machine:584, Epic Sifting Machine II
+gregtech:machine:585, Epic Sifting Machine III
+gregtech:machine:586, Epic Sifting Machine IV
+gregtech:machine:587, Legendary Sifting Machine
 gregtech:machine:605, Basic Thermal Centrifuge
 gregtech:machine:606, Advanced Thermal Centrifuge
 gregtech:machine:607, Advanced Thermal Centrifuge II
@@ -23941,6 +23067,11 @@ gregtech:machine:609, Elite Thermal Centrifuge
 gregtech:machine:610, Elite Thermal Centrifuge II
 gregtech:machine:611, Elite Thermal Centrifuge III
 gregtech:machine:612, Ultimate Thermal Centrifuge
+gregtech:machine:613, Epic Thermal Centrifuge
+gregtech:machine:614, Epic Thermal Centrifuge II
+gregtech:machine:615, Epic Thermal Centrifuge III
+gregtech:machine:616, Epic Thermal Centrifuge IV
+gregtech:machine:617, Legendary Thermal Centrifuge
 gregtech:machine:620, Basic Wiremill
 gregtech:machine:621, Advanced Wiremill
 gregtech:machine:622, Advanced Wiremill II
@@ -23949,6 +23080,11 @@ gregtech:machine:624, Elite Wiremill
 gregtech:machine:625, Elite Wiremill II
 gregtech:machine:626, Elite Wiremill III
 gregtech:machine:627, Ultimate Wiremill
+gregtech:machine:628, Epic Wiremill
+gregtech:machine:629, Epic Wiremill II
+gregtech:machine:630, Epic Wiremill III
+gregtech:machine:631, Epic Wiremill IV
+gregtech:machine:632, Legendary Wiremill
 gregtech:machine:635, Basic Circuit Assembler
 gregtech:machine:636, Advanced Circuit Assembler
 gregtech:machine:637, Advanced Circuit Assembler II
@@ -23957,6 +23093,11 @@ gregtech:machine:639, Elite Circuit Assembler
 gregtech:machine:640, Elite Circuit Assembler II
 gregtech:machine:641, Elite Circuit Assembler III
 gregtech:machine:642, Ultimate Circuit Assembler
+gregtech:machine:643, Epic Circuit Assembler
+gregtech:machine:644, Epic Circuit Assembler II
+gregtech:machine:645, Epic Circuit Assembler III
+gregtech:machine:646, Epic Circuit Assembler IV
+gregtech:machine:647, Legendary Circuit Assembler
 gregtech:machine:665, Basic Rock Breaker
 gregtech:machine:666, Advanced Rock Breaker
 gregtech:machine:667, Advanced Rock Breaker II
@@ -23965,6 +23106,11 @@ gregtech:machine:669, Elite Rock Breaker
 gregtech:machine:670, Elite Rock Breaker II
 gregtech:machine:671, Elite Rock Breaker III
 gregtech:machine:672, Ultimate Rock Breaker
+gregtech:machine:673, Epic Rock Breaker
+gregtech:machine:674, Epic Rock Breaker II
+gregtech:machine:675, Epic Rock Breaker III
+gregtech:machine:676, Epic Rock Breaker IV
+gregtech:machine:677, Legendary Rock Breaker
 gregtech:machine:920, Basic Miner
 gregtech:machine:921, Advanced Miner
 gregtech:machine:922, Advanced Miner II
@@ -23992,6 +23138,11 @@ gregtech:machine:991, LuV Machine Hull
 gregtech:machine:992, ZPM Machine Hull
 gregtech:machine:993, UV Machine Hull
 gregtech:machine:994, UHV Machine Hull
+gregtech:machine:995, UEV Machine Hull
+gregtech:machine:996, UIV Machine Hull
+gregtech:machine:997, UXV Machine Hull
+gregtech:machine:998, OpV Machine Hull
+gregtech:machine:999, MAX Machine Hull
 gregtech:machine:1000, Primitive Blast Furnace
 gregtech:machine:1001, Electric Blast Furnace
 gregtech:machine:1002, Vacuum Freezer
@@ -24089,6 +23240,10 @@ gregtech:machine:1216, LuV Energy Hatch
 gregtech:machine:1217, ZPM Energy Hatch
 gregtech:machine:1218, UV Energy Hatch
 gregtech:machine:1219, UHV Energy Hatch
+gregtech:machine:1220, UEV Energy Hatch
+gregtech:machine:1221, UIV Energy Hatch
+gregtech:machine:1222, UXV Energy Hatch
+gregtech:machine:1223, OpV Energy Hatch
 gregtech:machine:1225, ULV Dynamo Hatch
 gregtech:machine:1226, LV Dynamo Hatch
 gregtech:machine:1227, MV Dynamo Hatch
@@ -24099,6 +23254,10 @@ gregtech:machine:1231, LuV Dynamo Hatch
 gregtech:machine:1232, ZPM Dynamo Hatch
 gregtech:machine:1233, UV Dynamo Hatch
 gregtech:machine:1234, UHV Dynamo Hatch
+gregtech:machine:1235, UEV Dynamo Hatch
+gregtech:machine:1236, UIV Dynamo Hatch
+gregtech:machine:1237, UXV Dynamo Hatch
+gregtech:machine:1238, OpV Dynamo Hatch
 gregtech:machine:1399, EV 4A Energy Hatch
 gregtech:machine:1240, IV 4A Energy Hatch
 gregtech:machine:1241, LuV 4A Energy Hatch
@@ -24140,6 +23299,11 @@ gregtech:machine:1275, Insane Voltage Transformer
 gregtech:machine:1276, Ludicrous Voltage Transformer
 gregtech:machine:1277, ZPM Voltage Transformer
 gregtech:machine:1278, Ultimate Voltage Transformer
+gregtech:machine:1279, Ultra High Voltage Transformer
+gregtech:machine:1280, Ultra Excessive Voltage Transformer
+gregtech:machine:1281, Ultra Immense Voltage Transformer
+gregtech:machine:1282, Ultra Extreme Voltage Transformer
+gregtech:machine:1283, Overpowered Voltage Transformer
 gregtech:machine:1730, Ultra Low Voltage Hi-Amp Transformer
 gregtech:machine:1731, Low Voltage Hi-Amp Transformer
 gregtech:machine:1732, Medium Voltage Hi-Amp Transformer
@@ -24149,6 +23313,11 @@ gregtech:machine:1735, Insane Voltage Hi-Amp Transformer
 gregtech:machine:1736, Ludicrous Voltage Hi-Amp Transformer
 gregtech:machine:1737, ZPM Voltage Hi-Amp Transformer
 gregtech:machine:1738, Ultimate Voltage Hi-Amp Transformer
+gregtech:machine:1739, Ultra High Voltage Hi-Amp Transformer
+gregtech:machine:1740, Ultra Excessive Voltage Hi-Amp Transformer
+gregtech:machine:1741, Ultra Immense Voltage Hi-Amp Transformer
+gregtech:machine:1742, Ultra Extreme Voltage Hi-Amp Transformer
+gregtech:machine:1743, Overpowered Voltage Hi-Amp Transformer
 gregtech:machine:1285, Ultra Low Voltage Power Transformer
 gregtech:machine:1286, Low Voltage Power Transformer
 gregtech:machine:1287, Medium Voltage Power Transformer
@@ -24158,6 +23327,11 @@ gregtech:machine:1290, Insane Voltage Power Transformer
 gregtech:machine:1291, Ludicrous Voltage Power Transformer
 gregtech:machine:1292, ZPM Voltage Power Transformer
 gregtech:machine:1293, Ultimate Voltage Power Transformer
+gregtech:machine:1294, Ultra High Voltage Power Transformer
+gregtech:machine:1295, Ultra Excessive Voltage Power Transformer
+gregtech:machine:1296, Ultra Immense Voltage Power Transformer
+gregtech:machine:1297, Ultra Extreme Voltage Power Transformer
+gregtech:machine:1298, Overpowered Voltage Power Transformer
 gregtech:machine:1300, Ultra Low Voltage Diode
 gregtech:machine:1301, Low Voltage Diode
 gregtech:machine:1302, Medium Voltage Diode
@@ -24168,6 +23342,10 @@ gregtech:machine:1306, Ludicrous Voltage Diode
 gregtech:machine:1307, Zero Point Module Diode
 gregtech:machine:1308, Ultimate Voltage Diode
 gregtech:machine:1309, Ultra High Voltage Diode
+gregtech:machine:1310, Ultra Excessive Voltage Diode
+gregtech:machine:1311, Ultra Immense Voltage Diode
+gregtech:machine:1312, Ultra Extreme Voltage Diode
+gregtech:machine:1313, Overpowered Voltage Diode
 gregtech:machine:1315, Ultra Low Voltage 4x Battery Buffer
 gregtech:machine:1316, Low Voltage 4x Battery Buffer
 gregtech:machine:1317, Medium Voltage 4x Battery Buffer
@@ -24178,26 +23356,38 @@ gregtech:machine:1321, Ludicrous Voltage 4x Battery Buffer
 gregtech:machine:1322, Zero Point Module 4x Battery Buffer
 gregtech:machine:1323, Ultimate Voltage 4x Battery Buffer
 gregtech:machine:1324, Ultra High Voltage 4x Battery Buffer
-gregtech:machine:1325, Ultra Low Voltage 8x Battery Buffer
-gregtech:machine:1326, Low Voltage 8x Battery Buffer
-gregtech:machine:1327, Medium Voltage 8x Battery Buffer
-gregtech:machine:1328, High Voltage 8x Battery Buffer
-gregtech:machine:1329, Extreme Voltage 8x Battery Buffer
-gregtech:machine:1330, Insane Voltage 8x Battery Buffer
-gregtech:machine:1331, Ludicrous Voltage 8x Battery Buffer
-gregtech:machine:1332, Zero Point Module 8x Battery Buffer
-gregtech:machine:1333, Ultimate Voltage 8x Battery Buffer
-gregtech:machine:1334, Ultra High Voltage 8x Battery Buffer
-gregtech:machine:1335, Ultra Low Voltage 16x Battery Buffer
-gregtech:machine:1336, Low Voltage 16x Battery Buffer
-gregtech:machine:1337, Medium Voltage 16x Battery Buffer
-gregtech:machine:1338, High Voltage 16x Battery Buffer
-gregtech:machine:1339, Extreme Voltage 16x Battery Buffer
-gregtech:machine:1340, Insane Voltage 16x Battery Buffer
-gregtech:machine:1341, Ludicrous Voltage 16x Battery Buffer
-gregtech:machine:1342, Zero Point Module 16x Battery Buffer
-gregtech:machine:1343, Ultimate Voltage 16x Battery Buffer
-gregtech:machine:1344, Ultra High Voltage 16x Battery Buffer
+gregtech:machine:1325, Ultra Excessive Voltage 4x Battery Buffer
+gregtech:machine:1326, Ultra Immense Voltage 4x Battery Buffer
+gregtech:machine:1327, Ultra Extreme Voltage 4x Battery Buffer
+gregtech:machine:1328, Overpowered Voltage 4x Battery Buffer
+gregtech:machine:1329, Ultra Low Voltage 8x Battery Buffer
+gregtech:machine:1330, Low Voltage 8x Battery Buffer
+gregtech:machine:1331, Medium Voltage 8x Battery Buffer
+gregtech:machine:1332, High Voltage 8x Battery Buffer
+gregtech:machine:1333, Extreme Voltage 8x Battery Buffer
+gregtech:machine:1334, Insane Voltage 8x Battery Buffer
+gregtech:machine:1335, Ludicrous Voltage 8x Battery Buffer
+gregtech:machine:1336, Zero Point Module 8x Battery Buffer
+gregtech:machine:1337, Ultimate Voltage 8x Battery Buffer
+gregtech:machine:1338, Ultra High Voltage 8x Battery Buffer
+gregtech:machine:1339, Ultra Excessive Voltage 8x Battery Buffer
+gregtech:machine:1340, Ultra Immense Voltage 8x Battery Buffer
+gregtech:machine:1341, Ultra Extreme Voltage 8x Battery Buffer
+gregtech:machine:1342, Overpowered Voltage 8x Battery Buffer
+gregtech:machine:1343, Ultra Low Voltage 16x Battery Buffer
+gregtech:machine:1344, Low Voltage 16x Battery Buffer
+gregtech:machine:1345, Medium Voltage 16x Battery Buffer
+gregtech:machine:1346, High Voltage 16x Battery Buffer
+gregtech:machine:1347, Extreme Voltage 16x Battery Buffer
+gregtech:machine:1348, Insane Voltage 16x Battery Buffer
+gregtech:machine:1349, Ludicrous Voltage 16x Battery Buffer
+gregtech:machine:1350, Zero Point Module 16x Battery Buffer
+gregtech:machine:1351, Ultimate Voltage 16x Battery Buffer
+gregtech:machine:1352, Ultra High Voltage 16x Battery Buffer
+gregtech:machine:1353, Ultra Excessive Voltage 16x Battery Buffer
+gregtech:machine:1354, Ultra Immense Voltage 16x Battery Buffer
+gregtech:machine:1355, Ultra Extreme Voltage 16x Battery Buffer
+gregtech:machine:1356, Overpowered Voltage 16x Battery Buffer
 gregtech:machine:1375, Ultra Low Voltage Turbo Charger
 gregtech:machine:1376, Low Voltage Turbo Charger
 gregtech:machine:1377, Medium Voltage Turbo Charger
@@ -24208,6 +23398,10 @@ gregtech:machine:1381, Ludicrous Voltage Turbo Charger
 gregtech:machine:1382, Zero Point Module Turbo Charger
 gregtech:machine:1383, Ultimate Voltage Turbo Charger
 gregtech:machine:1384, Ultra High Voltage Turbo Charger
+gregtech:machine:1385, Ultra Excessive Voltage Turbo Charger
+gregtech:machine:1386, Ultra Immense Voltage Turbo Charger
+gregtech:machine:1387, Ultra Extreme Voltage Turbo Charger
+gregtech:machine:1388, Overpowered Voltage Turbo Charger
 gregtech:machine:1390, Basic World Accelerator
 gregtech:machine:1391, Advanced World Accelerator
 gregtech:machine:1392, Advanced World Accelerator II
@@ -24318,6 +23512,62 @@ gregtech:machine:1664, UV Muffler Hatch
 gregtech:machine:1667, Monitor Screen
 gregtech:machine:1668, Creative Quantum Chest
 gregtech:machine:1669, Creative Quantum Tank
+gregtech:machine:1670, ULV Energy Converter (1A)
+gregtech:machine:1671, ULV Energy Converter (4A)
+gregtech:machine:1672, ULV Energy Converter (8A)
+gregtech:machine:1673, ULV Energy Converter (16A)
+gregtech:machine:1674, LV Energy Converter (1A)
+gregtech:machine:1675, LV Energy Converter (4A)
+gregtech:machine:1676, LV Energy Converter (8A)
+gregtech:machine:1677, LV Energy Converter (16A)
+gregtech:machine:1678, MV Energy Converter (1A)
+gregtech:machine:1679, MV Energy Converter (4A)
+gregtech:machine:1680, MV Energy Converter (8A)
+gregtech:machine:1681, MV Energy Converter (16A)
+gregtech:machine:1682, HV Energy Converter (1A)
+gregtech:machine:1683, HV Energy Converter (4A)
+gregtech:machine:1684, HV Energy Converter (8A)
+gregtech:machine:1685, HV Energy Converter (16A)
+gregtech:machine:1686, EV Energy Converter (1A)
+gregtech:machine:1687, EV Energy Converter (4A)
+gregtech:machine:1688, EV Energy Converter (8A)
+gregtech:machine:1689, EV Energy Converter (16A)
+gregtech:machine:1690, IV Energy Converter (1A)
+gregtech:machine:1691, IV Energy Converter (4A)
+gregtech:machine:1692, IV Energy Converter (8A)
+gregtech:machine:1693, IV Energy Converter (16A)
+gregtech:machine:1694, LuV Energy Converter (1A)
+gregtech:machine:1695, LuV Energy Converter (4A)
+gregtech:machine:1696, LuV Energy Converter (8A)
+gregtech:machine:1697, LuV Energy Converter (16A)
+gregtech:machine:1698, ZPM Energy Converter (1A)
+gregtech:machine:1699, ZPM Energy Converter (4A)
+gregtech:machine:1700, ZPM Energy Converter (8A)
+gregtech:machine:1701, ZPM Energy Converter (16A)
+gregtech:machine:1702, UV Energy Converter (1A)
+gregtech:machine:1703, UV Energy Converter (4A)
+gregtech:machine:1704, UV Energy Converter (8A)
+gregtech:machine:1705, UV Energy Converter (16A)
+gregtech:machine:1706, UHV Energy Converter (1A)
+gregtech:machine:1707, UHV Energy Converter (4A)
+gregtech:machine:1708, UHV Energy Converter (8A)
+gregtech:machine:1709, UHV Energy Converter (16A)
+gregtech:machine:1710, UEV Energy Converter (1A)
+gregtech:machine:1711, UEV Energy Converter (4A)
+gregtech:machine:1712, UEV Energy Converter (8A)
+gregtech:machine:1713, UEV Energy Converter (16A)
+gregtech:machine:1714, UIV Energy Converter (1A)
+gregtech:machine:1715, UIV Energy Converter (4A)
+gregtech:machine:1716, UIV Energy Converter (8A)
+gregtech:machine:1717, UIV Energy Converter (16A)
+gregtech:machine:1718, UXV Energy Converter (1A)
+gregtech:machine:1719, UXV Energy Converter (4A)
+gregtech:machine:1720, UXV Energy Converter (8A)
+gregtech:machine:1721, UXV Energy Converter (16A)
+gregtech:machine:1722, OpV Energy Converter (1A)
+gregtech:machine:1723, OpV Energy Converter (4A)
+gregtech:machine:1724, OpV Energy Converter (8A)
+gregtech:machine:1725, OpV Energy Converter (16A)
 gregtech:machine:1745, ME Output Hatch
 gregtech:machine:1746, ME Output Bus
 gregtech:machine:1747, ME Stocking Input Hatch
@@ -24364,6 +23614,11 @@ gregtech:machine:2060, Master Voltage Control Unit
 gregtech:machine:2061, Ultimate Voltage Control Unit
 gregtech:machine:2062, Super Voltage Control Unit
 gregtech:machine:2063, Infinite Voltage Control Unit
+gregtech:machine:2064, Ultra Voltage Control Unit
+gregtech:machine:2065, Insane Voltage Control Unit
+gregtech:machine:2066, Legendary Voltage Control Unit
+gregtech:machine:2067, gcym.machine.tiered_hatch.opv.name
+gregtech:machine:2068, Maximum Voltage Control Unit
 gregtech:machine:8503, Basic Slicing Machine
 gregtech:machine:8504, Advanced Slicing Machine
 gregtech:machine:8505, Advanced Slicing Machine II
@@ -24372,6 +23627,11 @@ gregtech:machine:8507, Elite Slicing Machine
 gregtech:machine:8508, Elite Slicing Machine II
 gregtech:machine:8509, Elite Slicing Machine III
 gregtech:machine:8510, Ultimate Slicing Machine
+gregtech:machine:8511, High-Tech Slicing Machine
+gregtech:machine:8512, High-Tech Slicing Machine II
+gregtech:machine:8513, High-Tech Slicing Machine III
+gregtech:machine:8514, High-Tech Slicing Machine IV
+gregtech:machine:8515, Legendary Slicing Machine
 gregtech:machine:8516, Primitive Baking Oven
 gregtech:machine:8517, Electric Baking Oven
 gregtech:machine:8518, Basic Cuisine Assembler
@@ -24382,6 +23642,11 @@ gregtech:machine:8522, Elite Cuisine Assembler
 gregtech:machine:8523, Elite Cuisine Assembler II
 gregtech:machine:8524, Elite Cuisine Assembler III
 gregtech:machine:8525, Ultimate Cuisine Assembler
+gregtech:machine:8526, High-Tech Cuisine Assembler
+gregtech:machine:8527, High-Tech Cuisine Assembler II
+gregtech:machine:8528, High-Tech Cuisine Assembler III
+gregtech:machine:8529, High-Tech Cuisine Assembler IV
+gregtech:machine:8530, Legendary Cuisine Assembler
 gregtech:machine:8531, Basic Microwave
 gregtech:machine:8532, Advanced Microwave
 gregtech:machine:8533, Advanced Microwave II
@@ -24390,6 +23655,11 @@ gregtech:machine:8535, Elite Microwave
 gregtech:machine:8536, Elite Microwave II
 gregtech:machine:8537, Elite Microwave III
 gregtech:machine:8538, Ultimate Microwave
+gregtech:machine:8539, High-Tech Microwave
+gregtech:machine:8540, High-Tech Microwave II
+gregtech:machine:8541, High-Tech Microwave III
+gregtech:machine:8542, High-Tech Microwave IV
+gregtech:machine:8543, Legendary Microwave
 gregtech:machine:8544, Steam Baking Oven
 gregtech:machine:8545, Basic Mob Age Sorter
 gregtech:machine:8546, Advanced Mob Age Sorter
@@ -24420,6 +23690,11 @@ gregtech:machine:8570, Elite Multicooker
 gregtech:machine:8571, Elite Multicooker II
 gregtech:machine:8572, Elite Multicooker III
 gregtech:machine:8573, Ultimate Multicooker
+gregtech:machine:8574, High-Tech Multicooker
+gregtech:machine:8575, High-Tech Multicooker II
+gregtech:machine:8576, High-Tech Multicooker III
+gregtech:machine:8577, High-Tech Multicooker IV
+gregtech:machine:8578, Legendary Multicooker
 gregtech:wire_single:2, 1x Aluminium Wire
 gregtech:wire_single:252, 1x Annealed Copper Wire
 gregtech:wire_single:2011, 1x Black Steel Wire
@@ -24969,142 +24244,142 @@ gregtech:fluid_pipe_nonuple:115, Nonuple Tungsten Fluid Pipe
 gregtech:fluid_pipe_nonuple:396, Nonuple Tungstencarbide Fluid Pipe
 gregtech:fluid_pipe_nonuple:2013, Nonuple Tungstensteel Fluid Pipe
 gregtech:fluid_pipe_nonuple:2036, Nonuple Vanadiumsteel Fluid Pipe
+gregtech:item_pipe_small:277, Small Electrum Item Pipe
 gregtech:item_pipe_small:23, Small Cobalt Item Pipe
-gregtech:item_pipe_small:80, Small Platinum Item Pipe
-gregtech:item_pipe_small:290, Small Magnalium Item Pipe
-gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
-gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_small:75, Small Osmium Item Pipe
-gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
+gregtech:item_pipe_small:69, Small Nickel Item Pipe
 gregtech:item_pipe_small:3, Small Americium Item Pipe
-gregtech:item_pipe_small:344, Small Osmiridium Item Pipe
+gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
+gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
+gregtech:item_pipe_small:331, Small Ultimet Item Pipe
+gregtech:item_pipe_small:80, Small Platinum Item Pipe
+gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
 gregtech:item_pipe_small:112, Small Tin Item Pipe
 gregtech:item_pipe_small:259, Small Brass Item Pipe
-gregtech:item_pipe_small:69, Small Nickel Item Pipe
-gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
-gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
-gregtech:item_pipe_small:331, Small Ultimet Item Pipe
+gregtech:item_pipe_small:290, Small Magnalium Item Pipe
+gregtech:item_pipe_small:75, Small Osmium Item Pipe
+gregtech:item_pipe_small:344, Small Osmiridium Item Pipe
 gregtech:item_pipe_small:302, Small Black Bronze Item Pipe
-gregtech:item_pipe_small:277, Small Electrum Item Pipe
+gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
+gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_normal:277, Electrum Item Pipe
 gregtech:item_pipe_normal:23, Cobalt Item Pipe
-gregtech:item_pipe_normal:80, Platinum Item Pipe
-gregtech:item_pipe_normal:290, Magnalium Item Pipe
-gregtech:item_pipe_normal:301, Rose Gold Item Pipe
-gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal:75, Osmium Item Pipe
-gregtech:item_pipe_normal:274, Cupronickel Item Pipe
+gregtech:item_pipe_normal:69, Nickel Item Pipe
 gregtech:item_pipe_normal:3, Americium Item Pipe
-gregtech:item_pipe_normal:344, Osmiridium Item Pipe
+gregtech:item_pipe_normal:301, Rose Gold Item Pipe
+gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
+gregtech:item_pipe_normal:331, Ultimet Item Pipe
+gregtech:item_pipe_normal:80, Platinum Item Pipe
+gregtech:item_pipe_normal:274, Cupronickel Item Pipe
 gregtech:item_pipe_normal:112, Tin Item Pipe
 gregtech:item_pipe_normal:259, Brass Item Pipe
-gregtech:item_pipe_normal:69, Nickel Item Pipe
-gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
-gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
-gregtech:item_pipe_normal:331, Ultimet Item Pipe
+gregtech:item_pipe_normal:290, Magnalium Item Pipe
+gregtech:item_pipe_normal:75, Osmium Item Pipe
+gregtech:item_pipe_normal:344, Osmiridium Item Pipe
 gregtech:item_pipe_normal:302, Black Bronze Item Pipe
-gregtech:item_pipe_normal:277, Electrum Item Pipe
+gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
+gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_large:277, Large Electrum Item Pipe
 gregtech:item_pipe_large:23, Large Cobalt Item Pipe
-gregtech:item_pipe_large:80, Large Platinum Item Pipe
-gregtech:item_pipe_large:290, Large Magnalium Item Pipe
-gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
-gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large:75, Large Osmium Item Pipe
-gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
+gregtech:item_pipe_large:69, Large Nickel Item Pipe
 gregtech:item_pipe_large:3, Large Americium Item Pipe
-gregtech:item_pipe_large:344, Large Osmiridium Item Pipe
+gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
+gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
+gregtech:item_pipe_large:331, Large Ultimet Item Pipe
+gregtech:item_pipe_large:80, Large Platinum Item Pipe
+gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
 gregtech:item_pipe_large:112, Large Tin Item Pipe
 gregtech:item_pipe_large:259, Large Brass Item Pipe
-gregtech:item_pipe_large:69, Large Nickel Item Pipe
-gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
-gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
-gregtech:item_pipe_large:331, Large Ultimet Item Pipe
+gregtech:item_pipe_large:290, Large Magnalium Item Pipe
+gregtech:item_pipe_large:75, Large Osmium Item Pipe
+gregtech:item_pipe_large:344, Large Osmiridium Item Pipe
 gregtech:item_pipe_large:302, Large Black Bronze Item Pipe
-gregtech:item_pipe_large:277, Large Electrum Item Pipe
+gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
+gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
 gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
-gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
-gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
-gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
-gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge:75, Huge Osmium Item Pipe
-gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
+gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
 gregtech:item_pipe_huge:3, Huge Americium Item Pipe
-gregtech:item_pipe_huge:344, Huge Osmiridium Item Pipe
+gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
+gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
+gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
+gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
+gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
 gregtech:item_pipe_huge:112, Huge Tin Item Pipe
 gregtech:item_pipe_huge:259, Huge Brass Item Pipe
-gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
-gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
-gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
-gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
+gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
+gregtech:item_pipe_huge:75, Huge Osmium Item Pipe
+gregtech:item_pipe_huge:344, Huge Osmiridium Item Pipe
 gregtech:item_pipe_huge:302, Huge Black Bronze Item Pipe
-gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
+gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
+gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
 gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
-gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
-gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
-gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_small_restrictive:75, Small Restrictive Osmium Item Pipe
-gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
 gregtech:item_pipe_small_restrictive:3, Small Restrictive Americium Item Pipe
-gregtech:item_pipe_small_restrictive:344, Small Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
+gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
+gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
 gregtech:item_pipe_small_restrictive:259, Small Restrictive Brass Item Pipe
-gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
-gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
+gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
+gregtech:item_pipe_small_restrictive:75, Small Restrictive Osmium Item Pipe
+gregtech:item_pipe_small_restrictive:344, Small Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_small_restrictive:302, Small Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
+gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
 gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
-gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
-gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
-gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal_restrictive:75, Restrictive Osmium Item Pipe
-gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
 gregtech:item_pipe_normal_restrictive:3, Restrictive Americium Item Pipe
-gregtech:item_pipe_normal_restrictive:344, Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
+gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
+gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
 gregtech:item_pipe_normal_restrictive:259, Restrictive Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
-gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
+gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
+gregtech:item_pipe_normal_restrictive:75, Restrictive Osmium Item Pipe
+gregtech:item_pipe_normal_restrictive:344, Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_normal_restrictive:302, Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
+gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
 gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
-gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
-gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
-gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large_restrictive:75, Large Restrictive Osmium Item Pipe
-gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
 gregtech:item_pipe_large_restrictive:3, Large Restrictive Americium Item Pipe
-gregtech:item_pipe_large_restrictive:344, Large Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
+gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
+gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
 gregtech:item_pipe_large_restrictive:259, Large Restrictive Brass Item Pipe
-gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
-gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
+gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
+gregtech:item_pipe_large_restrictive:75, Large Restrictive Osmium Item Pipe
+gregtech:item_pipe_large_restrictive:344, Large Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_large_restrictive:302, Large Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
+gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
 gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
-gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
-gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
-gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge_restrictive:75, Huge Restrictive Osmium Item Pipe
-gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
 gregtech:item_pipe_huge_restrictive:3, Huge Restrictive Americium Item Pipe
-gregtech:item_pipe_huge_restrictive:344, Huge Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
+gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
+gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
 gregtech:item_pipe_huge_restrictive:259, Huge Restrictive Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
-gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
+gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
+gregtech:item_pipe_huge_restrictive:75, Huge Restrictive Osmium Item Pipe
+gregtech:item_pipe_huge_restrictive:344, Huge Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_huge_restrictive:302, Huge Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
+gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
 gregtech:optical_pipe_normal:0, Optical Fiber Cable
 gregtech:laser_pipe_normal:0, Laser Transmitting Cable
 gregtech:ld_item_pipe, Long Distance Item Pipe
@@ -25174,6 +24449,11 @@ gregtech:machine_casing:6, LuV Machine Casing
 gregtech:machine_casing:7, ZPM Machine Casing
 gregtech:machine_casing:8, UV Machine Casing
 gregtech:machine_casing:9, UHV Machine Casing
+gregtech:machine_casing:10, UEV Machine Casing
+gregtech:machine_casing:11, UIV Machine Casing
+gregtech:machine_casing:12, UXV Machine Casing
+gregtech:machine_casing:13, OpV Machine Casing
+gregtech:machine_casing:14, MAX Machine Casing
 gregtech:steam_casing:0, Bronze Hull
 gregtech:steam_casing:1, Bricked Bronze Hull
 gregtech:steam_casing:2, Steel Hull
@@ -27076,78 +26356,6 @@ spartanweaponry:mace_lead, item.spartanweaponry:mace_lead.name
 spartanweaponry:glaive_lead, item.spartanweaponry:glaive_lead.name
 spartanweaponry:staff_lead, item.spartanweaponry:staff_lead.name
 spartanweaponry:parrying_dagger_lead, item.spartanweaponry:parrying_dagger_lead.name
-srparasites:infestedstain, Infested Dirt
-srparasites:infestremain, Infested Residue
-srparasites:infestedtrunk, Infested Log
-srparasites:infestedrubble, Infested Stone
-srparasites:infestedbush:0, Infested Veins
-srparasites:infestedbush:1, Infested Veins
-srparasites:infestedbush:2, Infested Veins
-srparasites:infestedbush:3, Infested Veins
-srparasites:infestedbush:4, Infested Veins
-srparasites:infestedbush:5, Infested Veins
-srparasites:biomeheart, Hive Core
-srparasites:colonyheart, Parasitic Colony Core
-srparasites:biomepurifier, Biome Purifier
-srparasites:parasitebush:0, Capillary Net
-srparasites:parasitebush:1, Nerve Ringlet
-srparasites:parasitebush:2, Parasitic Vesicle
-srparasites:parasitebush:3, Terminal Blinder
-srparasites:parasitebush:4, Small Incisor
-srparasites:parasitecanister:0, Bladder Sac
-srparasites:parasitecanister:1, Vacuous Cyst
-srparasites:parasitecanister:2, Grotesque Lump
-srparasites:parasitecanister:3, Sac of Flesh
-srparasites:parasitetrunk:0, Bruisewood Log
-srparasites:parasitetrunk:1, Bruisewood Log
-srparasites:parasitetrunk:2, Bruisewood Log
-srparasites:parasitestain:0, Hivesoil
-srparasites:parasitestain:1, Visceral Mud
-srparasites:parasitestain:2, Flesh Chunk
-srparasites:parasitestain:3, Compressed Arteries
-srparasites:parasiterubble:0, Concentrated Flesh Chunk
-srparasites:parasiterubble:1, Fortified Bone
-srparasites:parasiterubble:2, Hivestone
-srparasites:parasitestructure, Parasitic Colony Incomplete Structure
-srparasites:parasitethin, Parasitic Thin Log
-srparasites:parasitesapling:0, Veinwood Sapling
-srparasites:parasitesapling:1, Eyesore Sapling
-srparasites:parasitesapling:2, Darkwood Sapling
-srparasites:parasitemouth, Maw
-srparasites:parasiterubbledense:0, Compressed Hivestone
-srparasites:parasiterubbledense:1, Reinforced Hivestone
-srparasites:parasiterubbledense:2, Parasitic Compressed Colony Stone
-srparasites:parasiterubble_bonestairs, Fortified Bone
-srparasites:parasitestain_fleshstairs, Flesh Chunk
-srparasites:parasiterubble_slabhalf:0, Fortified Bone
-srparasites:parasitetendril, Parasitic Tendril
-srparasites:parasitefog, Fog
-srparasites:srpweb:0, Web
-srparasites:srpweb:1, Web
-srparasites:srpweb:2, Web
-srparasites:evolutionlure:0, Lure (Weakened)
-srparasites:evolutionlure:1, Lure (Faint)
-srparasites:evolutionlure:2, Lure (Slender)
-srparasites:evolutionlure:3, Lure (Stable)
-srparasites:evolutionlure:4, Lure (Substantial)
-srparasites:evolutionlure:5, Lure (Concentrated)
-srparasites:evolutionlure:6, Lure (Concentrated+)
-srparasites:evolutionlure:7, Lure (Concentrated++)
-srparasites:tunnel, Tunnel
-srparasites:gore:0, Assimilated Remains
-srparasites:gore:1, Assimilated Remains
-srparasites:gore:2, Primitive Remains
-srparasites:gore:3, Primitive Remains
-srparasites:gore:4, Adapted Remains
-srparasites:gore:5, Adapted Remains
-srparasites:gore:6, Pure Remains
-srparasites:gore:7, Pure Remains
-srparasites:gore:8, Assimilated Remains
-srparasites:gore:9, Primitive Remains
-srparasites:gore:10, Adapted Remains
-srparasites:gore:11, Pure Remains
-srparasites:canisteractive, Gluttonous Cyst
-srparasites:dispatchern, Dispatcher Nidus
 srparasites:ada_summoner_drop, Summoner Core
 srparasites:ada_yelloweye_drop, Yelloweye Bone
 srparasites:ada_manducater_drop, Manducater Orb
@@ -27268,6 +26476,78 @@ srparasites:armor_helm_sentient, Sentient Helm
 srparasites:armor_chest_sentient, Sentient Chest
 srparasites:armor_pants_sentient, Sentient Pants
 srparasites:armor_boots_sentient, Sentient Boots
+srparasites:infestedstain, Infested Dirt
+srparasites:infestremain, Infested Residue
+srparasites:infestedtrunk, Infested Log
+srparasites:infestedrubble, Infested Stone
+srparasites:infestedbush:0, Infested Veins
+srparasites:infestedbush:1, Infested Veins
+srparasites:infestedbush:2, Infested Veins
+srparasites:infestedbush:3, Infested Veins
+srparasites:infestedbush:4, Infested Veins
+srparasites:infestedbush:5, Infested Veins
+srparasites:biomeheart, Hive Core
+srparasites:colonyheart, Parasitic Colony Core
+srparasites:biomepurifier, Biome Purifier
+srparasites:parasitebush:0, Capillary Net
+srparasites:parasitebush:1, Nerve Ringlet
+srparasites:parasitebush:2, Parasitic Vesicle
+srparasites:parasitebush:3, Terminal Blinder
+srparasites:parasitebush:4, Small Incisor
+srparasites:parasitecanister:0, Bladder Sac
+srparasites:parasitecanister:1, Vacuous Cyst
+srparasites:parasitecanister:2, Grotesque Lump
+srparasites:parasitecanister:3, Sac of Flesh
+srparasites:parasitetrunk:0, Bruisewood Log
+srparasites:parasitetrunk:1, Bruisewood Log
+srparasites:parasitetrunk:2, Bruisewood Log
+srparasites:parasitestain:0, Hivesoil
+srparasites:parasitestain:1, Visceral Mud
+srparasites:parasitestain:2, Flesh Chunk
+srparasites:parasitestain:3, Compressed Arteries
+srparasites:parasiterubble:0, Concentrated Flesh Chunk
+srparasites:parasiterubble:1, Fortified Bone
+srparasites:parasiterubble:2, Hivestone
+srparasites:parasitestructure, Parasitic Colony Incomplete Structure
+srparasites:parasitethin, Parasitic Thin Log
+srparasites:parasitesapling:0, Veinwood Sapling
+srparasites:parasitesapling:1, Eyesore Sapling
+srparasites:parasitesapling:2, Darkwood Sapling
+srparasites:parasitemouth, Maw
+srparasites:parasiterubbledense:0, Compressed Hivestone
+srparasites:parasiterubbledense:1, Reinforced Hivestone
+srparasites:parasiterubbledense:2, Parasitic Compressed Colony Stone
+srparasites:parasiterubble_bonestairs, Fortified Bone
+srparasites:parasitestain_fleshstairs, Flesh Chunk
+srparasites:parasiterubble_slabhalf:0, Fortified Bone
+srparasites:parasitetendril, Parasitic Tendril
+srparasites:parasitefog, Fog
+srparasites:srpweb:0, Web
+srparasites:srpweb:1, Web
+srparasites:srpweb:2, Web
+srparasites:evolutionlure:0, Lure (Weakened)
+srparasites:evolutionlure:1, Lure (Faint)
+srparasites:evolutionlure:2, Lure (Slender)
+srparasites:evolutionlure:3, Lure (Stable)
+srparasites:evolutionlure:4, Lure (Substantial)
+srparasites:evolutionlure:5, Lure (Concentrated)
+srparasites:evolutionlure:6, Lure (Concentrated+)
+srparasites:evolutionlure:7, Lure (Concentrated++)
+srparasites:tunnel, Tunnel
+srparasites:gore:0, Assimilated Remains
+srparasites:gore:1, Assimilated Remains
+srparasites:gore:2, Primitive Remains
+srparasites:gore:3, Primitive Remains
+srparasites:gore:4, Adapted Remains
+srparasites:gore:5, Adapted Remains
+srparasites:gore:6, Pure Remains
+srparasites:gore:7, Pure Remains
+srparasites:gore:8, Assimilated Remains
+srparasites:gore:9, Primitive Remains
+srparasites:gore:10, Adapted Remains
+srparasites:gore:11, Pure Remains
+srparasites:canisteractive, Gluttonous Cyst
+srparasites:dispatchern, Dispatcher Nidus
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -27459,6 +26739,225 @@ tfcthings:gem_display/rocksalt, Rocksalt Gem Display
 tfcthings:gem_display/schist, Schist Gem Display
 tfcthings:gem_display/shale, Shale Gem Display
 tfcthings:gem_display/slate, Slate Gem Display
+thaumcraft:thaumonomicon:0, Thaumonomicon
+thaumcraft:curio:0, Arcane Curiosity
+thaumcraft:curio:1, Preserved Curiosity
+thaumcraft:curio:2, Ancient Curiosity
+thaumcraft:curio:3, Eldritch Curiosity
+thaumcraft:curio:4, Illuminating Curiosity
+thaumcraft:curio:5, Twisted Curiosity
+thaumcraft:curio:6, Crimson Rites
+thaumcraft:loot_bag:0, Common Treasure
+thaumcraft:loot_bag:1, Uncommon Treasure
+thaumcraft:loot_bag:2, Rare Treasure
+thaumcraft:primordial_pearl, item.primordial_pearl.name
+thaumcraft:pech_wand, Pech Wand
+thaumcraft:celestial_notes:0, Celestial Notes
+thaumcraft:celestial_notes:1, Celestial Notes
+thaumcraft:celestial_notes:2, Celestial Notes
+thaumcraft:celestial_notes:3, Celestial Notes
+thaumcraft:celestial_notes:4, Celestial Notes
+thaumcraft:celestial_notes:5, Celestial Notes
+thaumcraft:celestial_notes:6, Celestial Notes
+thaumcraft:celestial_notes:7, Celestial Notes
+thaumcraft:celestial_notes:8, Celestial Notes
+thaumcraft:celestial_notes:9, Celestial Notes
+thaumcraft:celestial_notes:10, Celestial Notes
+thaumcraft:celestial_notes:11, Celestial Notes
+thaumcraft:celestial_notes:12, Celestial Notes
+thaumcraft:amber, Amber
+thaumcraft:quicksilver, Quicksilver
+thaumcraft:ingot:0, Thaumium Ingot
+thaumcraft:ingot:1, Void Metal Ingot
+thaumcraft:ingot:2, Alchemical Brass Ingot
+thaumcraft:nugget:0, Iron Nugget
+thaumcraft:nugget:1, Copper Nugget
+thaumcraft:nugget:2, Tin Nugget
+thaumcraft:nugget:3, Silver Nugget
+thaumcraft:nugget:4, Lead Nugget
+thaumcraft:nugget:5, Quicksilver Drop
+thaumcraft:nugget:6, Thaumium Nugget
+thaumcraft:nugget:7, Void Metal Nugget
+thaumcraft:nugget:8, Alchemical Brass Nugget
+thaumcraft:nugget:9, Quartz Sliver
+thaumcraft:nugget:10, Rare Earths
+thaumcraft:cluster:0, Native Iron Cluster
+thaumcraft:cluster:1, Native Gold Cluster
+thaumcraft:cluster:2, Native Copper Cluster
+thaumcraft:cluster:3, Native Tin Cluster
+thaumcraft:cluster:4, Native Silver Cluster
+thaumcraft:cluster:5, Native Lead Cluster
+thaumcraft:cluster:6, Native Cinnabar Cluster
+thaumcraft:cluster:7, Native Quartz Cluster
+thaumcraft:fabric, Enchanted Fabric
+thaumcraft:vis_resonator, Vis Resonator
+thaumcraft:tallow, Magic Tallow
+thaumcraft:mechanism_simple, Simple Arcane Mechanism
+thaumcraft:mechanism_complex, Complex Arcane Mechanism
+thaumcraft:plate:0, Brass Plate
+thaumcraft:plate:1, Iron Plate
+thaumcraft:plate:2, Thaumium Plate
+thaumcraft:plate:3, Void Metal Plate
+thaumcraft:filter, Essentia Filter
+thaumcraft:morphic_resonator, Morphic Resonator
+thaumcraft:salis_mundus, Salis Mundus
+thaumcraft:mirrored_glass, Mirrored Glass
+thaumcraft:void_seed, Void Seed
+thaumcraft:mind:0, Clockwork Mind
+thaumcraft:mind:1, Biothaumic Mind
+thaumcraft:module:0, Vision Module
+thaumcraft:module:1, Aggression Module
+thaumcraft:crystal_essence, %s Vis Crystal
+thaumcraft:chunk:0, Beef Nugget
+thaumcraft:chunk:1, Chicken Nugget
+thaumcraft:chunk:2, Pork Nugget
+thaumcraft:chunk:3, Fish Nugget
+thaumcraft:chunk:4, Rabbit Nugget
+thaumcraft:chunk:5, Mutton Nugget
+thaumcraft:triple_meat_treat, Triple Meat Treat
+thaumcraft:brain, Zombie Brain
+thaumcraft:label:0, Blank Label
+thaumcraft:phial:0, Glass Phial
+thaumcraft:phial:1, Phial of Aer Essentia
+thaumcraft:phial:1, Phial of Terra Essentia
+thaumcraft:phial:1, Phial of Ignis Essentia
+thaumcraft:phial:1, Phial of Aqua Essentia
+thaumcraft:phial:1, Phial of Ordo Essentia
+thaumcraft:phial:1, Phial of Perditio Essentia
+thaumcraft:phial:1, Phial of Vacuos Essentia
+thaumcraft:phial:1, Phial of Lux Essentia
+thaumcraft:phial:1, Phial of Motus Essentia
+thaumcraft:phial:1, Phial of Gelum Essentia
+thaumcraft:phial:1, Phial of Vitreus Essentia
+thaumcraft:phial:1, Phial of Metallum Essentia
+thaumcraft:phial:1, Phial of Victus Essentia
+thaumcraft:phial:1, Phial of Mortuus Essentia
+thaumcraft:phial:1, Phial of Potentia Essentia
+thaumcraft:phial:1, Phial of Permutatio Essentia
+thaumcraft:phial:1, Phial of Praecantatio Essentia
+thaumcraft:phial:1, Phial of Auram Essentia
+thaumcraft:phial:1, Phial of Alkimia Essentia
+thaumcraft:phial:1, Phial of Vitium Essentia
+thaumcraft:phial:1, Phial of Tenebrae Essentia
+thaumcraft:phial:1, Phial of Alienis Essentia
+thaumcraft:phial:1, Phial of Volatus Essentia
+thaumcraft:phial:1, Phial of Herba Essentia
+thaumcraft:phial:1, Phial of Instrumentum Essentia
+thaumcraft:phial:1, Phial of Fabrico Essentia
+thaumcraft:phial:1, Phial of Machina Essentia
+thaumcraft:phial:1, Phial of Vinculum Essentia
+thaumcraft:phial:1, Phial of Spiritus Essentia
+thaumcraft:phial:1, Phial of Cognitio Essentia
+thaumcraft:phial:1, Phial of Sensus Essentia
+thaumcraft:phial:1, Phial of Aversio Essentia
+thaumcraft:phial:1, Phial of Praemunio Essentia
+thaumcraft:phial:1, Phial of Desiderium Essentia
+thaumcraft:phial:1, Phial of Exanimis Essentia
+thaumcraft:phial:1, Phial of Bestia Essentia
+thaumcraft:phial:1, Phial of Humanus Essentia
+thaumcraft:alumentum:0, Alumentum
+thaumcraft:jar_brace, Brass Lid Brace
+thaumcraft:bottle_taint, Bottle of Taint
+thaumcraft:sanity_soap, Sanitizing Soap
+thaumcraft:bath_salts, Purifying Bath Salts
+thaumcraft:turret:0, Automated Crossbow
+thaumcraft:turret:1, Advanced Automated Crossbow
+thaumcraft:turret:2, Arcane Bore
+thaumcraft:causality_collapser, Causality Collapser
+thaumcraft:scribing_tools, Scribing Tools
+thaumcraft:thaumometer, Thaumometer
+thaumcraft:resonator, Essentia Resonator
+thaumcraft:sanity_checker, Sanity Checker
+thaumcraft:hand_mirror, Magic Hand Mirror
+thaumcraft:thaumium_axe, Thaumium Axe
+thaumcraft:thaumium_sword, Thaumium Sword
+thaumcraft:thaumium_shovel, Thaumium Shovel
+thaumcraft:thaumium_pick, Thaumium Pickaxe
+thaumcraft:thaumium_hoe, Thaumium Hoe
+thaumcraft:void_axe, Void Axe
+thaumcraft:void_sword, Void Sword
+thaumcraft:void_shovel, Void Shovel
+thaumcraft:void_pick, Void Pickaxe
+thaumcraft:void_hoe, Void Hoe
+thaumcraft:elemental_axe, Axe of the Stream
+thaumcraft:elemental_sword, Sword of the Zephyr
+thaumcraft:elemental_shovel, Shovel of the Earthmover
+thaumcraft:elemental_pick, Pickaxe of the Core
+thaumcraft:elemental_hoe, Hoe of Growth
+thaumcraft:primal_crusher, Primal Crusher
+thaumcraft:crimson_blade, Crimson Blade
+thaumcraft:grapple_gun, Arcane Grappler
+thaumcraft:grapple_gun_tip, Grappler Head
+thaumcraft:grapple_gun_spool, Grappler Spool
+thaumcraft:goggles, Goggles of Revealing
+thaumcraft:thaumium_helm, Thaumium Helm
+thaumcraft:thaumium_chest, Thaumium Chestplate
+thaumcraft:thaumium_legs, Thaumium Leggings
+thaumcraft:thaumium_boots, Thaumium Boots
+thaumcraft:cloth_chest, Thaumaturge's Robe
+thaumcraft:cloth_legs, Thaumaturge's Leggings
+thaumcraft:cloth_boots, Thaumaturge's Boots
+thaumcraft:traveller_boots, Boots of the Traveller
+thaumcraft:fortress_helm, Thaumium Fortress Helm
+thaumcraft:fortress_chest, Thaumium Fortress Cuirass
+thaumcraft:fortress_legs, Thaumium Fortress Thigh Guards
+thaumcraft:void_helm, Void Helm
+thaumcraft:void_chest, Void Chestplate
+thaumcraft:void_legs, Void Leggings
+thaumcraft:void_boots, Void Boots
+thaumcraft:void_robe_helm, Void Thaumaturge Hood
+thaumcraft:void_robe_chest, Void Thaumaturge Robe
+thaumcraft:void_robe_legs, Void Thaumaturge Leggings
+thaumcraft:crimson_plate_helm, Crimson Cult Helm
+thaumcraft:crimson_plate_chest, Crimson Cult Chestplate
+thaumcraft:crimson_plate_legs, Crimson Cult Greaves
+thaumcraft:crimson_boots, Crimson Cult Boots
+thaumcraft:crimson_robe_helm, Crimson Cult Hood
+thaumcraft:crimson_robe_chest, Crimson Cult Robe
+thaumcraft:crimson_robe_legs, Crimson Cult Leggings
+thaumcraft:crimson_praetor_helm, Crimson Praetor Helm
+thaumcraft:crimson_praetor_chest, Crimson Praetor Chestplate
+thaumcraft:crimson_praetor_legs, Crimson Praetor Greaves
+thaumcraft:baubles:0, Mundane Amulet
+thaumcraft:baubles:1, Mundane Ring
+thaumcraft:baubles:2, Mundane Belt
+thaumcraft:baubles:3, Apprentice's Ring
+thaumcraft:baubles:4, Fancy Amulet
+thaumcraft:baubles:5, Fancy Ring
+thaumcraft:baubles:6, Fancy Belt
+thaumcraft:amulet_vis:0, Vis Stone
+thaumcraft:amulet_vis:1, Amulet of Vis
+thaumcraft:verdant_charm, Verdant Heart Charm
+thaumcraft:curiosity_band, Headband of Curiosity
+thaumcraft:voidseer_charm, Voidseer's Pearl
+thaumcraft:cloud_ring, Cloudstepper Ring
+thaumcraft:charm_undying, Charm of Undying
+thaumcraft:creative_flux_sponge, Flux Sponge
+thaumcraft:enchanted_placeholder, Any enchanted item
+thaumcraft:caster_basic, Caster's Gauntlet 
+thaumcraft:focus_1, Blank Lesser Focus
+thaumcraft:focus_2, Blank Advanced Focus
+thaumcraft:focus_3, Blank Greater Focus
+thaumcraft:focus_pouch, Focus Pouch
+thaumcraft:golem_bell, Golemancer's Bell
+thaumcraft:golem, Golem
+thaumcraft:seal:0, Blank Seal
+thaumcraft:seal:1, Control Seal: Collect
+thaumcraft:seal:2, Advanced Control Seal: Collect
+thaumcraft:seal:3, Control Seal: Store
+thaumcraft:seal:4, Advanced Control Seal: Store
+thaumcraft:seal:5, Control Seal: Empty
+thaumcraft:seal:6, Advanced Control Seal: Empty
+thaumcraft:seal:7, Control Seal: Harvest
+thaumcraft:seal:8, Control Seal: Butcher
+thaumcraft:seal:9, Control Seal: Guard
+thaumcraft:seal:10, Advanced Control Seal: Guard
+thaumcraft:seal:11, Control Seal: Lumberjack
+thaumcraft:seal:12, Control Seal: Block Breaker
+thaumcraft:seal:13, Control Seal: Use
+thaumcraft:seal:14, Control Seal: Provide
+thaumcraft:seal:15, Control Seal: Stock
+thaumcraft:seal:16, Control Seal: Advanced Block Breaker
 touhou_little_maid:ultramarine_orb_elixir, §6Ultramarine Orb Elixir
 touhou_little_maid:explosion_protect_bauble, §6Explosion Protect Bauble
 touhou_little_maid:fire_protect_bauble, §6Fire Protect Bauble
@@ -27618,6 +27117,7 @@ exnihilocreatio:item_ore_iron:0, Iron Ore Piece
 exnihilocreatio:item_ore_iron:1, Iron Ore Chunk
 exnihilocreatio:item_ore_aluminium:0, Aluminium Ore Piece
 exnihilocreatio:item_ore_aluminium:1, Aluminium Ore Chunk
+exnihilocreatio:item_ore_aluminium:2, Aluminium Ore Dust
 exnihilocreatio:item_ore_ardite:0, Ardite Ore Piece
 exnihilocreatio:item_ore_ardite:1, Ardite Ore Chunk
 exnihilocreatio:item_ore_ardite:2, Ardite Ore Dust
