@@ -4,7 +4,7 @@ This repository now belongs to an organization owned by Nrmot
 
 NOTICES FOR THE NEXT RELEASES:
 AIGHT I WILL REMOVE THE FOLLOWING MODS FROM THE MODLIST NOW THAT I FOUND GT CONFIGS THAT ALLOW ENERGY CONVERSTION:
-- FTB Backups due to issue #16
+- FTB Backups due to issue [#16](https://github.com/Nrmot-GithubRepo/Project-CBT/issues/16)
 
 MODS THAT WILL BE ADDED:
 - Another Backup mod possibly..
@@ -25,7 +25,7 @@ Notes:
 ------
 - Gameplay wise please set your world to TFC CLASSIC. YOU MAY NOT BE ABLE TO PROGRESS THROUGH THE QUESTS IF YOU USE A DIFFERENT WORLD TYPE. BEWARE.
 
-CODE_OF_CONDUCT.md
+[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
 
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
@@ -60,7 +60,7 @@ Aight The Modlist are as follows:
 - [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
 - [AtomicStryker's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
-- Avaritia (Link Needed)
+- [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10)
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
@@ -101,7 +101,7 @@ Aight The Modlist are as follows:
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Konkrete (Forge)](https://www.curseforge.com/minecraft/mc-mods/konkrete)
-- KubeJS (Link needed)
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
 - [Legendary Tooltips (Forge)](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
 - [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
 - [Loading Profiler](https://www.curseforge.com/minecraft/mc-mods/loading-profiler)
@@ -130,7 +130,7 @@ Aight The Modlist are as follows:
 - [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
 - [Silent Lib (silentlib)](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
-- [Spartan Weaponry]()
+- [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
 - [SteveKunG's Lib](https://www.curseforge.com/minecraft/mc-mods/stevekungs-lib)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
@@ -193,7 +193,7 @@ You may suggest other songs to be remixed at the Discussions Tab.
 
 # Contributing
 
-See CONTRIBUTING.md
+See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 # Note:
 
@@ -231,7 +231,7 @@ Leaked WIP Questline for Public Domain Purposes - May get updated as new quests 
 
 # Licensing
 
-Read LICENSE.MD
+Read [LICENSE.MD](./LICENSE.MD)
 
 # All Credits:
 
