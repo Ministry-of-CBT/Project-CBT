@@ -9,6 +9,8 @@ AIGHT I WILL REMOVE THE FOLLOWING MODS FROM THE MODLIST NOW THAT I FOUND GT CONF
 
 MODS THAT WILL BE ADDED:
 - Thaumcraft
+- Avaritia
+- KubeJS
 
 ENJOY THE NEW OST FOR NOW 
 
@@ -61,6 +63,7 @@ Aight The Modlist are as follows:
 - [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
 - [AtomicStryker's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- Avaritia (Link Needed)
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
@@ -77,7 +80,6 @@ Aight The Modlist are as follows:
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees TFC](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- [ -WILL BE REMOVED- Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters)
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio)
 - [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)
 - [FancyMenu (Forge)](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
@@ -98,11 +100,11 @@ Aight The Modlist are as follows:
 - [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
-- [ -WILL BE REMOVED- Industrial Craft 2](https://forum.industrial-craft.net)
 - [Infinite Night](https://www.curseforge.com/minecraft/mc-mods/infinite-night)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Konkrete (Forge)](https://www.curseforge.com/minecraft/mc-mods/konkrete)
+- KubeJS (Link needed)
 - [Legendary Tooltips (Forge)](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
 - [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn)
 - [Loading Profiler](https://www.curseforge.com/minecraft/mc-mods/loading-profiler)
@@ -138,7 +140,7 @@ Aight The Modlist are as follows:
 - [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft)
 - [TerraFirmaThings](https://www.curseforge.com/minecraft/mc-mods/terrafirmathings)
 - [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix)
-- [ -Will be Added- Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
+- [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Touhou Little Maid Mod](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
 - [YUNG's Better Caves (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
