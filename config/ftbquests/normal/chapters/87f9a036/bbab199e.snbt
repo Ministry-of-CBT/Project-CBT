@@ -1,6 +1,8 @@
 {
+	title: "Wait now the STAR WARS UNIVERSE???????????????",
 	x: -26.5d,
 	y: 35.5d,
+	description: "also fuck you i want that EV machene hull NOW~!",
 	text: [
 		"The Battle of the SCP Universe had shown them the extent of the danger they faced and the importance of unity in the face of overwhelming chaos. The team knew that they must continue to stand together, combining their strengths and resolve, if they were to protect the realms and put an end to the conflict once and for all.",
 		"",
@@ -12,11 +14,14 @@
 		"",
 		"They quickly discovered that the Force-sensitive individuals in the Star Wars Universe were affected in unpredictable ways. Some had gained newfound powers, while others struggled to control their abilities. The delicate balance between the light and dark sides of the Force was teetering on the edge of collapse."
 	],
+	dependencies: [
+		"2b280dc4"
+	],
 	tasks: [{
-		uid: "d772d9c3",
+		uid: "ff7b32c8",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 989"
 		}]
 	}]
 }

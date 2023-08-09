@@ -22,5 +22,13 @@
 		items: [{
 			item: "minecraft:sapling 1 2"
 		}]
+	},
+	{
+		uid: "ef16686f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_u233"
+		}],
+		count: 14L
 	}]
 }

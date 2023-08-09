@@ -1,6 +1,8 @@
 {
+	title: "Suffer with your EV Circut crafting deficiencies",
 	x: -26.0d,
 	y: 34.0d,
+	description: "New EV circuet drupped HAHAHHAHAHAH GREG",
 	text: [
 		"In a daring move, Reimu and Marisa used a combination of powerful spellcards to create a temporary gap in the fabric of space. This gap allowed them to redirect the black hole's gravitational forces, steering it away from the SCP Universe and towards a remote and uninhabited region of space.",
 		"",
@@ -15,6 +17,9 @@
 		"Flandre, her pride wounded, didn't respond. Instead, she clenched her fists, vowing to continue her fight with renewed determination.",
 		"",
 		"With the threat of the black hole neutralized, the team once again regrouped and prepared for the next phase of the battle. Yukari Yakumo, Flandre Scarlet, Remilia Scarlet, and Satori Komeiji were still formidable adversaries, and the interdimensional war was far from over."
+	],
+	dependencies: [
+		"f8938fac"
 	],
 	tasks: [{
 		uid: "ac340328",

@@ -12,6 +12,9 @@
 		"",
 		"Despite their best efforts, the black hole's power proved overwhelming. The event horizon continued to expand, threatening to swallow the entire battlefield and beyond."
 	],
+	dependencies: [
+		"88cd366a"
+	],
 	tasks: [{
 		uid: "f8826f59",
 		type: "item",
