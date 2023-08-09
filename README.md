@@ -15,7 +15,6 @@ ALSO ANOTHER IMPORTANT: SCHOOL FOR ME STARTS IN LESS THAN 2 WEEKS, ONCE SCHOOL S
 ALL THE OSTS USED HAVE IT'S OWN SECTION..
 ------
 Notes:
-- AN INDEV RELEASE HAS BEEN MADE! DO NOT USE IT FOR ACTUAL GAMEPLAY.
 - ALSO IN THE FUTURE SECURITY.MD WILL BE USED TO DENOTE FULL RELEASES SO YEAH
 - A WORK IN PROGRESS OFFICIAL WIKI HAS BEEN MADE, IN THE FUTURE IT WILL BE USED TO DOCUMENT GUIDES.
 - ALSO yeah there's the Project-CBT discussion in github, so all other topics go there.
@@ -42,6 +41,10 @@ Project CBT is the codename. The real name is Cock and Ball Touhouture: NuclearG
 Will there be a curseforge upload: No but do it yourself. 
 
 Yes there are releases and only dev releases exist for research purposes. 
+
+## How to Install Project CBT:
+
+Get it from releases En Croissant Dummy
 
 ## Project CBT - Modlist:
 
@@ -70,7 +73,7 @@ Aight The Modlist are as follows:
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 - [Dynamic Trees TFC](https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters)
+- [ -WILL BE REMOVED- Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters)
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio)
 - [ExtraPlanets](https://www.curseforge.com/minecraft/mc-mods/extraplanets)
 - [FancyMenu (Forge)](https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge)
@@ -91,7 +94,7 @@ Aight The Modlist are as follows:
 - [Hardcore Revival](https://www.curseforge.com/minecraft/mc-mods/hardcore-revival)
 - [Hbm's Nuclear Tech - Extended Edition](https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-extended-edition)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
-- [Industrial Craft 2](https://forum.industrial-craft.net)
+- [ -WILL BE REMOVED- Industrial Craft 2](https://forum.industrial-craft.net)
 - [Infinite Night](https://www.curseforge.com/minecraft/mc-mods/infinite-night)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
@@ -131,6 +134,7 @@ Aight The Modlist are as follows:
 - [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft)
 - [TerraFirmaThings](https://www.curseforge.com/minecraft/mc-mods/terrafirmathings)
 - [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix)
+- [ -Will be Added- Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Touhou Little Maid Mod](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid)
 - [YUNG's Better Caves (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
