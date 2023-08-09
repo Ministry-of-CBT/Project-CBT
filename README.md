@@ -231,7 +231,7 @@ Leaked WIP Questline for Public Domain Purposes - May get updated as new quests 
 
 # Licensing
 
-Read LICENSE.MD
+Read [LICENSE.MD](./LICENSE.MD)
 
 # All Credits:
 
