@@ -2,7 +2,6 @@
 
 This repository now belongs to an organization owned by Nrmot
 
-
 ENJOY THE NEW OST FOR NOW 
 
 ALSO ANOTHER IMPORTANT: SCHOOL FOR ME STARTS IN LESS THAN 2 WEEKS, ONCE SCHOOL STARTS FOR ME (AUGUST 15) I WILL PROBABLY WIND DOWN A LOT BUT I WILL NOT FULLY ABANDON THIS PROJECT JUST BECAUSE OF LIL SCHOOL!
@@ -197,7 +196,10 @@ You are allowed to fork this repository and continue development. This modpack h
 
 # Build
 
-clone repositiory. run packwiz runner temp.bat and then input 'packwiz curseforge export.' import the exported zip to the launcher that supports curseforge modpacks and boom. greg greg greg
+1. clone repositiory. 
+2. run packwiz runner temp.bat 
+3. input 'packwiz curseforge export.' 
+4. import the exported zip to the launcher that supports curseforge modpacks and boom. greg greg greg
 
 # Public Domain Leaks Section
 
