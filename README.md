@@ -2,12 +2,6 @@
 
 This repository now belongs to an organization owned by Nrmot
 
-NOTICES FOR THE NEXT RELEASES:
-AIGHT I WILL REMOVE THE FOLLOWING MODS FROM THE MODLIST NOW THAT I FOUND GT CONFIGS THAT ALLOW ENERGY CONVERSTION:
-- FTB Backups due to issue [#16](https://github.com/Nrmot-GithubRepo/Project-CBT/issues/16)
-
-MODS THAT WILL BE ADDED:
-- Another Backup mod possibly..
 
 ENJOY THE NEW OST FOR NOW 
 
@@ -57,6 +51,7 @@ Aight The Modlist are as follows:
 
 
 - [Advancement Plaques (Forge)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
+- [Advanced Backups](https://www.curseforge.com/minecraft/mc-mods/advanced-backups)
 - [Ambience - Extras (Music Mod)](https://www.curseforge.com/minecraft/mc-mods/ambience-extras)
 - [AE2EL](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life)
 - [AsmodeusCore](https://www.curseforge.com/minecraft/mc-mods/asmodeuscore)
@@ -86,7 +81,6 @@ Aight The Modlist are as follows:
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [First Join Message](https://www.curseforge.com/minecraft/mc-mods/first-join-message)
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)
-- [FTB Backups (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge)
 - [FTB Library (Forge) (Legacy)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
 - [FTB Quests (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
 - [Galacticraft Legacy](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy)
