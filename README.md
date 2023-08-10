@@ -32,6 +32,8 @@ Notes:
 
 Project CBT: A minecraft modpack that tries to combine aspects of RLCraft, GTNH, Touhou and HBM's Nuclear Tech Mod into 1 totally not buggy masterpiece that will totally not destroy your c***
 
+Also Sans from Undertale will make an appearance
+
 ## What is Project CBT:
 
 Project CBT is the codename. The real name is Cock and Ball Touhouture: NuclearGreg Horizons
@@ -43,6 +45,8 @@ Yes there are releases and only dev releases exist for research purposes.
 ## How to Install Project CBT:
 
 Get it from releases En Croissant Dummy
+
+Once you, the En Croissant Dummy downloaded one of thoze Project-CBT dev zips just import to any launcher EGGGGGGGGGGGGGGG.
 
 ## Project CBT - Modlist:
 
