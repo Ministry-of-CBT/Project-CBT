@@ -405,10 +405,6 @@ file = "config/forgeChunkLoading.cfg"
 hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
 
 [[files]]
-file = "config/ftbbackups.cfg"
-hash = "08f58653a25082e11d04f3830994d1ca9e2c366f48ffce9c21dbcc2fba646c3f"
-
-[[files]]
 file = "config/ftblib.cfg"
 hash = "0c2a28be1dcc0fd1823e88430b8038de265c153b3441d9f972860e1df5c9d025"
 
@@ -2049,6 +2045,11 @@ file = "fm/thumb-1920-120557.jpg"
 hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "e5a1f7d0e232cb8c7836255c9cff93a0e2657b9bbdd3a8dbac63856853c5d2b8"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "55e2cd33ba50937020de3121f016ce54fb6495822d3c66c8ec2ab274f1c6c2b7"
 metafile = true
@@ -2196,11 +2197,6 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-forge.pw.toml"
-hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
 metafile = true
 
 [[files]]

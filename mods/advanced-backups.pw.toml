@@ -1,0 +1,13 @@
+name = "Advanced Backups"
+filename = "AdvancedBackups-forge-1.12-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa980cc517b6d6a5c9f38541d3e0af18d4da4dd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4592933
+project-id = 876284
