@@ -21,6 +21,7 @@
 	dependencies: [
 		"f8938fac"
 	],
+	hide: true,
 	tasks: [{
 		uid: "ac340328",
 		type: "item",

@@ -1,6 +1,8 @@
 {
-	x: -32.5d,
-	y: 33.5d,
+	title: "Shove schrabidium up yo ass",
+	x: -32.0d,
+	y: 32.5d,
+	description: "GREGschrabidium",
 	text: [
 		"The UIA's support bolstered the SCP Foundation's resolve, reminding them that they were not alone in this fight. With the combined efforts of humans and beings from various dimensions, they stood united against The Scarlet's forces.",
 		"",
@@ -12,11 +14,14 @@
 		"",
 		"The SCP Foundation's personnel displayed unwavering dedication, risking their lives to secure and contain the anomalous entities. They utilized their vast knowledge of SCP objects, implementing countermeasures and employing their expertise in containing these threats."
 	],
+	dependencies: [
+		"4b948b13"
+	],
 	tasks: [{
-		uid: "519bd5b8",
+		uid: "2ad6f551",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			item: "hbm:ingot_schrabidium"
 		}]
 	}]
 }

@@ -6,6 +6,10 @@
 	text: [
 		"avaritiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 	],
+	dependencies: [
+		"ac57e0d6"
+	],
+	hide: true,
 	tasks: [{
 		uid: "b3c0721a",
 		type: "item",

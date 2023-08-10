@@ -1,6 +1,8 @@
 {
+	title: "G and the T and the N and the H, UIA vs Scarlet!",
 	x: -30.5d,
 	y: 32.5d,
+	description: "SEX MOD",
 	text: [
 		"As the UIA executed their plan, they encountered fierce resistance from The Scarlet's forces. The battles were intense and grueling, testing the resolve and unity of the alliance.",
 		"",
@@ -10,11 +12,15 @@
 		"",
 		"The Battle of the Interdimensional War continued, with the UIA pushing forward, step by step, to confront Yukari Yakumo, Flandre Scarlet, and their allies. The interplay of power, tactics, and strategy determined the destiny of the multiverse, and only time would reveal the ultimate outcome of this unprecedented conflict."
 	],
+	dependencies: [
+		"04ccd000"
+	],
+	hide: true,
 	tasks: [{
-		uid: "17a1feca",
+		uid: "3a62e214",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 1"
+			item: "gregtech:machine 1 157"
 		}]
 	}]
 }

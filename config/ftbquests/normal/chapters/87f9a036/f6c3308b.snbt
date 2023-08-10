@@ -1,6 +1,8 @@
 {
-	x: -34.0d,
-	y: 34.0d,
+	title: "EV sensor my beloved",
+	x: -33.5d,
+	y: 33.0d,
+	description: "GREG and the TECH WITH HBMS NUCLEAR TECH MOD HAHAHAHAHAH",
 	text: [
 		"Despite the tireless efforts of the SCP Foundation and the UIA, the battle for Earth remained arduous. The Scarlet's forces relentlessly pushed forward, seeking to bring chaos and destruction to the very heart of humanity.",
 		"",
@@ -10,11 +12,15 @@
 		"",
 		"The Battle of Humanity [Interdimensional] had become a critical turning point in the interdimensional war. The outcome of this conflict would shape the destiny of all known dimensions, and the alliance's resolve to protect humanity and restore balance to the multiverse was stronger than ever before."
 	],
+	dependencies: [
+		"c87e2b8a"
+	],
+	hide: true,
 	tasks: [{
-		uid: "bb914e61",
+		uid: "3270a8e6",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 4"
+			item: "gregtech:meta_item_1 1 235"
 		}]
 	}]
 }

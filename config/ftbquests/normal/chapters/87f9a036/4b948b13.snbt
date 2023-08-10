@@ -1,6 +1,8 @@
 {
-	x: -31.5d,
-	y: 32.5d,
+	title: "Interdimensional sex",
+	x: -31.0d,
+	y: 31.0d,
+	description: "HAHAHHAHAHAGUAEGHAEGHUAHUFSGASDGEUA",
 	text: [
 		"As the interdimensional war continued, the influence of The Forces of The Scarlet spread even further, affecting various dimensions, including Earth. The SCP Foundation, known for safeguarding humanity from anomalous entities, found themselves facing an unprecedented challenge as SCP entities, under The Scarlet's influence, wreaked havoc on Earth.",
 		"",
@@ -14,11 +16,15 @@
 		"",
 		"GregoriousT deployed advanced technology from GregTech New Horizons to reinforce the SCP Foundation's defenses. He worked closely with the Foundation's scientists and engineers to develop containment protocols and specialized weaponry capable of countering the SCP entities' enhanced powers."
 	],
+	dependencies: [
+		"2e0acdf0"
+	],
+	hide: true,
 	tasks: [{
-		uid: "bbc95dca",
+		uid: "0c54f669",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 5"
+			item: "gregtech:machine 1 473"
 		}]
 	}]
 }

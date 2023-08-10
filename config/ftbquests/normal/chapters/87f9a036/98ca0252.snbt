@@ -1,6 +1,8 @@
 {
+	title: "More blockfuckers",
 	x: -29.5d,
 	y: 35.5d,
+	description: "AHHAHAHAHHAHAHAHHAA",
 	text: [
 		"With the united strength of the UIA, they pressed forward, determined to confront Yukari Yakumo and Flandre Scarlet once and for all. The interdimensional war was far from over, but the alliance knew that together, they held the power to restore balance, safeguard their realms, and protect the future of existence itself.",
 		"",
@@ -16,11 +18,15 @@
 		"",
 		"Satori Komeiji, utilizing her mind-reading abilities, attempted to gain insights into the UIA's plans and weaknesses, offering tactical advantages to her allies."
 	],
+	dependencies: [
+		"2b560838"
+	],
+	hide: true,
 	tasks: [{
-		uid: "0b07d0d8",
+		uid: "57240e8e",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
+			item: "gregtech:machine 1 113"
 		}]
 	}]
 }

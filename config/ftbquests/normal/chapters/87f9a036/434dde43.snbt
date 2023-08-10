@@ -21,6 +21,7 @@
 	dependencies: [
 		"bbab199e"
 	],
+	hide: true,
 	tasks: [{
 		uid: "ef16686f",
 		type: "item",

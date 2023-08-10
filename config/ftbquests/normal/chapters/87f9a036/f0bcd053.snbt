@@ -1,6 +1,8 @@
 {
+	title: "Unity in the face of darkness.",
 	x: -28.5d,
 	y: 32.5d,
+	description: "sans",
 	text: [
 		"As the team and their newfound allies fought side by side in the Star Wars Universe, their unity and determination began to inspire others across dimensions. News of their efforts spread like wildfire, and many realms reached out, seeking to join the cause and put an end to the chaos that threatened them all.",
 		"",
@@ -22,11 +24,15 @@
 		"",
 		"From other realms, representatives added their unique abilities, skills, and knowledge to bolster the UIA's ranks. Beings from realms of magic, advanced technology, and supernatural wonders joined forces"
 	],
+	dependencies: [
+		"27fdec89"
+	],
+	hide: true,
 	tasks: [{
-		uid: "683292a4",
+		uid: "b84e1fa8",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 5"
+			item: "gregtech:machine 1 53"
 		}]
 	}]
 }

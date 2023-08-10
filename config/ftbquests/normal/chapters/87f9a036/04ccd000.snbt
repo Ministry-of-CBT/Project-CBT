@@ -1,6 +1,8 @@
 {
+	title: "UIA vs The Scarlet Forces",
 	x: -30.0d,
 	y: 34.0d,
+	description: "GTNH TOUHOU CROSSOVER FANFIC",
 	text: [
 		"As the UIA faced this united front, the battles became even more intense and relentless. The fate of the multiverse now hung in the balance, and both sides understood that the outcome of this conflict would shape the destiny of countless dimensions.",
 		"",
@@ -16,11 +18,15 @@
 		"",
 		"Each task force would be supported by the combined efforts of the entire UIA, with communication hubs and information-sharing networks connecting them in real-time. This division of forces allowed them to be more agile and adaptable in their strategies, responding to the ever-changing battlefield."
 	],
+	dependencies: [
+		"98ca0252"
+	],
+	hide: true,
 	tasks: [{
-		uid: "145e5676",
+		uid: "c906cec4",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 3"
+			item: "gregtech:machine 1 337"
 		}]
 	}]
 }

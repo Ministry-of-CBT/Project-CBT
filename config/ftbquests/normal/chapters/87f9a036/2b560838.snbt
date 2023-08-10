@@ -1,6 +1,8 @@
 {
+	title: "Superadvanced Blockfucker",
 	x: -29.0d,
 	y: 34.0d,
+	description: "Blockfucker",
 	text: [
 		"As the UIA expanded, communication hubs were established, allowing instantaneous contact across dimensions. The O5 Council, with their experience in secrecy and management, facilitated coordination among the various realms and ensured that information was shared effectively.",
 		"",
@@ -14,11 +16,22 @@
 		"",
 		"The Battle of the SCP Universe, the Star Wars Realm, and countless other dimensions had evolved into a war for the preservation of all existence. The UIA knew that they could not afford to falter, for the fate of the multiverse rested on their shoulders."
 	],
+	dependencies: [
+		"f0bcd053"
+	],
+	hide: true,
 	tasks: [{
-		uid: "0edf6b9f",
+		uid: "6a83eb9f",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 1400"
+		}]
+	},
+	{
+		uid: "0dc611e2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1593"
 		}]
 	}]
 }
