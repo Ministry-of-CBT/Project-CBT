@@ -151,9 +151,7 @@ Aight The Modlist are as follows:
 
 ## Getting Started
 
-With the world at permanent nighttime with hardcore darkness you must find a glowing flower from Silent's Gems as it is the only natural light source spawning. If your surroundings doesn't have one, you are either fucked or you need to travel long way before finding a glowing flower.
-
-Then your true CBT experience begins.
+With the world at permanent nighttime with hardcore darkness you must find a glowing flower from Silent's Gems as it is the only natural light source spawning. If your surroundings doesn't have one, you are either fucked or you need to travel long way before finding a glowing flower, because why? F*ck you I SLAPPED TFC, SCAPE AND RUN PARASITES, AND NOW ZOMBIE AWARENESS JUST TO DESTROY YOUR SANITY! RUN RUN RUN IF YOU SEE ANY OF THE HOSTILE MOBS, NO ONE NOT EVEN GREG CAN SAVE YOUR LIFE! What did you expect this is a modpack designed for pure c*** and b*** torture
 
 ## Lore
 
