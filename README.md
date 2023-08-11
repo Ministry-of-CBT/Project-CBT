@@ -1,3 +1,7 @@
+# Banner
+
+![banner](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/b81e24f2-218b-41d3-b4e7-3f9e90954b57)
+
 ![project-cbt-icon](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/141803157/ef9bbbb3-77de-42be-b1c4-625f6b6a99e4)
 
 >>>> New Official Icon!
@@ -33,10 +37,6 @@ Notes:
 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
 
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
-
-## Banner
-
-![banner](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/b81e24f2-218b-41d3-b4e7-3f9e90954b57)
 
 ## What is this and how do i get rid of it?
 
