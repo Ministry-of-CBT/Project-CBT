@@ -22,11 +22,11 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "b3919375bed0583a000e9c6dd254470fd9a02d08e56f4cf9b88c2a745e3ab138"
+hash = "b195bf93cc1394c1a7bd93d304f31febf19a6ec4650ef43b8a6ef044dae7bff9"
 
 [[files]]
 file = "SECURITY.md"
-hash = "92b1dc25feee6c60dc60cf26534ff71a19ccddd5308e73793b59300d33b5342a"
+hash = "e4b378ff48dea56af677c319643417b3cd951ec30f839ec21319c73a3d379140"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -202,7 +202,7 @@ hash = "005fa8f223045ecf09309ee5836b78192d75881b3891380f44a1e1ca88655bfd"
 
 [[files]]
 file = "config/battletowers.cfg"
-hash = "dfa9876c66792f051755fe0d5ffb970fe619342544d91786c37da76d53101148"
+hash = "db60fb8ff07951ef1728614293fd7ff3f0f648d0b0d6f70b59245738d76a8ef4"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -251,6 +251,10 @@ hash = "1aa05b9dac4c5718764e3e0a4e23addce945ca283dd21959088520160b34a66e"
 [[files]]
 file = "config/collective.cfg"
 hash = "3356cc63a198732bd3759b751f93ec32698b6a785d2dcb74bf8c44f798d808f7"
+
+[[files]]
+file = "config/concheckrmd.cfg"
+hash = "dcf7a679d774e008b2461f6761f3cffaad87fb1058d1a405a3f430847badbc70"
 
 [[files]]
 file = "config/cosmeticarmorreworked.cfg"
@@ -1858,7 +1862,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "132cb2a16c80f215a5b5ab2ced67083f0efac9cc6a7e9f6ed429537f0169bf76"
+hash = "12479d1546a2d6ec5adc74db3949dbbf102f9bd737afae237bb5643633d257f2"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2152,6 +2156,11 @@ hash = "06285e1896ceeeef18b7c5fe198cb286d4f2018488150f779ceafb861baece8d"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
@@ -2179,6 +2188,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
+metafile = true
+
+[[files]]
+file = "mods/energy-converters.pw.toml"
+hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
 metafile = true
 
 [[files]]
@@ -2214,6 +2228,11 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-forge.pw.toml"
+hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
 metafile = true
 
 [[files]]
@@ -2272,8 +2291,18 @@ hash = "a985df50ba2c52415affc2bfd70ddace02ecc884478ee435c480042534e62398"
 metafile = true
 
 [[files]]
+file = "mods/hostile-worlds-invasions.pw.toml"
+hash = "c58e90b07683ab729ed09f61ce3e3d33a23ad229dd700b31086878cb3d0a1908"
+metafile = true
+
+[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
@@ -2412,6 +2441,11 @@ hash = "9ce5e765ff7d3c5f0890ffc1f2f711e5b00777d844d1ea191c1fa6e044344160"
 metafile = true
 
 [[files]]
+file = "mods/scp-lockdown.pw.toml"
+hash = "46095081716d57c10a4130923b23a65c868079528fb68aef773a8a20c7f050a2"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
@@ -2504,6 +2538,11 @@ metafile = true
 [[files]]
 file = "mods/zollern-galaxy.pw.toml"
 hash = "36e762297530c54513e3eb9cab408d344be6acbb527338e2af2225a98bb56aff"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
 
 [[files]]
