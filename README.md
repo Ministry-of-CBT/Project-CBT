@@ -1,3 +1,5 @@
+# DEVELOPMENT TIME HAS BEEN PARTIALLY STALLED!!!! Releases will be posted atleast once or twice every week since school is just around the corner, atleast for me and i have been told that its just 5 days left. PLEASE NOTE THAT I STILL ACCEPT CONTRIBUTIONS AND THE PROJECT WILL NOT BE DEAD IN THE FORESEEABLE FUTURE
+
 # Banner
 
 ![banner](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/b81e24f2-218b-41d3-b4e7-3f9e90954b57)
