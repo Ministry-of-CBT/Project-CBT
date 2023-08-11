@@ -19,11 +19,16 @@ customization {
 }
 
 customization {
+  identifier = %id=6043821%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = -42
+  y = -45
 }
 
 customization {
@@ -40,6 +45,42 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\multiplayer.png
   backgroundnormal = fm\multiplayer.png
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 0
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
 }
 
 customization {
@@ -73,11 +114,16 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -77
   action = movebutton
-  y = -42
+  y = -45
 }
 
 customization {
@@ -97,6 +143,31 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = 0
+  action = movebutton
+  y = -23
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
@@ -105,67 +176,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = setbuttonlabel
   value = Fuck You.
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
-  x = 52
-  action = movebutton
-  y = -45
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  action = setbuttonlabel
-  value = Options
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\button.png
-  backgroundnormal = fm\button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
-  x = -104
-  action = movebutton
-  y = 0
-}
-
-customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\button.png
-  backgroundnormal = fm\button.png
 }
 
 customization {
@@ -237,32 +247,21 @@ customization {
 }
 
 customization {
-  path = fm/cbt.png
-  orientation = top-centered
-  x = -150
-  width = 300
-  actionid = af0595ee-3170-4975-af6f-26c6c076ceb91690355802126
-  action = addtexture
-  y = 0
-  height = 100
-}
-
-customization {
   orientation = element
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Cock and Ball Torture: Version Dev\nWhere's the GregTech Lean?
+  source = Cock and Ball Torture: Alpha Test\nWhere's the GregTech Lean?
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  orientation_element = vanillabtn:button_compatibility_id:forge_titlescreen_mods_button
-  x = 2
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = -102
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 86357a23-5e52-49f8-b787-a213852814cc1690359189640
-  y = -20
+  y = -26
   alignment = centered
   height = 21
 }
@@ -302,5 +301,53 @@ customization {
   backgroundnormal = fm\button.png
   value = PackSettings
   height = 20
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\projectcbt\ftbicons\project-cbt-icon-h.png
+  label = 
+  loopbackgroundanimations = true
+  x = -105
+  width = 102
+  actionid = 825f284b-d7e7-46fa-bdb5-834c32287bf41691765056011
+  action = addbutton
+  y = -116
+  backgroundnormal = resources\projectcbt\ftbicons\project-cbt-icon.png
+  value = https://github.com/Nrmot-GithubRepo/Project-CBT
+  height = 100
+}
+
+customization {
+  path = resources/projectcbt/ftbicons/project-cbt-4.png
+  orientation = bottom-left
+  x = 3
+  width = 100
+  actionid = 2861c495-9384-4f0a-9b48-bc13a5a082301691765378411
+  action = addtexture
+  y = -125
+  height = 100
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Featuring:
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = 2861c495-9384-4f0a-9b48-bc13a5a082301691765378411
+  x = 0
+  width = 94
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 42b075fe-a48e-4980-8721-e1c0291ed2101691765412877
+  y = -11
+  alignment = left
+  height = 10
 }
 

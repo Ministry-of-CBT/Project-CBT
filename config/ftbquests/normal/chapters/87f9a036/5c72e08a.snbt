@@ -1,0 +1,33 @@
+{
+	title: "More chaos the merrier",
+	x: -39.0d,
+	y: 34.0d,
+	description: "egg",
+	text: [
+		"Flandre's eyes widened with interest. \"But how do we do that? They seem so sure of their cause,\" she remarked.",
+		"",
+		"Remilia leaned back in her chair, a wicked smile playing on her lips. \"We will exploit their emotions and fears,\" she suggested. \"Doubt can be a powerful weapon, and fear can break even the strongest of bonds.\"",
+		"",
+		"Yukari chuckled softly. \"Precisely. Satori, use your abilities to plant seeds of doubt and fear among their ranks,\" she commanded.",
+		"",
+		"Satori nodded, her eyes glowing with an ethereal light. \"Consider it done,\" she replied, her voice resonating with an otherworldly echo.",
+		"",
+		"As the meeting continued, they devised a cunning plan to target the key members of the United Interdimensional Alliance. Yukari and Flandre would employ their manipulative abilities to disrupt the minds of Reimu, Marisa, GregoriousT, and others.",
+		"",
+		"Meanwhile, Remilia would send her most cunning allies to infiltrate the O5 Council and the SCP Foundation, sowing discord from within their ranks.",
+		"",
+		"The Scarlet's Forces knew that an attack on the heart of the alliance would be risky, but they were desperate to turn the tide of the interdimensional war in their favor.",
+		"",
+		"As they finalized their plan, a sense of anticipation filled the room. The fate of the multiverse now rested on their next move, and they were determined to bring chaos and destruction to the very core of the United Interdimensional Alliance."
+	],
+	dependencies: [
+		"2867e3ee"
+	],
+	tasks: [{
+		uid: "12e547cc",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_single 1 2"
+		}]
+	}]
+}

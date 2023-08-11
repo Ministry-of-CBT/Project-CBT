@@ -1,0 +1,27 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  universal_layout_whitelist = net.minecraft.client.gui.GuiOptions;net.minecraft.client.gui.GuiWorldSelection;net.minecraft.client.gui.GuiWorldEdit;net.minecraft.client.gui.GuiYesNo;net.minecraft.client.gui.GuiCreateWorld;net.dries007.tfc.client.gui.GuiCustomizeWorld;net.minecraft.client.gui.GuiCreateFlatWorld;net.minecraft.client.gui.GuiCreateFlatWorld;net.minecraft.client.gui.GuiFlatPresets;net.minecraft.client.gui.GuiScreenCustomizePresets;net.minecraft.client.gui.GuiMultiplayer;net.minecraft.client.gui.GuiScreenAddServer;net.minecraft.client.gui.GuiScreenServerList;com.bloodnbonesgaming.loadingscreens.client.gui.override.GuiConnectingWrapper;com.bloodnbonesgaming.loadingscreens.client.gui.override.GuiDisconnectedOverride;net.minecraft.client.gui.GuiVideoSettings;net.minecraft.client.gui.GuiCustomizeSkin;ichttt.mods.moresoundconfig.gui.GuiSound;net.minecraft.client.gui.GuiControls;net.minecraft.client.gui.ScreenChatOptions;net.minecraft.client.gui.GuiSnooper;micdoodle8.mods.galacticraft.core.client.gui.screen.GuiNewSpaceRace
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/projectcbt/ftbicons/project-cbt-icon.png
+  orientation = bottom-right
+  x = -51
+  width = 49
+  actionid = b3450154-f17e-495c-b756-d18bd52d2a3c1691765542467
+  action = addtexture
+  y = -51
+  height = 48
+}
+

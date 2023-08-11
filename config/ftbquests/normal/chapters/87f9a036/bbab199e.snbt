@@ -24,5 +24,10 @@
 		items: [{
 			item: "gregtech:machine 1 989"
 		}]
+	}],
+	rewards: [{
+		uid: "ab22fdf3",
+		type: "item",
+		item: "scp:nightvision_goggles"
 	}]
 }

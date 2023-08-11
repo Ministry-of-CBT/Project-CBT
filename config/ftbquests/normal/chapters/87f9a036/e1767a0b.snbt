@@ -1,11 +1,29 @@
 {
+	title: "UIA Headquarters",
 	x: -37.5d,
 	y: 32.0d,
+	description: "Totally not sus amongus meeting",
+	text: [
+		"In the secure meeting room of the United Interdimensional Alliance, representatives from various realms gathered, their faces determined but burdened by the weight of the interdimensional war. The Queen of the Chess Realm, Reimu, Marisa, GregoriousT, Colonel Turner, and other key members of the alliance were present, discussing their next steps in countering The Scarlet's Forces.",
+		"",
+		"The Queen of the Chess Realm, a strategic genius, spoke with conviction. \"The Scarlet's Forces will try to exploit our unity and sow discord among us,\" she warned. \"We must remain vigilant and trust in each other, for it is our unity that has brought us this far.\"",
+		"",
+		"Reimu nodded, her resolve unwavering. \"Indeed, our strength lies in our diversity and our ability to work together,\" she said. \"We cannot afford to let doubt or fear cloud our judgment.\"",
+		"",
+		"Marisa chimed in, her eyes ablaze with determination. \"We've faced all sorts of adversaries before,\" she declared. \"And as long as we stick together, we can handle whatever they throw at us.\"",
+		"",
+		"GregoriousT, drawing from his experience as a guardian of a realm, added, \"We've got advanced technology at our disposal, and with our combined efforts, we can overcome any challenge.\"",
+		"",
+		"Colonel Turner, representing the military might of Earth, spoke with authority. \"We've faced dangerous adversaries on Earth, and this is no different,\" he stated. \"We know how to deal with threats, and with the UIA by our side, we're stronger than ever.\""
+	],
+	dependencies: [
+		"07680f75"
+	],
 	tasks: [{
-		uid: "d731d5b1",
+		uid: "e36b424e",
 		type: "item",
 		items: [{
-			item: "minecraft:sapling 1 2"
+			item: "gregtech:machine 1 1687"
 		}]
 	}]
 }

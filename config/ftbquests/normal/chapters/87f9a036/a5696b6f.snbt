@@ -1,0 +1,30 @@
+{
+	title: "UIA meeting, the unity and more",
+	x: -39.0d,
+	y: 32.0d,
+	text: [
+		"As the meeting continued, the members of the United Interdimensional Alliance reaffirmed their commitment to one another and their cause. They shared knowledge, devised strategies, and prepared to confront The Scarlet's Forces head-on.",
+		"",
+		"Recognizing the importance of defending their unity, they decided to fortify communication and cooperation among their ranks. They established protocols for sharing information securely and fostering stronger bonds between representatives from different realms.",
+		"",
+		"Meanwhile, the O5 Council and the SCP Foundation utilized their vast intelligence network to monitor any signs of infiltration or subversion attempts from within their ranks. They bolstered their security measures to ensure the alliance remained strong and impenetrable.",
+		"",
+		"The Queen of the Chess Realm called upon her chess pieces to act as sentinels, patrolling the dimensions to alert the alliance of any suspicious activity.",
+		"",
+		"Reimu, Marisa, and other influential members reached out to the rest of the alliance, reinforcing the importance of trust and unity in the face of The Scarlet's attempts to sow discord.",
+		"",
+		"The members of the United Interdimensional Alliance knew that the coming battles would be more intense than ever, but they also understood that their strength lay in their bond as allies and friends from different realms. They were not only fighting for the preservation of their own dimensions but for the very existence of the multiverse.",
+		"",
+		"With their flag, the star surrounded by many stars, flying high as a symbol of their unity, they resolved to face The Scarlet's Forces with unwavering courage and determination. The interdimensional war had become a battle for the soul of existence, and they were ready to confront whatever challenges lay ahead, knowing that they were stronger together than they could ever be apart."
+	],
+	dependencies: [
+		"e1767a0b"
+	],
+	tasks: [{
+		uid: "03e0bca8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 205"
+		}]
+	}]
+}

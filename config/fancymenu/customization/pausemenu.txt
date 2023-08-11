@@ -1,0 +1,61 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiIngameMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/projectcbt/ftbicons/project-cbt-icon.png
+  orientation = bottom-left
+  x = 2
+  width = 105
+  actionid = 14c126db-8d38-4cc1-b2e2-275fd63355471691766093816
+  action = addtexture
+  y = -102
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = You want sex with marisa?
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2c913072-a0aa-4d87-be03-f3412b69329f1691766340272
+  y = -12
+  alignment = centered
+  height = 10
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = sendmessage
+  label = Yes!
+  loopbackgroundanimations = true
+  orientation_element = 2c913072-a0aa-4d87-be03-f3412b69329f1691766340272
+  x = 49
+  width = 100
+  actionid = 11172bc4-d11f-448d-8477-6f8aa1cfec9e1691766408322
+  action = addbutton
+  y = -24
+  value = I WANT SEX WITH MARISA! I WANT SEX WITH MARISA! I WANT SEX WITH MARISA! I WANT SEX WITH MARISA!
+  height = 20
+}
+
