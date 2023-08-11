@@ -20,6 +20,10 @@ Notes:
 ------
 - Gameplay wise please set your world to TFC CLASSIC. YOU MAY NOT BE ABLE TO PROGRESS THROUGH THE QUESTS IF YOU USE A DIFFERENT WORLD TYPE. BEWARE.
 
+# Releases
+
+[Project CBT All Versions](./SECURITY.md)
+
 # Code of Conduct
 
 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
