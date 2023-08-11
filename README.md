@@ -64,6 +64,103 @@ Once you, the En Croissant Dummy downloaded one of thoze Project-CBT dev zips ju
 
 Aight The Modlist are as follows:
 
+NEW MODLIST - MODLIST HAS CHANGED AND THEREFORE LINKS MAY BE MISSING!
+- Advanced Backups
+- Advancement Plaques [Forge]
+- AE2 Unofficial Extended Life
+- Ambience - Extras (Music Mod)
+- AsmodeusCore
+- AtomicStryker's Battle Towers
+- AttributeFix
+- AutoRegLib
+- Avaritia 1.1x
+- Baubles
+- Better Advancements
+- BNBGamingLib
+- Carry On
+- Chameleon
+- Clumps
+- CodeChicken Lib 1.8.+
+- Collective
+- CoroUtil
+- Cosmetic Armor Reworked
+- Custom FoV (Fabric/Forge/Quilt)
+- Custom Loading Screen
+- Custom Window Title
+- Dynamic Trees
+- Dynamic Trees TFC
+- Enchantment Descriptions
+- Ex Nihilo: Creatio
+- ExtraPlanets
+- FancyMenu [Forge]
+- FastFurnace
+- FastWorkbench
+- First Join Message
+- Foam​Fix
+- FTB Library (Forge) (Legacy)
+- FTB Quests (Forge)
+- Galacticraft Legacy
+- Galaxy Space [Addon for GalactiCraft]
+- Gregicality Multiblocks
+- GregTech CE Unofficial
+- GregTech Food Option
+- Had Enough Items
+- Hardcore Darkness
+- Hardcore Revival
+- Hbm's Nuclear Tech - Extended Edition
+- Hostile Worlds - Invasions
+- Hwyla
+- Infinite Night
+- Item Filters
+- JustEnoughIDs
+- Konkrete [Forge]
+- KubeJS
+- Legendary Tooltips [Forge]
+- Let Me Despawn
+- Loading Profiler
+- Loading Progress Bar
+- Loading Screens
+- Load My Resources [Forge]
+- Mantle
+- Mixin 0.7-0.8 Compatibility
+- MixinBooter
+- MJRLegends Lib
+- Modpack Configuration Checker
+- More Planets - Galacticraft Add-on
+- More Player Models
+- Nuclear Option
+- Patchouli
+- Quark
+- Reach Fix
+- Refined Storage
+- Resource Loader
+- RLCombat
+- Scaling Health
+- Scape and Run: Parasites
+- SCP: Lockdown
+- Shadowfacts' Forgelin
+- Silent's Gems
+- Silent's Gems - TiC Support
+- Silent Gear
+- Silent Lib (silentlib)
+- Sound Device Options
+- Spartan Weaponry
+- SplashAnimation
+- SteveKunG's Lib
+- Storage Drawers
+- SwingThroughGrass
+- TerraFirmaCraft
+- TerraFirmaThings
+- TexFix
+- Thaumcraft
+- Tinkers Construct
+- Touhou Little Maid
+- YUNG's Better Caves (Forge)
+- YUNG's Better Mineshafts (Forge)
+- Zollern Galaxy
+- Zombie Awareness
+
+OLD MODLIST FOR REFERENCE
 
 - [Advancement Plaques (Forge)](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques)
 - [Advanced Backups](https://www.curseforge.com/minecraft/mc-mods/advanced-backups)
