@@ -34,5 +34,10 @@
 		type: "xp",
 		value: 233L,
 		points: true
+	}],
+	rewards: [{
+		uid: "0aac4720",
+		type: "item",
+		item: "gregtech:cable_single 1 23"
 	}]
 }

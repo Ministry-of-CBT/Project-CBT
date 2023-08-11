@@ -41,5 +41,15 @@
 		items: [{
 			item: "gregtech:machine 1 111"
 		}]
+	}],
+	rewards: [{
+		uid: "e7175e6e",
+		type: "item",
+		item: {
+			id: "hbm:battery_advanced",
+			tag: {
+				charge: 20000L
+			}
+		}
 	}]
 }

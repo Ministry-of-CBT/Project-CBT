@@ -1,6 +1,20 @@
 {
+	title: "Scarlet Forces Headquarters 1",
 	x: -37.5d,
 	y: 34.0d,
+	text: [
+		"In the dimly lit meeting room, representatives from The Scarlet's Forces gathered, their faces masked in shadows. Yukari Yakumo, Flandre Scarlet, Remilia Scarlet, Satori Komeiji, and their allies from different realms were present. The tension in the air was palpable, their alliance forged by a shared desire for chaos and power.",
+		"",
+		"Yukari, the mastermind behind much of their strategy, stood at the head of the table, her gap manipulation abilities granting her an aura of authority. \"Our campaign across dimensions has faced resistance,\" she said, her voice cold and calculating. \"The United Interdimensional Alliance and the SCP Foundation have proven to be more formidable adversaries than we anticipated.\"",
+		"",
+		"Flandre, her frustration evident, clenched her fists. \"I thought we could bring everything to ruin with our powers,\" she muttered. \"But they just keep coming back.\"",
+		"",
+		"Remilia, her crimson eyes gleaming with determination, interjected, \"They have formed alliances and united against us. It seems they have learned the true strength lies in unity.\"",
+		"",
+		"Satori Komeiji, the mind reader, observed the room silently, gathering the emotions and thoughts of those present. \"The bonds between their members seem unbreakable,\" she said. \"We must find a way to exploit their weaknesses and sow discord among them.\"",
+		"",
+		"Yukari nodded in agreement. \"Indeed. The Queen of the Chess Realm has proven to be the heart of their unity,\" she said. \"If we can disrupt their coordination and make them doubt one another, their alliance will crumble.\""
+	],
 	tasks: [{
 		uid: "ce0c4ce7",
 		type: "item",

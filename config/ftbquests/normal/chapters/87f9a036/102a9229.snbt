@@ -24,5 +24,10 @@
 		items: [{
 			item: "hbm:ingot_beryllium"
 		}]
+	}],
+	rewards: [{
+		uid: "a7e465f6",
+		type: "item",
+		item: "hbm:crate_weapon"
 	}]
 }

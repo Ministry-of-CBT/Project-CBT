@@ -1,0 +1,13 @@
+name = "SCP: Lockdown"
+filename = "SCP Lockdown-1.12.2-2.4.2-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87013b9ed84593616efacc276cd17f6b9f8ea669"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937127
+project-id = 298995

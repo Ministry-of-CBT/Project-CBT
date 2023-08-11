@@ -1,0 +1,13 @@
+name = "Hostile Worlds - Invasions"
+filename = "hostileworlds_invasions-1.12.1-1.1.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08a59d554f13d1da50bcfa4527b4d722af370817"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2851097
+project-id = 257244

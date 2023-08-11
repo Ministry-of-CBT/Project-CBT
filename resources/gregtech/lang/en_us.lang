@@ -2377,12 +2377,12 @@ metaitem.cover.digital.wireless.name=Wireless Digital Interface
 metaitem.coloured.leds.name=Coloured LEDs
 metaitem.display.name=Display
 
-tile.casing.ulv=ULV Machine Casing
-tile.casing.lv=LV Machine Casing
-tile.casing.mv=MV Machine Casing
-tile.casing.hv=HV Machine Casing
-tile.casing.ev=EV Machine Casing
-tile.casing.iv=IV Machine Casing
+tile.casing.ulv=Ungreggy Machine Casing
+tile.casing.lv=Loser's Machine Casing
+tile.casing.mv=Basic Machine Casing
+tile.casing.hv=Advanced Machine Casing
+tile.casing.ev=Superadvanced Machine Casing
+tile.casing.iv=Accelerated Machine Casing
 
 # Wire coil blocks
 tile.wire_coil.tooltip_extended_info=Hold SHIFT to show Coil Bonus Info
@@ -2498,21 +2498,21 @@ tile.metal_casing.hsse_sturdy.name=Sturdy HSS-E Machine Casing
 tile.metal_casing.palladium_substation.name=Palladium Substation Casing
 
 # Machine casing blocks
-tile.machine_casing.ultra_low_voltage.name=ULV Machine Casing
-tile.machine_casing.low_voltage.name=LV Machine Casing
-tile.machine_casing.medium_voltage.name=MV Machine Casing
-tile.machine_casing.high_voltage.name=HV Machine Casing
-tile.machine_casing.extreme_voltage.name=EV Machine Casing
-tile.machine_casing.insane_voltage.name=IV Machine Casing
-tile.machine_casing.ludicrous_voltage.name=LuV Machine Casing
-tile.machine_casing.zpm_voltage.name=ZPM Machine Casing
-tile.machine_casing.ultimate_voltage.name=UV Machine Casing
-tile.machine_casing.ultra_high_voltage.name=UHV Machine Casing
-tile.machine_casing.ultra_excessive_voltage.name=UEV Machine Casing
-tile.machine_casing.ultra_immense_voltage.name=UIV Machine Casing
-tile.machine_casing.ultra_extreme_voltage.name=UXV Machine Casing
-tile.machine_casing.overpowered_voltage.name=OpV Machine Casing
-tile.machine_casing.maximum_voltage.name=MAX Machine Casing
+tile.machine_casing.ultra_low_voltage.name=Ungreggy Machine Casing
+tile.machine_casing.low_voltage.name=Loser's Machine Casing
+tile.machine_casing.medium_voltage.name=Basic Machine Casing
+tile.machine_casing.high_voltage.name=Advanced Machine Casing
+tile.machine_casing.extreme_voltage.name=Superadvanced Machine Casing
+tile.machine_casing.insane_voltage.name=Accelerated Machine Casing
+tile.machine_casing.ludicrous_voltage.name=Superaccelerated Machine Casing
+tile.machine_casing.zpm_voltage.name=Hyperaccelerated Machine Casing
+tile.machine_casing.ultimate_voltage.name=Quantum Machine Casing
+tile.machine_casing.ultra_high_voltage.name=Accelerated Quantum Machine Casing
+tile.machine_casing.ultra_excessive_voltage.name=Hyperaccelerated Machine Casing
+tile.machine_casing.ultra_immense_voltage.name=Cosmic Machine Casing
+tile.machine_casing.ultra_extreme_voltage.name=X-Machine Casing
+tile.machine_casing.overpowered_voltage.name=§d§l[CBT] §rMachine Casing
+tile.machine_casing.maximum_voltage.name=§e[Sex Machine Casing]
 
 # Steam casing blocks
 tile.steam_casing.bronze_hull.name=Bronze Hull

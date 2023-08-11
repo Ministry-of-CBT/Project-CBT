@@ -28,5 +28,10 @@
 		items: [{
 			item: "gregtech:machine 1 51"
 		}]
+	}],
+	rewards: [{
+		uid: "1d1a07fe",
+		type: "item",
+		item: "hbm:crate_weapon"
 	}]
 }
