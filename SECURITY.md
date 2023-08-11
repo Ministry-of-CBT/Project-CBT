@@ -8,4 +8,11 @@ This modpack is INDEV Phase. I will start adding releases here once the modpack 
 
 # Releases
 
-## Sorry, that doesn't exist yet.
+## Alpha
+
+### v0.1.x (Coming Soon)
+
+## Dev10 before alpha
+
+[v0.0.0-dev10 CLIENT](https://github.com/Nrmot-GithubRepo/Project-CBT/releases/download/v0.0.0-dev10/Project.CBT-DEV.zip)
+

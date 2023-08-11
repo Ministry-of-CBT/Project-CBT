@@ -2,6 +2,8 @@
 
 This repository now belongs to an organization owned by Nrmot
 
+FOR ALL FUTURE RELEASES DIRECT LINKS PLEASE GO TO SECURITY TAB OF THIS REPOSITORY!!!!!!
+
 ENJOY THE NEW OST FOR NOW 
 
 ALSO ANOTHER IMPORTANT: SCHOOL FOR ME STARTS IN LESS THAN 2 WEEKS, ONCE SCHOOL STARTS FOR ME (AUGUST 15) I WILL PROBABLY WIND DOWN A LOT BUT I WILL NOT FULLY ABANDON THIS PROJECT JUST BECAUSE OF LIL SCHOOL!
@@ -17,6 +19,10 @@ Notes:
 - ALSO THERE WILL BE NO JENNY MOD BECAUSE IT IS INCOMPATIBLE AND CONFLICTING WITH LE MODPACK!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ------
 - Gameplay wise please set your world to TFC CLASSIC. YOU MAY NOT BE ABLE TO PROGRESS THROUGH THE QUESTS IF YOU USE A DIFFERENT WORLD TYPE. BEWARE.
+
+# Releases
+
+[Project CBT All Versions](./SECURITY.md)
 
 # Code of Conduct
 
@@ -145,9 +151,7 @@ Aight The Modlist are as follows:
 
 ## Getting Started
 
-With the world at permanent nighttime with hardcore darkness you must find a glowing flower from Silent's Gems as it is the only natural light source spawning. If your surroundings doesn't have one, you are either fucked or you need to travel long way before finding a glowing flower.
-
-Then your true CBT experience begins.
+With the world at permanent nighttime with hardcore darkness you must find a glowing flower from Silent's Gems as it is the only natural light source spawning. If your surroundings doesn't have one, you are either fucked or you need to travel long way before finding a glowing flower, because why? Frick you I SLAPPED TFC, SCAPE AND RUN PARASITES, AND NOW ZOMBIE AWARENESS JUST TO DESTROY YOUR SANITY! RUN RUN RUN IF YOU SEE ANY OF THE HOSTILE MOBS, NO ONE NOT EVEN GREG CAN SAVE YOUR LIFE! What did you expect this is a modpack designed for pure c*ck and ball torture
 
 ## Lore
 
@@ -175,6 +179,12 @@ Gregification Imminent.
 - Bad Apple: Project CBT Remix
 - Butterfly: Project CBT Remix
 - Golden Sky: Project CBT Remix
+
+
+[][][] > Gameover Music
+
+
+- Never Gonna Give You Up (Project CBT Remix)
 
 
 [][][] > Note:
