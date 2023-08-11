@@ -38,6 +38,8 @@ Notes:
 
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
+![project-cbt-4](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/141803157/3ebf1198-19a6-4d34-9522-0d828e803788)
+
 ## What is this and how do i get rid of it?
 
 Project CBT: A minecraft modpack that tries to combine aspects of RLCraft, GTNH, Touhou and HBM's Nuclear Tech Mod into 1 totally not buggy masterpiece that will totally not destroy your c***
