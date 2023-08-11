@@ -1,3 +1,7 @@
+![project-cbt-icon](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/141803157/ef9bbbb3-77de-42be-b1c4-625f6b6a99e4)
+
+>>>> New Official Icon!
+
 # BIG FAT NOTICE: 
 
 This repository now belongs to an organization owned by Nrmot
