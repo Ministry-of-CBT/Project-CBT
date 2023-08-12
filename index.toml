@@ -22,11 +22,11 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "b195bf93cc1394c1a7bd93d304f31febf19a6ec4650ef43b8a6ef044dae7bff9"
+hash = "5c106813121532432a10b029ea092a90557074d52f0186c33239c79a3cd8188b"
 
 [[files]]
 file = "SECURITY.md"
-hash = "e4b378ff48dea56af677c319643417b3cd951ec30f839ec21319c73a3d379140"
+hash = "f4df8ad9f770bb888448303c21d14b11edf465fa1d482d01be6597df5a84d016"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -70,7 +70,7 @@ hash = "b9e5b4c14d1625ca07f1823097f9e897365b8d3fd5d1a05b7b480405b0c66737"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "a95c97a48e63fc64f44789212240b67cbadf4bfb94b00cb9fc87aced5b30087e"
+hash = "303a2e9d247e5996b32b14335c5259784254d8427b7ac91b17e01bf8b086ec90"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -94,39 +94,39 @@ hash = "f654163cfe3ffc022d23d59b78dcc9be3f663647c6fbd79c20cdb04269c693d3"
 
 [[files]]
 file = "config/CoroUtil/data/loot_tables/testloot.json"
-hash = "9979424d661a014bbce3e092f242cf860ef0437c8174d841fb0d1323081282fa"
+hash = "456743b393f45d87770267d400f76ed71b752c12bf3f237d50807b4336a5d38d"
 
 [[files]]
 file = "config/CoroUtil/data/loot_tables/testlootboss.json"
-hash = "dc5954fae1d1f8f52af20290f1f45e6c66889d9db5855129e7ffe820fdb4da77"
+hash = "a0b31fe5ef5f25f47c07e644939af41df4db72ef581e34d9d1c6c855d3f71bd1"
 
 [[files]]
 file = "config/CoroUtil/data/templates/actions/mob_spawns.json"
-hash = "3100ef62f40c71ab180a059d0ec1d5769399298e7130afb48f2eaba4183cf2fe"
+hash = "a7d2b7769e659f4c32620a679163682088646e9aefff7f71849022133ebfcb8a"
 
 [[files]]
 file = "config/CoroUtil/data/templates/actions/mob_spawns_example_commented.json"
-hash = "ab6b6f5fd664347b64fa0f5356b30b54fb00538adb23cca16fba62c3705a8ece"
+hash = "54c6760623e2822bc8557c8bc744e63dfae8801390288378da6b31a481f892d3"
 
 [[files]]
 file = "config/CoroUtil/data/templates/actions/mob_spawns_testing_miners.json"
-hash = "cebda00491a291ab518a705d9e153dfc37e8695fb3da67b2338cf484860c95be"
+hash = "525b9ea0830da28e9b051daad27d049a521ddd9d773c8b0a688b893f10e9fe03"
 
 [[files]]
 file = "config/CoroUtil/data/templates/cmods/all_cmods.json"
-hash = "ce35546355152e0dd1b18329b2126173d73bd9181cbcaaa2858cc42e024e0268"
+hash = "fff48c420dd83cad8124a2f21a22ee5d2948b684230adc440eabfad57ba6c0b0"
 
 [[files]]
 file = "config/CoroUtil/data/templates/cmods/invasions_cmods.json"
-hash = "9d4b0e0ec28bb9c33b31d3b5062cd64305d6962a36a3fd6b3a85e42e10c77f71"
+hash = "bd720c3e45105449525a4c4b075841cea75cd13404e2f19d97ab59ad77cfb3b3"
 
 [[files]]
 file = "config/CoroUtil/data/templates/conditions/all_conditions.json"
-hash = "20164199b627e8c06a2ab4e0d0b6241e0b8aa1633cee143c913ae8adf4487cd1"
+hash = "5b1a7ffe2117a5fcd828e3a94df331b1dea626dadc70ad70b8087a7d8310dd15"
 
 [[files]]
 file = "config/CoroUtil/data/templates/conditions/invasions_stages.json"
-hash = "4a49dc36831303f93230819fe5fc7791236405217007ae71e5efc1b427cf3914"
+hash = "8bfdb452473127ef758fd40d3fb2516945d9d995b0cd3c555993ce557477e132"
 
 [[files]]
 file = "config/ExtraPlanets.cfg"
@@ -406,7 +406,7 @@ hash = "d3a3c0e033be4855eabdb01b87b21857a5cd4712ef9fbb36a22735c804c9c5b5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "451183553407c43084a1f62d8c1ec288f057edda1c8965612845c52dc0496bb0"
+hash = "2fa973f0624a8023839362156c54086e7cb47d1f1c2c1e1afd492b04904d0019"
 
 [[files]]
 file = "config/fancymenu/customization/PackSetttings.txt"
@@ -414,15 +414,15 @@ hash = "0fa667552b867ca1c2955b872a8a8efb30ef31f6be05027ac87aec101e0a4a7a"
 
 [[files]]
 file = "config/fancymenu/customization/icon-projectcbt.txt"
-hash = "92fe3151aa8ba1687ed3b27d8c4bf4b91258f7ebce7ef5ec8e2f96f7eb6e88e4"
+hash = "ca5ebcbe558a3a7f112354d2dcfd394fbe4fa78ab06601665c556978ad547b98"
 
 [[files]]
 file = "config/fancymenu/customization/pausemenu.txt"
-hash = "01c7c177a0dea4e74f2e546615495722f0bb90d2eede6693d2bd9cde4846f096"
+hash = "1387bbbd7ea2a5d4764e04a97504004e9c3c3421036633992acab5216209e879"
 
 [[files]]
 file = "config/fancymenu/customization/temp.txt"
-hash = "4aa954850d678103621774dac5f8af273678c77d6eca85a43bdce520a5b09a69"
+hash = "3e03a74d795006a42dafcea1aa082767ca0701e4daec54ddb0731eae4e32c5c2"
 
 [[files]]
 file = "config/fancymenu/customization/universalbackground_1_1.txt"
