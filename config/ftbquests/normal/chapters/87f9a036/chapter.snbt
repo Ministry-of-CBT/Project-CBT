@@ -3,7 +3,7 @@
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
-			icon: "projectcbt:ftbicons/project-cbt-1.png"
+			icon: "projectcbt:ftbicons/project-cbt-3.png"
 		}
 	},
 	always_invisible: false,

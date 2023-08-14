@@ -1,6 +1,11 @@
 {
 	title: "Project CBT: Contest Mode!",
-	icon: "silentgems:gem 1 20",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "projectcbt:ftbicons/project-cbt-4.png"
+		}
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

@@ -1,0 +1,24 @@
+{
+	x: -24.5d,
+	y: 20.0d,
+	text: [
+		"As Reimu, Marisa, and the members of the Earth Expeditionary Unit continued their explorations through the Chess Realm, they stumbled upon a particularly unusual location. As they walked through the forest of animated chess pieces, the ground beneath their feet gave a subtle shudder. The air crackled with an arcane energy, and their surroundings seemed to twist and warp.",
+		"",
+		"Turning a corner, they came upon a rift that was unlike anything they had seen before. It pulsated with a mesmerizing array of colors and patterns, resembling the iconic rifts from Thaumcraft 6, a mod from a popular game they all recognized.",
+		"",
+		"Marisa's eyes widened with excitement. \"Hey, doesn't this remind you of something?\" She pointed at the rift, a mixture of fascination and curiosity dancing in her gaze.",
+		"",
+		"Reimu squinted, recognizing the resemblance. \"You're right, it looks just like those rifts from Thaumcraft 6! But this is the Chess Realm, not some Minecraft mod.\"",
+		"",
+		"Lieutenant Colonel Anderson stepped closer, studying the rift with a mix of amazement and caution. \"It's almost as if different realities are bleeding into each other through this rift,\" he mused.",
+		"",
+		"One of the members from the Earth Expeditionary Unit approached, his scientific curiosity getting the best of him. \"This is astonishing. It seems that the principles of reality manipulation we've encountered on our Earth might have parallels here.\""
+	],
+	tasks: [{
+		uid: "7e74fd99",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 321"
+		}]
+	}]
+}

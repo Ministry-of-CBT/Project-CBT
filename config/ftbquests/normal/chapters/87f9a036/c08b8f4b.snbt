@@ -1,0 +1,24 @@
+{
+	x: -26.0d,
+	y: 20.5d,
+	text: [
+		"Marisa's adventurous spirit got the better of her, and she reached out to touch the rift's surface. As her fingers made contact, a surge of energy coursed through her, causing her to recoil with a startled gasp.",
+		"",
+		"\"Marisa, are you okay?\" Reimu asked, concern etching her voice.",
+		"",
+		"Marisa nodded, her expression a mix of exhilaration and surprise. \"Yeah, that was a rush! It's like the rift is charged with magic or something.\"",
+		"",
+		"As they observed the rift, it started to react to their presence. Its pulsations intensified, and the colors swirled more rapidly. The air around it seemed to shimmer with an otherworldly aura.",
+		"",
+		"Anderson's analytical mind was in full gear. \"Perhaps this rift holds the key to understanding the interconnectedness of different realities. If we can harness its power responsibly, it could be a bridge between our worlds.\"",
+		"",
+		"Reimu remained cautious, a hint of worry in her eyes. \"We should be careful, though. Manipulating such powerful energies could have unintended consequences.\""
+	],
+	tasks: [{
+		uid: "0e472b60",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 666"
+		}]
+	}]
+}

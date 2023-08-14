@@ -19,11 +19,6 @@ customization {
 }
 
 customization {
-  identifier = %id=6043821%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = 2
@@ -45,6 +40,76 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\multiplayer.png
   backgroundnormal = fm\multiplayer.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -50
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Unalive!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = -45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 75
+  action = resizebutton
+  height = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\singleplayer.png
+  backgroundnormal = fm\singleplayer.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Fuck You.
+}
+
+customization {
+  identifier = %id=6043821%
+  action = hidebutton
 }
 
 customization {
@@ -84,62 +149,8 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-centered
-  x = -50
-  action = movebutton
-  y = -22
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = setbuttonlabel
-  value = Unalive!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\button.png
-  backgroundnormal = fm\button.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -77
-  action = movebutton
-  y = -45
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 75
-  action = resizebutton
-  height = 75
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\singleplayer.png
-  backgroundnormal = fm\singleplayer.png
 }
 
 customization {
@@ -165,17 +176,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\button.png
   backgroundnormal = fm\button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = setbuttonlabel
-  value = Fuck You.
 }
 
 customization {
@@ -321,33 +321,20 @@ customization {
 }
 
 customization {
-  path = resources/projectcbt/ftbicons/project-cbt-4.png
-  orientation = bottom-left
-  x = 3
-  width = 100
-  actionid = 2861c495-9384-4f0a-9b48-bc13a5a082301691765378411
-  action = addtexture
-  y = -125
-  height = 100
-}
-
-customization {
   orientation = element
-  enable_scrolling = false
-  shadow = true
-  scale = 1.0
-  source = Featuring:
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  orientation_element = 2861c495-9384-4f0a-9b48-bc13a5a082301691765378411
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\projectcbt\ftbicons\project-cbt-4-h.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = 5eb87c10-1f35-41e5-8cc6-4f849f3c36071690428391378
   x = 0
-  width = 94
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 42b075fe-a48e-4980-8721-e1c0291ed2101691765412877
-  y = -11
-  alignment = left
-  height = 10
+  width = 100
+  actionid = fbc8049b-23e4-4bc1-ac20-d44983cc3e611691945774556
+  action = addbutton
+  y = -103
+  backgroundnormal = resources\projectcbt\ftbicons\project-cbt-4.png
+  value = https://www.reddit.com/r/feedthememes
+  height = 100
 }
 

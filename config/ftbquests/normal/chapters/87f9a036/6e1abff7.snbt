@@ -1,0 +1,28 @@
+{
+	title: "Hmmmmmmm hmmm hmmm",
+	x: -23.0d,
+	y: 19.5d,
+	description: "greg",
+	text: [
+		"Reimu's skepticism remained, but a sense of camaraderie began to form. \"Are you here to conquer or cause trouble?\" she inquired cautiously.",
+		"",
+		"The lieutenant colonel shook his head emphatically. \"No, absolutely not. We're explorers, not conquerors. We respect the sovereignty of other worlds and civilizations. Our only interest here is understanding and cooperation.\"",
+		"",
+		"Marisa stepped closer, her skepticism giving way to curiosity. \"Cooperation? With us?\"",
+		"",
+		"Anderson nodded. \"Yes. It seems our arrival has triggered some unintended consequences in this realm. We believe working together might be the key to resolving these disturbances and restoring balance.\"",
+		"",
+		"Reimu and Marisa exchanged glances once again, the weight of the situation sinking in. This encounter had brought them face to face with not only an entirely different Earth but the potential for a unique alliance.",
+		"",
+		"As the initial tension ebbed away, the characters of Gensokyo and the Earth Expeditionary Unit began to discuss their respective experiences and knowledge. A bond formed over shared goals – to explore, to understand, and to protect their worlds from the unknown.",
+		"",
+		"And so, amidst the vibrant chessboard landscape, an unexpected alliance was forged between worlds that were once distant and unknown to each other. Together, they embarked on a journey to uncover the mysteries of the Chess Realm, to find the cause of the disturbances, and to ensure the harmony of not just one reality, but multiple."
+	],
+	tasks: [{
+		uid: "12cf30a2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 306"
+		}]
+	}]
+}
