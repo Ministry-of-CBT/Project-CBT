@@ -1,6 +1,6 @@
 DEVELOPMENT TIME HAS BEEN PARTIALLY STALLED!!!! Releases will be posted atleast once or twice every week since school is just around the corner, atleast for me and i have been told that its just 5 days left. PLEASE NOTE THAT I STILL ACCEPT CONTRIBUTIONS AND THE PROJECT WILL NOT BE DEAD IN THE FORESEEABLE FUTURE
 
-i am going insane, school starting so byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ill probably be less active on reddit or github.
+i am going insane, school starting so byee ill probably be less active on reddit or github.
 
 i will move releases to weeekends and probably minor changes, unless i can get full time contributors then everyday releasing is now impossible
 
