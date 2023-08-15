@@ -5,6 +5,7 @@ i am going insane, school starting so byee ill probably be less active on reddit
 i will move releases to weeekends and probably minor changes, unless i can get full time contributors then everyday releasing is now impossible
 
 so regian made a video and did not post link
+also if this leads to some shady drama i wili will probably pull the plug
 
 # Releases
 
