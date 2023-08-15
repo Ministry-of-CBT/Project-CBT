@@ -8,9 +8,7 @@ i will move releases to weeekends and probably minor changes, unless i can get f
 
 [Project CBT All Versions](./SECURITY.md)
 
-# Banner
-
-![banner](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/b81e24f2-218b-41d3-b4e7-3f9e90954b57)
+# Official Banner for Youtube Use
 
 ![project-cbt-icon](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/141803157/ef9bbbb3-77de-42be-b1c4-625f6b6a99e4)
 
@@ -45,6 +43,8 @@ Notes:
 # Project CBT aka: Cock and Ball Touhouture: NuclearGreg Horizons
 
 ![project-cbt-4](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/141803157/3ebf1198-19a6-4d34-9522-0d828e803788)
+
+![banner](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/139649330/b81e24f2-218b-41d3-b4e7-3f9e90954b57)
 
 ## What is this and how do i get rid of it?
 
