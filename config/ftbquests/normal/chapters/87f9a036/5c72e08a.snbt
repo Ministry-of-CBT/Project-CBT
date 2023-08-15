@@ -29,5 +29,16 @@
 		items: [{
 			item: "gregtech:wire_single 1 2"
 		}]
+	},
+	{
+		uid: "93c44126",
+		type: "item",
+		items: [{
+			id: "gregtech:machine",
+			tag: {
+				ntmNeutron: 0.39120546f
+			},
+			Damage: 321s
+		}]
 	}]
 }

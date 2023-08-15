@@ -7,6 +7,7 @@
 		"",
 		"fluxposting"
 	],
+	optional: true,
 	tasks: [{
 		uid: "c17ed212",
 		type: "item",

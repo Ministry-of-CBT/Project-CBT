@@ -1,6 +1,8 @@
 {
+	title: "Are you okay my greghighnesss???",
 	x: -26.0d,
 	y: 20.5d,
+	description: "so kring and kliche and so bulllthefuckingshitttttttttttttttttt",
 	text: [
 		"Marisa's adventurous spirit got the better of her, and she reached out to touch the rift's surface. As her fingers made contact, a surge of energy coursed through her, causing her to recoil with a startled gasp.",
 		"",
@@ -14,6 +16,10 @@
 		"",
 		"Reimu remained cautious, a hint of worry in her eyes. \"We should be careful, though. Manipulating such powerful energies could have unintended consequences.\""
 	],
+	dependencies: [
+		"e1d7b920"
+	],
+	hide: true,
 	tasks: [{
 		uid: "0e472b60",
 		type: "item",

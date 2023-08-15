@@ -18,6 +18,10 @@
 		"",
 		"And so, amidst the vibrant chessboard landscape, an unexpected alliance was forged between worlds that were once distant and unknown to each other. Together, they embarked on a journey to uncover the mysteries of the Chess Realm, to find the cause of the disturbances, and to ensure the harmony of not just one reality, but multiple."
 	],
+	dependencies: [
+		"d9480e7b"
+	],
+	hide: true,
 	tasks: [{
 		uid: "12cf30a2",
 		type: "item",

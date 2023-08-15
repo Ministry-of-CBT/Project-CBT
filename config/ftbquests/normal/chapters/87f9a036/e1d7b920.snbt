@@ -1,6 +1,8 @@
 {
+	title: "THAUMCRAFT REFERENCE FUCK YOUR UNGREGGY RIFT",
 	x: -24.5d,
 	y: 20.0d,
+	description: "patay",
 	text: [
 		"As Reimu, Marisa, and the members of the Earth Expeditionary Unit continued their explorations through the Chess Realm, they stumbled upon a particularly unusual location. As they walked through the forest of animated chess pieces, the ground beneath their feet gave a subtle shudder. The air crackled with an arcane energy, and their surroundings seemed to twist and warp.",
 		"",
@@ -14,6 +16,10 @@
 		"",
 		"One of the members from the Earth Expeditionary Unit approached, his scientific curiosity getting the best of him. \"This is astonishing. It seems that the principles of reality manipulation we've encountered on our Earth might have parallels here.\""
 	],
+	dependencies: [
+		"6e1abff7"
+	],
+	hide: true,
 	tasks: [{
 		uid: "7e74fd99",
 		type: "item",
