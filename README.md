@@ -61,7 +61,7 @@ Also Sans from Undertale will make an appearance
 
 Project CBT is the codename. The real name is Cock and Ball Touhouture: NuclearGreg Horizons
 
-or you can just call it project cringe and bullshit torture
+or you can just call it project cringe and bullshit torture if you don't want youtube demonization 
 
 Will there be a curseforge upload: No but do it yourself. 
 
