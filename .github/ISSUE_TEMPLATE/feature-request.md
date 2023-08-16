@@ -7,26 +7,18 @@ assignees: ''
 
 ---
 
-[Y/N] Played this modpack?
-[Y/N] OptiNOTFine?
-[Y/N] Issue
 [Y/N] Feature Request
-[Y/N] Lore issue?
 
 Modpack Version: (if any)
 
-Issue/Feature Request:
+Feature Request:
 
-Affected Items:
+Implementation:
 
-Culprit Items:
-
-Evidence:
+Potential problems:
 
 Solution:
 
-[if bug/crash] Error Messages: 
-
-Put Your Issue Label here: 
+Put Your Issue Label here: _________________
 
 Optional: [Computer Specs, OS version]
