@@ -9,6 +9,8 @@ also if this leads to some shady drama i will probably pull the plug
 
 before proceeding to download this modpack I'm not responsible for anything that can happen, by downloading this modpack you are atleast above the age of 15, common sense
 
+also uhhhh 
+
 # Releases
 
 [Project CBT All Versions](./SECURITY.md)
@@ -25,14 +27,6 @@ This repository now belongs to an organization owned by Nrmot
 
 FOR ALL FUTURE RELEASES DIRECT LINKS PLEASE GO TO SECURITY TAB OF THIS REPOSITORY!!!!!!
 
-ENJOY THE NEW OST FOR NOW 
-
-ALSO ANOTHER IMPORTANT: SCHOOL FOR ME STARTS IN LESS THAN 2 WEEKS, ONCE SCHOOL STARTS FOR ME (AUGUST 15) I WILL PROBABLY WIND DOWN A LOT BUT I WILL NOT FULLY ABANDON THIS PROJECT JUST BECAUSE OF LIL SCHOOL!
-
-ALL THE OSTS USED HAVE IT'S OWN SECTION..
-------
-Notes:
-- ALSO IN THE FUTURE SECURITY.MD WILL BE USED TO DENOTE FULL RELEASES SO YEAH
 - A WORK IN PROGRESS OFFICIAL WIKI HAS BEEN MADE, IN THE FUTURE IT WILL BE USED TO DOCUMENT GUIDES.
 - ALSO yeah there's the Project-CBT discussion in github, so all other topics go there.
 - ALSO AGAIN CAN SOMEONE ADD MOD COMPATIBILITY BETWEEN TOUHOU LITTLE MAID, GREGTECH AND HBM FOR 1.12.2?
