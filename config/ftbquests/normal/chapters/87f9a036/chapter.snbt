@@ -1,11 +1,6 @@
 {
 	title: "The Touhou x GTNH Storyline",
-	icon: {
-		id: "ftbquests:custom_icon",
-		tag: {
-			icon: "projectcbt:ftbicons/project-cbt-3.png"
-		}
-	},
+	icon: "zollerngalaxy:stargate_moon",
 	always_invisible: false,
 	group: -1580550413,
 	default_quest_shape: "gear"

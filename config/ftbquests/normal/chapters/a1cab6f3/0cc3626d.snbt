@@ -16,16 +16,5 @@
 		uid: "b275d07e",
 		type: "checkmark",
 		title: "FAQ"
-	}],
-	rewards: [{
-		uid: "4efc8eb3",
-		type: "item",
-		title: "have fun HAHAHAHHAHAHA FUCK YOU!",
-		item: {
-			id: "minecraft:potion",
-			tag: {
-				Potion: "minecraft:night_vision"
-			}
-		}
 	}]
 }

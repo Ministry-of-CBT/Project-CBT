@@ -1,6 +1,6 @@
 {
-  "weight": 80,
-  "density": 0.2,
+  "weight": 40,
+  "density": 0.1,
   "max_height": 60,
   "min_height": 5,
   "vein_populator": {

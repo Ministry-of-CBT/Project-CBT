@@ -5,7 +5,6 @@
 	text: [
 		"I want all your pipe bombs now or else."
 	],
-	optional: true,
 	tasks: [{
 		uid: "72333123",
 		type: "item",

@@ -15,14 +15,11 @@
 		"",
 		"Yukari nodded in agreement. \"Indeed. The Queen of the Chess Realm has proven to be the heart of their unity,\" she said. \"If we can disrupt their coordination and make them doubt one another, their alliance will crumble.\""
 	],
-	dependencies: [
-		"07680f75"
-	],
 	tasks: [{
-		uid: "d6188fc4",
+		uid: "ce0c4ce7",
 		type: "item",
 		items: [{
-			item: "gregtech:wire_single 1 427"
+			item: "minecraft:sapling 1 1"
 		}]
 	}]
 }

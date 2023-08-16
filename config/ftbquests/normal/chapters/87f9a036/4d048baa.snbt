@@ -31,10 +31,5 @@
 			item: "gregtech:machine 1 985"
 		}],
 		count: 6L
-	}],
-	rewards: [{
-		uid: "0cc1bbbb",
-		type: "item",
-		item: "appliedenergistics2:material"
 	}]
 }

@@ -1,10 +1,6 @@
 {
-	title: "Luresex",
 	x: 6.0d,
 	y: 5.5d,
-	text: [
-		"HAH*(AGJAHUGAUGAUGAIGIABUVDBHVGBYAEVGUABFBUBIWEUGBABUGBUABURUHFGAE "
-	],
 	tasks: [{
 		uid: "f1829e95",
 		type: "item",

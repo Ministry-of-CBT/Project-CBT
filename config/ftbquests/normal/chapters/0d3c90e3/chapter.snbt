@@ -1,9 +1,42 @@
 {
 	title: "My Hero Academia x GTNH Storyline",
 	icon: {
-		id: "ftbquests:custom_icon",
+		id: "tconstruct:shuriken",
 		tag: {
-			icon: "projectcbt:ftbicons/project-cbt-2.png"
+			StatsOriginal: {
+				AttackSpeedMultiplier: 1.0f,
+				Accuracy: 1.0f,
+				MiningSpeed: 6.0f,
+				FreeModifiers: 3,
+				Durability: 432,
+				HarvestLevel: 2,
+				Attack: 6.0f
+			},
+			Stats: {
+				AttackSpeedMultiplier: 1.0f,
+				Accuracy: 1.0f,
+				MiningSpeed: 6.0f,
+				FreeModifiers: 3,
+				Durability: 432,
+				HarvestLevel: 2,
+				Attack: 6.0f
+			},
+			Special: {
+				Categories: [
+					"no_melee",
+					"projectile",
+					"tool"
+				]
+			},
+			TinkerData: {
+				Materials: [
+					"silentgems:kunzite",
+					"silentgems:kunzite",
+					"silentgems:kunzite",
+					"silentgems:kunzite"
+				],
+				Modifiers: []
+			}
 		}
 	},
 	always_invisible: false,

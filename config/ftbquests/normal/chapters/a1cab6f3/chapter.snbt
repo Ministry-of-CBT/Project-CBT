@@ -1,11 +1,6 @@
 {
 	title: "Project CBT: Story Mode",
-	icon: {
-		id: "ftbquests:custom_icon",
-		tag: {
-			icon: "projectcbt:ftbicons/project-cbt-icon.png"
-		}
-	},
+	icon: "hbm:chernobylsign",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

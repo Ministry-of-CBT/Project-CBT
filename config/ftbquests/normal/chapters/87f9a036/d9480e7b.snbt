@@ -1,28 +1,17 @@
 {
-	title: "Another earth",
 	x: -21.5d,
 	y: 19.0d,
-	description: "there musr be greg right?",
-	text: [
-		"The officer's stern expression softened slightly as he regarded Marisa's question. He took a moment before responding, his tone still serious but less rigid. \"I am Lieutenant Colonel Anderson, leader of the Earth Expeditionary Unit. And yes, we are from Earth, but not your Earth.\"",
-		"",
-		"Reimu and Marisa exchanged another surprised glance. \"Another Earth?\" Reimu echoed, her eyebrows furrowing. \"What do you mean?\"",
-		"",
-		"Anderson nodded, his gaze turning thoughtful. \"Parallel universes, alternate realities... call it what you will. Our world, like yours, is one among countless others, each with its unique characteristics. We stumbled upon a rift in spacetime that brought us here, to the Chess Realm.\"",
-		"",
-		"Marisa's eyes lit up with curiosity. \"So, you're explorers like us? Just from a different version of Earth?\"",
-		"",
-		"Anderson's lips twitched in a faint smile. \"In a way, yes. Our mission was to investigate anomalies in spacetime and find potential resources or allies. This Chess Realm, as you call it, is unlike anything we've encountered before.\""
-	],
-	dependencies: [
-		"fe955e60"
-	],
-	hide: true,
 	tasks: [{
-		uid: "c9286a1d",
+		uid: "e892c4e6",
 		type: "item",
 		items: [{
-			item: "gregtech:machine 1 501"
+			ForgeCaps: {
+				"tfc:item_heat": {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "minecraft:stained_hardened_clay"
 		}]
 	}]
 }
