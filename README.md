@@ -9,11 +9,15 @@ also if this leads to some shady drama i will probably pull the plug
 
 before proceeding to download this modpack I'm not responsible for anything that can happen, by downloading this modpack you are atleast above the age of 15, common sense
 
-also uhhhh 
+also uhhhh groovyscript go brrr im learning how to use it 
 
 # Releases
 
 [Project CBT All Versions](./SECURITY.md)
+
+# Project CBT OST Download
+
+https://github.com/Nrmot-GithubRepo/Project-CBT-OST
 
 # Official Banner for Youtube Use
 
