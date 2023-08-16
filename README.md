@@ -15,6 +15,10 @@ also uhhhh
 
 [Project CBT All Versions](./SECURITY.md)
 
+# Project CBT OST Download
+
+https://github.com/Nrmot-GithubRepo/Project-CBT-OST
+
 # Official Banner for Youtube Use
 
 ![project-cbt-icon](https://github.com/Nrmot-GithubRepo/Project-CBT/assets/141803157/ef9bbbb3-77de-42be-b1c4-625f6b6a99e4)
