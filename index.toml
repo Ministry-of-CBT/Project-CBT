@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/feature-request.md"
-hash = "2df87f6bc23da27696774052f2a4f5e5ac5d08cca4107d775502e161235908d9"
+hash = "e2757bc6969597d316fac847f1ca0fa0b73c9ae344782278dfc4b26449b0900e"
 
 [[files]]
 file = ".github/ISSUE_TEMPLATE/the-funny-issue-template.md"
@@ -22,11 +22,11 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "e9c84f34246bf21b278a3bd4a9aeee6ed6449996f12825451201dc7889802572"
+hash = "18d21b4c203c4a0255c7afcce3d34d77bc946458ace369956b6e0a4642bd43f0"
 
 [[files]]
 file = "SECURITY.md"
-hash = "f4df8ad9f770bb888448303c21d14b11edf465fa1d482d01be6597df5a84d016"
+hash = "fe94edfa1b283a9755f72a0447b3d04ab889cceb9a21c26102b6f37f807bed6c"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -58,7 +58,7 @@ hash = "8724ee4d072fce48ef94b7a3bcf9f222866b470c37a583b24f4548a206c6c167"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "ed9cc238c18a82575478fa7dfc4356dea001b474265bd566b037f7c4f1d5e849"
+hash = "8ae210247fbd705379c49ea5fcf6edbfb96161abb7f434a610d16bff7f8c393a"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -66,11 +66,11 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "1611933f13edb259c1348510f0abdc49341520f3dd3673611f8185de13421de9"
+hash = "b9e5b4c14d1625ca07f1823097f9e897365b8d3fd5d1a05b7b480405b0c66737"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "a95c97a48e63fc64f44789212240b67cbadf4bfb94b00cb9fc87aced5b30087e"
+hash = "981a2e4de49ac13044130b64f1aa4144b5ad760c21bbd80afb773d1c434b3ea4"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -194,7 +194,7 @@ hash = "5f0eb06e133876a8843007ff5972e62d1c9e86867f25a03eefbd99e21fccd213"
 
 [[files]]
 file = "config/IC2.ini"
-hash = "af7e55870e5428b64c4bb9759567fd30fd3b0c0c0ec2cc41848c0f941fb7b697"
+hash = "7ef267b3bf35895129501597bec62f620c5c98352432128d2216cdbfc18e7af9"
 
 [[files]]
 file = "config/MorePlanetsExtras.cfg"
@@ -290,7 +290,7 @@ hash = "005fa8f223045ecf09309ee5836b78192d75881b3891380f44a1e1ca88655bfd"
 
 [[files]]
 file = "config/battletowers.cfg"
-hash = "184627de933a1f4041c6d016428d81d906e99500a2e4e01c5d54d4b61b983836"
+hash = "db60fb8ff07951ef1728614293fd7ff3f0f648d0b0d6f70b59245738d76a8ef4"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -330,7 +330,7 @@ hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
 
 [[files]]
 file = "config/carryon.cfg"
-hash = "f5d50f4e4667d4d29eb2dd63a3f387809e9e965c4974dd9a6d2a4cdbc7acc032"
+hash = "1b3b8aca28a4b6777ad5e8af42e95bce507a3b1b2638b430a18e092972b597de"
 
 [[files]]
 file = "config/codechickenlib.cfg"
@@ -362,7 +362,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "dec650b81bf9a685297ba9c6ee9042f6f5176d13b7f35f11e79268eb98d145f8"
+hash = "de67c41dccda5ca62d349615ded035808d006a3275522741d508b293ff091569"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -398,7 +398,7 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "9d0685f6035e06627c14eae61911675a66daaec04ec9dfaf40f5ead04797f10e"
+hash = "b21abb525cb4938bf8305d528c37ac4149e2b16ee8a124995914ec19fe93b616"
 
 [[files]]
 file = "config/fancymenu/customguis/PackSettings.txt"
@@ -406,7 +406,7 @@ hash = "d3a3c0e033be4855eabdb01b87b21857a5cd4712ef9fbb36a22735c804c9c5b5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "451183553407c43084a1f62d8c1ec288f057edda1c8965612845c52dc0496bb0"
+hash = "66a011d76510f4274c194970dafb2b73d9e1c980a1a53a80bbf935f8f9180382"
 
 [[files]]
 file = "config/fancymenu/customization/PackSetttings.txt"
@@ -422,7 +422,7 @@ hash = "01c7c177a0dea4e74f2e546615495722f0bb90d2eede6693d2bd9cde4846f096"
 
 [[files]]
 file = "config/fancymenu/customization/temp.txt"
-hash = "d77f2db5fe252b34b78d67b0a3f91cd179619a36722d4dc7b076498c91631bc7"
+hash = "5e1bec22611388c4218bdbac02ea502ff829340318e2d994576a8f4a207caee1"
 
 [[files]]
 file = "config/fancymenu/customization/universalbackground_1_1.txt"
@@ -522,7 +522,7 @@ hash = "f9fb71330948ca061e5effbea80d76595f5c87593b1382774fd6f120980b299a"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/0d3c90e3/chapter.snbt"
-hash = "9b1d8596e5f507694f59351b0f153e1937bec7428bdf2ff527f729c51e9888a6"
+hash = "e68fd6097855ec734b4df286c97b3d2f3d44b621c1f2c0784eab02eb83149f41"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/0064e9e0.snbt"
@@ -578,11 +578,11 @@ hash = "0e7626c93d0ba50c3c943a6e0e65e934e4ae71ce07a5d74195d1eb0c36ae1b07"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/20511dcd/chapter.snbt"
-hash = "6c0e267a4804990c959176f00465e05a08a8199dd18816bf858ffba17cd78498"
+hash = "6701279645979dc5ec624370fd0d196f83dd1383f468500b71da0b798ccebde9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/643dc270/chapter.snbt"
-hash = "4b440dd5603ac5f4d115c25985f27ac647b1772155af6b530a3a05e87815d211"
+hash = "994e5a8246a8e87f23d1a751d212bcfa2516a9b03d5e06fa87e84a16888abf48"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/643dc270/d7e2b733.snbt"
@@ -678,7 +678,7 @@ hash = "16e252b1ba1f638660a85844bcea6f3926f8b92805d2bad8158189d7380b0111"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/2867e3ee.snbt"
-hash = "e7049d0a58f19a6e682dda866f70aa9dc7ffa677ba6f8cf507c8b42d2143b57d"
+hash = "e13531e5a0fd6ab5ad27a20d5de83acd7d33c629c85bddad1c20bc026e01ea4b"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/28c48607.snbt"
@@ -802,7 +802,7 @@ hash = "72fdb575284ee8898fb8b57062677415f2c172d5d8a904ef484931ffcf9382e7"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/5c72e08a.snbt"
-hash = "93d765ac7fe5a384c20880d9a1b9396c42ca4da35d76e006ee7047eb0ec5f13e"
+hash = "b61d42eb2ba4abca7b9a4ad1bec6b413aeca34992976b1fc40d9d2ab8945ecf9"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/613e1fa3.snbt"
@@ -842,7 +842,7 @@ hash = "8debbf14704778e38d8527dbe268492b3753e326ac760844cacc7500c9dd24e3"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/6e1abff7.snbt"
-hash = "f7ed6247aedc504be06ad2b87cd1d378e44b35172679117396d52c6d0001c42c"
+hash = "943e873490aad4ba7e690c4d9a8199f2de603768dea49bb7ba1d7a4911ad8965"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/6f19927b.snbt"
@@ -1002,11 +1002,11 @@ hash = "f6c5f8806666de05bf79584d3cab06c153ac4f4096674bb8d78b800a67cdebb4"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/bbab199e.snbt"
-hash = "47f996dde5a8f61d02dea9f5c85d9eae51bdcba84a7aae926d3c9027315f3149"
+hash = "f7d0646552eacc22295b0984ff5b799effd3980f344d1a0faedab301d655498e"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/c08b8f4b.snbt"
-hash = "352c4cf6e1b58350d8e26f806e0881f9afc4fe980f3ebdff199bf8d4049b4614"
+hash = "a0d2ebe75aa03ed5c17a14421073e09ad1f76f025b32c062d3f89ae15ef916ec"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/c11477b6.snbt"
@@ -1022,7 +1022,7 @@ hash = "1bd9997259bf95d3c1e1016be2f628c0b6d363933c8ed8ee57fec35a300fc846"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/c227dbce.snbt"
-hash = "e940c0530f8bf13b612484a35fee7a84797d72753a6222dafe34495d239ef67f"
+hash = "3041cab79eb5789b4d1d62de3468c676fd717757d88e88692c6b39ea41ec5cae"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/c5288937.snbt"
@@ -1062,7 +1062,7 @@ hash = "6082151b2828c14214e6ba20577275e961690ac8c7993f8a8701321595ce15eb"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/chapter.snbt"
-hash = "48e818c65d1f696c109aa9fb0d1b53d8b0b790688df8863c10131fadc63ae2d0"
+hash = "ed886bee7632951b63952aa7c41f4ee1bb8fc272fac75c4cca7594a2e99c8abd"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/d50aa99b.snbt"
@@ -1074,7 +1074,7 @@ hash = "250d66f1f550ef69aa47716575c6e58f914440aa6aaeef69a04bdbea4768e434"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/d9480e7b.snbt"
-hash = "710c631463beaaed7d05df28e7322d6e5749685cf5d92037fcecb366e40c98c7"
+hash = "8531780e3b4443bcde8f80a2facb47f4ec3db0ec0451bf316d2780e91c00b2c8"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/da6a56e8.snbt"
@@ -1098,11 +1098,11 @@ hash = "54b64fb3f31247bcd1c523386b3f01d2c52997d2a7569871d76fe1672ec467ef"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/e1767a0b.snbt"
-hash = "8c6c7596cf77aeb6b233a0826a8c394468c1cc4c55adcc2344e3bdc47d4d32cb"
+hash = "ebc5ac723aebe78f8906b9b2168d4f0039f0a479cb7708e1181d008039bae9b6"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/e1d7b920.snbt"
-hash = "8bfedb71c9ac56b848a18b23b56cd91c315954dd7bfc5827fe3f5c7eebb37980"
+hash = "36edb411def5eaefc006a4f90f583f685fb4fe3df50a1cf849c6947e1befec81"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/e51bdaa4.snbt"
@@ -1162,7 +1162,7 @@ hash = "50c5d98ab471cdc448d8f849a3efe000dc32296a6e74fd0807faff4d5a79616a"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/fe955e60.snbt"
-hash = "c8bc442c0c046ce716addf29300975ab34e3b2103e9705d8d8ac35e9dd5418fd"
+hash = "b63b29053992096c5105b3da5733b1a5522c648b0a78ecb3fa43c92eb0cec71d"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/87f9a036/ff35624d.snbt"
@@ -1170,7 +1170,7 @@ hash = "5f97f3e130bb5c539156a7d71132aa66eea8315bebfc8bc63de766a51e4dd18d"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/a1cab6f3/0cc3626d.snbt"
-hash = "207d67e236b2483ae413aae3108f3f229bc4143f4b90a96f327eb56844513793"
+hash = "9f58a67132c209da7741d7038199798045384dbf98ca0502d42d1bc1a1667778"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/a1cab6f3/62340ac0.snbt"
@@ -1182,7 +1182,7 @@ hash = "2f41b6a552f317a76e259d53e24d38a4849917632d54854ada0f1d3f82e9cfbb"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/a1cab6f3/chapter.snbt"
-hash = "434823f7df630750446bc8e6ab6f3bf449d37ee09914166d176d3d5deb44bc62"
+hash = "174dde841b689f9a769494e58268432c4b18505f8f6100a0a4506d8d0d69bf75"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/a1cab6f3/d211b22e.snbt"
@@ -1742,7 +1742,7 @@ hash = "0b00aa2660478d139210c028480187b237fa4113d41bc8f3c8068bc220d39e5c"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/apatite_vein.json"
-hash = "368cebe667f2a63d03f417f5c05aeab8d4f6f7cb4d0d5c6e9c089b2c01e982bd"
+hash = "e4e7fc6dafe6ee32420c5bdacab430ca07fb28e821ebb25ec8690eb05f2a4677"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/basalt_sphere.json"
@@ -1754,55 +1754,55 @@ hash = "d3058646726361ecf1dd430f518461a252a573e599249764e0786e878cf11171"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/cassiterite_vein.json"
-hash = "5ee5fd53baeaba1f1dd3fd96602f09774ca4be4ef098cd8869018cd057e0cf25"
+hash = "956cf5b06d28b2b0ff85c13dc6a3b0fc53cc5385ba3eeba04b345322e78a1a1c"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/coal_vein.json"
-hash = "34845053de303ff4326af67f12ad7532c7b90c8b5569f16551053f96ad512cc5"
+hash = "0ff8be5b7eb4002523b4997313e8e629389a1a0bfba1bcc6b75e9cffbc09aada"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/copper_tin_vein.json"
-hash = "b280dec4ae15a5c19bfdc76dcf1925db37784f90b177086e9101aba4106b7e74"
+hash = "71b8813f1f405ff9d74efb3123904416c904aee6f57829a5361cfe23bfb44717"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/copper_vein.json"
-hash = "ed60de693f8066e47ca3ab01b49cff4611a011b6448b39b59bf39812d688332a"
+hash = "ac880c0df5fb873b0ba371153bf2104923cd8959a70da77e062b0bede54cbc43"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/diamond_vein.json"
-hash = "7b82f260e6e81fcdcb2c7a1aa34cf3fc3aa651921dd8d5c38c929403b5852c9f"
+hash = "3b99e66b637c115b407951e018de1b9c6740bd6a8ee8c2e42fa11ba27eeffa3f"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/galena_vein.json"
-hash = "6631ac1356cadb605c3865d75ac28e133f94b8319d46f46bbfb3b8e3d24da066"
+hash = "c856f72d977e2e7b6bf54f315c07674ef34fb6d73e0d26af730695327c32f59f"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/garnet_tin_vein.json"
-hash = "9eeb8b8ec6a790af78342e8777e0a016e4e217bf26e7784860c7356c0dc0d51d"
+hash = "6c4869694654fa2b37c84825e65dd258b1c659755e719f84a1c67d4bdd228c56"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/garnet_vein.json"
-hash = "31a8028bd56918fd74764fc33d3fddcc26d9638f4e581c2378fd5187ed41e650"
+hash = "38777d55ae403308f42819a63c2eb2c9171fd8765dc58d1d7ce990d19b9bf83a"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/iron_vein.json"
-hash = "656dc095c0811d7df5461f3fc55c5ed9948c4d4d5218ed3400a9e456c9650773"
+hash = "2a1f9cd4261c8ccf1fc2da6356b2cffe0ada0c9f9c16243256fe8b1a4cfb0774"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/lapis_vein.json"
-hash = "5f65a2103ff4406f1c0331a28e6150fc2f766fb8eb3ec68619bd34d9f69277ec"
+hash = "08bf2c7fa9b804b35a7c4922f1ff425ddb2cfc6f872d3b4530ffdbeb5e9e2c75"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/lubricant_vein.json"
-hash = "e329339111f3b57d435393c26a51b3430a42b84713fa00f56572d0d0c4c88e86"
+hash = "6ae08442ea94bf0ed6161f08d9c0307c38422b0f2591e2ccc1f46d1847f38b31"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/magnetite_vein.json"
-hash = "3d6108477be759ad079f321d3189164d0a8647483ceb76d97e9d8ab57bce6d40"
+hash = "0d60b4b602606aa893f0fac02071f5d7f1662deff8ec8b5a75dff2686cb12060"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/manganese_vein.json"
-hash = "07984ac208e1688ae397d615de8b1624b1e589de9143425b44c86cd711004f44"
+hash = "ff4aeba18ac7aed1f1d43c343bcdba1ec1c70fffa4bb428f2596c98a0f6f3e61"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/marble_sphere.json"
@@ -1810,27 +1810,27 @@ hash = "fee590008cf9b3155385023de1969fc7a64942cd3ec70c659a5af37d847b5867"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/mica_vein.json"
-hash = "4b95b970e2f1419c7c86e2ea1cba73794ac076c336fe6f2071f0ad7367d97e0b"
+hash = "891e5cd98267c501a862c76196a53c95785ffed85c8073cb121fdd484db6d4dd"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/mineral_sand_vein.json"
-hash = "088393e0443200faf21f4a4297f237cc453c945ed9ed745a79da80642e772582"
+hash = "5c7c6cee3764487183490c70657b11d07331a53ab42fc24578e4d9cd525c1254"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/nickel_vein.json"
-hash = "2bc46d54d5cc2f0395457ef176f728b44d34a6dcedbdede972077bc16d1a9847"
+hash = "f907a5d834302e9b857b7c55153a4f5cbbde5d82e2af4a0ec8ad634e896d6c1e"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/oilsands_vein.json"
-hash = "8d4068afa9412828359e1d663463dbdb4ef1200f7ca7bad2dd5b4f1295cf8d57"
+hash = "b20b3841148a84e062447b60d462180dcd6d495b6416c09003e8ca99b4361bb7"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/olivine_vein.json"
-hash = "f6590a0806422912be70680b531c5965001b69f3ca9b642c8d18f5a2cebf398d"
+hash = "67e55d2db9cb4219230920b1f3a1e6f9ba1c52b90cc73fa46837e8d2a1d0e505"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/raw_oil_sphere.json"
-hash = "06e67e8dd90cefcb5dc4fc7573c8ec93fa4f31c377571096808e46a99d5c9cee"
+hash = "dd97132933600f22a8528d7197f942705e579c71b3c3cdfb5a41fd442794fc27"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/red_granite_sphere.json"
@@ -1838,15 +1838,15 @@ hash = "26c06016c739fb03fada770b8c00429f93d7a8731bdcff737d698c1e85b74ef1"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/redstone_vein.json"
-hash = "533edee866770002f2bc6128cd11b57996a4e38dcc0dd25351d4e2432ae6b5c3"
+hash = "29bdb6a509f29c640245a6fde0594f1582c90ab01539c47c860eec9cb3655a26"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/salts_vein.json"
-hash = "d4f5db5ff55a1fe2fbeaa9c5a93135d7baae2c7a1374f13c71df4a43f21a183c"
+hash = "34b3f59d42d48b0dafac1eb33f773ee28c5357979a58907623ea96f1702c0d82"
 
 [[files]]
 file = "config/gregtech/worldgen/vein/overworld/sapphire_vein.json"
-hash = "8111c84ee9d1230e747b94c397026db39c2a838c9ac2ad3cb06e348465793f0d"
+hash = "13eecad3948ff9992854f2d2312ea96f0bdb410d31a6a2a7a8e11b35f8a32d40"
 
 [[files]]
 file = "config/gregtech/worldgen_extracted.json"
@@ -1878,7 +1878,7 @@ hash = "cbd908a466fd70061173c6cc8ca26d63a283bdc9cfb8481ef4f909591761f6e7"
 
 [[files]]
 file = "config/hbm/hbm_dimensions.cfg"
-hash = "ec42704310c4509b391498bb97c128e37beed6717691a41a010e0564bff432b9"
+hash = "97b6c019ef8d732a4da930c6d3c80a126f72439b512a0aa79a1ae72f885d5d42"
 
 [[files]]
 file = "config/hbm/solinium.cfg"
@@ -1898,7 +1898,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "0d786bbc3fc433f5d85f6c3503bef402a82b7de830c1da55cb58ffb97bbead1a"
+hash = "e45a54afc8396d3db9fcecc684d4bc980abf025096a8f19f3cb405eede23b67a"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1942,7 +1942,7 @@ hash = "2d9d8bd5f38e82fc4a89c9b64b1510dc0d4e583e5652947ff5a362e897c391a3"
 
 [[files]]
 file = "config/moresoundconfig.cfg"
-hash = "6a57f5a5e89fb867f47fdeb634f16028dcfec85c7ba093d310ebf322fc347e5a"
+hash = "4884ed27e19b2701ef452ec61f5cfae377224179a113946991a857c73b7b7b39"
 
 [[files]]
 file = "config/nuclearoption.cfg"
@@ -1982,7 +1982,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "11979043e04033a3395ab40d274c04efb6ce4881f32c761ffd138fae6c447fd9"
+hash = "12479d1546a2d6ec5adc74db3949dbbf102f9bd737afae237bb5643633d257f2"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2181,6 +2181,42 @@ file = "fm/thumb-1920-120557.jpg"
 hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
+file = "groovy/assets/cbt/lang/en_us.lang"
+hash = "e4bfc4fe76b6549b891532d9d2c4c8bbc2ca8ea93f3100542900f3ac2b752793"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
+hash = "1d199bbff9af761c9660369db79c4e8fe265f3adb58c08e61adbfe75efc96d8d"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium.png"
+hash = "894311b4b7eed891da3c06b8fda0ce78e96b67e6f5430f09134db5b889ac1f71"
+
+[[files]]
+file = "groovy/postInit/main.groovy"
+hash = "3289f02f7af912a78451ecbdfa532306f8434c9e32f9d83b5195766c9570d147"
+
+[[files]]
+file = "groovy/preInit/master.groovy"
+hash = "f2f124cee98608d75ce153f8560de78232dd76e1b5c57802e61edec071698221"
+
+[[files]]
+file = "groovy/runConfig.json"
+hash = "52eb34c072e3e7f05b62185f0747aae0782aadd36d4c5865ef810e9caa346d30"
+
+[[files]]
+file = "mods/1.12.2/codecjlayermp3-1.0.0-SNAPSHOT.jar"
+hash = "e3d0723dbe20290856d80a487a9bbfd5e988f23db17b234fcfe47db17fe6f3fd"
+
+[[files]]
+file = "mods/1.12.2/jlayer-1.0.1.jar"
+hash = "850508c837454a1b06017c32a36876fae516de1e89a829f725fee1e6dcc52000"
+
+[[files]]
+file = "mods/1.12.2/nashorn.jar"
+hash = "984ab65c7c96483caa9e3722d932ee8ad6f4f017364538ed2d169c596ec4fe56"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "e5a1f7d0e232cb8c7836255c9cff93a0e2657b9bbdd3a8dbac63856853c5d2b8"
 metafile = true
@@ -2296,16 +2332,6 @@ hash = "b7ba2673bb1b553597639acecaf83a76fec2602c6c031011e6f2062e347dca2e"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreestfc.pw.toml"
-hash = "0832513cd5c95a2c25051b8c36e07514b8d8f89596b18a7aeb164412b3f79d3e"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
 metafile = true
@@ -2381,6 +2407,11 @@ hash = "7161d2a2c7b9f32cefd480055156fa3197a3d75e9bd2bac0d4c3f23e4165da93"
 metafile = true
 
 [[files]]
+file = "mods/groovyscript.pw.toml"
+hash = "2f0cf7963c95a0a6b3f4906ae8b497a8270a3dc9b4e7c323cfa227c05bfeb065"
+metafile = true
+
+[[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "a19930351be5e4bc63d35664da72ccdd201585818811ec72dc1b38da68b9fae9"
 metafile = true
@@ -2431,11 +2462,6 @@ hash = "6b200b2407adde32ecaf3c4cded1f926ca0d732971daea264c64b65cc20977c9"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "3f090658eb8521a5abe44bf5413e8da67ae7011c3778570028e4fd38985cf35f"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "ad25fd8db36eec5a1a5c6171e890baea92cdfd659824c6239c6e3828d46b7d36"
 metafile = true
@@ -2469,6 +2495,14 @@ metafile = true
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
+
+[[files]]
+file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar"
+hash = "de8b85e79cb73826ec77d038bb8bae38e8e3e334526bac1a4812b29f6cf2ae24"
+
+[[files]]
+file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar.meta"
+hash = "72c0d1254909cdfc2a47f26239ec0ce4c65994609db111510534cda6719bf34a"
 
 [[files]]
 file = "mods/mixin-0-7-0-8-compatibility.pw.toml"

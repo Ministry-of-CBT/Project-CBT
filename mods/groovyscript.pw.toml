@@ -1,0 +1,13 @@
+name = "GroovyScript"
+filename = "groovyscript-0.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d521da1850f8329cac91c0471f66f4ccbdc2cdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4691853
+project-id = 687577
