@@ -67,6 +67,8 @@ Will there be a curseforge upload: No but do it yourself.
 
 Yes there are releases and only dev releases exist for research purposes. 
 
+For GregTech Progression, it will be standard GT progression until UV and UHV tier, in which case I am planning to implement 'releastic circuit crafting'
+
 ## How to Install Project CBT:
 
 Get it from releases En Croissant Dummy
