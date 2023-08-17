@@ -17,6 +17,8 @@ groovyscript my beloved, more groovyscript pls
 
 # Project CBT OST Download
 
+for some reason if you want to listen to le epic OST its here, just download it here, no other link is valid aside from THIS one:
+
 https://github.com/Nrmot-GithubRepo/Project-CBT-OST
 
 # Official Banner for Youtube Use
