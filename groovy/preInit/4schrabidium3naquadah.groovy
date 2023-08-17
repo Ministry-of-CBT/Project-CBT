@@ -47,3 +47,28 @@ alloy_4_sa_3_nq_wire_3way_ae_d_pos3.register()
 
 def alloy_4_sa_3_nq_wire_3way_ae_d_pos4 = content.createItem('tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4')
 alloy_4_sa_3_nq_wire_3way_ae_d_pos4.register()
+
+//corner all equal
+def alloy_4_sa_3_nq_wire_corner_ae_s_pos1 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1')
+alloy_4_sa_3_nq_wire_corner_ae_s_pos1.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_s_pos2 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2')
+alloy_4_sa_3_nq_wire_corner_ae_s_pos2.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_s_pos3 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3')
+alloy_4_sa_3_nq_wire_corner_ae_s_pos3.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_s_pos4 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4')
+alloy_4_sa_3_nq_wire_corner_ae_s_pos4.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_d_pos1 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1')
+alloy_4_sa_3_nq_wire_corner_ae_d_pos1.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_d_pos2 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2')
+alloy_4_sa_3_nq_wire_corner_ae_d_pos2.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_d_pos3 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3')
+alloy_4_sa_3_nq_wire_corner_ae_d_pos3.register()
+
+def alloy_4_sa_3_nq_wire_corner_ae_d_pos4 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4')
+alloy_4_sa_3_nq_wire_corner_ae_d_pos4.register()

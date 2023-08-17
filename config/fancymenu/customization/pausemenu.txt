@@ -59,3 +59,12 @@ customization {
   height = 20
 }
 
+customization {
+  identifier = %id=465975%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = -73
+  action = movebutton
+  y = 0
+}
+
