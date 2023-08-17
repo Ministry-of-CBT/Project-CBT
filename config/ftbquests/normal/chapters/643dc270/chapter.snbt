@@ -1,6 +1,11 @@
 {
 	title: "Special Episodes!",
-	icon: "gregtech:meta_item_1 1 282",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "projectcbt:ftbicons/project-cbt-1.png"
+		}
+	},
 	always_invisible: false,
 	group: -1580550413,
 	default_quest_shape: ""

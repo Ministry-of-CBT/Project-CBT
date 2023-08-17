@@ -1,0 +1,13 @@
+name = "Avaritia Recipe Generator"
+filename = "avaritiarecipemaker-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2af6f16ffd233707e816f7485b0bc492dad52b82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2605409
+project-id = 301144

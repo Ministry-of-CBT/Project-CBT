@@ -1,6 +1,13 @@
 {
+	title: "Continuation 15",
 	x: -16.0d,
 	y: -0.5d,
+	text: [
+		"segs"
+	],
+	dependencies: [
+		"c730fd17"
+	],
 	tasks: [{
 		uid: "5f5618cc",
 		type: "checkmark"

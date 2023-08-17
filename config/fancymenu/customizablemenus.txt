@@ -66,3 +66,12 @@ net.minecraftforge.fml.client.GuiModList {
 net.minecraft.client.gui.GuiCreateWorld {
 }
 
+ichttt.mods.moresoundconfig.gui.GuiChooseOutput {
+}
+
+net.minecraft.client.gui.GuiIngameMenu {
+}
+
+micdoodle8.mods.galacticraft.core.client.gui.screen.GuiNewSpaceRace {
+}
+

@@ -1,0 +1,29 @@
+{
+	title: "cringe modpack, i will delete",
+	x: 2.0d,
+	y: -4.5d,
+	description: "regian made a video so heres a stupidassquestblablablabullshit",
+	text: [
+		"this modpack is cringe, fuck you and your modpack, i do not want to live anymore, what have you done to my soul, how many times you have to mispell GREGORIUST AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+		"",
+		"guys i need bleach please please please please please"
+	],
+	tasks: [{
+		uid: "2a6e1dec",
+		type: "checkmark",
+		title: "Check this if cringe"
+	}],
+	rewards: [{
+		uid: "035457de",
+		type: "item",
+		item: {
+			id: "hbm:rbmk_fuel_drx",
+			tag: {
+				meltdown: 0.0d,
+				core: 20.0d,
+				yield: 1000000.0d,
+				hull: 20.0d
+			}
+		}
+	}]
+}

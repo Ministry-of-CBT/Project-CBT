@@ -23,7 +23,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = -42
+  y = -45
 }
 
 customization {
@@ -77,7 +77,7 @@ customization {
   orientation = mid-centered
   x = -77
   action = movebutton
-  y = -42
+  y = -45
 }
 
 customization {
@@ -108,12 +108,22 @@ customization {
 }
 
 customization {
+  identifier = %id=6043821%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
-  x = 52
+  x = 0
   action = movebutton
-  y = -45
+  y = -46
 }
 
 customization {
@@ -147,9 +157,9 @@ customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = element
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
-  x = -104
+  x = 0
   action = movebutton
-  y = 0
+  y = -23
 }
 
 customization {
@@ -237,32 +247,21 @@ customization {
 }
 
 customization {
-  path = fm/cbt.png
-  orientation = top-centered
-  x = -150
-  width = 300
-  actionid = af0595ee-3170-4975-af6f-26c6c076ceb91690355802126
-  action = addtexture
-  y = 0
-  height = 100
-}
-
-customization {
   orientation = element
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Cock and Ball Torture: Version Dev\nWhere's the GregTech Lean?
+  source = Cock and Ball Torture: Alpha Test\nWhere's the GregTech Lean?
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  orientation_element = vanillabtn:button_compatibility_id:forge_titlescreen_mods_button
-  x = 2
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = -102
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 86357a23-5e52-49f8-b787-a213852814cc1690359189640
-  y = -20
+  y = -26
   alignment = centered
   height = 21
 }
@@ -302,5 +301,40 @@ customization {
   backgroundnormal = fm\button.png
   value = PackSettings
   height = 20
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\projectcbt\ftbicons\project-cbt-icon-h.png
+  label = 
+  loopbackgroundanimations = true
+  x = -105
+  width = 102
+  actionid = 825f284b-d7e7-46fa-bdb5-834c32287bf41691765056011
+  action = addbutton
+  y = -116
+  backgroundnormal = resources\projectcbt\ftbicons\project-cbt-icon.png
+  value = https://github.com/Nrmot-GithubRepo/Project-CBT
+  height = 100
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\projectcbt\ftbicons\project-cbt-4-h.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = 5eb87c10-1f35-41e5-8cc6-4f849f3c36071690428391378
+  x = 0
+  width = 100
+  actionid = fbc8049b-23e4-4bc1-ac20-d44983cc3e611691945774556
+  action = addbutton
+  y = -103
+  backgroundnormal = resources\projectcbt\ftbicons\project-cbt-4.png
+  value = https://www.reddit.com/r/feedthememes
+  height = 100
 }
 

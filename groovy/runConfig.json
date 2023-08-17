@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "debug": true,
   "classes": [
-    "classes/"
+    "classes/import.groovy"
   ],
   "loaders": {
     "preInit": [
