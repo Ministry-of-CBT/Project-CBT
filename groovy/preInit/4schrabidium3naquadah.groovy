@@ -1,7 +1,11 @@
-// tetraschrabadic_trinaquadium items and bullshit
+// tetraschrabadic_trinaquadium items and bullshit - conductor
 
 def schrabidium_naquadah_4_3_alloy = content.createItem('tetraschrabadic_trinaquadium')
 schrabidium_naquadah_4_3_alloy.register()
+
+// unformatted wire because FUCK YOU!
+def schrabidium_naquadah_4_3_alloy_wireunformatted = content.createItem('tetraschrabadic_trinaquadium_wireunformatted')
+schrabidium_naquadah_4_3_alloy_wireunformatted.register()
 
 // single wire double wire
 def alloy_4_sa_3_nq_wire_s_h = content.createItem('tetraschrabadic_trinaquadium_wire_s_h')
@@ -72,3 +76,49 @@ alloy_4_sa_3_nq_wire_corner_ae_d_pos3.register()
 
 def alloy_4_sa_3_nq_wire_corner_ae_d_pos4 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4')
 alloy_4_sa_3_nq_wire_corner_ae_d_pos4.register()
+
+//four way unequal - single double cross
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos1 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos1.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos2 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos2.register()
+
+//four way unequal - single double merge
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos1_1 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos1_1.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos1_2 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos1_2.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos1_3 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos1_3.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos2_1 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos2_1.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos2_2 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos2_2.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos2_3 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos2_3.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos3_1 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos3_1.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos3_2 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos3_2.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos3_3 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos3_3.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos4_1 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos4_1.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos4_2 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos4_2.register()
+
+def alloy_4_sa_3_nq_wire_4way_ue_sd_pos4_3 = content.createItem('tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3')
+alloy_4_sa_3_nq_wire_4way_ue_sd_pos4_3.register()

@@ -1,4 +1,4 @@
-item.cbt.tetraschrabadic_trinaquadium.name=Tetraschrabadic Trinaquidium
+item.cbt.tetraschrabadic_trinaquadium.name=Tetraschrabadic Trinaquidium Ingot
 item.cbt.tetraschrabadic_trinaquadium_wire_s_h.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_s_v.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_d_h.name=Shaped Tetrschrabadic Trinaquidium Wire
@@ -13,3 +13,11 @@ item.cbt.tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.name=Shaped Tetrschrab
 item.cbt.tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.name=Shaped Tetrschrabadic Trinaquidium Wire
