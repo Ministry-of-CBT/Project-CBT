@@ -1,0 +1,56 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiShareToLan
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505100%
+  action = hidebutton
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openfile
+  label = Enable Cheats
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:345100
+  x = 159
+  width = 150
+  actionid = d0b254b1-5cdc-4958-a2da-1108484baa4d1692411665890
+  action = addbutton
+  y = 0
+  value = config/shutthefuckup/fuckyou.bat
+  height = 20
+}
+
+customization {
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Fuck you! \nYou need to manually install \na shady program 'nbteditor' \njust to enable cheats
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = d0b254b1-5cdc-4958-a2da-1108484baa4d1692411665890
+  x = 0
+  width = 150
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 0f028bbe-12db-4b5c-a07d-80167ec19db21692411761591
+  y = 22
+  alignment = left
+  height = 40
+}
+

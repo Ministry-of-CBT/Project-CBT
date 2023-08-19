@@ -75,3 +75,6 @@ net.minecraft.client.gui.GuiIngameMenu {
 micdoodle8.mods.galacticraft.core.client.gui.screen.GuiNewSpaceRace {
 }
 
+net.minecraft.client.gui.GuiShareToLan {
+}
+

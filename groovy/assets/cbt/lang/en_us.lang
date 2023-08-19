@@ -1,4 +1,11 @@
+# urephittium
+item.cbt.urephittium.name=Urephittium
+
+# 4sa3nq or Tetraschrabadic Trinaquidium
 item.cbt.tetraschrabadic_trinaquadium.name=Tetraschrabadic Trinaquidium Ingot
+item.cbt.tetraschrabadic_trinaquadium_wireunformatted.name=Tetraschrabadic Trinaquidium Wire
+
+# wire shaped, there's so many of them and I LOVE IT! groovyscript my beloved!!!!!!!!!!!!!!!!!!!!!!
 item.cbt.tetraschrabadic_trinaquadium_wire_s_h.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_s_v.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_d_h.name=Shaped Tetrschrabadic Trinaquidium Wire
@@ -21,3 +28,17 @@ item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.name=Shaped Tetrschr
 item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.name=Shaped Tetrschrabadic Trinaquidium Wire
 item.cbt.tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.name=Shaped Tetrschrabadic Trinaquidium Wire
+item.cbt.tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.name=Shaped Tetrschrabadic Trinaquidium Wire
