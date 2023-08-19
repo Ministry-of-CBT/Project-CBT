@@ -22,7 +22,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "d9c6a8c2d3c44ed3f9371ee1c3df183295a05c5e9c0f5767717b55bfb36fe8c7"
+hash = "97b520372c1987310ceff9068d46335cbe073444514d37f6d58fe1a95f987a0b"
 
 [[files]]
 file = "SECURITY.md"
@@ -362,7 +362,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "a6a2c4324a223e2b5639740641c7af6adf8a719fcc592be3ac2e82b4cff1e36f"
+hash = "b63de1b86699031b2a2120dc2b98bd9a01cd8c56ff62bac016fe75b9e48ecc89"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -398,7 +398,7 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "b21abb525cb4938bf8305d528c37ac4149e2b16ee8a124995914ec19fe93b616"
+hash = "9d0685f6035e06627c14eae61911675a66daaec04ec9dfaf40f5ead04797f10e"
 
 [[files]]
 file = "config/fancymenu/customguis/PackSettings.txt"
@@ -406,7 +406,7 @@ hash = "d3a3c0e033be4855eabdb01b87b21857a5cd4712ef9fbb36a22735c804c9c5b5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "451183553407c43084a1f62d8c1ec288f057edda1c8965612845c52dc0496bb0"
+hash = "bf035e35f684a57181d022ce715ebe6be731c0f2acbee6fb3cd2b3c4755d640c"
 
 [[files]]
 file = "config/fancymenu/customization/PackSetttings.txt"
@@ -415,6 +415,10 @@ hash = "0fa667552b867ca1c2955b872a8a8efb30ef31f6be05027ac87aec101e0a4a7a"
 [[files]]
 file = "config/fancymenu/customization/icon-projectcbt.txt"
 hash = "92fe3151aa8ba1687ed3b27d8c4bf4b91258f7ebce7ef5ec8e2f96f7eb6e88e4"
+
+[[files]]
+file = "config/fancymenu/customization/nocheatslan.txt"
+hash = "b0991c8445c750b735748d67e708b80757bf13fc1a2919eda631649a561c0cbc"
 
 [[files]]
 file = "config/fancymenu/customization/pausemenu.txt"
@@ -1902,7 +1906,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "c2690978fcb2bf322fe308804762c24d6b4999e569ae1216cd8b7b73b65c832a"
+hash = "a610969f6f507c6b55ad6b38a7125bf9f33e59a7c2eddb741c0eb7511db8d2b7"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1973,6 +1977,10 @@ file = "config/scalinghealth/main.cfg"
 hash = "aec8e35100673686e3c90626401e95451a823a9323f79d0c7d4abb9a203a9720"
 
 [[files]]
+file = "config/shutthefuckup/fuckyou.bat"
+hash = "8e30194ad71bd3e80f51b2509a5fe7e3ec48083ebb92908d810c86d293847aa1"
+
+[[files]]
 file = "config/silentchaos512/silentgear/silentgear.cfg"
 hash = "d7b0c51879c23d297c080b145aae5a3cfc38b20a3c8d9c38ddb1e5b600d8aacc"
 
@@ -1986,7 +1994,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "7f7c1e901546fc11015992e5ae8a1df09060d4e03ac78ec78c2bb2abb8582a78"
+hash = "68bb8de8f8268b277476b8ebc7f58c58df0ff01da356d83c02ecb80c32936f5f"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2190,7 +2198,7 @@ hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
 file = "groovy/assets/cbt/lang/en_us.lang"
-hash = "4ec75e7599af84256477da70406ad07f9f14f98ef6edf0c35c7d3323b94ebf2c"
+hash = "048763ab242909daa69c3969847c646070d7ed4489ede7d3a326b2c51f1cc6e5"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
@@ -2341,6 +2349,10 @@ file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_v.json
 hash = "fb4510e741ecbc95731ff4ae52a4f8da6a84a337e07d46debea65473f384d18b"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wireunformatted.json"
+hash = "9109048ebd9419566cb4461e31223f5693c7737f7d6e16fd6d3fdb8cad2a9da2"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/urephittium.json"
 hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
@@ -2397,6 +2409,62 @@ file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_
 hash = "84eadf7bc9faf1f3470f76809afa45c8028f833ea6ab8fae275eebe0ab859864"
 
 [[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.png"
+hash = "00cc5741ad4cba19f3850dcf2e955bb1dc1aae1d9c5da6d19ffee5301f7eec58"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.png"
+hash = "b3d6acda007ae553ea6a5ff35c6981f05e51a649f7e505c98cc97694ba8eac0b"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.png"
+hash = "c0f3a89201f5088a83cc83a70e729f303ee3bc5bae8fa82fa8fa5753248d4518"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.png"
+hash = "045802d28e528006d7438420ea2c8d7867efd6eada97b09b8ccf5a2b1536a4cb"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.png"
+hash = "fa543bcdabdeb6d9e202fb6fa465f5874b3eae14d28dd45ef623e0bbae2fcd88"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.png"
+hash = "f885386e31882bdda93e3a00e59ec1971596b762aa0f6ef11ced6364ac42779c"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.png"
+hash = "2e11d50ef04922de68b922692a913058341fde4901b908f213adb5c9d653f15a"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.png"
+hash = "c0f3a89201f5088a83cc83a70e729f303ee3bc5bae8fa82fa8fa5753248d4518"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.png"
+hash = "18f135638a6ea2169c979663c691de7374f3b30179563bab4108791309ce57a4"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.png"
+hash = "03eb05ea9a4b8bc4f25e80381b6b909a646388ab8f1c8b11a1b471354c92c9c9"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.png"
+hash = "2e11d50ef04922de68b922692a913058341fde4901b908f213adb5c9d653f15a"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.png"
+hash = "5c97d21b82fcf76947f0da270dd31c6576e0b1428b78b4ec6cf662ca0f2947c3"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.png"
+hash = "045802d28e528006d7438420ea2c8d7867efd6eada97b09b8ccf5a2b1536a4cb"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.png"
+hash = "03eb05ea9a4b8bc4f25e80381b6b909a646388ab8f1c8b11a1b471354c92c9c9"
+
+[[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.png"
 hash = "2a7ef73df8200a240cba451754016798ed84002b7a5e1d024af4b22a83ef7f2b"
 
@@ -2445,6 +2513,14 @@ file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_s_v.p
 hash = "c1676001b5b483e4a5c3b4471d5717f0acc0bc36fc72e7117862eb4c660e7ee0"
 
 [[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wireunformatted.png"
+hash = "08994bb8b151d2e39e370c0c523996c8894b24bf5822b25dc47aa28b5b70e57d"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/urephittium.png"
+hash = "877137b726e87834725ee62e1897514461d9b5f67ee7507aac875dc4bb549a0c"
+
+[[files]]
 file = "groovy/assets/cbt/textures/items/wiretemplate.png"
 hash = "506a4eb9b3668825d9187ad39dfe4fea5eb650971f7e7eb6e66f13fb40fb9ebf"
 
@@ -2471,6 +2547,10 @@ hash = "f2f124cee98608d75ce153f8560de78232dd76e1b5c57802e61edec071698221"
 [[files]]
 file = "groovy/preInit/urephittium.groovy"
 hash = "c513374cfd6b3d05d7f690f351ffd3acb569447234e559d0178ff8ff1381a0a0"
+
+[[files]]
+file = "groovy/preInit/urephittiumoretip.groovy"
+hash = "039bf24b6f945a771c4ed657afcaf3b350bf9f30a8359302c2cb7f17f9fe7490"
 
 [[files]]
 file = "groovy/runConfig.json"
@@ -3866,3 +3946,7 @@ hash = "b549820696d3b20d26c21c8abac00563abdd32b5f9887f74d255c48ad7f09877"
 [[files]]
 file = "scripts/master.zs"
 hash = "cdc6f79153f3330bd35800b815b6523ee877b1b8952aec01dae8a6b708e518a2"
+
+[[files]]
+file = "scripts/tetraschrabidiumtrinaquadahwire.zs"
+hash = "7a96224f857cad8865b0ed81860838cc69dbdd62fe2a05fa329cd103635b10eb"
