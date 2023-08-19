@@ -30,7 +30,7 @@ hash = "fe94edfa1b283a9755f72a0447b3d04ab889cceb9a21c26102b6f37f807bed6c"
 
 [[files]]
 file = "ambience_music/ambience.properties"
-hash = "2dcc84b258b272b3fcea85894d78895030966ba539f5d547bb4f32f83c936e9b"
+hash = "ddad37271398f7e5fe8eaeab205eaadb78e58cda91841fef232353eb72b3703d"
 
 [[files]]
 file = "ambience_music/music/bad_apple_project_cbt.mp3"
@@ -43,6 +43,14 @@ hash = "f5e9168985bf71cdece921946aa218ea21d24251af4d39fe585a08164418c17b"
 [[files]]
 file = "ambience_music/music/golden_sky_project_cbt.mp3"
 hash = "6e2111cd9ddabab9f9bc97ae3155c0190c766da8640d6bedea331d5b96c0944b"
+
+[[files]]
+file = "ambience_music/music/our_little_horror_story_project_cbt.mp3"
+hash = "4d70034426bc98772344236af32ac55e5ca3cb0045fa4ba11930cd2d9826ad1d"
+
+[[files]]
+file = "ambience_music/music/rickroll_project_cbt.mp3"
+hash = "786a1418734feedfd94f71521758f9bdf94142e0e731124882d2fd19e0156c47"
 
 [[files]]
 file = "ambience_music/music/silence0.mp3"
@@ -58,7 +66,7 @@ hash = "8724ee4d072fce48ef94b7a3bcf9f222866b470c37a583b24f4548a206c6c167"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "f43e5d5e68c219f01985311ed838fcbd3df8d6971e0e9cda87bd38aa066be787"
+hash = "618463f61dae576ee3ca68c1ea11c6a8a511ddb18ba47eee60fa3e6d42a74588"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -66,11 +74,11 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "b32a19ab84d55b4034295295abdd9f7e78317dab7ab44d878074734ca8ecc628"
+hash = "aca539042d6c87ff373f8ae27141ed15f1e93c5e8256f227d290b66fa140bb58"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "47139a5218fe0809613bc6d69c7743fe66cabd033ad287bcf063ca0488b7a310"
+hash = "8ea8db7cf582ca69ef21bfe3bb6918a5e952f08b1949f8e6d0139d8794a9a274"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -262,7 +270,7 @@ hash = "2ae53c84a1322eb9854789e981f43ee3979ac4fad77e41335acb125dadd39461"
 
 [[files]]
 file = "config/ZombieAwareness/MobLists.cfg"
-hash = "0c9928911ba4e93017bc28cedd520520d558cc89fd65790e2db97583996b0923"
+hash = "1ce867f3d8ee4d074f6cb4234a5bfcf99070144e8396c3f57e03ef197dddafc1"
 
 [[files]]
 file = "config/ZombieAwareness/PlayerRulesAndLists.cfg"
@@ -362,7 +370,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "b63de1b86699031b2a2120dc2b98bd9a01cd8c56ff62bac016fe75b9e48ecc89"
+hash = "a4a25c049a1ccf38596459e8a57d830d3824053d1b779db10570b16bcac56623"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -398,7 +406,7 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "9d0685f6035e06627c14eae61911675a66daaec04ec9dfaf40f5ead04797f10e"
+hash = "b21abb525cb4938bf8305d528c37ac4149e2b16ee8a124995914ec19fe93b616"
 
 [[files]]
 file = "config/fancymenu/customguis/PackSettings.txt"
@@ -418,7 +426,7 @@ hash = "92fe3151aa8ba1687ed3b27d8c4bf4b91258f7ebce7ef5ec8e2f96f7eb6e88e4"
 
 [[files]]
 file = "config/fancymenu/customization/nocheatslan.txt"
-hash = "b0991c8445c750b735748d67e708b80757bf13fc1a2919eda631649a561c0cbc"
+hash = "ab41d827fe3c4dda2c7922c4a8f3be9df9edc839f302cfb6523ee0d69f359b81"
 
 [[files]]
 file = "config/fancymenu/customization/pausemenu.txt"
@@ -1893,6 +1901,14 @@ file = "config/hbm/solinium.cfg"
 hash = "14cdc5fde9bcbc2bcda02e0ce03952ea7d65cd34d5b206291694ce5a9c42309b"
 
 [[files]]
+file = "config/inventorypets/illuminati_blacklist.json"
+hash = "cd1d4ee0081e5c124a95976e5260af16b4cf28ccdc7f302159f477f9e9419fb8"
+
+[[files]]
+file = "config/inventorypets/inventorypets.cfg"
+hash = "e21bfb7205ebd59256d09c128f7dec1f71318fc145ead217d897bb585cb6a407"
+
+[[files]]
 file = "config/jei/itemBlacklist.cfg"
 hash = "6a366f1dc4951a0c7e165a430dc5af6d1dd662c2a2920db4cf8f3e5e74f09241"
 
@@ -1906,7 +1922,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "a610969f6f507c6b55ad6b38a7125bf9f33e59a7c2eddb741c0eb7511db8d2b7"
+hash = "bc3e3a00d9216134b21cc709e676506e989618db2fc85e8e32f977deff813352"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1994,7 +2010,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "68bb8de8f8268b277476b8ebc7f58c58df0ff01da356d83c02ecb80c32936f5f"
+hash = "c2b64065f0f49b346d2a2dadfcad71285fe0768fb5b55efc9b7d45ac246e2671"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2225,16 +2241,112 @@ file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_
 hash = "aeef73de027fd38ba0b1d5cc6c5c09a41f6c73ae46e184e179103fed42ac0fb1"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.json"
+hash = "fe76fb7cfb57e329c6ccfd4518faa29492ace76aee8065f8922565f94280ee44"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.json"
+hash = "e8b83c4d8babba5ea5c74b172a48e8de5b9a38aa300654702978d10a9cd709f6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.json"
+hash = "c7a65636769b4e50ec9708c7fd918b2b5e158082293d982927688e3068961cf0"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.json"
+hash = "df60533a8b92d6441b2515fbde03c61a8bc9bcc688961144f98bb9dd6933449b"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.json"
+hash = "4386ab18adb087105a5c48df1e241c7c0862d8f2a3902723cb378d32fd180e91"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.json"
+hash = "a80afc595fe6d90a86062874bee679546c97ade136fd73c1004e153d8db38399"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.json"
 hash = "9946d544aba0703ae62d19bce779ecc16acb25fbcd0dcfd4d87af96bb0da4a82"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.json"
+hash = "6927fdddd9c1a7d846642d9f83b97092ae40939407753005220dbe8a068ba3fd"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.json"
+hash = "bdcc65cc11c336b1e2db82e7fa93167d297e05dd9c020519e104d704ec843d41"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.json"
+hash = "54651834dd2f3caff5dd87a5fd5bc7c46ea5a6bd3d04b4e4bab351b6fa7e6cd1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.json"
+hash = "cc51f962a810e48c58a21799052aca788a47526d82274d4063d85d556829c07d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.json"
+hash = "af9ab557479a6035181979e265d68f265e9f46f3ec319df744ec307c58a9491a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.json"
+hash = "ce1c7f6387fb034cb9fb2ba55509147a72ef1a7c4892f94fde3e1ebdd06996d7"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.json"
 hash = "18ee309ad7ab478127cca368a6e781a23c693b8045970c1f02e1b0fe8ec0325c"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.json"
+hash = "a7e99710355de31aa0e1264419d36af182300a76cc4188d76e3bedee00c82649"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.json"
+hash = "06a6b9c93722dcc3132f8ce64f999334c3c7d062ba0073dff5891ee4b4e3791c"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.json"
+hash = "4b1cc37fa0a5e369bb55899ef1f1c310913db203a2442f8c8152caa0860ea941"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.json"
+hash = "2edb15835fd89d6bad345160a6a5a632f3098abfb42d4dbfb25e93023dd8bcbc"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.json"
+hash = "2731efec890e1305d5c06a9c499ef11c6527c272fbe95f701a0bb9464ae8e0cb"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.json"
+hash = "33e13909e8cd87bcee2074c132332af8815224dfcd1894758afdb59f4781d0fd"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.json"
 hash = "96ff83a5b42248e7637d048e27068751a6e8a7f06467c009b346cd31c64961bf"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.json"
+hash = "576d7518ea3488e9525d8c0cd479d19ba7c8db7d9015bea6b2ea89775b512a37"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.json"
+hash = "9f9a1b117fa7e0d8d665158713b00315e0f157d36b5a5903c65abaec3357ffb6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.json"
+hash = "63fa07da2b2e767fbc738e6bc97e6e818e1fcdbc37a668b92bd02fc3437b9220"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.json"
+hash = "e0b9b71fc8874bb2512c87e3d4c9ee79998a8e1241a796b9e6b5a98ee3d055d2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.json"
+hash = "5fafb33c0a4da410bdfb2cd055135095a7ffd0874a16de3f8b8cae3a1537c5f1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.json"
+hash = "3cb45d44c8eaada1e8cde9db7b2fa32e8177f2e15ecd7f27062b98cf84518e03"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_d.json"
@@ -2333,6 +2445,38 @@ file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_a
 hash = "2c25312194f0eb54f0e9185bd403d086bf114be98140aee5212ada4800db30a0"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.json"
+hash = "d53997a7cdfc2b6a65e4201f282e1a4e6da978435e5a0ae08bc44696309b5ed4"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.json"
+hash = "27913cf5dc1f45a37122ec5632f0ff1e0bb8145cefb166586595a47336896cee"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.json"
+hash = "dd47879997b3be00cb0257a59b95409e39fcaccfc50221cb7f64eb88cad22d31"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.json"
+hash = "13544e876335949698bea67323dfdbb019fe30c15d4b5025d4cfe1a72e12f52a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.json"
+hash = "725a413ac4eebfe1a9e5da8575cd78dd64d1c3b25beac3025558fb9b7cc2f55c"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.json"
+hash = "a843ee6be45a5fcbfb7e483dca37b3f15b0539a09f077faebe5219d4676a6f1d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.json"
+hash = "c6eebcce64bcf926f6f15f2a1734113d504d73881a3cd3d8e4e07d58d34f63d5"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.json"
+hash = "6f82a8b991366581776fb20044f03f62265abc2d05242c9fb1ef1d96f679137c"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_h.json"
 hash = "bb5ee2789ab31fe2067ff72fbe73605c2ba4251ed9ae64dc2d96ddc876e4f270"
 
@@ -2389,16 +2533,112 @@ file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_
 hash = "44d83668fe904f6aa1c55742e06b93bc8e5832963d581e96287d9ca2ed154854"
 
 [[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.png"
+hash = "ecd235ae847c660dc590e85233b646ed351090514d4f0275eba856d31cd41ae5"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.png"
+hash = "959362d026f990072a1628ebb5c9155e49670a2710a4baa303a1580451af690d"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.png"
+hash = "a11d3c416217e70776198c36ca6950be337121ada3653fa96333b8d3c4461b74"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.png"
+hash = "0174fc7938109eb33542a65551ffa38f3c62420f529da050e42ccbc3fa4d4dd6"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.png"
+hash = "a3154f61f86917419dcc861bea9abf846d24d31550f88f47be0aceadb697260e"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.png"
+hash = "fa177636880e05c8b175ee0800b4538369b0ab9cb08dba580a2dfdd02dbafb65"
+
+[[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.png"
 hash = "3c6e21026e7096f16f61bda305f95990b686c1d68759f3886772625cbcc5e2f1"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.png"
+hash = "aa5bb5ff17af6613fb4ea9f5046e6929aa39506a01525e0c0c353582a8b4fee5"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.png"
+hash = "79af509bdff76aa42845689d8ca26ef66880e9d2991c68bd6cf465f56899185a"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.png"
+hash = "655b7de03846cbffe2fa1c31a57a82bc8cac56809da7d4af88b43ca0b0f88c25"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.png"
+hash = "cafee894a1c20c52d9d28f065519e272817cd027a65f08ab3fefb2ce736a9507"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.png"
+hash = "57f35aa1ae9dce200483203ff2d738ef3e93af1ffb41b4634d682e2687cb8d00"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.png"
+hash = "33b17fd0f681a34b06d039a135a16b52c184013f69e379bc2d40f0e95697e944"
 
 [[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.png"
 hash = "ffa79db5c455eb0a0da973a8226c41089dedeaa53584eb269ecf41a1f58d49d2"
 
 [[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.png"
+hash = "b5052cfe61863ac0dbd43cdfb11362a7aa830547bbbac22d4aa1ab565f0f922b"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.png"
+hash = "1aef82c65c683782a4940ae074dbcac0ebbd3ccd774e604208a9ab5140cc0564"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.png"
+hash = "c8630d0e0ccf00c2c2e39c4cd3cc7fba5b1dfef9592cc75ad21f261327c2b417"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.png"
+hash = "c0e983386f74ee522538adac0cbb39bdafb2fde1a032a63b3d74ab0bafa570b4"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.png"
+hash = "e8e779f8f7d4ecba8419ef4bb1a4e6fc15f76e849e8d54d4a07a6c12ce349b40"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.png"
+hash = "f6648b11b83d99db46acf7558409e44389f732c52c6130165d49a7ecd6178901"
+
+[[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.png"
 hash = "fff5d6d799ac6f5a875b26a97e84b26bc814b3fb64e09826f5ab6154fcbab187"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.png"
+hash = "2ce2bc2de1e80be46c152462632e74e17ffca5964413017f4bd0ef46391bcdc3"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.png"
+hash = "27d72214ee1c068abdb9a6df758fbfe57a91724346287481018995d15d4268ac"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.png"
+hash = "c89b5d2c120fedb4c1b0eaf0db701987b6adbb85373e96f47fca605650a8a33a"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.png"
+hash = "a62d81fb0f833be84ba954cf9011fb784e23bf487dc464f94bf9d925806050e6"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.png"
+hash = "606dd62ed951880aa14f1a6dbf75beeb444df487731bccb1ef7c7018a7b215b3"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.png"
+hash = "01e1c2a612d693ec0f1b47e6aba6128b239f517a3c6571d46701cf3d59097dd4"
 
 [[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ae_d.png"
@@ -2497,6 +2737,38 @@ file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corne
 hash = "df24dc7f26df4135a462d2a515922e09ed80eee71521eb15ce45eda0884dfa64"
 
 [[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.png"
+hash = "0572c0a019426e0cb4e6f983dad1e2eb2b0fdb8b21e4bb807c6825b9bb8f3206"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.png"
+hash = "b183942209526be9771befc9e5bfa3535b5e4db8ab87492750e1bd17a50f0bdc"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.png"
+hash = "374e4bff6da4dca9b6d400f83545bf8bab79d46303ca7d7c00ac620b08005f4c"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.png"
+hash = "f662c7f8d078a9d59ff5a266e3adf717cd7b03ebc30f347b5b8373dce45344c7"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.png"
+hash = "5e5e546ed785eb35f096aeecba934abf941f82b19c0b423726c6522411f69f85"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.png"
+hash = "638f51bdb8afc2e58f3344e3566ddae20f9c3a856f31c7501b76b5b947898f87"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.png"
+hash = "0504668ab5ed6913ed57be7e02fd7e7a461743651b04fdd05f1a0455918d3e2b"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.png"
+hash = "ea6d82a07dbbbde3537f75ff85070c4b1adcaf9b5536569c62ac65697115fbdb"
+
+[[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_d_h.png"
 hash = "6a8d89f52780e66c7ec25203a5119570df8cc07012be21d6a95407b5a14aac64"
 
@@ -2534,7 +2806,7 @@ hash = "c197b5e4aecf6e3fe9d96fc8eb88205833dcd246ef3c8268936677b16ee5c67f"
 
 [[files]]
 file = "groovy/preInit/4schrabidium3naquadah.groovy"
-hash = "27853762e5a1fda689631f0f1d8ea388f7f0895799d9ce748122cc56b0f3b16c"
+hash = "47b09bc6e232636d928eceef05afc9cfa37b452a3d18ccb0c6b9f54f95c8552d"
 
 [[files]]
 file = "groovy/preInit/4schrabidium3naquadahoretip.groovy"
@@ -2554,7 +2826,7 @@ hash = "039bf24b6f945a771c4ed657afcaf3b350bf9f30a8359302c2cb7f17f9fe7490"
 
 [[files]]
 file = "groovy/runConfig.json"
-hash = "6e7489247f40214916a14a6527f8451853021b49ac3bd620548348651eba9626"
+hash = "b38763ad2c7834c6743d7d75ad2bb46ebbb3e41c13f8cd19303cc1d176d582da"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -2794,6 +3066,11 @@ metafile = true
 [[files]]
 file = "mods/infinite-night.pw.toml"
 hash = "64e9c0de6d4474902f446f292ac14ac0eacc87a38a73b4e1f36146307e311695"
+metafile = true
+
+[[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "170be9e382304e721d86ac7a420aeb7d0ea64512ada6150bac3ee532e79af1aa"
 metafile = true
 
 [[files]]
@@ -3949,4 +4226,4 @@ hash = "cdc6f79153f3330bd35800b815b6523ee877b1b8952aec01dae8a6b708e518a2"
 
 [[files]]
 file = "scripts/tetraschrabidiumtrinaquadahwire.zs"
-hash = "7a96224f857cad8865b0ed81860838cc69dbdd62fe2a05fa329cd103635b10eb"
+hash = "9a379556c7bb644b7a9f5477de62690ad73205da20acfa61213d15f3e304ea0c"

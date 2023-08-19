@@ -39,7 +39,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Fuck you! \nYou need to manually install \na shady program 'nbteditor' \njust to enable cheats
+  source = Fuck you! \nYou need to manually install \na shady program 'nbteditor' \njust to enable cheats \nif you dare press the button \nIM NOT RESPONSIBLE FOR IT
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -51,6 +51,6 @@ customization {
   actionid = 0f028bbe-12db-4b5c-a07d-80167ec19db21692411761591
   y = 22
   alignment = left
-  height = 40
+  height = 61
 }
 
