@@ -66,7 +66,7 @@ hash = "8724ee4d072fce48ef94b7a3bcf9f222866b470c37a583b24f4548a206c6c167"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "618463f61dae576ee3ca68c1ea11c6a8a511ddb18ba47eee60fa3e6d42a74588"
+hash = "94c48e842fa2f65fdf0c01de7325ff0532f7ff66b12b900e0367ed30ee2dd87e"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -74,15 +74,15 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "aca539042d6c87ff373f8ae27141ed15f1e93c5e8256f227d290b66fa140bb58"
+hash = "e72a7ba7dc9050fbdb17e909697661f105c36c98add7081fe99c7fb1d475401d"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "8ea8db7cf582ca69ef21bfe3bb6918a5e952f08b1949f8e6d0139d8794a9a274"
+hash = "59a0955f3b9279161fd0420a0b5cd8bc4361b28541adf40f6742a53855226c65"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
-hash = "6baced4e53186b19d531642526318899916c6733467a9734929b4e6b5be3d422"
+hash = "40d52201e7e9c74134faad146913706d0f1cecd0a4c82b394319fec232d87b62"
 
 [[files]]
 file = "config/CoroUtil/BlockDestruction.cfg"
@@ -174,15 +174,15 @@ hash = "0bf2cde39064aae2d8433a849ae4f158364f9f186ce22ac89e6ad71820ad5320"
 
 [[files]]
 file = "config/GalaxySpace/barnards/dimensions.conf"
-hash = "317bb2e868cc433a89a0b2cf9a952e71116ee22d30f3f6c5789a2ae7b295582d"
+hash = "216198e8adc27b02818f3789cbc26c1bdadb82adede5a2121c208490e0e5460c"
 
 [[files]]
 file = "config/GalaxySpace/core.conf"
-hash = "808262292d8598412d9e4ed8212cf955a168150273df0de01777ad76158cc3b5"
+hash = "75c3e3404c8f7958584dc04ccce39e43192d01e253b2ecf0b609947cfdcdd033"
 
 [[files]]
 file = "config/GalaxySpace/dimensions.conf"
-hash = "83510c678144e9dbd25a92c01f5a0ab4d7fea114181a647d3731d05e8eab4b64"
+hash = "51a5d9c6a95f07dcdae916a84dd22ac05a99326060922aafa2d332224a1ba98f"
 
 [[files]]
 file = "config/GalaxySpace/energy.conf"
@@ -370,7 +370,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "a4a25c049a1ccf38596459e8a57d830d3824053d1b779db10570b16bcac56623"
+hash = "c5db1bea28ff4b828ca37655e4628992f355363cdc9747c4225d0a08205be073"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -399,6 +399,14 @@ hash = "6b3cb302fc6ac8d7fdaa3063e2df968fea7470d3101f885fa6774b98554bde62"
 [[files]]
 file = "config/energyconverters.cfg"
 hash = "6041f7867f0e8150415562c318d2c3970f73566fc8f5de1a19cfc8f997fb5976"
+
+[[files]]
+file = "config/esm/entity_ai.json"
+hash = "cec3daf119556e173550d45d73897498811dd9fa59015bc8e3d0793a4ac76e82"
+
+[[files]]
+file = "config/esm/epicsiegemod.cfg"
+hash = "6a36a18be793debca4832b131c7bfebd144d0f2e6b34e9ad2df03c8d912eb9ae"
 
 [[files]]
 file = "config/exnihilocreatio/ExNihiloCreatio.cfg"
@@ -1870,7 +1878,7 @@ hash = "6c66739cadefe6e73a1cb0c23fbda336670a9e52c5e35d00e23a4696d26b79ed"
 
 [[files]]
 file = "config/gregtechfoodoption.cfg"
-hash = "8e58979c889c451266e55a1f93c7981dc65822ff717dbfa1e871628d930b8fa2"
+hash = "b5ed6147035344d7652faa7ed393b0a6a36280e625e4b61d7e7ef06e1dcdac8c"
 
 [[files]]
 file = "config/hardcoredarkness.cfg"
@@ -1886,7 +1894,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "5f4ff1da967d20a7068b7e167a2fdbc83688b827e7a97bea934681017594904f"
+hash = "64f6fba894de4ab6c18737eaba6f0f75971cb1ca214fac424b845334f0ef3e9a"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1894,7 +1902,7 @@ hash = "cbd908a466fd70061173c6cc8ca26d63a283bdc9cfb8481ef4f909591761f6e7"
 
 [[files]]
 file = "config/hbm/hbm_dimensions.cfg"
-hash = "ec42704310c4509b391498bb97c128e37beed6717691a41a010e0564bff432b9"
+hash = "7144f96ead7d56110cfa30d114d6aaad9e6417ddf6d2fe3697cb4df64c380080"
 
 [[files]]
 file = "config/hbm/solinium.cfg"
@@ -1922,7 +1930,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "bc3e3a00d9216134b21cc709e676506e989618db2fc85e8e32f977deff813352"
+hash = "12dc3762ca822a984bca420d35bb2c648746ae705875301d444bcaddef2843f0"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1969,8 +1977,36 @@ file = "config/moresoundconfig.cfg"
 hash = "6a57f5a5e89fb867f47fdeb634f16028dcfec85c7ba093d310ebf322fc347e5a"
 
 [[files]]
+file = "config/multiblocked.cfg"
+hash = "b3fdb834a9455d8cd6e345e1aeb93bec4108cb8483fdac8fb2665ad867fa8915"
+
+[[files]]
 file = "config/nuclearoption.cfg"
 hash = "b3c3ccc51414932952af30752262194080dd05ec61c96dbb336332559283fe14"
+
+[[files]]
+file = "config/opencomputers/default.recipes"
+hash = "83e92db8906351e470d13907bab0516febfdba6abf9de6f7abe3970cdc64302a"
+
+[[files]]
+file = "config/opencomputers/gregtech.recipes"
+hash = "2c791acd28f72d75de0747f6fa95c197cc3abd0938a1929933c3926974462995"
+
+[[files]]
+file = "config/opencomputers/hardmode.recipes"
+hash = "07e0e81eab77fbebefa84eb25078e672b6f847ba7a88cc5e205593975fa6886b"
+
+[[files]]
+file = "config/opencomputers/peaceful.recipes"
+hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
+
+[[files]]
+file = "config/opencomputers/settings.conf"
+hash = "09643e8c945fdd8a73a6ba52ddfef9fe1887b86b1a755ef30d6f0c74ed11606a"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
+hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
 
 [[files]]
 file = "config/patchouli.cfg"
@@ -1983,6 +2019,10 @@ hash = "34739b864ac9c98d973ca676f80b796992a61d10a80b32528f9ecbd2864fe281"
 [[files]]
 file = "config/reachfix.cfg"
 hash = "83e105d3c8a64dbf979eeff39304965b5d05d0f01d4929853f0afe7d19fe8b34"
+
+[[files]]
+file = "config/recipehandler.cfg"
+hash = "54279ab7c1888fa59efbb41df2f2e61973e1d4fe26781437bb3da96e6a5b3737"
 
 [[files]]
 file = "config/refinedstorage.cfg"
@@ -2010,7 +2050,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "c2b64065f0f49b346d2a2dadfcad71285fe0768fb5b55efc9b7d45ac246e2671"
+hash = "7607b180152cae58a4d1c5983e4c10f072a338de130f0888e51d70fa7ac85163"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2174,7 +2214,7 @@ hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
 
 [[files]]
 file = "config/waila/waila.cfg"
-hash = "f8a6b735e9f095f5a75cf8c6e0920c7ea275b08a6cf7d6cad1fe8320663e606d"
+hash = "0bf4931ecb3eab3a93270aa7b47fa1b8472cf384307ae7c25d486b7f6d09396e"
 
 [[files]]
 file = "fm/button.png"
@@ -2214,11 +2254,47 @@ hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
 file = "groovy/assets/cbt/lang/en_us.lang"
-hash = "048763ab242909daa69c3969847c646070d7ed4489ede7d3a326b2c51f1cc6e5"
+hash = "236db545c1e324c57e0bf3ac38090bb4e4c4cb5144f226fd9deb1c935df1fa21"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
 hash = "1d199bbff9af761c9660369db79c4e8fe265f3adb58c08e61adbfe75efc96d8d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_andgate.json"
+hash = "329672cb7178dba690cc8c8498fb2019c12d15faae06606cb17c77730a88532c"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfadder1.json"
+hash = "e7a881797f47b5d59e2bb2de323329b61f2e225d09d737fc47421bda092f4b4b"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_nandgate.json"
+hash = "ddd7f0a55bd5c3f61e44c1e3b0476670c589edc370b9b449ff772c4b9b0f63f2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_norgate.json"
+hash = "b0840a03fa2dcc46b4bc3f75cb8b01ad55a23cd8e6b0528e9e8f6f0beefe0457"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_notgate.json"
+hash = "96749ce635d78e04ed89eba04671067040396254e883a532587301f0d62fcc47"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_orgate.json"
+hash = "77c0e5d371b2575a83681a49bf8ed302a88aece0719f46322f40729b808bcd75"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_transistor1.json"
+hash = "e4bb60a6bc68cc0a6733974bc315d9dceb1a064c3ba718fa8cf412693c210aad"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xnorgate.json"
+hash = "cff44e6bc2815e947ece16fc891409f31273e948c6b8de3a4b7d4e1081bf87b6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xorgate.json"
+hash = "773c2aaa59528381a0e60f2d026e3c132e74511e27804e51d43d8e223bd8e212"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.json"
@@ -2497,6 +2573,10 @@ file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wireunformatt
 hash = "9109048ebd9419566cb4461e31223f5693c7737f7d6e16fd6d3fdb8cad2a9da2"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/thorassium.json"
+hash = "d60ec4178d22d86f9440737346fabef0cb721b97af9a911f8c719d7cf833cf26"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/urephittium.json"
 hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
@@ -2511,6 +2591,34 @@ hash = "9db02a65e71b6924e22708974d5ba36f8c5170e2a63a29c8fa51070841c0cad9"
 [[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium.png"
 hash = "894311b4b7eed891da3c06b8fda0ce78e96b67e6f5430f09134db5b889ac1f71"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_andgate.png"
+hash = "791967120f873f277b632e641b2a0f3c8678c842d49f2816fd04363336f8c92f"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_nandgate.png"
+hash = "2372534aebd067cb6c506a7d9a46ce56b9d0ae4df68e7522d658750b5876f3c5"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_norgate.png"
+hash = "2a4bf5878a8034083cbfcba43ded24a490fd01a19fda79c058884210ce3cf294"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_notgate.png"
+hash = "f359680f192c4c26d44da9bb153565450b544fa26b55f51a870d7fc38f4fdfcb"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_orgate.png"
+hash = "e9d35b7e99ea3ee16d0a6a8c7f1d5c0b28bd395d79b348e4eea13d3cf4f6c490"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_xnorgate.png"
+hash = "956aaf75e48f1e1955d450c357a33aee1c3c2c6d9c1f5c10bbfc1c8141dffb1d"
+
+[[files]]
+file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_xorgate.png"
+hash = "6c96341e95e24bb28f2bc33274b9e931d8be44023a7037fca0fefe0b25e20665"
 
 [[files]]
 file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.png"
@@ -2805,23 +2913,23 @@ file = "groovy/postInit/main.groovy"
 hash = "c197b5e4aecf6e3fe9d96fc8eb88205833dcd246ef3c8268936677b16ee5c67f"
 
 [[files]]
-file = "groovy/preInit/4schrabidium3naquadah.groovy"
-hash = "47b09bc6e232636d928eceef05afc9cfa37b452a3d18ccb0c6b9f54f95c8552d"
+file = "groovy/preInit/UHV/4schrabidium3naquadah.groovy"
+hash = "75d12eb60f374e013b3f8e7e9567a98ab37fea246395eae353376d1995213a48"
 
 [[files]]
-file = "groovy/preInit/4schrabidium3naquadahoretip.groovy"
-hash = "6d2444c483479c313770d3cd41e8f5a7ad6dad33aa009419f08bf2e0ad67a7e8"
+file = "groovy/preInit/UHV/4schrabidium3naquadahoretip.groovy"
+hash = "c51f12041e3eb81c131f7c620cdcd9316e7dde641077418945f6330382e0c30b"
 
 [[files]]
-file = "groovy/preInit/master.groovy"
-hash = "f2f124cee98608d75ce153f8560de78232dd76e1b5c57802e61edec071698221"
+file = "groovy/preInit/UHV/thorassium.groovy"
+hash = "fc96cd318f7958927d191f0dc5bb66aad45774cec26d59d3348f34cd6a09076b"
 
 [[files]]
-file = "groovy/preInit/urephittium.groovy"
+file = "groovy/preInit/UHV/urephittium.groovy"
 hash = "c513374cfd6b3d05d7f690f351ffd3acb569447234e559d0178ff8ff1381a0a0"
 
 [[files]]
-file = "groovy/preInit/urephittiumoretip.groovy"
+file = "groovy/preInit/UHV/urephittiumoretip.groovy"
 hash = "039bf24b6f945a771c4ed657afcaf3b350bf9f30a8359302c2cb7f17f9fe7490"
 
 [[files]]
@@ -2840,7 +2948,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "a7d797cb495a21cadc55e847c0a986eb66372d6c90a8dd1410333f0c6a50638c"
+hash = "ba46bea448fb80d2b5334abc7c81c773c6ba2ae97a0a5a5cee2a2bb9baca5745"
 metafile = true
 
 [[files]]
@@ -2850,7 +2958,7 @@ metafile = true
 
 [[files]]
 file = "mods/asmodeuscore.pw.toml"
-hash = "2d42af07ea3232b9b8520b37dbd85c185dac62ec15c4f3392454d2334e091f6c"
+hash = "56c3307640a15ea132978c5da02243c0895e11865f4df6f427d7c891aad9fc45"
 metafile = true
 
 [[files]]
@@ -2959,6 +3067,11 @@ hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
 metafile = true
 
 [[files]]
+file = "mods/epic-siege-mod.pw.toml"
+hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
+metafile = true
+
+[[files]]
 file = "mods/ex-nihilo-creatio.pw.toml"
 hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
 metafile = true
@@ -3005,27 +3118,27 @@ metafile = true
 
 [[files]]
 file = "mods/galacticraft-legacy.pw.toml"
-hash = "1e470a72b6e3b2c14dd377c1d34f962aa1efe603a61f4ca8db3afe7c8298b5b4"
+hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
 metafile = true
 
 [[files]]
 file = "mods/galaxy-space-addon-for-galacticraft.pw.toml"
-hash = "82833d881a0989540edfd031036dbeffd5faf229524b4cf31349904bdb402c1c"
+hash = "87891e915c0d6c4bd19e725df1cd56e96c0a7072e1cb768cc25cfd3f36612dc2"
 metafile = true
 
 [[files]]
 file = "mods/gregicality-multiblocks.pw.toml"
-hash = "174bfb75ed9e71e3b4355c670fe2e2e9b0bc60398c9ccbe0d066beb76e54e4a7"
+hash = "76d54845deb70f99f4051848245c72d3225f4c8b71f3313705ee6462474d9e99"
 metafile = true
 
 [[files]]
 file = "mods/gregtech-ce-unofficial.pw.toml"
-hash = "774067f96645c5269f8d427f80f97a4895884eee7709c58361af19a6e8a0de4a"
+hash = "af60989d24844feda2b39a262c55716dfdfa6df1824e6b20f891c49cc70130fd"
 metafile = true
 
 [[files]]
 file = "mods/gregtech-food-option.pw.toml"
-hash = "7161d2a2c7b9f32cefd480055156fa3197a3d75e9bd2bac0d4c3f23e4165da93"
+hash = "3fb80128f4a782ce1db098c7e4056735279fc15d3f4d630f8f1437663bb53b83"
 metafile = true
 
 [[files]]
@@ -3050,7 +3163,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "a985df50ba2c52415affc2bfd70ddace02ecc884478ee435c480042534e62398"
+hash = "3100d976f6580ff6c2dd8caa46cc523883f7cf052708a169e8f67d01b47edfad"
 metafile = true
 
 [[files]]
@@ -3090,7 +3203,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "ad25fd8db36eec5a1a5c6171e890baea92cdfd659824c6239c6e3828d46b7d36"
+hash = "6aaf7b7ab07985a2e62c0aeeb6376e958da28004ff9252c1a14a4d7dbd6bda64"
 metafile = true
 
 [[files]]
@@ -3125,12 +3238,12 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-0-7-0-8-compatibility.pw.toml"
-hash = "77ccda6fa0da13ce6b524248a579c0a5733aaf628f617f0c68f2370d84dd6e4d"
+hash = "f39c64e5bbdc2ec6a12936cbdd4a2821d891d591402de376acb21fcde158a548"
 metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "4b4b6e0241af3357ddab7998432199b82ef0c2a8b3dc0567e28c9a83cbfbc1fe"
+hash = "f9a107c846eac43a735020db2ae465c15bb7921a02005958ae2d86cc1d6ab340"
 metafile = true
 
 [[files]]
@@ -3156,6 +3269,11 @@ metafile = true
 [[files]]
 file = "mods/nuclear-option.pw.toml"
 hash = "dedcb7ffa7557a537d20e2edc1761a1ac03e2c48db6caf0b2da2ed7caca0fd5f"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
 metafile = true
 
 [[files]]
@@ -3286,6 +3404,11 @@ metafile = true
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
 hash = "88f0e129a606601a53dd3133013bec497e7f08c5eea86eb8473e165d8fe0b2e4"
+metafile = true
+
+[[files]]
+file = "mods/yarcf.pw.toml"
+hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
 metafile = true
 
 [[files]]
@@ -4225,5 +4348,5 @@ file = "scripts/master.zs"
 hash = "cdc6f79153f3330bd35800b815b6523ee877b1b8952aec01dae8a6b708e518a2"
 
 [[files]]
-file = "scripts/tetraschrabidiumtrinaquadahwire.zs"
+file = "scripts/wires/tetraschrabidiumtrinaquadahwire.zs"
 hash = "9a379556c7bb644b7a9f5477de62690ad73205da20acfa61213d15f3e304ea0c"

@@ -221,3 +221,34 @@ alloy_4_sa_3_nq_wire_corner_ue_sd_pos4_1.register()
 
 def alloy_4_sa_3_nq_wire_corner_ue_sd_pos4_2 = content.createItem('tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2')
 alloy_4_sa_3_nq_wire_corner_ue_sd_pos4_2.register()
+
+// LOGIC GATES SECTION
+
+//4sa3nq logic gate - basic
+def alloy_4_sa_3_nq_circuitpart_transistor1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_transistor1')
+alloy_4_sa_3_nq_circuitpart_transistor1.register()
+
+def alloy_4_sa_3_nq_circuitpart_notgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_notgate')
+alloy_4_sa_3_nq_circuitpart_notgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_andgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_andgate')
+alloy_4_sa_3_nq_circuitpart_andgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_orgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_orgate')
+alloy_4_sa_3_nq_circuitpart_orgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_norgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_norgate')
+alloy_4_sa_3_nq_circuitpart_norgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_nandgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_nandgate')
+alloy_4_sa_3_nq_circuitpart_nandgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_xorgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_xorgate')
+alloy_4_sa_3_nq_circuitpart_xorgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_xnorgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_xnorgate')
+alloy_4_sa_3_nq_circuitpart_xnorgate.register()
+
+def alloy_4_sa_3_nq_circuitpart_halfadder1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_halfadder1')
+alloy_4_sa_3_nq_circuitpart_halfadder1.register()
+

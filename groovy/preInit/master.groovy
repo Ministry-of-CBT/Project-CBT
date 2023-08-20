@@ -1,2 +1,0 @@
-def schrabidium_naquadah_4_3_alloy = content.createItem('tetraschrabadic_trinaquadium')
-schrabidium_naquadah_4_3_alloy.register()
