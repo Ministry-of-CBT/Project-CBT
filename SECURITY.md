@@ -13,8 +13,8 @@ This modpack is INDEV Phase. I will start adding releases here once the modpack 
 ### v0.0.x alpha
 
 v0.0.2 alpha - Client and Server 
-- [v0.0.2 alpha SERVER](https://github.com/Nrmot-GithubRepo/Project-CBT/releases/download/Alpha-0.0.2-server/CBT-Server-a0.0.2.zip)
-- [v0.0.2 alpha CLIENT](https://github.com/Nrmot-GithubRepo/Project-CBT/releases/download/Alpha-0.0.2-client/CBT-Client-a0.0.2.zip)
+- [v0.0.2 alpha SERVER](https://github.com/Nrmot-GithubRepo/Project-CBT/releases/download/Alpha-0.0.2-clientxserver/CBT-Server-a0.0.2.zip)
+- [v0.0.2 alpha CLIENT](https://github.com/Nrmot-GithubRepo/Project-CBT/releases/download/Alpha-0.0.2-clientxserver/CBT-Client-a0.0.2.zip)
 
 v0.0.1 alpha - Client and Server 
 - [v0.0.1 alpha SERVER](https://github.com/Nrmot-GithubRepo/Project-CBT/releases/download/Alpha-0.0.1-server/CBT-Server-a0.0.1.zip)
