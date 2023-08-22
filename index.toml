@@ -61,30 +61,6 @@ file = "ambience_music/music/sweet_dreams_project_cbt.mp3"
 hash = "20d84413d46ee0c3fb2c14f2ca9d4dcd0ee1cad1c7f8a1a761b9831aba77a1ac"
 
 [[files]]
-file = "archive/CBT-Client-a0.0.1.zip"
-hash = "4341ac7a6768ac2ff511d8c297a1101634b22bd5551583b6b2e2f338c2e11715"
-
-[[files]]
-file = "archive/CBT-Client-a0.0.2-snapshot.zip"
-hash = "e0f8fa608a6405e6afd5bc8c961f0a1a9f82c1450832dba616b348661c4d1087"
-
-[[files]]
-file = "archive/CBT-Client-a0.0.2.zip"
-hash = "5d635ddfd2c1271739c75ede0beafd7e1824646d2581f04b8690ae8bf15f56b3"
-
-[[files]]
-file = "archive/CBT-Client-a0.0.3-snapshot.zip"
-hash = "1a185e30eb888073a3e4c661a73e03a9ec861859f8ea8fd54c8bf2690f1c0171"
-
-[[files]]
-file = "archive/CBT-Server-a0.0.1.zip"
-hash = "fec738ef878337f75a4792da48648f4078f9f661089e78c91c74a403b996a699"
-
-[[files]]
-file = "archive/CBT-Server-a0.0.2.zip"
-hash = "28c3a156b563fecc2ed42482715298d60d772972efcb157ebbb82ad8b80857ec"
-
-[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "8724ee4d072fce48ef94b7a3bcf9f222866b470c37a583b24f4548a206c6c167"
 
