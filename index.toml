@@ -26,7 +26,7 @@ hash = "97b520372c1987310ceff9068d46335cbe073444514d37f6d58fe1a95f987a0b"
 
 [[files]]
 file = "SECURITY.md"
-hash = "fe94edfa1b283a9755f72a0447b3d04ab889cceb9a21c26102b6f37f807bed6c"
+hash = "79d89407b16ee9746cabcd0c269f29f7d10d8546c7296e8cf1e0725194f43ad0"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -61,12 +61,36 @@ file = "ambience_music/music/sweet_dreams_project_cbt.mp3"
 hash = "20d84413d46ee0c3fb2c14f2ca9d4dcd0ee1cad1c7f8a1a761b9831aba77a1ac"
 
 [[files]]
+file = "archive/CBT-Client-a0.0.1.zip"
+hash = "4341ac7a6768ac2ff511d8c297a1101634b22bd5551583b6b2e2f338c2e11715"
+
+[[files]]
+file = "archive/CBT-Client-a0.0.2-snapshot.zip"
+hash = "e0f8fa608a6405e6afd5bc8c961f0a1a9f82c1450832dba616b348661c4d1087"
+
+[[files]]
+file = "archive/CBT-Client-a0.0.2.zip"
+hash = "5d635ddfd2c1271739c75ede0beafd7e1824646d2581f04b8690ae8bf15f56b3"
+
+[[files]]
+file = "archive/CBT-Client-a0.0.3-snapshot.zip"
+hash = "1a185e30eb888073a3e4c661a73e03a9ec861859f8ea8fd54c8bf2690f1c0171"
+
+[[files]]
+file = "archive/CBT-Server-a0.0.1.zip"
+hash = "fec738ef878337f75a4792da48648f4078f9f661089e78c91c74a403b996a699"
+
+[[files]]
+file = "archive/CBT-Server-a0.0.2.zip"
+hash = "28c3a156b563fecc2ed42482715298d60d772972efcb157ebbb82ad8b80857ec"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "8724ee4d072fce48ef94b7a3bcf9f222866b470c37a583b24f4548a206c6c167"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "94c48e842fa2f65fdf0c01de7325ff0532f7ff66b12b900e0367ed30ee2dd87e"
+hash = "a43348771577dd448dcaaa52a34e24f6f5ce507cd448440a17f036a66e4124d7"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -74,11 +98,11 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "e72a7ba7dc9050fbdb17e909697661f105c36c98add7081fe99c7fb1d475401d"
+hash = "0bce7d452077b09572ff2ded4e7ccfcd69bce3fcc4d6bca36c6745df5ddb1b4b"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "59a0955f3b9279161fd0420a0b5cd8bc4361b28541adf40f6742a53855226c65"
+hash = "f3af031d927e952707f6e0c8ee618adefd6070d3dfd6298c073daf540a51e2ea"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -198,7 +222,7 @@ hash = "2388f6e930e2fc03a46ba645eacb69f8ec7d8df219e7eceb2b1c91e9b36c0f97"
 
 [[files]]
 file = "config/HW_Invasions/InvasionConfig.cfg"
-hash = "5f0eb06e133876a8843007ff5972e62d1c9e86867f25a03eefbd99e21fccd213"
+hash = "b5a1bcca4c5c1d3744c987b53b20dc5fa194dabe0f4feab711dcf63e804230d1"
 
 [[files]]
 file = "config/IC2.ini"
@@ -337,6 +361,14 @@ file = "config/bettermineshafts/README.txt"
 hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
 
 [[files]]
+file = "config/betterquesting.cfg"
+hash = "21fa7a5e744194ba6e1222882f028f69a073fb363ac16dfcd6741207abfbd642"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests.json"
+hash = "230f0674050a72d30415016743c86036fbb1748bf9c4b47495c6c2d1c65444a6"
+
+[[files]]
 file = "config/carryon.cfg"
 hash = "f5d50f4e4667d4d29eb2dd63a3f387809e9e965c4974dd9a6d2a4cdbc7acc032"
 
@@ -370,7 +402,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "c5db1bea28ff4b828ca37655e4628992f355363cdc9747c4225d0a08205be073"
+hash = "0accefc1a6efc721ab546998eb70cb69e882938ce2f62270b604cb3c150d833f"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -1894,7 +1926,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "64f6fba894de4ab6c18737eaba6f0f75971cb1ca214fac424b845334f0ef3e9a"
+hash = "0092b7b62224eeea067ac17bd5892b95f1e67fd543e0564b108f91a4eaf13e53"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1930,7 +1962,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "12dc3762ca822a984bca420d35bb2c648746ae705875301d444bcaddef2843f0"
+hash = "280372188e56c0ccaf18e20aef55d6f96bca3cecd47006d1a998a2a8535585b1"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -2050,7 +2082,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "7607b180152cae58a4d1c5983e4c10f072a338de130f0888e51d70fa7ac85163"
+hash = "d15bf7681f43c14300a29c2aa40482857fcc7647edaea21cc7f89454a29e5194"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2058,7 +2090,7 @@ hash = "2a68f5f1367dd9fc9356c4bae27f0b90ab214d74fe1b0af5e7cd79d86cda86c6"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "0e74d47b623b9c6100e390edfbb57b20d4c2dcbccca421f344f4e00ed25a2051"
+hash = "0e29eeac7c743d4bc771a2a120cb1620d45f1e921e5958a36c05c77343043ea5"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
@@ -3002,6 +3034,11 @@ hash = "d54d454b2ad85aa2ea3cfbf9ca0383952efd826cd0ab842f4fb73aa2a5db074f"
 metafile = true
 
 [[files]]
+file = "mods/better-questing-unofficial.pw.toml"
+hash = "ccc7b8673d965cfec5adf32244a9f0841adfa4bc60f5c93ea5b6130b5223023d"
+metafile = true
+
+[[files]]
 file = "mods/bnbgaminglib.pw.toml"
 hash = "85633fa044cc6ed074fb5e1e7a97a272abda513ba23e3561d953773e424dd851"
 metafile = true
@@ -3174,11 +3211,6 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
-metafile = true
-
-[[files]]
-file = "mods/infinite-night.pw.toml"
-hash = "64e9c0de6d4474902f446f292ac14ac0eacc87a38a73b4e1f36146307e311695"
 metafile = true
 
 [[files]]
