@@ -1,0 +1,17 @@
+{
+	title: "Then God said NO",
+	x: -6.5d,
+	y: -0.5d,
+	description: "that will not pass the editors wont it?",
+	text: [
+		"But then, as they were planning on it, GregoriousT himself screamed at them \"Well FUCK YOU, you cant do that, theres respawn!\".",
+		"Marissa and Reimu then realized they can just kill GregoriousT and get done with it.",
+		"",
+		"IM NOT WRITING A FANFIC BECAUSE OF GREGTECH KYS"
+	],
+	tasks: [{
+		uid: "758703b6",
+		type: "checkmark",
+		title: "Then God said NO"
+	}]
+}

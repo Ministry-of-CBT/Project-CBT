@@ -1,0 +1,231 @@
+version:1343
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.0
+gamma:0.0
+saturation:0.0
+renderDistance:12
+guiScale:2
+particles:0
+bobView:true
+anaglyph3d:false
+maxFps:120
+fboEnable:true
+difficulty:0
+fancyGraphics:true
+ao:2
+renderClouds:true
+resourcePacks:[]
+incompatibleResourcePacks:[]
+lastServer:
+lang:en_us
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+snooperEnabled:true
+fullscreen:true
+enableVsync:true
+useVbo:true
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+mipmapLevels:0
+forceUnicodeFont:false
+reducedDebugInfo:false
+useNativeTransport:true
+entityShadows:true
+mainHand:right
+attackIndicator:1
+showSubtitles:false
+realmsNotifications:true
+enableWeakAttacks:false
+autoJump:true
+narrator:0
+tutorialStep:none
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:29
+key_key.sprint:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:63
+key_key.smoothCamera:0
+key_key.fullscreen:87
+key_key.spectatorOutlines:0
+key_key.swapHands:33
+key_key.saveToolbarActivator:46
+key_key.loadToolbarActivator:45
+key_key.advancements:38
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_Reload Menu | CTRL + ALT + :19
+key_Toggle Customization Overlay | CTRL + ALT + :46
+key_key.groovyscript.reload:19:CONTROL
+key_Change Caster Focus:33
+key_Misc Caster Toggle:34
+key_Options.Reload:25
+key_Force Play:24
+key_Options.Shortcut1:0
+key_Options.Shortcut2:0
+key_Options.Shortcut3:0
+key_Options.Shortcut4:0
+key_Options.Shortcut5:0
+key_Options.Ocarina1:200
+key_Options.Ocarina2:208
+key_Options.Ocarina3:205
+key_Options.Ocarina4:203
+key_Options.Ocarina5:157
+key_Galaxy Map:50
+key_Open Spaceship Inventory:33
+key_Toggle Sensor Goggles Mode:37
+key_quark.emote.no:0
+key_quark.emote.yes:0
+key_quark.emote.wave:0
+key_quark.emote.salute:0
+key_quark.emote.cheer:0
+key_quark.emote.clap:0
+key_quark.emote.think:0
+key_quark.emote.point:0
+key_quark.emote.shrug:0
+key_quark.emote.headbang:0
+key_quark.emote.weep:0
+key_quark.emote.facepalm:0
+key_quark.emote.dance:0
+key_quark.emote.tpose:0
+key_quark.emote.dab:0
+key_quark.emote.jet:0
+key_quark.emote.exorcist:0
+key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:48
+key_keybind.baublesinventory:48
+key_key.betterquesting.quests:41
+key_cos.key.opencosarmorinventory:0
+key_key.ftbquests.quests:0
+key_keybind.togglehelmet.name:33
+key_keybind.togglechest.name:34
+key_keybind.togglelegs.name:35
+key_keybind.toggleboots.name:36
+key_gregtech.key.armor_mode_switch:50
+key_gregtech.key.armor_hover:35
+key_gregtech.key.armor_charging:49
+key_gregtech.key.tool_aoe_change:47
+key_CharacterScreen:88
+key_MPM 1:44
+key_MPM 2:0
+key_MPM 3:0
+key_MPM 4:0
+key_MPM 5:0
+key_MPM Camera:56
+key_key.jetpack_activate:36
+key_key.jetpack_hover:35
+key_key.jetpack_hud:22
+key_key.fsb_flashlight:77
+key_key.categories.hbm.toggleBack:46
+key_key.categories.hbm.toggleHUD:47
+key_key.categories.hbm.reload:19
+key_key.categories.hbm.craneMoveUp:200
+key_key.categories.hbm.craneMoveDown:208
+key_key.categories.hbm.craneMoveLeft:203
+key_key.categories.hbm.craneMoveRight:205
+key_key.categories.hbm.craneLoad:28
+key_Difficulty Meter - Show:49
+key_Difficulty Meter - Show Always:49:SHIFT
+key_translationKey.scp.nightvision_toggle:49
+key_Rotate stored structure:47
+key_Test:43
+key_Toggle Special:46:SHIFT
+key_Toggle Chaos Gem (First):34
+key_Toggle Chaos Gem (All):34:SHIFT
+key_Use Return Home Charm:25:SHIFT
+key_key.spartanweaponry.access_quiver:23
+key_key.toggle_focus.desc:15
+key_key.open_wireless_terminal.desc:20:SHIFT
+key_key.open_wireless_crafting_terminal.desc:18:SHIFT
+key_key.open_wireless_pattern_terminal.desc:19:SHIFT
+key_key.open_wireless_fluid_terminal.desc:33:SHIFT
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
+key_key.jei.showRecipe:19
+key_key.jei.showUses:22
+key_key.jei.recipeBack:14
+key_key.jei.previousPage:201
+key_key.jei.nextPage:209
+key_key.jei.bookmark:30
+key_key.jei.toggleBookmarkOverlay:0
+key_key.carry.desc:42
+key_Open Powered Vehicle Inventory:34
+key_Open Module Manager:35
+key_Open Pre Launch Checklist GUI:25
+key_Open Portable NASA Workbench GUI:24
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_key.categories.naming:49
+key_key.clipboardPaste:210
+key_key.refinedstorage.focusSearchBar:15
+key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
+key_key.refinedstorage.openWirelessGrid:0
+key_key.refinedstorage.openWirelessFluidGrid:0
+key_key.refinedstorage.openPortableGrid:0
+key_key.refinedstorage.openWirelessCraftingMonitor:0
+key_tfc.key.craft:46
+key_tfc.key.placeblock:47
+key_tfc.key.itemmode:50
+key_tfc.key.stack:45
+soundCategory_master:1.0
+soundCategory_music:0.5633803
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true

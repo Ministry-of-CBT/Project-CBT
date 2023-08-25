@@ -1,0 +1,116 @@
+[PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Belathus
+Ivy_
+Peregrinus11
+Phillip Swearingain
+AdaraChristine
+NerdyWhiteGuy
+Luvely
+Spencer Gilbert
+Quaternary
+Pongo Sapiens
+BrÃƒÂ¸nsted
+Zuniroa
+DreamThorn
+Genryu
+Ncc1702
+Jessie Sims
+Hooley
+NickT
+Jonathan McManus
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: master.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: wires\tetraschrabidiumtrinaquadahwire.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gregtech]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [gregtech]
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: master.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: wires\tetraschrabidiumtrinaquadahwire.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gregtech], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: master.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_s_h for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_s_v for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_d_h for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_d_v for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ae_d for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ae_s for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: wires\tetraschrabidiumtrinaquadahwire.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_s_h for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_s_v for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_s_v for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_d_h for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ae_s for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ae_d for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6 for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Adding Extreme recipe avaritia:craft_tweaker_shaped_nameplaceholder for Shaped Tetrschrabadic Trinaquidium Wire
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 378ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook

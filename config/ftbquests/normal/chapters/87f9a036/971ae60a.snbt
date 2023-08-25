@@ -1,0 +1,19 @@
+{
+	title: "Kill yourself",
+	x: -5.5d,
+	y: 0.0d,
+	shape: "square",
+	description: "I CANT TAKE IT ANYMORE",
+	text: [
+		"Marissa and Reimu realized what this is. They saw on Reddit one day about this very hard mod called \"GregTech\" and they recognized the tiny piles",
+		"they found on the ground.",
+		"",
+		"\"WHY GREGTECH NOOOOOO!\" Marissa said with tears in her eyes, begging to be put out of her misery."
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "1edb9e1d",
+		type: "checkmark",
+		title: "Kill yourself"
+	}]
+}

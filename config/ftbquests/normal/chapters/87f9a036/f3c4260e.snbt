@@ -1,0 +1,11 @@
+{
+	x: -75.5d,
+	y: 62.0d,
+	tasks: [{
+		uid: "fac1fd49",
+		type: "stat",
+		title: "kyts",
+		stat: "stat.leaveGame",
+		value: 1
+	}]
+}
