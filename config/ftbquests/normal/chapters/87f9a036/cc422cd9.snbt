@@ -1,6 +1,6 @@
 {
 	title: "Then God said NO",
-	x: -6.5d,
+	x: -7.0d,
 	y: -0.5d,
 	description: "that will not pass the editors wont it?",
 	text: [
@@ -9,6 +9,10 @@
 		"",
 		"IM NOT WRITING A FANFIC BECAUSE OF GREGTECH KYS"
 	],
+	dependencies: [
+		"971ae60a"
+	],
+	hide: true,
 	tasks: [{
 		uid: "758703b6",
 		type: "checkmark",

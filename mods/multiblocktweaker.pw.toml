@@ -1,0 +1,13 @@
+name = "MultiblockTweaker"
+filename = "multiblocktweaker-1.12.2-stable-gtceu-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ba69fcaf2b75690a12ae2cb3a920637a85b8d42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4673854
+project-id = 386188
