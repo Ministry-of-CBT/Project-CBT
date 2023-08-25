@@ -1,0 +1,10 @@
+{
+	"ftblib": {
+		"my_team": true,
+		"settings": true,
+		"admin_panel": true
+	},
+	"ftbquests": {
+		"quests": true
+	}
+}

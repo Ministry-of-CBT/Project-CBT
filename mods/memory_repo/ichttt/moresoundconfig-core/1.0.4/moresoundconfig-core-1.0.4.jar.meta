@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Maven-Artifact: ichttt:moresoundconfig-core:1.0.4
+FMLCorePlugin: ichttt.mods.moresoundconfig.asm.MSCCoreMod
+
+Name: ichttt/mods/moresoundconfig/asm/framework/AbstractMethodTransfor
+ mer.class
+SHA-256-Digest: FyeHIl3g5BacwuDydjNTPzk3vRJuSYgrUxuAs6xtooA=
+
+Name: ichttt/mods/moresoundconfig/asm/framework/PatchFailedException.c
+ lass
+SHA-256-Digest: be6ux+xp9j2VgK5EtROXR+I+ac2wZloSoWOgF76378g=
+
+Name: ichttt/mods/moresoundconfig/asm/ASMHooks.class
+SHA-256-Digest: P6eqYtgTZSsEoBy8/X1gkOuZcoXhjqhd1Bj8mkAnEEI=
+
+Name: ichttt/mods/moresoundconfig/asm/MSCTransformer.class
+SHA-256-Digest: 3u2Zxoq1rnibYec+vBJ4kKZJJb9j9e1YvzMH7LFmP+E=
+
+Name: ichttt/mods/moresoundconfig/asm/framework/ASMUtils.class
+SHA-256-Digest: crl7JNXa4Sej0w13ZjXzAUZSmbPkYDspQQtfh3YBMus=
+
+Name: ichttt/mods/moresoundconfig/asm/MSCCoreMod.class
+SHA-256-Digest: 5REl8cW75dOiRndTSMRDEi3WdM7yD1y8Df+bPB58LBM=
+
+Name: ichttt/mods/moresoundconfig/asm/CoreModContainer.class
+SHA-256-Digest: akFQNldvBnLSITSOU759Kn3JlMKylLxdJtjW+yg1ULY=
+

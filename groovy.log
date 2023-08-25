@@ -1,0 +1,11 @@
+============  GroovyLog  ====  25.08.2023  ============
+GroovyScript version: 0.6.1
+[08:58:21] [CLIENT/INFO] [groovyscript]: Running scripts in loader 'preInit'
+[08:58:22] [CLIENT/INFO] [groovyscript]:  - executing preInit\UHV\4schrabidium3naquadah.groovy
+[08:58:22] [CLIENT/INFO] [groovyscript]:  - executing preInit\UHV\4schrabidium3naquadahoretip.groovy
+[08:58:22] [CLIENT/INFO] [groovyscript]:  - executing preInit\UHV\thorassium.groovy
+[08:58:22] [CLIENT/INFO] [groovyscript]:  - executing preInit\UHV\urephittium.groovy
+[08:58:22] [CLIENT/INFO] [groovyscript]:  - executing preInit\UHV\urephittiumoretip.groovy
+[09:00:36] [CLIENT/INFO] [groovyscript]: Running scripts in loader 'init'
+[09:01:03] [CLIENT/INFO] [groovyscript]: Running scripts in loader 'postInit'
+[09:01:03] [CLIENT/INFO] [groovyscript]:  - executing postInit\main.groovy
