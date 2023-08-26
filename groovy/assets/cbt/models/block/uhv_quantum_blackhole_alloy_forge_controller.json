@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cbt:blocks/uhv_quantum_blackhole_alloy_forge_controller"
+  }
+}

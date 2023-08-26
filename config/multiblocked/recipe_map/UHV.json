@@ -1,0 +1,55 @@
+{
+  "name": "UHV",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "Tetraschrabidium_Trinaquadium",
+      "duration": 600,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"minecraft:iron_ingot\",Count:1,Damage:0s}"
+              ]
+            }
+          }
+        ],
+        "fluid": [
+          {
+            "chance": 1.0,
+            "content": "{FluidName:\"water\",Amount:1000000000}"
+          },
+          {
+            "chance": 1.0,
+            "content": "{FluidName:\"water\",Amount:1000}"
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"minecraft:iron_ingot\",Count:1,Damage:0s}"
+              ]
+            }
+          }
+        ]
+      },
+      "tickInputs": {
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 524287
+          }
+        ]
+      }
+    }
+  ]
+}

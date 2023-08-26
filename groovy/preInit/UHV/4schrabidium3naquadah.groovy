@@ -249,6 +249,27 @@ alloy_4_sa_3_nq_circuitpart_xorgate.register()
 def alloy_4_sa_3_nq_circuitpart_xnorgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_xnorgate')
 alloy_4_sa_3_nq_circuitpart_xnorgate.register()
 
+//4sa3nq logic gate circut operands parts
 def alloy_4_sa_3_nq_circuitpart_halfadder1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_halfadder1')
 alloy_4_sa_3_nq_circuitpart_halfadder1.register()
 
+def alloy_4_sa_3_nq_circuitpart_fulladder1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_fulladder1')
+alloy_4_sa_3_nq_circuitpart_fulladder1.register()
+
+def alloy_4_sa_3_nq_circuitpart_halfsubtractor1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1')
+alloy_4_sa_3_nq_circuitpart_halfsubtractor1.register()
+
+def alloy_4_sa_3_nq_circuitpart_fullsubtractor1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_fullsubtractor1')
+alloy_4_sa_3_nq_circuitpart_fullsubtractor1.register()
+
+def alloy_4_sa_3_nq_circuitpart_binarymultiplicator1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_binarymultiplicator1')
+alloy_4_sa_3_nq_circuitpart_binarymultiplicator1.register()
+
+def alloy_4_sa_3_nq_circuitpart_binarydivider1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_binarydivider1')
+alloy_4_sa_3_nq_circuitpart_binarydivider1.register()
+
+def alloy_4_sa_3_nq_circuitpart_integratedaddsubtract1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract1')
+alloy_4_sa_3_nq_circuitpart_integratedaddsubtract1.register()
+
+def alloy_4_sa_3_nq_circuitpart_integratedaddsubtract2 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract2')
+alloy_4_sa_3_nq_circuitpart_integratedaddsubtract2.register()

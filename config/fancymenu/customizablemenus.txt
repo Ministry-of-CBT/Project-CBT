@@ -78,3 +78,6 @@ micdoodle8.mods.galacticraft.core.client.gui.screen.GuiNewSpaceRace {
 net.minecraft.client.gui.GuiShareToLan {
 }
 
+tehnut.launchgui.gui.GuiStartup {
+}
+

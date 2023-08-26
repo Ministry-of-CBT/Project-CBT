@@ -1,0 +1,597 @@
+{
+  "version": 2,
+  "location": "cbt:black_hole_multiblock",
+  "traits": {
+    "recipe_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 5,
+      "y": 5,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0
+    },
+    "fuel_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 5,
+      "y": 5,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0
+    },
+    "item": [],
+    "fluid": [],
+    "gtce_energy": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 5,
+      "y": 5,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 10000
+    }
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "cbt:uhv_quantum_blackhole_alloy_forge_controller",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "UHV",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "  AAAAAB ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "  AAAAAB ",
+        "  ACCCA  ",
+        "  ACCCA  ",
+        "  ACCCA  ",
+        "  ACCCA  ",
+        "  AAAAA  ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "  AAAAA@ ",
+        "  ABBBA  ",
+        "  ADDDA  ",
+        "  ADDDA  ",
+        "  ADDDA  ",
+        "  AAAAA  ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "  AAAAAB ",
+        "  ABBBA  ",
+        "  ADDDA  ",
+        "  ADDDA  ",
+        "  ADDDA  ",
+        "  AAAAA  ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "   AAAAB ",
+        "   AAAA  ",
+        "   AAAA  ",
+        "   AAAA  ",
+        "   AAAA  ",
+        "   AAAA  ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "   AEA   ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "   AEA   ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "         ",
+        "    A    ",
+        "   AEA   ",
+        "    A    ",
+        "         ",
+        "         ",
+        "         "
+      ],
+      [
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAEAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AFGGGGGHA",
+        "AGIIIIIGA",
+        "AGIIIIIGA",
+        "AGIIEIIGA",
+        "AGIIIIIGA",
+        "AGIIIIIGA",
+        "AJGGGGGFA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AGIIIIIGA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AGIIIIIGA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AGIIIIIGA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AGIIIIIGA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AGIIKIIGA",
+        "AI     IA",
+        "AI     IA",
+        "AI  L  IA",
+        "AI     IA",
+        "AI     IA",
+        "AGIIMIIGA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AGIIIIIGA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AGIIIIIGA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AGIIIIIGA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AI     IA",
+        "AGIIIIIGA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AJGGGGGNA",
+        "AGIIIIIGA",
+        "AGIIIIIGA",
+        "AGII IIGA",
+        "AGIIIIIGA",
+        "AGIIIIIGA",
+        "ANGGGGGHA",
+        "AAAAAAAAA"
+      ],
+      [
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAOGOAAA",
+        "AAAG GAAA",
+        "AAAOGOAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA",
+        "AAAAAAAAA"
+      ],
+      [
+        "         ",
+        "         ",
+        "  AAAAA  ",
+        "  AGGGA  ",
+        "  AGPGA  ",
+        "  AGGGA  ",
+        "  AAAAA  ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "  AAAAA  ",
+        "  AOGOA  ",
+        "  AGGGA  ",
+        "  AOGOA  ",
+        "  AAAAA  ",
+        "         ",
+        "         "
+      ],
+      [
+        "         ",
+        "         ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "  AAAAA  ",
+        "         ",
+        "         "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "hbm:block_starmetal",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "cbt:black_hole_multiblock",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "gregtech:machine",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "hbm:block_euphemium",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "hbm:machine_transformer_dnt_20",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "hbm:dfc_emitter",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "hbm:machine_electronium_battery",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "hbm:fwatz_computer",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "H": {
+        "states": [
+          {
+            "id": "hbm:machine_electronium_battery",
+            "meta": 2
+          }
+        ],
+        "type": "states"
+      },
+      "I": {
+        "states": [
+          {
+            "id": "hbm:hadron_plating_blue",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "J": {
+        "states": [
+          {
+            "id": "hbm:machine_electronium_battery",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "states": [
+          {
+            "id": "hbm:dfc_injector",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "L": {
+        "states": [
+          {
+            "id": "hbm:dfc_core",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "states": [
+          {
+            "id": "hbm:dfc_stabilizer",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "N": {
+        "states": [
+          {
+            "id": "hbm:machine_electronium_battery",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "O": {
+        "states": [
+          {
+            "id": "hbm:field_disturber",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "P": {
+        "states": [
+          {
+            "id": "hbm:crate_desh",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "-": [
+        "air"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
+      ]
+    }
+  }
+}
