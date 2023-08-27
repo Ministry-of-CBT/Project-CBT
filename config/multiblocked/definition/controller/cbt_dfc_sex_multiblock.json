@@ -1,0 +1,930 @@
+{
+  "version": 2,
+  "location": "cbt:dfc_sex_multiblock",
+  "traits": {
+    "fuel_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 8,
+      "y": 141,
+      "width": 100,
+      "height": 10,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0
+    },
+    "recipe_progress": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 9,
+      "y": 155,
+      "width": 100,
+      "height": 10,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0
+    },
+    "item": [
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 107,
+        "y": 84,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 27,
+        "y": 24,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 47,
+        "y": 24,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 67,
+        "y": 24,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 87,
+        "y": 24,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 107,
+        "y": 24,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 7,
+        "y": 44,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 27,
+        "y": 44,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 47,
+        "y": 44,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 67,
+        "y": 44,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 87,
+        "y": 44,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 107,
+        "y": 44,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 7,
+        "y": 64,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 27,
+        "y": 64,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 47,
+        "y": 64,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 67,
+        "y": 64,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 87,
+        "y": 64,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 107,
+        "y": 64,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 7,
+        "y": 84,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 27,
+        "y": 85,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 47,
+        "y": 84,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 67,
+        "y": 84,
+        "autoIO": false
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 87,
+        "y": 84,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 7,
+        "y": 24,
+        "autoIO": false
+      }
+    ],
+    "gtce_energy": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 5,
+      "y": 5,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 13333333
+    },
+    "fluid": [
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 158,
+        "y": 7,
+        "autoIO": false,
+        "tC": 1000000,
+        "w": 10,
+        "h": 150,
+        "fillDir": "DOWN_TO_UP"
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 132,
+        "y": 7,
+        "autoIO": false,
+        "tC": 1000,
+        "w": 10,
+        "h": 150,
+        "fillDir": "DOWN_TO_UP"
+      },
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 145,
+        "y": 7,
+        "autoIO": false,
+        "tC": 1000,
+        "w": 10,
+        "h": 150,
+        "fillDir": "DOWN_TO_UP"
+      }
+    ],
+    "background": "multiblocked:textures/dfc_sex_multiblock/gui/bg.png"
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "ProjectCBT"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "hbm:block_starmetal",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "UHV",
+  "basePattern": {
+    "structureDir": [
+      "LEFT",
+      "UP",
+      "BACK"
+    ],
+    "pattern": [
+      [
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " A A         A A ",
+        " ABBB BBB B B BA ",
+        " A  B B   B B  A ",
+        " ABBB BBB  B  BA ",
+        " AB   B   B B BA ",
+        " ABBB BBB B B BA ",
+        " A             A "
+      ],
+      [
+        "CCCCCCC-@-CCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDFFFFFFFFFFFFFDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDFFFFFFFFFFFFFDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDFG    H    IFDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD J         J DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD      K      DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     L     FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD      M      DC",
+        "CDFFFFFFFFFFFFFDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF           FDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CDFN    O    NFDC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD             DC",
+        "CD J         J DC",
+        "CDF     F     FDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDEEEEEEEEEEEEEDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDFFFFFFFFFFFFFDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDF           FDC",
+        "CDFFFFFFFFFFFFFDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CDDDDDDDDDDDDDDDC",
+        "CCCCCCCCCCCCCCCCC"
+      ],
+      [
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC",
+        "CCCCCCCCCCCCCCCCC"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "hbm:steel_poles",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "cbt:dfc_sex_multiblock",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "hbm:block_unobtainium",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "hbm:block_starmetal",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "hbm:fwatz_computer",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "hbm:ducrete",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "hbm:brick_compound",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "hbm:dfc_emitter",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "H": {
+        "states": [
+          {
+            "id": "hbm:dfc_emitter",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "I": {
+        "states": [
+          {
+            "id": "hbm:dfc_emitter",
+            "meta": 2
+          }
+        ],
+        "type": "states"
+      },
+      "J": {
+        "states": [
+          {
+            "id": "hbm:dfc_emitter",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "states": [
+          {
+            "id": "hbm:dfc_injector",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "L": {
+        "states": [
+          {
+            "id": "hbm:dfc_core",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "states": [
+          {
+            "id": "hbm:dfc_stabilizer",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "N": {
+        "states": [
+          {
+            "id": "hbm:dfc_emitter",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "O": {
+        "states": [
+          {
+            "id": "hbm:crate_desh",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "-": [
+        "air"
+      ],
+      "M": [
+        "M"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ]
+    }
+  }
+}

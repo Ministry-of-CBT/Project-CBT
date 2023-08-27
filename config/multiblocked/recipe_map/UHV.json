@@ -1,5 +1,5 @@
 {
-  "name": "UHV",
+  "name": "sexmultiblockrecipes",
   "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
   "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
   "recipes": [
@@ -11,21 +11,20 @@
           {
             "chance": 1.0,
             "content": {
-              "amount": 1,
+              "amount": 3,
               "matches": [
-                "{id:\"minecraft:iron_ingot\",Count:1,Damage:0s}"
+                "{id:\"gregtech:meta_ingot\",Count:3,Damage:124s}"
               ]
             }
-          }
-        ],
-        "fluid": [
-          {
-            "chance": 1.0,
-            "content": "{FluidName:\"water\",Amount:1000000000}"
           },
           {
             "chance": 1.0,
-            "content": "{FluidName:\"water\",Amount:1000}"
+            "content": {
+              "amount": 4,
+              "matches": [
+                "{id:\"hbm:ingot_schrabidium\",Count:4,Damage:0s}"
+              ]
+            }
           }
         ]
       },
@@ -36,9 +35,15 @@
             "content": {
               "amount": 1,
               "matches": [
-                "{id:\"minecraft:iron_ingot\",Count:1,Damage:0s}"
+                "{id:\"cbt:tetraschrabadic_trinaquadium\",Count:1,Damage:0s}"
               ]
             }
+          }
+        ],
+        "fluid": [
+          {
+            "chance": 1.0,
+            "content": "{FluidName:\"molten.uranium_rhodium_dinaquadide\",Amount:100}"
           }
         ]
       },
@@ -46,7 +51,25 @@
         "gtce_energy": [
           {
             "chance": 1.0,
-            "content": 524287
+            "content": 524288
+          }
+        ]
+      }
+    }
+  ],
+  "fuelRecipes": [
+    {
+      "uid": "bfcc7226-3b2e-4282-be02-bb1772db48a3",
+      "duration": 60,
+      "inputs": {
+        "fluid": [
+          {
+            "chance": 1.0,
+            "content": "{FluidName:\"aschrab\",Amount:1000}"
+          },
+          {
+            "chance": 1.0,
+            "content": "{FluidName:\"amat\",Amount:1000}"
           }
         ]
       }
