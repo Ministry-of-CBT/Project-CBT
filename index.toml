@@ -66,7 +66,7 @@ hash = "8724ee4d072fce48ef94b7a3bcf9f222866b470c37a583b24f4548a206c6c167"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "7cd47ccdffa1d6ce2acfdeb7942b5306178d76c73da513ee68ca7f1024579459"
+hash = "c37f04dd8f87a09e2f7186ecd378043c819a0ffb3eb1b886379efb59e904d336"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -74,11 +74,11 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "72ed2ad911d65be2c3f99d6462ccfb096abad52d51d9fedab2ba1db4fdb90c6b"
+hash = "8404c757e327da493830a223ef600895e6cdb26ebd616d008fcc07d7c9152f87"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "18049a422681ce8ceff4b9024f1ab72b84c3bede4b05d7e942119a824c1587c3"
+hash = "274f67d0b7f42e1adcad27a9fc3493365b6c676db9c5c5d1f35cbbb51315e2e8"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -382,7 +382,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "4a2009883054caa7fbd1437eaceb486b5c3bb5b2e32d58b399fd9a7ff65991aa"
+hash = "bb4f7efecc0ff887147b04ed2a61097c7b3a3077181cad072b5436f5a73dd9d7"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -434,7 +434,11 @@ hash = "e538bb1a08b13df8326fc416df5dfd7be9378c3a94227d5e1a9a6163fc8f5353"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "2bfec0bacb853607fed02c9413534484c0952919309a5b551b0ab45757e4cd9c"
+hash = "e7deb4515f6e85ef8729f69bfb5fd63fd23a1d8c988bb44f8a0deec73c0a659c"
+
+[[files]]
+file = "config/fancymenu/customization/Crash Alert.txt"
+hash = "a62c6eeb54585087a2517780fd0a346ae44e2332ae338986bf6c17724b24b13a"
 
 [[files]]
 file = "config/fancymenu/customization/PackSetttings.txt"
@@ -1918,7 +1922,7 @@ hash = "eb7bae51f60d5954a160bca9373d66da7ede802b7ca579c30976694a050de2d9"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "0092b7b62224eeea067ac17bd5892b95f1e67fd543e0564b108f91a4eaf13e53"
+hash = "24b50229019a8664af85cef5e61bef9a503539472dd5dfc4b27bbe718938e19f"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1954,7 +1958,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "48ae64fc673185f4dda7f94b3772b10895ecdf11a4f4c24aee335f70b4a43b75"
+hash = "c7a4e78f1e647a3ce7a5d0afc6c024765ce82ca8359777f0b47d1b0848f38bf1"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -1982,11 +1986,19 @@ hash = "97d190dbc32e23e14f7041170c97435ae0cd92ec7588dd76151cda152ab8ed84"
 
 [[files]]
 file = "config/loadingscreens/LoadingScreens.txt"
-hash = "179c8c352b01fa44ebfb75988429eb3e357ff7a91ea3d38f2b23eca62e4db298"
+hash = "94e39956a60ee5c96b7577044380ac811d17592d95d9ee15054249c7fcd272a4"
 
 [[files]]
 file = "config/loadmyresources/config.cfg"
 hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
+
+[[files]]
+file = "config/loliasm.cfg"
+hash = "dd24696f156b1dba36805546c8f528d6d9bcd028a15c9bf2d126d0e1acd11102"
+
+[[files]]
+file = "config/loliasm/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
 
 [[files]]
 file = "config/moreplanets.cfg"
@@ -2002,7 +2014,27 @@ hash = "4884ed27e19b2701ef452ec61f5cfae377224179a113946991a857c73b7b7b39"
 
 [[files]]
 file = "config/multiblocked.cfg"
-hash = "b3fdb834a9455d8cd6e345e1aeb93bec4108cb8483fdac8fb2665ad867fa8915"
+hash = "80ba68101d31e75767aa12b1878f62018884f031e550d91dc00361545e6f867a"
+
+[[files]]
+file = "config/multiblocked/assets/multiblocked/textures/dfc_sex_multiblock/gui/bg.png"
+hash = "de1a59499424a71a3e0e79a849be7f2d9751c2dd6546cedb633f37fd4b0da940"
+
+[[files]]
+file = "config/multiblocked/assets/multiblocked/textures/dfc_sex_multiblock/gui/itembg.png"
+hash = "950a7325de788c2abd21202ad7c1edda1f40d61369ea3af55239bce70c35841c"
+
+[[files]]
+file = "config/multiblocked/definition/controller/cbt_black_hole_multiblock.json"
+hash = "25926be89c8ad351f8c2a89b99ef1c07d431ff432ff43f8cc6ae3e95cb8312c8"
+
+[[files]]
+file = "config/multiblocked/definition/controller/cbt_dfc_sex_multiblock.json"
+hash = "c23a921a00df024b29581f6341429523f1e2812df17760f29727ab1b5ef0fb1c"
+
+[[files]]
+file = "config/multiblocked/recipe_map/UHV.json"
+hash = "62471b120c0853c60c74ffaacf540c902a7ed76de1c2bb5bf31e388f7bee1a59"
 
 [[files]]
 file = "config/nuclearoption.cfg"
@@ -2074,7 +2106,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "d4b277392a3527982b96fb2a8540118e737d88daa925f65a2e03d6c305e5a762"
+hash = "0649595822a6a9d0f8914fc5f8c9ac31fb070b2ba81e8991768b095a3c7a5046"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2233,6 +2265,10 @@ file = "config/versioner.cfg"
 hash = "1153fa0f0f3d94239806e07af7cdb1f1c7742797a3059efc847f4f2c3e047bc8"
 
 [[files]]
+file = "config/vintagefix.properties"
+hash = "87570c131017657a7144920e0c7b2431a737ed1b20900e1eacf3795d4bdc7e9e"
+
+[[files]]
 file = "config/waila/theme/dark.json"
 hash = "497129e86cb17af438aa73d643eced79238502343d24d864d004e8ca1a1ce521"
 
@@ -2281,8 +2317,24 @@ file = "fm/thumb-1920-120557.jpg"
 hash = "1ecff26248faa1793d080080cf61a725164107b0c3346f05ee3c7c0e2b8b7c15"
 
 [[files]]
+file = "groovy/assets/cbt/blockstates/uhv_quantum_blackhole_alloy_forge_controller.json"
+hash = "76e0e23ccff076173a08e5b62f406dadb49ade7c6b5f9a20da6645e59a8b719b"
+
+[[files]]
+file = "groovy/assets/cbt/blockstates/uhv_quantum_blackhole_alloy_forge_part1.json"
+hash = "5c31788bc667583a5ff406309a7c168f06e52d36764700681692581358d77366"
+
+[[files]]
 file = "groovy/assets/cbt/lang/en_us.lang"
 hash = "236db545c1e324c57e0bf3ac38090bb4e4c4cb5144f226fd9deb1c935df1fa21"
+
+[[files]]
+file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_controller.json"
+hash = "16c0f3f2ee910feea2a8b406490bb0e2902af0c8ab7fd8f6bfa864ed9e4d090d"
+
+[[files]]
+file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_part1.json"
+hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
@@ -2293,8 +2345,36 @@ file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_a
 hash = "49834916f6a18a92f905b2a17efe6812b786c1680b4bb123ab826c7a0526c084"
 
 [[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarydivider1.json"
+hash = "af6c2a1504e12779766a0a42c7c0c8b4abae9c49a168e65eddb944341d3bfd3f"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarymultiplicator1.json"
+hash = "16251d901bfcfc7082ff9d34b2a700b455a5221ff33594e66921c1cb9937fa11"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_fulladder1.json"
+hash = "f6b92ee9ad2a70689858f4af24dc475a62ea5f3089c26b6bc413c8e0749c8ac9"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_fullsubtractor1.json"
+hash = "c22ad912748ff158d06b71f29fb207e31ec45372a5b350c16286c3d44aeb521b"
+
+[[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfadder1.json"
 hash = "7aabf62a60684e1d8546e2568aff75c56201185a7f55178bfcb97ef4919cc5e1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1.json"
+hash = "311be3feac7f4be2344232085fe45f82902e68eb01b008271bec7332a97f3dd0"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract1.json"
+hash = "f2ee84a51fc90755404bfc272b213c14afcc3353ce18cba98b8945b0df0302d2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract2.json"
+hash = "3c291e19e7cee5920080aec381bfb8d5cf8cf4c7ff68e2d969d82833f67f3a6e"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_nandgate.json"
@@ -2603,6 +2683,18 @@ hash = "30e5782cc678045e927ac5bc3c795c962017412d8385536cd700d7e346120730"
 [[files]]
 file = "groovy/assets/cbt/models/item/thorassium.json"
 hash = "43cf9bd382c3309dab048756cc123fb1c53060350910c5347f8f9f6d40d5e1e1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_dfc_compressed_fuel.json"
+hash = "ad61531de80fe2d25623413bc1abc2cd119545381d2cc3c4659bf23c94484cbc"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_quantum_blackhole_alloy_forge_controller.json"
+hash = "a7bdf33cee8b19bde0406331bc560de0ba5339b879af94b8f1214dba5d58111e"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_quantum_blackhole_alloy_forge_part1.json"
+hash = "1bd4d471afe907944ef30ff123d52f3770555de84af28b6ed0afb5de9146f096"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/urephittium.json"
@@ -2941,8 +3033,16 @@ file = "groovy/postInit/main.groovy"
 hash = "70d4c2ed9044c2827ed42272ac5f651874e0595244f7437288fd04aac16a4130"
 
 [[files]]
+file = "groovy/preInit/Circuit/uhvcircuits.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "groovy/preInit/Machines/blackholeforgery.groovy"
+hash = "10114ca40c1587ca3b597db4a22bdc9657eefbe207dfc8ef7fbbb36d9207a434"
+
+[[files]]
 file = "groovy/preInit/UHV/4schrabidium3naquadah.groovy"
-hash = "75d12eb60f374e013b3f8e7e9567a98ab37fea246395eae353376d1995213a48"
+hash = "6fd5cc358cc30a0f346a0f4758cccd0f85762284c428e9276273e1c7122c965b"
 
 [[files]]
 file = "groovy/preInit/UHV/4schrabidium3naquadahoretip.groovy"
@@ -4419,8 +4519,8 @@ file = "resources/projectcbt/ftbicons/project-cbt-icon.png"
 hash = "b549820696d3b20d26c21c8abac00563abdd32b5f9887f74d255c48ad7f09877"
 
 [[files]]
-file = "scripts/master.zs"
-hash = "cdc6f79153f3330bd35800b815b6523ee877b1b8952aec01dae8a6b708e518a2"
+file = "scripts/misc/uhv.zs"
+hash = "461b96dea144f0b9dd57d91068410e8a9b90aaeb1b51df2c84fde33e5a6569fe"
 
 [[files]]
 file = "scripts/wires/tetraschrabidiumtrinaquadahwire.zs"
