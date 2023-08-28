@@ -1,6 +1,6 @@
 DEVELOPMENT TIME HAS BEEN PARTIALLY STALLED!!!! Releases will be posted atleast once or twice every week since school is just around the corner, atleast for me and i have been told that its just 5 days left. PLEASE NOTE THAT I STILL ACCEPT CONTRIBUTIONS AND THE PROJECT WILL NOT BE DEAD IN THE FORESEEABLE FUTURE
 
-discord server: https://discord.gg/2RKNDK2S
+discord server: [https://discord.gg/2RKNDK2S](https://discord.gg/DjDwktq8)
 
 i am going insane, school starting so byee ill probably be less active on reddit or github.
 
