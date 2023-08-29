@@ -1,19 +1,14 @@
-DEVELOPMENT TIME HAS BEEN PARTIALLY STALLED!!!! Releases will be posted atleast once or twice every week since school is just around the corner, atleast for me and i have been told that its just 5 days left. PLEASE NOTE THAT I STILL ACCEPT CONTRIBUTIONS AND THE PROJECT WILL NOT BE DEAD IN THE FORESEEABLE FUTURE
-
 discord server: [https://discord.gg/2RKNDK2S](https://discord.gg/DjDwktq8)
 
-i am going insane, school starting so byee ill probably be less active on reddit or github.
+# NOTICE
 
-i will move releases to weeekends and probably minor changes, unless i can get full time contributors then everyday releasing is now impossible
+This is an official project from the Ministry of CBT
 
-so regian made a video and did not post link
-also if this leads to some shady drama i will probably pull the plug
+![ministryofcbt](https://github.com/Ministry-of-CBT/Project-CBT/assets/141803157/9f87de2e-de57-4bbc-b0b8-e833e05516dc)
 
-before proceeding to download this modpack I'm not responsible for anything that can happen, by downloading this modpack you are atleast above the age of 15, common sense
+We have decided that your balls are now the most important thing to torture.
 
-groovyscript my beloved, more groovyscript pls, 
-
-liquid concrete
+We at the Ministry of CBT present Project Cock and Ball Touhouture: NuclearGreg Horizons
 
 # Releases
 
