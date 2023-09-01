@@ -1,0 +1,13 @@
+name = "No Recipe Book"
+filename = "noRecipeBook_v1.2.2formc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "699a1235d426775c87123ea34c5bad3bb51fc03e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2568865
+project-id = 284904
