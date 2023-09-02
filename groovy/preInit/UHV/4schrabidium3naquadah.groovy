@@ -249,6 +249,9 @@ alloy_4_sa_3_nq_circuitpart_xorgate.register()
 def alloy_4_sa_3_nq_circuitpart_xnorgate = content.createItem('tetraschrabadic_trinaquadium_circuitpart_xnorgate')
 alloy_4_sa_3_nq_circuitpart_xnorgate.register()
 
+def alloy_4_sa_3_nq_circuitpart_capacitor1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_capacitor1')
+alloy_4_sa_3_nq_circuitpart_capacitor1.register()
+
 //4sa3nq logic gate circut operands parts
 def alloy_4_sa_3_nq_circuitpart_halfadder1 = content.createItem('tetraschrabadic_trinaquadium_circuitpart_halfadder1')
 alloy_4_sa_3_nq_circuitpart_halfadder1.register()
