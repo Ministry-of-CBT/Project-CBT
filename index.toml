@@ -17,16 +17,8 @@ file = "CONTRIBUTING.md"
 hash = "364adb650ddd90b6650fd3a624591466cc29b753e0962087fe0cd1243bffc4d3"
 
 [[files]]
-file = "Jenny-Mod-Forge-1.12.2-v1.9.0.jar"
-hash = "ee9fcb4977064a6ebfadb81b1e33e806c96c6256e7f49a474f91d974ec12a709"
-
-[[files]]
 file = "LICENSE.MD"
 hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
-
-[[files]]
-file = "ProjectCBT_FORKED_More-Planets-1.12.2-2.3.2-GC4.0.5.jar"
-hash = "2ae175e217f9c94d87d9df0d1b8f834c0ecf45ad5c0f5e190f2b695596ea5270"
 
 [[files]]
 file = "README.md"
@@ -82,7 +74,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "30bd91237d4f1d0a30213241bdfcfd1fe66db341947b95c6e3b2c4ae7dce24f3"
+hash = "80d1a56479a79955bc3e061209f49472a8a831a1f376936c4788088e1acfa220"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
@@ -390,7 +382,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "e631a6bfc179c12b2f4e23bbb54d794667a8a6c4654804459de939357dd016a2"
+hash = "f9c5187387850823c1738c3ee4a6291cfa35488f4d968547c309b031a2f41fdf"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -1934,7 +1926,7 @@ hash = "eb7bae51f60d5954a160bca9373d66da7ede802b7ca579c30976694a050de2d9"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "24b50229019a8664af85cef5e61bef9a503539472dd5dfc4b27bbe718938e19f"
+hash = "958d2e4eeb1508ee2e94d2019248287368f7e61cdce8de574e6932c89d4c4916"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1970,7 +1962,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "c7a4e78f1e647a3ce7a5d0afc6c024765ce82ca8359777f0b47d1b0848f38bf1"
+hash = "ada1adfb3d1dac96736dca2c8c55cc980b134005a8ba8518b8c9d8a32a22cb44"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -2122,7 +2114,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "d26e38c3ccec816168cba5070503b132c8b74d56146636b20b1a36c4067b0829"
+hash = "240c79841d83516ff267b3012957d26c2ddb649218a91c6d552151dbbad380e4"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -2342,7 +2334,7 @@ hash = "5c31788bc667583a5ff406309a7c168f06e52d36764700681692581358d77366"
 
 [[files]]
 file = "groovy/assets/cbt/lang/en_us.lang"
-hash = "236db545c1e324c57e0bf3ac38090bb4e4c4cb5144f226fd9deb1c935df1fa21"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_controller.json"
@@ -2354,11 +2346,11 @@ hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
-hash = "37a04ad96f7e8ea0277ae277f56917e92fbab7667bea090a1c46d0f1ec0b6a95"
+hash = "1d199bbff9af761c9660369db79c4e8fe265f3adb58c08e61adbfe75efc96d8d"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_andgate.json"
-hash = "49834916f6a18a92f905b2a17efe6812b786c1680b4bb123ab826c7a0526c084"
+hash = "329672cb7178dba690cc8c8498fb2019c12d15faae06606cb17c77730a88532c"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarydivider1.json"
@@ -2367,6 +2359,10 @@ hash = "af6c2a1504e12779766a0a42c7c0c8b4abae9c49a168e65eddb944341d3bfd3f"
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarymultiplicator1.json"
 hash = "16251d901bfcfc7082ff9d34b2a700b455a5221ff33594e66921c1cb9937fa11"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_capacitor1.json"
+hash = "fbd1aea4a5dcaaddac2059bf0e7958abf25d381ce4585c19cb337a4f62888e22"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_fulladder1.json"
@@ -2378,7 +2374,7 @@ hash = "c22ad912748ff158d06b71f29fb207e31ec45372a5b350c16286c3d44aeb521b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfadder1.json"
-hash = "7aabf62a60684e1d8546e2568aff75c56201185a7f55178bfcb97ef4919cc5e1"
+hash = "e7a881797f47b5d59e2bb2de323329b61f2e225d09d737fc47421bda092f4b4b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1.json"
@@ -2394,311 +2390,363 @@ hash = "3c291e19e7cee5920080aec381bfb8d5cf8cf4c7ff68e2d969d82833f67f3a6e"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_nandgate.json"
-hash = "c3ba9d3b8866c300bebed7dec448fa5afe13d72f2b83f664333128bb7558557c"
+hash = "ddd7f0a55bd5c3f61e44c1e3b0476670c589edc370b9b449ff772c4b9b0f63f2"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_norgate.json"
-hash = "cbfb8cec81d0c6eb52b3d9ce09475055eb0b8b42167d33de7cfc60934b94ccca"
+hash = "b0840a03fa2dcc46b4bc3f75cb8b01ad55a23cd8e6b0528e9e8f6f0beefe0457"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_notgate.json"
-hash = "ae69d678c8dc28c2a0d91fef81808d35c39b1e5b1fa989a0097c2b6721240906"
+hash = "96749ce635d78e04ed89eba04671067040396254e883a532587301f0d62fcc47"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_orgate.json"
-hash = "b777ac5b728e97af86d877d576aba5975549540ecfe5f687216699261ee148a8"
+hash = "77c0e5d371b2575a83681a49bf8ed302a88aece0719f46322f40729b808bcd75"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_transistor1.json"
-hash = "860987550387b99fb9bb61f23b619d03f59fa6fef38ab0b395e81d72b14fe261"
+hash = "e4bb60a6bc68cc0a6733974bc315d9dceb1a064c3ba718fa8cf412693c210aad"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xnorgate.json"
-hash = "2e5bf7fc98136b6c41bc8d1c4806fdb9dbb59ff1516cf229afe089654b34de31"
+hash = "cff44e6bc2815e947ece16fc891409f31273e948c6b8de3a4b7d4e1081bf87b6"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xorgate.json"
-hash = "cf3f61e0588dafea7fa075724e53e5c1232e9e6fad973f5c45a13b195bfe3461"
+hash = "773c2aaa59528381a0e60f2d026e3c132e74511e27804e51d43d8e223bd8e212"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.json"
-hash = "7cf46edb962aedb040b2f2d61b9e4a0f6d4af0d50f3ea6e02526eb080c813e43"
+hash = "7b9e161a67275d736b3ac1c061ecbbdd0f1e9e3e81d7887851003d7e898b8453"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2.json"
-hash = "31313f7400b01db0f6f4f59b6e75836855c264f0ac55bfcb86c622596ffd8acb"
+hash = "abeb10691a942e5deecb4ef5cae53b51bad0708ff454b021eb8cf1fc27abdcdd"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3.json"
-hash = "1949732e2e08fbd19add0df9838c63f1d07dabadf053b38dbfdd8f2eb4914d81"
+hash = "33b25b02579811a754ea6d8c1d90fc51174d61e325b2d9d776465976e8849f50"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4.json"
-hash = "297596a18de3de32d2c582d84d56cdec36cd5149b625f5c571f24be9bc39f9ca"
+hash = "497cc65307f625f3925316e2a365add6acf49ac3821b0d7889956d2c3bc82501"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1.json"
-hash = "da89900dc5f23cc4edc32844336be16ad84ab536007235885d3bbb8d9f7dec31"
+hash = "aeef73de027fd38ba0b1d5cc6c5c09a41f6c73ae46e184e179103fed42ac0fb1"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.json"
-hash = "5115b85373cb392ada9e0e992679453967ae2095dcdb9247dd771c91da88dad4"
+hash = "fe76fb7cfb57e329c6ccfd4518faa29492ace76aee8065f8922565f94280ee44"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.json"
-hash = "5be255d716da318e3ea7c97367f8dce07ac0306b3ad1a3cdf602472abc853457"
+hash = "e8b83c4d8babba5ea5c74b172a48e8de5b9a38aa300654702978d10a9cd709f6"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.json"
-hash = "c9768011fd0e3c234a21f56d9cd77332d0461b9d1a29f8bcf6498878d200a0a1"
+hash = "c7a65636769b4e50ec9708c7fd918b2b5e158082293d982927688e3068961cf0"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.json"
-hash = "176b98adcae3663e966d1b311a6399435c77897199ee9e6b5a5ea19c8b671430"
+hash = "df60533a8b92d6441b2515fbde03c61a8bc9bcc688961144f98bb9dd6933449b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.json"
-hash = "0f58503a3389a1004138914bed5e7818fa31a3e3066a818a05e40dda2a2e9eee"
+hash = "4386ab18adb087105a5c48df1e241c7c0862d8f2a3902723cb378d32fd180e91"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.json"
-hash = "4cc1a5dc08d06b66f1ec544bfd21590ab044c705777e4c5cc52a837753fd9e38"
+hash = "a80afc595fe6d90a86062874bee679546c97ade136fd73c1004e153d8db38399"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.json"
-hash = "08f35b6486ae2caa8f16b185a07fa3663664726e2caa04fc328de2102e234cc7"
+hash = "9946d544aba0703ae62d19bce779ecc16acb25fbcd0dcfd4d87af96bb0da4a82"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.json"
-hash = "13baf143277f68f271d59099b06038b85de0711c32d83545b67a2eea1c04f5ae"
+hash = "6927fdddd9c1a7d846642d9f83b97092ae40939407753005220dbe8a068ba3fd"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.json"
-hash = "770f38fb5d62e5239aa4a78ecd1ca3f8cc76a407058c50d2145aa33663902a45"
+hash = "bdcc65cc11c336b1e2db82e7fa93167d297e05dd9c020519e104d704ec843d41"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.json"
-hash = "def2737a75784cb9f5949e7e49d79f0eb2d20e344c38873a4546d16399d2a2f4"
+hash = "54651834dd2f3caff5dd87a5fd5bc7c46ea5a6bd3d04b4e4bab351b6fa7e6cd1"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.json"
-hash = "f4353bdfcedd539f95017eaeb4a24c293d9d390147b361dc955ebd208b7a845a"
+hash = "cc51f962a810e48c58a21799052aca788a47526d82274d4063d85d556829c07d"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.json"
-hash = "e82871ec1ecb1909db695debbaafc3e31e05fd598fd1a021d9dc85c05f48cda0"
+hash = "af9ab557479a6035181979e265d68f265e9f46f3ec319df744ec307c58a9491a"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.json"
-hash = "45f8d4a8c26e79441c2f8fc8be7ae1f34e83ddfc24aaef5a575655ab95a29694"
+hash = "ce1c7f6387fb034cb9fb2ba55509147a72ef1a7c4892f94fde3e1ebdd06996d7"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.json"
-hash = "5c6cbc42ac847c010ca74d98630b413f005f8662d391f4a57a1d15388618c708"
+hash = "18ee309ad7ab478127cca368a6e781a23c693b8045970c1f02e1b0fe8ec0325c"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.json"
-hash = "6b4a25f5d403d0c793d1f7650a56116b6006bde839d9e157eced505525b0d139"
+hash = "a7e99710355de31aa0e1264419d36af182300a76cc4188d76e3bedee00c82649"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.json"
-hash = "9192440b50ab673a0873f9ec8738c533d8542cdebf4117424fa06398adae5d5d"
+hash = "06a6b9c93722dcc3132f8ce64f999334c3c7d062ba0073dff5891ee4b4e3791c"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.json"
-hash = "24f2ad4aa7d4f7005a11e5ba163f01a6e0ff07ddac7f9a7f4fd20c1191ddc9a8"
+hash = "4b1cc37fa0a5e369bb55899ef1f1c310913db203a2442f8c8152caa0860ea941"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.json"
-hash = "feff209cae045c5b9007050a1240bfd79bf62f7b2a1a34cf06c1ec24249e1ff9"
+hash = "2edb15835fd89d6bad345160a6a5a632f3098abfb42d4dbfb25e93023dd8bcbc"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.json"
-hash = "f5d5e2eb28978af403bb648e0380b443fecc3004ec575ba0539fc89b336b30c1"
+hash = "2731efec890e1305d5c06a9c499ef11c6527c272fbe95f701a0bb9464ae8e0cb"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.json"
-hash = "e6fa5aac9e2b31a1826b9b9e0633c5c8d153cc556a0457810ae71b3189be9ece"
+hash = "33e13909e8cd87bcee2074c132332af8815224dfcd1894758afdb59f4781d0fd"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.json"
-hash = "dd6cf7ef3c484a92e9c041b2f2cf0221649b866ca29c92c00cb806488a04cc51"
+hash = "96ff83a5b42248e7637d048e27068751a6e8a7f06467c009b346cd31c64961bf"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.json"
-hash = "71cd60a7f4acd1eba9cfff639f7011a177e36523a62841bb173c972992c4a0e9"
+hash = "576d7518ea3488e9525d8c0cd479d19ba7c8db7d9015bea6b2ea89775b512a37"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.json"
-hash = "e216f7554e57117864afef904dd29fcab466156a33c6ac2e0f45061e603ff835"
+hash = "9f9a1b117fa7e0d8d665158713b00315e0f157d36b5a5903c65abaec3357ffb6"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.json"
-hash = "d292ea454b122dcb883ee5ead2113c1692aa32bc61cd62c35c5e7a8169b6a2b6"
+hash = "63fa07da2b2e767fbc738e6bc97e6e818e1fcdbc37a668b92bd02fc3437b9220"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.json"
-hash = "4fb1fcd9d501257a800db70a5bc5fa52aceeed64f3eb9092476b724dff2e0b5f"
+hash = "e0b9b71fc8874bb2512c87e3d4c9ee79998a8e1241a796b9e6b5a98ee3d055d2"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.json"
-hash = "7c036be0d0a3e1c5c888565bb212798e14eb0d5ed71d0cc3b9ea6b2e0d42c2a3"
+hash = "5fafb33c0a4da410bdfb2cd055135095a7ffd0874a16de3f8b8cae3a1537c5f1"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.json"
-hash = "c3948163fde94c07731c20069793c5df654e1b842c17ea17f32244f14100210c"
+hash = "3cb45d44c8eaada1e8cde9db7b2fa32e8177f2e15ecd7f27062b98cf84518e03"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_d.json"
-hash = "b453ef8716b25f376329db2655c45b6ba91ad30745c21817f35fd9467c2bfe8d"
+hash = "893be2f6a33156d3556c2b3f5dd6bfe8cece9c9356e63b8d477afc1cb02f98ae"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_s.json"
-hash = "a1d5afb755997f597b4fd8b2223d595997d901d72b33f232daed578421502758"
+hash = "1e00941049d24aba56f9e5b893dafde281bf7658eafdec78fc9033650a47db6d"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.json"
-hash = "9e77cec5e474635c981cd3853c14f17025c5d7968e3c0f6f7b7b7f68bd75de18"
+hash = "b4b00e872aa9f77999cf68e24b61aee226325114c8272cb634122da1094c11b3"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.json"
-hash = "a2513557db26e90d51a8361f4b05939f4fc1e7885df0df9b3f0fd02a49c6d5ea"
+hash = "bf6f9f29fc6b9c1d892d1713fda53ace9072c88a51c6fb2dfe91dd01af551f37"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.json"
-hash = "1eb00a743b1d3ed7e196da2b7ae7ab12b29cadebabd148c35d02b4dda55cf833"
+hash = "ca222ef4ad763b236e748f9df5ca21a38b7f2a4415576ed979d97d2073a218a7"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.json"
-hash = "4c2e713bea6a6fe0b93b58985c70cd5856f1da7748c65a058d5b8ab83b077454"
+hash = "642ef6df36cc21840ca703e559b1f2fc363394a11c294e76b7043e9321f2272f"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.json"
-hash = "41095af9fb8902b1c3e4b985c65f462ece1328b770054508d0be1b037a963469"
+hash = "e07ba58d056af994a58c7eaa0c1ccbb528c6f62fcf8e855e4058445366445e91"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.json"
-hash = "34c7506ad50f924ad9cd6a8c82a461435ac92eb21ee65b3cdab008c8d2e3d517"
+hash = "66496e8e35eda2ee6f516997666d7f0befa9978036b653f5ddb19677b45ca1c8"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.json"
-hash = "25d7ad28542181ab8a5b474cf89e5bb65441c4a5b671f5174e2b222d87cc061f"
+hash = "688660c56ef7330d198b4b5b619ebc561d5506cf2100f27dfd0d6f8400f88aeb"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.json"
-hash = "a9455ddeff1646dd5da3d2793871889cfab0e6dc478253eb7d7e8b7ff21c3265"
+hash = "1ffa1f930f27d4bedba75045ae4137b644724b6ca0f362e8ed4c1eabbf5c639f"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.json"
-hash = "9649c4ccf360a06682ddec5c4b967055f3a797ca4501d8d9e1444a3625629bd6"
+hash = "356e41ebb0b8a8987b30aa35c92573b25a00d4de64785e541b82cb7cb4f27cae"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.json"
-hash = "2524a22c5391a4b8638ac38cb9cfcf3a8a6c62f6328cec771a3accea15911eb8"
+hash = "92cba22443e0fcefbfa6bd821c4969c51cf2aaa9d1abd3b9531437ee453f2280"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.json"
-hash = "9320b529e498ecdb98fa9da05be3712527c49abb295b2b4512d63ff747ef7af0"
+hash = "77c90299e8f2e7089791b14b73c8aaadbba33553a497580c24d96dd374123774"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.json"
-hash = "c991daa5e90b35f0c354a7f05c856d9fc586e5cf29da88000274f3c93d633cf3"
+hash = "f50456afd1563686b5b2f53fff3a1403caf67151b44f73807cf72ae36d10da0e"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.json"
-hash = "506379bafc0be6f9d9d6d3045318c5fedf7b2bcb6babdb08a2943094124fd526"
+hash = "c43768347b274f3f99cdb837e47afef20b5019a1835d9722e00ff91a325b18a2"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.json"
-hash = "6f6ebdc90c659d38a10afe8cd3b8f5be87320694f8c42d6bf9e40052be8a69b9"
+hash = "525dbe47b5eff551318716f8f45c473c0d367a3ecee686a0e4017963f8f89467"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.json"
-hash = "3a65eb3d322b7613101f2abec5d0178961094067396f86d9d642f1e31b00f430"
+hash = "1b39816a9451062f0ddaebe09a17033c16d790853346e3df5cb8ee6f66890b08"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.json"
-hash = "81ec69ce0ddf6aeaff28dce0bf2d4db95451192680fea7fffd0c3072e43477cc"
+hash = "ad9880e3fcc986ac3a9b063f4ddbdfefbd91e45a00ddb6f283e6139868ae6daf"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.json"
-hash = "8244820057e90d15035deb8fa2b370bae199016fabe5aa7fe911e270c974a9d2"
+hash = "0ffeec4fbb7fdf8e89461bbb36dc5cb9622e6bbf361f3108f2e4a6a38dec328b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.json"
-hash = "e7bed7a84e3cd226ceb52a9452fd8ceefdf89226202691f9e010803d29c86cd4"
+hash = "bcbcc7cca47d698ba3761afd45baf52dffcae93246fbc6567bf39978b66e7243"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1.json"
-hash = "47a28e200453c88c82ec3c90c8d613ea970f7244deb31744689cf31fd1c35ef3"
+hash = "1f9ff36266183dd4704188127f5b07acceae30207d08624af72bdf254d282814"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2.json"
-hash = "a44204828010e2b41c787b6521d07f52b23fc235af83d7c744fdb45fa23eb725"
+hash = "4aa1a011d014165053361b8b41550f23d88aaf97e6f9dbda457b472b4d4a83f4"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3.json"
-hash = "6b7149c5494288b8616de2133f1592b3cf8d610eec134e78ea4e9b1c6d2ca5af"
+hash = "24566690f628f598561fe322aec5a558c7a3f4a82f9bec2efb228dbc9c8dfe63"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4.json"
-hash = "1d287e1a0775cb28078b5b839bdc782b4f956608aae2ed13261e524452018a71"
+hash = "2c25312194f0eb54f0e9185bd403d086bf114be98140aee5212ada4800db30a0"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.json"
-hash = "6e936aeda686417a940a3e7472fe7320401e0b216e6ecb50da69017fe95e86e8"
+hash = "d53997a7cdfc2b6a65e4201f282e1a4e6da978435e5a0ae08bc44696309b5ed4"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.json"
-hash = "e536583dfc16ee471422b2bebbd1d9fb24bc14fd95a50e20e8628523f54a550c"
+hash = "27913cf5dc1f45a37122ec5632f0ff1e0bb8145cefb166586595a47336896cee"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.json"
-hash = "222e26580f0f172537dab9854c87b1c4e0901e1f91838e4a7aea12abaa1cfb86"
+hash = "dd47879997b3be00cb0257a59b95409e39fcaccfc50221cb7f64eb88cad22d31"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.json"
-hash = "cd514f26e660e5b7dca13353f6fafda12ef2e0a47f632645cea90ecdc220027d"
+hash = "13544e876335949698bea67323dfdbb019fe30c15d4b5025d4cfe1a72e12f52a"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.json"
-hash = "c135b42faf843226d06f4ac5419e7aea76e31a758301b5640b62ccc1052dd92a"
+hash = "725a413ac4eebfe1a9e5da8575cd78dd64d1c3b25beac3025558fb9b7cc2f55c"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.json"
-hash = "e5beffbb003b9d9c580cdf7c0f71c296a5006e98a86e635083ecafd5d1134058"
+hash = "a843ee6be45a5fcbfb7e483dca37b3f15b0539a09f077faebe5219d4676a6f1d"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.json"
-hash = "9b38b582290eb4b018cf0dcb01f9353390a5090b35cc842d07053b8d163b2fcc"
+hash = "c6eebcce64bcf926f6f15f2a1734113d504d73881a3cd3d8e4e07d58d34f63d5"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.json"
-hash = "b00f2e0cb9c1acdf0480c1027ed6aac456d4c05dd59d3b85d0b6c9aad5b97403"
+hash = "6f82a8b991366581776fb20044f03f62265abc2d05242c9fb1ef1d96f679137c"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_h.json"
-hash = "1fd0a3ceb50a2e5213cb304c5e574d7a48f6fd7b346ccfb832dcb9472fe3a1ef"
+hash = "bb5ee2789ab31fe2067ff72fbe73605c2ba4251ed9ae64dc2d96ddc876e4f270"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_v.json"
-hash = "b63f5f67e5adf29f4c1c4dd91c6b981b7689bb86fa5db3abce16518e167a0795"
+hash = "aad4beec3d3032d862a1c5e7b4b5beaa3cb0413e39e438ab9c0fe47f0c2cef1f"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_h.json"
-hash = "b8aaa7d58faf4be51a1a00674b4c2ffa8707d9a16bebf165411e786bf7eb8e9c"
+hash = "15be2f3a1d7cbd5e201bde57a3a84f5c87adb83d5f30e3fc18eae56cbc8a96cc"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_v.json"
-hash = "c93bdc33e822e3424974eeffe850e213257ae020726e00e995045936d97c0f6f"
+hash = "fb4510e741ecbc95731ff4ae52a4f8da6a84a337e07d46debea65473f384d18b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium_wireunformatted.json"
-hash = "30e5782cc678045e927ac5bc3c795c962017412d8385536cd700d7e346120730"
+hash = "9109048ebd9419566cb4461e31223f5693c7737f7d6e16fd6d3fdb8cad2a9da2"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/thorassium.json"
-hash = "43cf9bd382c3309dab048756cc123fb1c53060350910c5347f8f9f6d40d5e1e1"
+hash = "d60ec4178d22d86f9440737346fabef0cb721b97af9a911f8c719d7cf833cf26"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_1bit_storage_circuit.json"
+hash = "b38543ac1e86c21b6ef357f7c42ab43c44ea2b590c47bc9ac481d4d191de7042"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_circuit_timings.json"
+hash = "c93e456ae7ebbab327b1502be0a4cd4f9c84a77609a2ab4126cd8a95394ba1db"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_controller_chip_operations_center.json"
+hash = "e1459eb87b6217da8d2210c4227ac340b8fb9b800cea02abbe2bf5158550d14c"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "d679d3bfad5f0f13fea4328688bce707414b05cc869098b2be20e99855882668"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_operator_design_1.json"
+hash = "5825247a007feddaa54ffa43dbfb50b68382e862f273defd976b1dbf36111ae2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_operator_design_2.json"
+hash = "dcac2b0f5188e598191c2c9568579d763d3123fad0a79fb2940fb09535eedd52"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_operator_design_3.json"
+hash = "91b1aff7363e66b06190b0859f990c5586458b4b5128d7981bc81128da5a5623"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_operator_design_4.json"
+hash = "d80684bc4ba09bb522d06b83ad7668d6a78c2b66ac87e0d0fcaf6b5142732b0c"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_operator_design_5.json"
+hash = "f865885571b8657ca8da4df8d23dce576547094ace86a27693942bda52e57f10"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_sensor_circuit.json"
+hash = "4efad07d7d6d1795e391e07cea97b487c3acdbbed41d5a483354ca35f8236b12"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_sensor_io.json"
+hash = "ed73a944e7e042cc7e5593ef178424016794a230a7d4b00ef7841a024eb5114c"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_4bit_storage_circuit.json"
+hash = "7e57bd7cf77b0388c5973e3293119f625cf257a858048873e2055f909e8b9e00"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/uhv_circuit_hub_4bit.json"
+hash = "92ef2104711a73ed9edf3fa3c1bbb9885c7fb6e727a1ac6d43f6ec56502692e2"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/uhv_dfc_compressed_fuel.json"
@@ -2714,331 +2762,7 @@ hash = "1bd4d471afe907944ef30ff123d52f3770555de84af28b6ed0afb5de9146f096"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/urephittium.json"
-hash = "f60fc116a4e747dfbe235a18a5b0eb0d6c66e30bb7d91707274bed29080bb810"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/4sa3nq-gradienttemplate.png"
-hash = "e6e22d724619697fd31e08f047f094ae2768f73f52f451e22231e101e9b390df"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/4way3way template.png"
-hash = "9db02a65e71b6924e22708974d5ba36f8c5170e2a63a29c8fa51070841c0cad9"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium.png"
-hash = "894311b4b7eed891da3c06b8fda0ce78e96b67e6f5430f09134db5b889ac1f71"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_andgate.png"
-hash = "791967120f873f277b632e641b2a0f3c8678c842d49f2816fd04363336f8c92f"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_nandgate.png"
-hash = "2372534aebd067cb6c506a7d9a46ce56b9d0ae4df68e7522d658750b5876f3c5"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_norgate.png"
-hash = "2a4bf5878a8034083cbfcba43ded24a490fd01a19fda79c058884210ce3cf294"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_notgate.png"
-hash = "f359680f192c4c26d44da9bb153565450b544fa26b55f51a870d7fc38f4fdfcb"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_orgate.png"
-hash = "e9d35b7e99ea3ee16d0a6a8c7f1d5c0b28bd395d79b348e4eea13d3cf4f6c490"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_xnorgate.png"
-hash = "956aaf75e48f1e1955d450c357a33aee1c3c2c6d9c1f5c10bbfc1c8141dffb1d"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_xorgate.png"
-hash = "6c96341e95e24bb28f2bc33274b9e931d8be44023a7037fca0fefe0b25e20665"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.png"
-hash = "f178774807c4d877f7e04756464a4f7387f6109b87f55a040b167ef0eed97039"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2.png"
-hash = "a5da18b30e994dbb0cfb321bac3c2721385bd61ac17c96605de004be05b3e451"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3.png"
-hash = "07a710ef1b50ccaa1bfcf8224faf0fa8ba4a077fa225e30a3b2c99c530a3694a"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4.png"
-hash = "3aece0beb410cea2c57a8b66c75582356bea5ac18b1c56214ea31a35e5f771b7"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1.png"
-hash = "44d83668fe904f6aa1c55742e06b93bc8e5832963d581e96287d9ca2ed154854"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.png"
-hash = "ecd235ae847c660dc590e85233b646ed351090514d4f0275eba856d31cd41ae5"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.png"
-hash = "959362d026f990072a1628ebb5c9155e49670a2710a4baa303a1580451af690d"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.png"
-hash = "a11d3c416217e70776198c36ca6950be337121ada3653fa96333b8d3c4461b74"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.png"
-hash = "0174fc7938109eb33542a65551ffa38f3c62420f529da050e42ccbc3fa4d4dd6"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.png"
-hash = "a3154f61f86917419dcc861bea9abf846d24d31550f88f47be0aceadb697260e"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.png"
-hash = "fa177636880e05c8b175ee0800b4538369b0ab9cb08dba580a2dfdd02dbafb65"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.png"
-hash = "3c6e21026e7096f16f61bda305f95990b686c1d68759f3886772625cbcc5e2f1"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.png"
-hash = "aa5bb5ff17af6613fb4ea9f5046e6929aa39506a01525e0c0c353582a8b4fee5"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.png"
-hash = "79af509bdff76aa42845689d8ca26ef66880e9d2991c68bd6cf465f56899185a"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.png"
-hash = "655b7de03846cbffe2fa1c31a57a82bc8cac56809da7d4af88b43ca0b0f88c25"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.png"
-hash = "cafee894a1c20c52d9d28f065519e272817cd027a65f08ab3fefb2ce736a9507"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.png"
-hash = "57f35aa1ae9dce200483203ff2d738ef3e93af1ffb41b4634d682e2687cb8d00"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.png"
-hash = "33b17fd0f681a34b06d039a135a16b52c184013f69e379bc2d40f0e95697e944"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.png"
-hash = "ffa79db5c455eb0a0da973a8226c41089dedeaa53584eb269ecf41a1f58d49d2"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.png"
-hash = "b5052cfe61863ac0dbd43cdfb11362a7aa830547bbbac22d4aa1ab565f0f922b"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.png"
-hash = "1aef82c65c683782a4940ae074dbcac0ebbd3ccd774e604208a9ab5140cc0564"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.png"
-hash = "c8630d0e0ccf00c2c2e39c4cd3cc7fba5b1dfef9592cc75ad21f261327c2b417"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.png"
-hash = "c0e983386f74ee522538adac0cbb39bdafb2fde1a032a63b3d74ab0bafa570b4"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.png"
-hash = "e8e779f8f7d4ecba8419ef4bb1a4e6fc15f76e849e8d54d4a07a6c12ce349b40"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.png"
-hash = "f6648b11b83d99db46acf7558409e44389f732c52c6130165d49a7ecd6178901"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.png"
-hash = "fff5d6d799ac6f5a875b26a97e84b26bc814b3fb64e09826f5ab6154fcbab187"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.png"
-hash = "2ce2bc2de1e80be46c152462632e74e17ffca5964413017f4bd0ef46391bcdc3"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.png"
-hash = "27d72214ee1c068abdb9a6df758fbfe57a91724346287481018995d15d4268ac"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.png"
-hash = "c89b5d2c120fedb4c1b0eaf0db701987b6adbb85373e96f47fca605650a8a33a"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.png"
-hash = "a62d81fb0f833be84ba954cf9011fb784e23bf487dc464f94bf9d925806050e6"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.png"
-hash = "606dd62ed951880aa14f1a6dbf75beeb444df487731bccb1ef7c7018a7b215b3"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.png"
-hash = "01e1c2a612d693ec0f1b47e6aba6128b239f517a3c6571d46701cf3d59097dd4"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ae_d.png"
-hash = "b3b3df80a1bc9184598c0fd73e21a745b774eb0d354a1e64805ab2251577d9a9"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ae_s.png"
-hash = "84eadf7bc9faf1f3470f76809afa45c8028f833ea6ab8fae275eebe0ab859864"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.png"
-hash = "00cc5741ad4cba19f3850dcf2e955bb1dc1aae1d9c5da6d19ffee5301f7eec58"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.png"
-hash = "b3d6acda007ae553ea6a5ff35c6981f05e51a649f7e505c98cc97694ba8eac0b"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.png"
-hash = "c0f3a89201f5088a83cc83a70e729f303ee3bc5bae8fa82fa8fa5753248d4518"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.png"
-hash = "045802d28e528006d7438420ea2c8d7867efd6eada97b09b8ccf5a2b1536a4cb"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.png"
-hash = "fa543bcdabdeb6d9e202fb6fa465f5874b3eae14d28dd45ef623e0bbae2fcd88"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.png"
-hash = "f885386e31882bdda93e3a00e59ec1971596b762aa0f6ef11ced6364ac42779c"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.png"
-hash = "2e11d50ef04922de68b922692a913058341fde4901b908f213adb5c9d653f15a"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.png"
-hash = "c0f3a89201f5088a83cc83a70e729f303ee3bc5bae8fa82fa8fa5753248d4518"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.png"
-hash = "18f135638a6ea2169c979663c691de7374f3b30179563bab4108791309ce57a4"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.png"
-hash = "03eb05ea9a4b8bc4f25e80381b6b909a646388ab8f1c8b11a1b471354c92c9c9"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.png"
-hash = "2e11d50ef04922de68b922692a913058341fde4901b908f213adb5c9d653f15a"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.png"
-hash = "5c97d21b82fcf76947f0da270dd31c6576e0b1428b78b4ec6cf662ca0f2947c3"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.png"
-hash = "045802d28e528006d7438420ea2c8d7867efd6eada97b09b8ccf5a2b1536a4cb"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.png"
-hash = "03eb05ea9a4b8bc4f25e80381b6b909a646388ab8f1c8b11a1b471354c92c9c9"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.png"
-hash = "2a7ef73df8200a240cba451754016798ed84002b7a5e1d024af4b22a83ef7f2b"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.png"
-hash = "7f66692818b77b5a4d260932aac34a66d7e6799c9984fdeb04830898dece8ef6"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.png"
-hash = "3ee877b96b2cef1797b5ba3a9a176d8ba16adcb9388c0086fcb81670a8357cde"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.png"
-hash = "e15f3be7ff3ae375137df2346eae29dec615b4bef5d61c19322545d2b1324084"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1.png"
-hash = "97cbdbc5cec2876da75490622f3fbf3448dd8aabb08071ceb52cd87331d55605"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2.png"
-hash = "1a05a536501c716d256ba3907a910e6c1a24091986dd211591c2d310333654d7"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3.png"
-hash = "ab749936766695215561a7983a0b64bc4095e6762f4733a5f5a6d9599310c7e3"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4.png"
-hash = "df24dc7f26df4135a462d2a515922e09ed80eee71521eb15ce45eda0884dfa64"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.png"
-hash = "0572c0a019426e0cb4e6f983dad1e2eb2b0fdb8b21e4bb807c6825b9bb8f3206"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.png"
-hash = "b183942209526be9771befc9e5bfa3535b5e4db8ab87492750e1bd17a50f0bdc"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.png"
-hash = "374e4bff6da4dca9b6d400f83545bf8bab79d46303ca7d7c00ac620b08005f4c"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.png"
-hash = "f662c7f8d078a9d59ff5a266e3adf717cd7b03ebc30f347b5b8373dce45344c7"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.png"
-hash = "5e5e546ed785eb35f096aeecba934abf941f82b19c0b423726c6522411f69f85"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.png"
-hash = "638f51bdb8afc2e58f3344e3566ddae20f9c3a856f31c7501b76b5b947898f87"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.png"
-hash = "0504668ab5ed6913ed57be7e02fd7e7a461743651b04fdd05f1a0455918d3e2b"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.png"
-hash = "ea6d82a07dbbbde3537f75ff85070c4b1adcaf9b5536569c62ac65697115fbdb"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_d_h.png"
-hash = "6a8d89f52780e66c7ec25203a5119570df8cc07012be21d6a95407b5a14aac64"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_d_v.png"
-hash = "2cb99889c787d334a4476ac3f1f7016eea6200351882780180f66dab983d86b4"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_s_h.png"
-hash = "e0419e37a130d2b31e7ea522c8a63405e5a4cb5ecc00031740d4611e2e18da5c"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wire_s_v.png"
-hash = "c1676001b5b483e4a5c3b4471d5717f0acc0bc36fc72e7117862eb4c660e7ee0"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/tetraschrabadic_trinaquadium_wireunformatted.png"
-hash = "08994bb8b151d2e39e370c0c523996c8894b24bf5822b25dc47aa28b5b70e57d"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/urephittium.png"
-hash = "877137b726e87834725ee62e1897514461d9b5f67ee7507aac875dc4bb549a0c"
-
-[[files]]
-file = "groovy/assets/cbt/textures/items/wiretemplate.png"
-hash = "506a4eb9b3668825d9187ad39dfe4fea5eb650971f7e7eb6e66f13fb40fb9ebf"
+hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
 [[files]]
 file = "groovy/classes/import.groovy"
@@ -3049,8 +2773,8 @@ file = "groovy/postInit/main.groovy"
 hash = "70d4c2ed9044c2827ed42272ac5f651874e0595244f7437288fd04aac16a4130"
 
 [[files]]
-file = "groovy/preInit/Circuit/uhvcircuits.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "groovy/preInit/Circuit/uhvcircuits.groovy"
+hash = "76ba0c244a4276d3f4f209e41d00a5caff8bf7094b5baa2450439b24320fd47b"
 
 [[files]]
 file = "groovy/preInit/Machines/blackholeforgery.groovy"
@@ -3058,7 +2782,7 @@ hash = "10114ca40c1587ca3b597db4a22bdc9657eefbe207dfc8ef7fbbb36d9207a434"
 
 [[files]]
 file = "groovy/preInit/UHV/4schrabidium3naquadah.groovy"
-hash = "6fd5cc358cc30a0f346a0f4758cccd0f85762284c428e9276273e1c7122c965b"
+hash = "a470774132917bd4da9df1fb4033e52b68ac770dfe14d2ad4151b60a31a98021"
 
 [[files]]
 file = "groovy/preInit/UHV/4schrabidium3naquadahoretip.groovy"
@@ -3113,496 +2837,12 @@ file = "logs/latest.log"
 hash = "dc3590c05b337c70fc678eac5a7bca4f597b4f6461b8ef35586cae1f1956c386"
 
 [[files]]
-file = "mods/.index/advanced-backups.pw.toml"
-hash = "0fc70e4eac5da27222d87eb4d5927f991c900e8245c80cf81f441f74ee6981cf"
-metafile = true
+file = "mods/Jenny-Mod-Forge-1.12.2-v1.9.0.jar"
+hash = "ee9fcb4977064a6ebfadb81b1e33e806c96c6256e7f49a474f91d974ec12a709"
 
 [[files]]
-file = "mods/.index/advancement-plaques.pw.toml"
-hash = "daa1da34f1eb859321542ecd54f3e2c7a2d247102277ce5610664fc7f4a1c743"
-metafile = true
-
-[[files]]
-file = "mods/.index/ae2-extended-life.pw.toml"
-hash = "05c3c94a3c7200969e29e196bf586efc9c37992439d27ac248fcccb0b4004362"
-metafile = true
-
-[[files]]
-file = "mods/.index/ambience-extras.pw.toml"
-hash = "999070024473c2a1cec566bdeafad376599d3a739176cb5a4871c5212b9c2b26"
-metafile = true
-
-[[files]]
-file = "mods/.index/asmodeuscore.pw.toml"
-hash = "c4e005215f5b4c79b7eda446331db6b0c3b47812bd0f67d27006b907f19482e8"
-metafile = true
-
-[[files]]
-file = "mods/.index/atomicstrykers-battle-towers.pw.toml"
-hash = "f51d6878fab627a8b8641defe2362d6d1412083f951a96f6fdab08d27f774c83"
-metafile = true
-
-[[files]]
-file = "mods/.index/attributefix.pw.toml"
-hash = "1eaf1f193bc0a09d7a3cc40e60362d41af3878793e9d2caea6fb305f6c696797"
-metafile = true
-
-[[files]]
-file = "mods/.index/autoreglib.pw.toml"
-hash = "42b45e54c430fe0669d90c19942736a337c585ae7723c0e213358f90927261be"
-metafile = true
-
-[[files]]
-file = "mods/.index/avaritia-1-10.pw.toml"
-hash = "b80d9b98c88e8d837f6b059487f401272115ce97db053b68a5209cb77236959c"
-metafile = true
-
-[[files]]
-file = "mods/.index/avaritia-recipe-generator.pw.toml"
-hash = "6b620001c89c8ccb65996f602dfac0df20c7e86e96737edebd00e139f960e128"
-metafile = true
-
-[[files]]
-file = "mods/.index/baubles.pw.toml"
-hash = "9071784340e688e06d41ab3bb5b00fc8c6dafcc14da054a3c659f62b09dc264d"
-metafile = true
-
-[[files]]
-file = "mods/.index/better-advancements.pw.toml"
-hash = "e0479b994f5b41b8d4e8b4b413863aeafeb8a66262ff6e734283b3727111d2d7"
-metafile = true
-
-[[files]]
-file = "mods/.index/better-loading-screen.pw.toml"
-hash = "562145633fc1e69e516d0f6d314645d28c19c892d899772b3d068ebe0ce6420e"
-metafile = true
-
-[[files]]
-file = "mods/.index/bnbgaminglib.pw.toml"
-hash = "16e6f62d531d8d242a8df03af0c3d0afcb587a7a2464076028de4a92058150ed"
-metafile = true
-
-[[files]]
-file = "mods/.index/carry-on.pw.toml"
-hash = "793566af7bea7447aaeba3db455d75392a2eb6f7135a4b5fe77601754c8db12f"
-metafile = true
-
-[[files]]
-file = "mods/.index/chameleon.pw.toml"
-hash = "f31c6192ca13af90e283ad99b07dd0a0ae8096a68fef584745ef6bd82333b110"
-metafile = true
-
-[[files]]
-file = "mods/.index/clumps.pw.toml"
-hash = "0dcbdf3081087c143350b1af02f0b888b72127b4ddd3eed0f710a990ea1290cb"
-metafile = true
-
-[[files]]
-file = "mods/.index/codechicken-lib-1-8.pw.toml"
-hash = "78acf6b485ef8f2e3266bfed3165ba0ab0c6acd0e726f3d36a23214900a41ac4"
-metafile = true
-
-[[files]]
-file = "mods/.index/collective.pw.toml"
-hash = "566888a8e9224b891fd6dfd57fb0238db952d631896c5fca4a2fb438eedd9327"
-metafile = true
-
-[[files]]
-file = "mods/.index/config-checker.pw.toml"
-hash = "18050bbfdbae5e730c958f07639555e049506b59cbf8377d0fbf1234401a105d"
-metafile = true
-
-[[files]]
-file = "mods/.index/coroutil.pw.toml"
-hash = "94138c8e4098bd94cf90f59ed790bfe9eb95416a1d67f974771b36a5cefa88aa"
-metafile = true
-
-[[files]]
-file = "mods/.index/cosmetic-armor-reworked.pw.toml"
-hash = "1db7b22deafa71f70e09e2815876f049edae9f6bd5fb78813aaa6d29bad9a1da"
-metafile = true
-
-[[files]]
-file = "mods/.index/crafttweaker.pw.toml"
-hash = "e67d0ad37ad2e14080151ca6beb3bd3a0dda60f981cef71b9738d77a69d4f760"
-metafile = true
-
-[[files]]
-file = "mods/.index/custom-fov.pw.toml"
-hash = "ddc6163239a5ff038d35a4b0738ccb3b07df3e269b92677f554c457f76acc859"
-metafile = true
-
-[[files]]
-file = "mods/.index/custom-window-title.pw.toml"
-hash = "ac0d4fed293f11ee2b7454d25abc39b43cfdf88a86f0ae818bc02b44a2ae553d"
-metafile = true
-
-[[files]]
-file = "mods/.index/enchantment-descriptions.pw.toml"
-hash = "e6e1607500aeba34d7253428f5eab9dd120676ba3575230fb1e06afa790dcc05"
-metafile = true
-
-[[files]]
-file = "mods/.index/epic-siege-mod.pw.toml"
-hash = "76dab22e56d2e0a289b6c56774cd3af2f0a8f9260389c44c2320ae3401b737b3"
-metafile = true
-
-[[files]]
-file = "mods/.index/ex-nihilo-creatio.pw.toml"
-hash = "76d6bebab344cb15a3f018cf8f12643e34c039678e1611a900e376ac47c8313e"
-metafile = true
-
-[[files]]
-file = "mods/.index/extraplanets.pw.toml"
-hash = "04ecb0b5b2d1675ff0c6ca342ba4a2e6e94c0f9c8c4399f1eb55ae295caf1fae"
-metafile = true
-
-[[files]]
-file = "mods/.index/fancymenu-forge.pw.toml"
-hash = "8e64f0b0721d0bd62c8aa703312cd34fd2cc2f22e7eec41f83195f7e28065e14"
-metafile = true
-
-[[files]]
-file = "mods/.index/fastfurnace.pw.toml"
-hash = "3cfe11000d4b9f39fca2950089c3076dfe695bf9ff0deaff235e1f54350a131a"
-metafile = true
-
-[[files]]
-file = "mods/.index/fastworkbench.pw.toml"
-hash = "7d7aeac70046d50c996f0d888624d7f8843289c78597182b37de8f1e8ebfa8ab"
-metafile = true
-
-[[files]]
-file = "mods/.index/first-join-message.pw.toml"
-hash = "ad98c4eaddcc771f4ee67d0a35d9e9041534635648b8a9e141dff13e02cafd53"
-metafile = true
-
-[[files]]
-file = "mods/.index/ftb-library-legacy-forge.pw.toml"
-hash = "fc86051955546afa8607c29d1e9d00cf58b90a14681f20e6cd066ee81c02c35e"
-metafile = true
-
-[[files]]
-file = "mods/.index/ftb-quests-forge.pw.toml"
-hash = "5e9759de1f77a4b026d28c73f6ec679ff4a4716bfcc652b64532c4320a9c2dab"
-metafile = true
-
-[[files]]
-file = "mods/.index/galacticraft-legacy.pw.toml"
-hash = "59e608aee5b92793d5eea1c7c4b97349442737275563ca7b60fb34c6e3fddd81"
-metafile = true
-
-[[files]]
-file = "mods/.index/galaxy-space-addon-for-galacticraft.pw.toml"
-hash = "3475299f223112dd40cd204d695b0301fadb191a1cb7e235d798c308af1af097"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregicality-multiblocks.pw.toml"
-hash = "8ecdfa806e3dcbd3f5483a7f95c37b0ed2ccfdcf23acd366710970480e0fc55a"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregtech-ce-unofficial.pw.toml"
-hash = "cdeb4590791bfdc64d72c821cd7656c0b9003ce265f6bc74899072a5bf15d278"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregtech-food-option.pw.toml"
-hash = "8c70c18671804b054c2eeba21845e5d1ae33c1e2e43a84aa5716d5b8a4257dd4"
-metafile = true
-
-[[files]]
-file = "mods/.index/groovyscript.pw.toml"
-hash = "675163c7840c5cfc3c1f4dea4b051d714f9a6978632045735541f4c4bf0312c2"
-metafile = true
-
-[[files]]
-file = "mods/.index/had-enough-items.pw.toml"
-hash = "1a413b6ba78ee34706e7e55fc918912a3304df6cb4598fdb49c9a5a99acfc102"
-metafile = true
-
-[[files]]
-file = "mods/.index/hardcore-darkness.pw.toml"
-hash = "697cabfd9f1045d640a89c4226d37c8c81fdfd85b7151b29e70735cdb78feab6"
-metafile = true
-
-[[files]]
-file = "mods/.index/hardcore-revival.pw.toml"
-hash = "821a5f99c62700c9cc6312e88c5575638c01ce9ba28cb518cd592abf36f1f4b6"
-metafile = true
-
-[[files]]
-file = "mods/.index/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "296ac5b703ca13a0b038bbfccc309636885b953b680ad35b630c577502de0545"
-metafile = true
-
-[[files]]
-file = "mods/.index/hostile-worlds-invasions.pw.toml"
-hash = "9d0888ad8fee7fdb4d3cf85fc49311d1da90195fd8fe204cb908118e7128d58e"
-metafile = true
-
-[[files]]
-file = "mods/.index/hwyla.pw.toml"
-hash = "4e6374a21b2d7287b6d6dcb183f5d6a4ec7a2668a6b03799b6703ba1ed3d07b7"
-metafile = true
-
-[[files]]
-file = "mods/.index/inventory-pets.pw.toml"
-hash = "2717993a388bc53d4b954ad82bb9499ae4d09d1ba3d8ed0c692a01ab99f34623"
-metafile = true
-
-[[files]]
-file = "mods/.index/item-filters.pw.toml"
-hash = "5850e364f24729376ebacdb54d8494d93342c3d0e8c0032450e72774ff6ced6a"
-metafile = true
-
-[[files]]
-file = "mods/.index/jeid.pw.toml"
-hash = "ac10104ed5a85ec02139d8c066519d75b6f00bed099a5672c1ced66721e16787"
-metafile = true
-
-[[files]]
-file = "mods/.index/konkrete.pw.toml"
-hash = "a9b4019b5e918fe9b4555cd380d09ab32b9f1fa75d2c3bc0c275edd6e7108757"
-metafile = true
-
-[[files]]
-file = "mods/.index/legendary-tooltips.pw.toml"
-hash = "e5039a56e99de978d001662205468e68fa6827e49715b9fc2d0794a3dee2a7f2"
-metafile = true
-
-[[files]]
-file = "mods/.index/let-me-despawn.pw.toml"
-hash = "7c366245edecb6110765dd4d07a09bc2291b83ffab74d8a368f6dc53b14036e4"
-metafile = true
-
-[[files]]
-file = "mods/.index/load-my-resources-forge.pw.toml"
-hash = "f523ac251ab1fac791b6744a157af15ad9dfbcb07bd7dfe0736d4c5152ed7142"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-profiler.pw.toml"
-hash = "ba6eb14538afcf78297b9f0a738ea7313c12de80f6a2fa1ac6115aa609f4ca1e"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-progress-bar.pw.toml"
-hash = "63d49210c3674b3526af5bb1212d2ed4dcf1a53e207e430488835e2650e4d687"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-screens.pw.toml"
-hash = "d19fe7e50c45d2a1c9b335995bfe00e6f47d5cd0bc0e9d46058a4a97d5ab2df5"
-metafile = true
-
-[[files]]
-file = "mods/.index/mantle.pw.toml"
-hash = "7f0e07d0f819d6aa795110131434fc0e92b9cf90735526f9b28fdb402862c4b5"
-metafile = true
-
-[[files]]
-file = "mods/.index/mixin-0-7-0-8-compatibility.pw.toml"
-hash = "9b71866fee13f628c68d4dff24ff1d97e79b75a1650d81883b41c9cc78276ca9"
-metafile = true
-
-[[files]]
-file = "mods/.index/mixin-booter.pw.toml"
-hash = "15b296983532603d981ef277da531a3a95277f24f00ddd6b4f216b150612c3eb"
-metafile = true
-
-[[files]]
-file = "mods/.index/mjrlegendslib.pw.toml"
-hash = "90e7034b13d5fd4af91f158c30a214c800e883057e990db5244376cfe4dde384"
-metafile = true
-
-[[files]]
-file = "mods/.index/more-player-models.pw.toml"
-hash = "31cc31a7e93ed797386783146c9689ccecba932e13193b3ed62559b91f12d04a"
-metafile = true
-
-[[files]]
-file = "mods/.index/more-sound-config.pw.toml"
-hash = "dc8b63f367d1736335d1f55b3e9afca0a00f78f0736303fa51ce52daa16124ef"
-metafile = true
-
-[[files]]
-file = "mods/.index/nuclear-option.pw.toml"
-hash = "36b14ec9c5967cf7faa311c698af84033a6e10ead6c25f9386a968e9daf9aadc"
-metafile = true
-
-[[files]]
-file = "mods/.index/opencomputers.pw.toml"
-hash = "a8bf8d835aedf34d009724220a49ab8b9774320049d2d435a28ea487b0715237"
-metafile = true
-
-[[files]]
-file = "mods/.index/patchouli.pw.toml"
-hash = "a2b01f8534da3e3a33c15ad2e43f61dfd8177a9b2117e3764ce885bb9bedc7ea"
-metafile = true
-
-[[files]]
-file = "mods/.index/quark.pw.toml"
-hash = "ba283903e029acaac18cf335d614281fb6a80ff3101d4c8e04f18afec9c1c7ff"
-metafile = true
-
-[[files]]
-file = "mods/.index/reach-fix.pw.toml"
-hash = "464f2a6b323e2dde472188d8cabbebdd40d020e0bc971627d4a98708902bce74"
-metafile = true
-
-[[files]]
-file = "mods/.index/refined-storage.pw.toml"
-hash = "bc122e4ea1da4cd15116ba3e226f7ffea5dc00aa1a656d1885d28cc7bc973e73"
-metafile = true
-
-[[files]]
-file = "mods/.index/resource-loader.pw.toml"
-hash = "e41134c12bce055f7120d254e353bef04860b80f99e1afe68bfb88f34419c4ad"
-metafile = true
-
-[[files]]
-file = "mods/.index/rlcombat.pw.toml"
-hash = "e2b4bfe4d8d7bae4ada63eb1ec79e70ec42e72600fc3234a73d8ce214de7f5bb"
-metafile = true
-
-[[files]]
-file = "mods/.index/scaling-health.pw.toml"
-hash = "12fdf2c3b433bbc9fc1b0f877891b2eb069b537fb739f7975e46da10243bad24"
-metafile = true
-
-[[files]]
-file = "mods/.index/scape-and-run-parasites.pw.toml"
-hash = "349fee1e060ec475e8b83e562b9a4aef8e2227c46dd66e720ec795c98db8a7a1"
-metafile = true
-
-[[files]]
-file = "mods/.index/scp-lockdown.pw.toml"
-hash = "e5ede6ff91d8861d8480601fe971cee76daa64d98f92c883ab4e44db728fa466"
-metafile = true
-
-[[files]]
-file = "mods/.index/shadowfacts-forgelin.pw.toml"
-hash = "79cd8e68fa92c866219eb9c318d59814cb0c229552b312043c6279b47e3f3b7b"
-metafile = true
-
-[[files]]
-file = "mods/.index/silent-gear.pw.toml"
-hash = "7bfe1d1749cc9a6139318eb2bd4d51a759209760c21ccd9389c037cd81a7c501"
-metafile = true
-
-[[files]]
-file = "mods/.index/silent-lib.pw.toml"
-hash = "576f08a79118b6a1dd570a566ea91f011d183b976bac1e00bb048fb3eebaf5aa"
-metafile = true
-
-[[files]]
-file = "mods/.index/silents-gems-tic-support.pw.toml"
-hash = "fe17e1457efef893f59e3b82edc564aa0df4c31f315c758368b080df799aac4e"
-metafile = true
-
-[[files]]
-file = "mods/.index/silents-gems.pw.toml"
-hash = "8e1b5b9d29de55d475c464a2e7a4082eebf5aef674b03a331bd6ad973180b1bc"
-metafile = true
-
-[[files]]
-file = "mods/.index/spartan-weaponry.pw.toml"
-hash = "ef987a5fab8a0a9f2d7d617fec18fec57c5ec1f01d35842a85d1448750508982"
-metafile = true
-
-[[files]]
-file = "mods/.index/splashanimation.pw.toml"
-hash = "eb9a0341dfca0c5bcd699aa91ad21142679decb0ab9468197400c8dc0f71fb86"
-metafile = true
-
-[[files]]
-file = "mods/.index/stevekungs-lib.pw.toml"
-hash = "64675bb73f4ae9b7190bc7f7dfed1bd306086fee91c683398f54014d73c2202d"
-metafile = true
-
-[[files]]
-file = "mods/.index/storage-drawers.pw.toml"
-hash = "3199d71da7f36218dfd494cd295fa15b71caff56b06c1f277dcf546ecb266f34"
-metafile = true
-
-[[files]]
-file = "mods/.index/swingthroughgrass.pw.toml"
-hash = "0c33d8b6cae6083e961ca83884a135e4b35d2994d7c3d875901d75a3366628e3"
-metafile = true
-
-[[files]]
-file = "mods/.index/tails.pw.toml"
-hash = "204c420d2c6d84c6ff53e75e16380c6fa6f67aaa9b4d1a5aeeea49eaa1bcd05c"
-metafile = true
-
-[[files]]
-file = "mods/.index/terrafirmacraft.pw.toml"
-hash = "998c147c7f306ca3f86b9f7e897fad8c8dad9b998653484b6f1c55f3c60397fa"
-metafile = true
-
-[[files]]
-file = "mods/.index/terrafirmathings.pw.toml"
-hash = "46cade3a081367b96e147cd45d5fda7f327a5f5d1289f5851a1f84f4636f24bd"
-metafile = true
-
-[[files]]
-file = "mods/.index/texfix.pw.toml"
-hash = "66024ffe96c3a5aca24783c867468a2ebe7dfb7f2895fdeaf125d252b54d35d3"
-metafile = true
-
-[[files]]
-file = "mods/.index/thaumcraft.pw.toml"
-hash = "50e46633ca33b0fa58092ffae324a56547c2947f2aeff75104212aa4e4f04a7b"
-metafile = true
-
-[[files]]
-file = "mods/.index/tinkers-construct.pw.toml"
-hash = "ef319c3fcf03f1a1606e7c311eab694753c7dd4c17cf7fd2efac05ec030a44c9"
-metafile = true
-
-[[files]]
-file = "mods/.index/touhou-little-maid.pw.toml"
-hash = "a26fe1d55992e849fd93c85c2aba77acd540b8cfbe7c56868150d2a6aef5d665"
-metafile = true
-
-[[files]]
-file = "mods/.index/yarcf.pw.toml"
-hash = "7aeeacd79e3f1d429d79c98d470da0c3670cdae6bd0b73e45a0d695b320c85c1"
-metafile = true
-
-[[files]]
-file = "mods/.index/yungs-better-caves.pw.toml"
-hash = "7decc36067c8db5be44f982cf2c355accd3d3f436f5f7658fd7f7caab0db50ec"
-metafile = true
-
-[[files]]
-file = "mods/.index/yungs-better-mineshafts-forge.pw.toml"
-hash = "4382b98521c09cbb66995e530f039fcae7a51f6a4244ef4ff3f9495f39b18ed6"
-metafile = true
-
-[[files]]
-file = "mods/.index/zollern-galaxy.pw.toml"
-hash = "6f79e28ea95fffefee46604347101d2822e90a8456563420801951dbf0e77f70"
-metafile = true
-
-[[files]]
-file = "mods/.index/zombie-awareness.pw.toml"
-hash = "36c778743adb0dcfc3a58067d302e808d37353cc790f5eb2bffdccfe42936fee"
-metafile = true
-
-[[files]]
-file = "mods/1.12.2/codecjlayermp3-1.0.0-SNAPSHOT.jar"
-hash = "e3d0723dbe20290856d80a487a9bbfd5e988f23db17b234fcfe47db17fe6f3fd"
-
-[[files]]
-file = "mods/1.12.2/jlayer-1.0.1.jar"
-hash = "850508c837454a1b06017c32a36876fae516de1e89a829f725fee1e6dcc52000"
-
-[[files]]
-file = "mods/1.12.2/nashorn.jar"
-hash = "984ab65c7c96483caa9e3722d932ee8ad6f4f017364538ed2d169c596ec4fe56"
+file = "mods/ProjectCBT_FORKED_More-Planets-1.12.2-2.3.2-GC4.0.5.jar"
+hash = "2ae175e217f9c94d87d9df0d1b8f834c0ecf45ad5c0f5e190f2b695596ea5270"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -3775,6 +3015,11 @@ hash = "f0c594d0903f1fd7e289770982b39d806cdb3ad2bed4c414c504fe05487130ac"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
 hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
 metafile = true
@@ -3905,14 +3150,6 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
-file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar"
-hash = "de8b85e79cb73826ec77d038bb8bae38e8e3e334526bac1a4812b29f6cf2ae24"
-
-[[files]]
-file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar.meta"
-hash = "72c0d1254909cdfc2a47f26239ec0ce4c65994609db111510534cda6719bf34a"
-
-[[files]]
 file = "mods/mixin-0-7-0-8-compatibility.pw.toml"
 hash = "f39c64e5bbdc2ec6a12936cbdd4a2821d891d591402de376acb21fcde158a548"
 metafile = true
@@ -3965,6 +3202,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "78bc62f80a99269f9020c36901663b509914f961aa54b7b6fb4690a213c5bd58"
 metafile = true
 
 [[files]]
@@ -4744,8 +3986,740 @@ file = "projectcbt_a/99.png"
 hash = "68736ed794842c482c5ea773db52441c170d60f430d8bbcd31863a17e4066a17"
 
 [[files]]
+file = "resources/cbt/blockstates/uhv_quantum_blackhole_alloy_forge_controller.json"
+hash = "76e0e23ccff076173a08e5b62f406dadb49ade7c6b5f9a20da6645e59a8b719b"
+
+[[files]]
+file = "resources/cbt/blockstates/uhv_quantum_blackhole_alloy_forge_part1.json"
+hash = "5c31788bc667583a5ff406309a7c168f06e52d36764700681692581358d77366"
+
+[[files]]
+file = "resources/cbt/lang/en_us.lang"
+hash = "236db545c1e324c57e0bf3ac38090bb4e4c4cb5144f226fd9deb1c935df1fa21"
+
+[[files]]
+file = "resources/cbt/models/block/uhv_quantum_blackhole_alloy_forge_controller.json"
+hash = "16c0f3f2ee910feea2a8b406490bb0e2902af0c8ab7fd8f6bfa864ed9e4d090d"
+
+[[files]]
+file = "resources/cbt/models/block/uhv_quantum_blackhole_alloy_forge_part1.json"
+hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium.json"
+hash = "37a04ad96f7e8ea0277ae277f56917e92fbab7667bea090a1c46d0f1ec0b6a95"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_andgate.json"
+hash = "49834916f6a18a92f905b2a17efe6812b786c1680b4bb123ab826c7a0526c084"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarydivider1.json"
+hash = "af6c2a1504e12779766a0a42c7c0c8b4abae9c49a168e65eddb944341d3bfd3f"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarymultiplicator1.json"
+hash = "16251d901bfcfc7082ff9d34b2a700b455a5221ff33594e66921c1cb9937fa11"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_capacitor1.json"
+hash = "fbd1aea4a5dcaaddac2059bf0e7958abf25d381ce4585c19cb337a4f62888e22"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_fulladder1.json"
+hash = "f6b92ee9ad2a70689858f4af24dc475a62ea5f3089c26b6bc413c8e0749c8ac9"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_fullsubtractor1.json"
+hash = "c22ad912748ff158d06b71f29fb207e31ec45372a5b350c16286c3d44aeb521b"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfadder1.json"
+hash = "7aabf62a60684e1d8546e2568aff75c56201185a7f55178bfcb97ef4919cc5e1"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1.json"
+hash = "311be3feac7f4be2344232085fe45f82902e68eb01b008271bec7332a97f3dd0"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract1.json"
+hash = "f2ee84a51fc90755404bfc272b213c14afcc3353ce18cba98b8945b0df0302d2"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract2.json"
+hash = "3c291e19e7cee5920080aec381bfb8d5cf8cf4c7ff68e2d969d82833f67f3a6e"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_nandgate.json"
+hash = "c3ba9d3b8866c300bebed7dec448fa5afe13d72f2b83f664333128bb7558557c"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_norgate.json"
+hash = "cbfb8cec81d0c6eb52b3d9ce09475055eb0b8b42167d33de7cfc60934b94ccca"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_notgate.json"
+hash = "ae69d678c8dc28c2a0d91fef81808d35c39b1e5b1fa989a0097c2b6721240906"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_orgate.json"
+hash = "b777ac5b728e97af86d877d576aba5975549540ecfe5f687216699261ee148a8"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_transistor1.json"
+hash = "860987550387b99fb9bb61f23b619d03f59fa6fef38ab0b395e81d72b14fe261"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xnorgate.json"
+hash = "2e5bf7fc98136b6c41bc8d1c4806fdb9dbb59ff1516cf229afe089654b34de31"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xorgate.json"
+hash = "cf3f61e0588dafea7fa075724e53e5c1232e9e6fad973f5c45a13b195bfe3461"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.json"
+hash = "7cf46edb962aedb040b2f2d61b9e4a0f6d4af0d50f3ea6e02526eb080c813e43"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2.json"
+hash = "31313f7400b01db0f6f4f59b6e75836855c264f0ac55bfcb86c622596ffd8acb"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3.json"
+hash = "1949732e2e08fbd19add0df9838c63f1d07dabadf053b38dbfdd8f2eb4914d81"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4.json"
+hash = "297596a18de3de32d2c582d84d56cdec36cd5149b625f5c571f24be9bc39f9ca"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1.json"
+hash = "da89900dc5f23cc4edc32844336be16ad84ab536007235885d3bbb8d9f7dec31"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.json"
+hash = "5115b85373cb392ada9e0e992679453967ae2095dcdb9247dd771c91da88dad4"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.json"
+hash = "5be255d716da318e3ea7c97367f8dce07ac0306b3ad1a3cdf602472abc853457"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.json"
+hash = "c9768011fd0e3c234a21f56d9cd77332d0461b9d1a29f8bcf6498878d200a0a1"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.json"
+hash = "176b98adcae3663e966d1b311a6399435c77897199ee9e6b5a5ea19c8b671430"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.json"
+hash = "0f58503a3389a1004138914bed5e7818fa31a3e3066a818a05e40dda2a2e9eee"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.json"
+hash = "4cc1a5dc08d06b66f1ec544bfd21590ab044c705777e4c5cc52a837753fd9e38"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.json"
+hash = "08f35b6486ae2caa8f16b185a07fa3663664726e2caa04fc328de2102e234cc7"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.json"
+hash = "13baf143277f68f271d59099b06038b85de0711c32d83545b67a2eea1c04f5ae"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.json"
+hash = "770f38fb5d62e5239aa4a78ecd1ca3f8cc76a407058c50d2145aa33663902a45"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.json"
+hash = "def2737a75784cb9f5949e7e49d79f0eb2d20e344c38873a4546d16399d2a2f4"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.json"
+hash = "f4353bdfcedd539f95017eaeb4a24c293d9d390147b361dc955ebd208b7a845a"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.json"
+hash = "e82871ec1ecb1909db695debbaafc3e31e05fd598fd1a021d9dc85c05f48cda0"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.json"
+hash = "45f8d4a8c26e79441c2f8fc8be7ae1f34e83ddfc24aaef5a575655ab95a29694"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.json"
+hash = "5c6cbc42ac847c010ca74d98630b413f005f8662d391f4a57a1d15388618c708"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.json"
+hash = "6b4a25f5d403d0c793d1f7650a56116b6006bde839d9e157eced505525b0d139"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.json"
+hash = "9192440b50ab673a0873f9ec8738c533d8542cdebf4117424fa06398adae5d5d"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.json"
+hash = "24f2ad4aa7d4f7005a11e5ba163f01a6e0ff07ddac7f9a7f4fd20c1191ddc9a8"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.json"
+hash = "feff209cae045c5b9007050a1240bfd79bf62f7b2a1a34cf06c1ec24249e1ff9"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.json"
+hash = "f5d5e2eb28978af403bb648e0380b443fecc3004ec575ba0539fc89b336b30c1"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.json"
+hash = "e6fa5aac9e2b31a1826b9b9e0633c5c8d153cc556a0457810ae71b3189be9ece"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.json"
+hash = "dd6cf7ef3c484a92e9c041b2f2cf0221649b866ca29c92c00cb806488a04cc51"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.json"
+hash = "71cd60a7f4acd1eba9cfff639f7011a177e36523a62841bb173c972992c4a0e9"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.json"
+hash = "e216f7554e57117864afef904dd29fcab466156a33c6ac2e0f45061e603ff835"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.json"
+hash = "d292ea454b122dcb883ee5ead2113c1692aa32bc61cd62c35c5e7a8169b6a2b6"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.json"
+hash = "4fb1fcd9d501257a800db70a5bc5fa52aceeed64f3eb9092476b724dff2e0b5f"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.json"
+hash = "7c036be0d0a3e1c5c888565bb212798e14eb0d5ed71d0cc3b9ea6b2e0d42c2a3"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.json"
+hash = "c3948163fde94c07731c20069793c5df654e1b842c17ea17f32244f14100210c"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_d.json"
+hash = "b453ef8716b25f376329db2655c45b6ba91ad30745c21817f35fd9467c2bfe8d"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_s.json"
+hash = "a1d5afb755997f597b4fd8b2223d595997d901d72b33f232daed578421502758"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.json"
+hash = "9e77cec5e474635c981cd3853c14f17025c5d7968e3c0f6f7b7b7f68bd75de18"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.json"
+hash = "a2513557db26e90d51a8361f4b05939f4fc1e7885df0df9b3f0fd02a49c6d5ea"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.json"
+hash = "1eb00a743b1d3ed7e196da2b7ae7ab12b29cadebabd148c35d02b4dda55cf833"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.json"
+hash = "4c2e713bea6a6fe0b93b58985c70cd5856f1da7748c65a058d5b8ab83b077454"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.json"
+hash = "41095af9fb8902b1c3e4b985c65f462ece1328b770054508d0be1b037a963469"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.json"
+hash = "34c7506ad50f924ad9cd6a8c82a461435ac92eb21ee65b3cdab008c8d2e3d517"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.json"
+hash = "25d7ad28542181ab8a5b474cf89e5bb65441c4a5b671f5174e2b222d87cc061f"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.json"
+hash = "a9455ddeff1646dd5da3d2793871889cfab0e6dc478253eb7d7e8b7ff21c3265"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.json"
+hash = "9649c4ccf360a06682ddec5c4b967055f3a797ca4501d8d9e1444a3625629bd6"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.json"
+hash = "2524a22c5391a4b8638ac38cb9cfcf3a8a6c62f6328cec771a3accea15911eb8"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.json"
+hash = "9320b529e498ecdb98fa9da05be3712527c49abb295b2b4512d63ff747ef7af0"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.json"
+hash = "c991daa5e90b35f0c354a7f05c856d9fc586e5cf29da88000274f3c93d633cf3"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.json"
+hash = "506379bafc0be6f9d9d6d3045318c5fedf7b2bcb6babdb08a2943094124fd526"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.json"
+hash = "6f6ebdc90c659d38a10afe8cd3b8f5be87320694f8c42d6bf9e40052be8a69b9"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.json"
+hash = "3a65eb3d322b7613101f2abec5d0178961094067396f86d9d642f1e31b00f430"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.json"
+hash = "81ec69ce0ddf6aeaff28dce0bf2d4db95451192680fea7fffd0c3072e43477cc"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.json"
+hash = "8244820057e90d15035deb8fa2b370bae199016fabe5aa7fe911e270c974a9d2"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.json"
+hash = "e7bed7a84e3cd226ceb52a9452fd8ceefdf89226202691f9e010803d29c86cd4"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1.json"
+hash = "47a28e200453c88c82ec3c90c8d613ea970f7244deb31744689cf31fd1c35ef3"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2.json"
+hash = "a44204828010e2b41c787b6521d07f52b23fc235af83d7c744fdb45fa23eb725"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3.json"
+hash = "6b7149c5494288b8616de2133f1592b3cf8d610eec134e78ea4e9b1c6d2ca5af"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4.json"
+hash = "1d287e1a0775cb28078b5b839bdc782b4f956608aae2ed13261e524452018a71"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.json"
+hash = "6e936aeda686417a940a3e7472fe7320401e0b216e6ecb50da69017fe95e86e8"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.json"
+hash = "e536583dfc16ee471422b2bebbd1d9fb24bc14fd95a50e20e8628523f54a550c"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.json"
+hash = "222e26580f0f172537dab9854c87b1c4e0901e1f91838e4a7aea12abaa1cfb86"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.json"
+hash = "cd514f26e660e5b7dca13353f6fafda12ef2e0a47f632645cea90ecdc220027d"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.json"
+hash = "c135b42faf843226d06f4ac5419e7aea76e31a758301b5640b62ccc1052dd92a"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.json"
+hash = "e5beffbb003b9d9c580cdf7c0f71c296a5006e98a86e635083ecafd5d1134058"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.json"
+hash = "9b38b582290eb4b018cf0dcb01f9353390a5090b35cc842d07053b8d163b2fcc"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.json"
+hash = "b00f2e0cb9c1acdf0480c1027ed6aac456d4c05dd59d3b85d0b6c9aad5b97403"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_h.json"
+hash = "1fd0a3ceb50a2e5213cb304c5e574d7a48f6fd7b346ccfb832dcb9472fe3a1ef"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_v.json"
+hash = "b63f5f67e5adf29f4c1c4dd91c6b981b7689bb86fa5db3abce16518e167a0795"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_h.json"
+hash = "b8aaa7d58faf4be51a1a00674b4c2ffa8707d9a16bebf165411e786bf7eb8e9c"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_v.json"
+hash = "c93bdc33e822e3424974eeffe850e213257ae020726e00e995045936d97c0f6f"
+
+[[files]]
+file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wireunformatted.json"
+hash = "30e5782cc678045e927ac5bc3c795c962017412d8385536cd700d7e346120730"
+
+[[files]]
+file = "resources/cbt/models/item/thorassium.json"
+hash = "43cf9bd382c3309dab048756cc123fb1c53060350910c5347f8f9f6d40d5e1e1"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_1.json"
+hash = "5825247a007feddaa54ffa43dbfb50b68382e862f273defd976b1dbf36111ae2"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_2.json"
+hash = "dcac2b0f5188e598191c2c9568579d763d3123fad0a79fb2940fb09535eedd52"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_3.json"
+hash = "91b1aff7363e66b06190b0859f990c5586458b4b5128d7981bc81128da5a5623"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_4.json"
+hash = "d80684bc4ba09bb522d06b83ad7668d6a78c2b66ac87e0d0fcaf6b5142732b0c"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_5.json"
+hash = "f865885571b8657ca8da4df8d23dce576547094ace86a27693942bda52e57f10"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_dfc_compressed_fuel.json"
+hash = "ad61531de80fe2d25623413bc1abc2cd119545381d2cc3c4659bf23c94484cbc"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_quantum_blackhole_alloy_forge_controller.json"
+hash = "a7bdf33cee8b19bde0406331bc560de0ba5339b879af94b8f1214dba5d58111e"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_quantum_blackhole_alloy_forge_part1.json"
+hash = "1bd4d471afe907944ef30ff123d52f3770555de84af28b6ed0afb5de9146f096"
+
+[[files]]
+file = "resources/cbt/models/item/urephittium.json"
+hash = "f60fc116a4e747dfbe235a18a5b0eb0d6c66e30bb7d91707274bed29080bb810"
+
+[[files]]
+file = "resources/cbt/textures/items/4sa3nq-gradienttemplate.png"
+hash = "e6e22d724619697fd31e08f047f094ae2768f73f52f451e22231e101e9b390df"
+
+[[files]]
+file = "resources/cbt/textures/items/4way3way template.png"
+hash = "9db02a65e71b6924e22708974d5ba36f8c5170e2a63a29c8fa51070841c0cad9"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium.png"
+hash = "894311b4b7eed891da3c06b8fda0ce78e96b67e6f5430f09134db5b889ac1f71"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_andgate.png"
+hash = "791967120f873f277b632e641b2a0f3c8678c842d49f2816fd04363336f8c92f"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_nandgate.png"
+hash = "2372534aebd067cb6c506a7d9a46ce56b9d0ae4df68e7522d658750b5876f3c5"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_norgate.png"
+hash = "2a4bf5878a8034083cbfcba43ded24a490fd01a19fda79c058884210ce3cf294"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_notgate.png"
+hash = "f359680f192c4c26d44da9bb153565450b544fa26b55f51a870d7fc38f4fdfcb"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_orgate.png"
+hash = "e9d35b7e99ea3ee16d0a6a8c7f1d5c0b28bd395d79b348e4eea13d3cf4f6c490"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_xnorgate.png"
+hash = "956aaf75e48f1e1955d450c357a33aee1c3c2c6d9c1f5c10bbfc1c8141dffb1d"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_circuitpart_xorgate.png"
+hash = "6c96341e95e24bb28f2bc33274b9e931d8be44023a7037fca0fefe0b25e20665"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.png"
+hash = "f178774807c4d877f7e04756464a4f7387f6109b87f55a040b167ef0eed97039"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2.png"
+hash = "a5da18b30e994dbb0cfb321bac3c2721385bd61ac17c96605de004be05b3e451"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3.png"
+hash = "07a710ef1b50ccaa1bfcf8224faf0fa8ba4a077fa225e30a3b2c99c530a3694a"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4.png"
+hash = "3aece0beb410cea2c57a8b66c75582356bea5ac18b1c56214ea31a35e5f771b7"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1.png"
+hash = "44d83668fe904f6aa1c55742e06b93bc8e5832963d581e96287d9ca2ed154854"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.png"
+hash = "ecd235ae847c660dc590e85233b646ed351090514d4f0275eba856d31cd41ae5"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.png"
+hash = "959362d026f990072a1628ebb5c9155e49670a2710a4baa303a1580451af690d"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.png"
+hash = "a11d3c416217e70776198c36ca6950be337121ada3653fa96333b8d3c4461b74"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.png"
+hash = "0174fc7938109eb33542a65551ffa38f3c62420f529da050e42ccbc3fa4d4dd6"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.png"
+hash = "a3154f61f86917419dcc861bea9abf846d24d31550f88f47be0aceadb697260e"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.png"
+hash = "fa177636880e05c8b175ee0800b4538369b0ab9cb08dba580a2dfdd02dbafb65"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.png"
+hash = "3c6e21026e7096f16f61bda305f95990b686c1d68759f3886772625cbcc5e2f1"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.png"
+hash = "aa5bb5ff17af6613fb4ea9f5046e6929aa39506a01525e0c0c353582a8b4fee5"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.png"
+hash = "79af509bdff76aa42845689d8ca26ef66880e9d2991c68bd6cf465f56899185a"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.png"
+hash = "655b7de03846cbffe2fa1c31a57a82bc8cac56809da7d4af88b43ca0b0f88c25"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.png"
+hash = "cafee894a1c20c52d9d28f065519e272817cd027a65f08ab3fefb2ce736a9507"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.png"
+hash = "57f35aa1ae9dce200483203ff2d738ef3e93af1ffb41b4634d682e2687cb8d00"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.png"
+hash = "33b17fd0f681a34b06d039a135a16b52c184013f69e379bc2d40f0e95697e944"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.png"
+hash = "ffa79db5c455eb0a0da973a8226c41089dedeaa53584eb269ecf41a1f58d49d2"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.png"
+hash = "b5052cfe61863ac0dbd43cdfb11362a7aa830547bbbac22d4aa1ab565f0f922b"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.png"
+hash = "1aef82c65c683782a4940ae074dbcac0ebbd3ccd774e604208a9ab5140cc0564"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.png"
+hash = "c8630d0e0ccf00c2c2e39c4cd3cc7fba5b1dfef9592cc75ad21f261327c2b417"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.png"
+hash = "c0e983386f74ee522538adac0cbb39bdafb2fde1a032a63b3d74ab0bafa570b4"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.png"
+hash = "e8e779f8f7d4ecba8419ef4bb1a4e6fc15f76e849e8d54d4a07a6c12ce349b40"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.png"
+hash = "f6648b11b83d99db46acf7558409e44389f732c52c6130165d49a7ecd6178901"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.png"
+hash = "fff5d6d799ac6f5a875b26a97e84b26bc814b3fb64e09826f5ab6154fcbab187"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.png"
+hash = "2ce2bc2de1e80be46c152462632e74e17ffca5964413017f4bd0ef46391bcdc3"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.png"
+hash = "27d72214ee1c068abdb9a6df758fbfe57a91724346287481018995d15d4268ac"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.png"
+hash = "c89b5d2c120fedb4c1b0eaf0db701987b6adbb85373e96f47fca605650a8a33a"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.png"
+hash = "a62d81fb0f833be84ba954cf9011fb784e23bf487dc464f94bf9d925806050e6"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.png"
+hash = "606dd62ed951880aa14f1a6dbf75beeb444df487731bccb1ef7c7018a7b215b3"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.png"
+hash = "01e1c2a612d693ec0f1b47e6aba6128b239f517a3c6571d46701cf3d59097dd4"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ae_d.png"
+hash = "b3b3df80a1bc9184598c0fd73e21a745b774eb0d354a1e64805ab2251577d9a9"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ae_s.png"
+hash = "84eadf7bc9faf1f3470f76809afa45c8028f833ea6ab8fae275eebe0ab859864"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.png"
+hash = "00cc5741ad4cba19f3850dcf2e955bb1dc1aae1d9c5da6d19ffee5301f7eec58"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.png"
+hash = "b3d6acda007ae553ea6a5ff35c6981f05e51a649f7e505c98cc97694ba8eac0b"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.png"
+hash = "c0f3a89201f5088a83cc83a70e729f303ee3bc5bae8fa82fa8fa5753248d4518"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.png"
+hash = "045802d28e528006d7438420ea2c8d7867efd6eada97b09b8ccf5a2b1536a4cb"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.png"
+hash = "fa543bcdabdeb6d9e202fb6fa465f5874b3eae14d28dd45ef623e0bbae2fcd88"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.png"
+hash = "f885386e31882bdda93e3a00e59ec1971596b762aa0f6ef11ced6364ac42779c"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.png"
+hash = "2e11d50ef04922de68b922692a913058341fde4901b908f213adb5c9d653f15a"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.png"
+hash = "c0f3a89201f5088a83cc83a70e729f303ee3bc5bae8fa82fa8fa5753248d4518"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.png"
+hash = "18f135638a6ea2169c979663c691de7374f3b30179563bab4108791309ce57a4"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.png"
+hash = "03eb05ea9a4b8bc4f25e80381b6b909a646388ab8f1c8b11a1b471354c92c9c9"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.png"
+hash = "2e11d50ef04922de68b922692a913058341fde4901b908f213adb5c9d653f15a"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.png"
+hash = "5c97d21b82fcf76947f0da270dd31c6576e0b1428b78b4ec6cf662ca0f2947c3"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.png"
+hash = "045802d28e528006d7438420ea2c8d7867efd6eada97b09b8ccf5a2b1536a4cb"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.png"
+hash = "03eb05ea9a4b8bc4f25e80381b6b909a646388ab8f1c8b11a1b471354c92c9c9"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.png"
+hash = "2a7ef73df8200a240cba451754016798ed84002b7a5e1d024af4b22a83ef7f2b"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.png"
+hash = "7f66692818b77b5a4d260932aac34a66d7e6799c9984fdeb04830898dece8ef6"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.png"
+hash = "3ee877b96b2cef1797b5ba3a9a176d8ba16adcb9388c0086fcb81670a8357cde"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.png"
+hash = "e15f3be7ff3ae375137df2346eae29dec615b4bef5d61c19322545d2b1324084"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1.png"
+hash = "97cbdbc5cec2876da75490622f3fbf3448dd8aabb08071ceb52cd87331d55605"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2.png"
+hash = "1a05a536501c716d256ba3907a910e6c1a24091986dd211591c2d310333654d7"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3.png"
+hash = "ab749936766695215561a7983a0b64bc4095e6762f4733a5f5a6d9599310c7e3"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4.png"
+hash = "df24dc7f26df4135a462d2a515922e09ed80eee71521eb15ce45eda0884dfa64"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.png"
+hash = "0572c0a019426e0cb4e6f983dad1e2eb2b0fdb8b21e4bb807c6825b9bb8f3206"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.png"
+hash = "b183942209526be9771befc9e5bfa3535b5e4db8ab87492750e1bd17a50f0bdc"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.png"
+hash = "374e4bff6da4dca9b6d400f83545bf8bab79d46303ca7d7c00ac620b08005f4c"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.png"
+hash = "f662c7f8d078a9d59ff5a266e3adf717cd7b03ebc30f347b5b8373dce45344c7"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.png"
+hash = "5e5e546ed785eb35f096aeecba934abf941f82b19c0b423726c6522411f69f85"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.png"
+hash = "638f51bdb8afc2e58f3344e3566ddae20f9c3a856f31c7501b76b5b947898f87"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.png"
+hash = "0504668ab5ed6913ed57be7e02fd7e7a461743651b04fdd05f1a0455918d3e2b"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.png"
+hash = "ea6d82a07dbbbde3537f75ff85070c4b1adcaf9b5536569c62ac65697115fbdb"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_d_h.png"
+hash = "6a8d89f52780e66c7ec25203a5119570df8cc07012be21d6a95407b5a14aac64"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_d_v.png"
+hash = "2cb99889c787d334a4476ac3f1f7016eea6200351882780180f66dab983d86b4"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_s_h.png"
+hash = "e0419e37a130d2b31e7ea522c8a63405e5a4cb5ecc00031740d4611e2e18da5c"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wire_s_v.png"
+hash = "c1676001b5b483e4a5c3b4471d5717f0acc0bc36fc72e7117862eb4c660e7ee0"
+
+[[files]]
+file = "resources/cbt/textures/items/tetraschrabadic_trinaquadium_wireunformatted.png"
+hash = "08994bb8b151d2e39e370c0c523996c8894b24bf5822b25dc47aa28b5b70e57d"
+
+[[files]]
+file = "resources/cbt/textures/items/urephittium.png"
+hash = "877137b726e87834725ee62e1897514461d9b5f67ee7507aac875dc4bb549a0c"
+
+[[files]]
+file = "resources/cbt/textures/items/wiretemplate.png"
+hash = "506a4eb9b3668825d9187ad39dfe4fea5eb650971f7e7eb6e66f13fb40fb9ebf"
+
+[[files]]
 file = "resources/customloadingscreen/config/loading/custom.json"
-hash = "5d3128a0ba6032e529d291e552da720dda5be4de089a73411b3f3f601b8de60d"
+hash = "e081f94c7baa6b0739397c1eb73e1465d0ba460c8f1a48973daa27ef607010e1"
 
 [[files]]
 file = "resources/customloadingscreen/font/ascii.png"
@@ -4753,7 +4727,7 @@ hash = "fce4bdfb3883570ec29bcde15dada00cef2d9041429de32b657d8daa2d06ff83"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/banner.json"
-hash = "5e8a4c1b79744dab6cabf066ded2a047ddac25dc4fe682377101c64d62b7740b"
+hash = "76ec76e4c6b461cea7a993656ce8bad729c5e1d78b003640b7ef0f1cda952073"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/banner.png"
@@ -4761,7 +4735,7 @@ hash = "33e6b43e69416fb6363270a8644db61fcea8542eb98365129c6678f4a37e395e"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.json"
-hash = "3fd12710a1b2abbc3cd9b3531dba6fcfe7eebfe957218e1d1b7c0f0658fafe8f"
+hash = "69aec65b37eca502441d5d2de9bf8c3962589a87f97d0db333bfbaab978123fb"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.png"
@@ -4769,15 +4743,15 @@ hash = "eb4d9d543a9246e32d2b0c5fff7784add16c74a8d0aa174407ae4141420eaf85"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/loading_bar_white.json"
-hash = "30c1db8b07fa77ac8192251ce8c92a0aeaa8db5c192c2a7daa4632462afa0dd8"
+hash = "4633254704cd19d185914b32880fa392679d3c27da6ce34ec39fa4d30eee4528"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_left.json"
-hash = "f4a2245cc900c76cbe88645d909c1bdf728cee8a00849e6e53de6d56b14f0f6f"
+hash = "9ed54cb40b3863f6b7a269e60138b45c990e2bd7e19e1ebb93a30fdb8289a4f8"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_right.json"
-hash = "51ee91dea0b1fa86c54ed914124f11874ac848d2f5e6c0edb9f058eb7123602b"
+hash = "5140a2e5ec7e237cdc1eeeace4ea2d9ec9a80653a75b9fbf00a525dae5535b3d"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/mojang.png"
@@ -4785,11 +4759,11 @@ hash = "8d3e274085104ee5ec31b4eb2fac6517a058d25a4d45fb871c6143d8c9508a1c"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/mojang_logo.json"
-hash = "a266560704ce9776bb601562cbab2288ed47bde01890f7a5b12031d6ee5561ff"
+hash = "79a2849a1089d976faee7e8ea5eb9dab899886b492a7cd7c81b0238d6f85a4cd"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/percentage_text.json"
-hash = "b84a759af79d3498679923887a1d38b5edb5502d62a9a5e1ccc21ce8b38a3143"
+hash = "7816fc2d8a4e76fc210cfb277ccb084e28b91951ee221318c8cff8b0941c2a25"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_bar.png"
@@ -4797,7 +4771,7 @@ hash = "5787ff362cdba919d827b498c628f5f77eee060f31a2315e8e37a71ceecd74f1"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_base.json"
-hash = "905324c6cc2bc2981501f7f044a400906dfedd67f64fac5f59464b46740d741f"
+hash = "bc198605914b0a84edb69b192e5d3a7725bddd3dc21687c0770f9197a97a9460"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_round.png"
@@ -4805,15 +4779,15 @@ hash = "41b0978114e783385d8e15069f7a56ffc31b7868a8169e3be4f669324e322b74"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_text.json"
-hash = "6a1d7ddc666bdea38d5840efb3d67a3e9d7b9ddbc3c2285912634ec38b349e34"
+hash = "6f38d10cdb67ffff03c89a2a9f9aa6ac8670dc3750ac81cfbceb5ba08eca421f"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/progress_text_sub.json"
-hash = "792c8d968268773cd735a48b5a82b61382d24103d054ad25578f4f30551860e9"
+hash = "80791a8f6242112bfd17d6e740319d8df3afa7fb882eb010b95f7bee1a7af05b"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/ram_bar.json"
-hash = "8b06a7cfc6a7d19e38fea6ca7d8230ed90a710d1925700e6663b8cc3a9c113fe"
+hash = "4f3297ab4691f11afca27e5d123ae329a82fe67163e319e52bfe458c60321746"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/ram_bar.png"
@@ -4821,23 +4795,23 @@ hash = "3f1c834843c99641528d20a925ab572067a77394d35431355303effbe864b700"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/slideshow.json"
-hash = "6ab18762b40572dd7762edd928c21c4ccd4f90b2354237004fbd447b93971414"
+hash = "97499f6c31fc1ce58771d45e6b4eeac933ed6324a82287f6273c8b9fff1a5fbd"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/time_passed_text.json"
-hash = "2f4f8671b6a5556c0f5eac0759681f26a6d0bdb387d949311de3c9f0815cadca"
+hash = "b7ebc5ca6502a860b1d2ea0c86a94e94e767957f0e074dafcf5761663df3a93f"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/tips.json"
-hash = "2f6fd8edadbe9e02416c56565c712ac37d090e6f4ed956e3a674e0a812cb6ef4"
+hash = "46c63f9a33d864837c52276c4e400ce9b1bb869fb80774020fb873c7fc14f381"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning.json"
-hash = "3263c7ee4cf369d6172840354b327a33adab1f8702eddc084abe98c22cc5ad72"
+hash = "b62c732fdaacfc32bcd9a33a37ea1e9e2ed9670e7b20c9dc9f94eb49627fb19e"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning2.json"
-hash = "e9a889c75fb0b8ed81a4323db68df7f04f10b5709268c72efe68a10356af78c5"
+hash = "b8133203bf98fe6bca0231fc92a776c45fb7f0492c1ec9dd8bcff935c9acaa3c"
 
 [[files]]
 file = "resources/ftblib/textures/gui/background_squares.png"
@@ -4845,7 +4819,7 @@ hash = "af0848aa6019b18e058d4e26d8906c365970e2a76e9baa45c96725334e6123ec"
 
 [[files]]
 file = "resources/gregtech/lang/en_us.lang"
-hash = "cbaad90d753fb3aafc9d2ded9c2b95b636a55a8ade0422f6eda78c935f5b4ff8"
+hash = "50ee80186bf813183fbf50ba6b2dac6f5a9c2193462f2ea2e4e1d03004081217"
 
 [[files]]
 file = "resources/gregtech/textures/gui/terminal/frame_side_down.png"
@@ -4873,7 +4847,7 @@ hash = "7a4538acd4d4bac14f20176b3a213ff431b9106701daf96967f201a90fa80439"
 
 [[files]]
 file = "resources/minecraft/lang/en_us.lang"
-hash = "d952c471191397a7e61e5cf740c7b0e126ded4ebfd5972b4cc9802aaa33f151a"
+hash = "6682eae90cd1305101327379fa36cd22f070b6f49544c1edcb6708621f478dd2"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu1.ogg"
