@@ -38,5 +38,5 @@ uhv_circuit_4bit_sensor_circuit.register()
 def uhv_circuit_4bit_sensor_io = content.createItem('uhv_circuit_4bit_sensor_io')
 uhv_circuit_4bit_sensor_io.register()
 
-def uhv_circuit_4bit_sensor_chip = content.createItem('uhv_circuit_4bit_sensor_io')
+def uhv_circuit_4bit_sensor_chip = content.createItem('uhv_circuit_4bit_sensor_chip')
 uhv_circuit_4bit_sensor_chip.register()

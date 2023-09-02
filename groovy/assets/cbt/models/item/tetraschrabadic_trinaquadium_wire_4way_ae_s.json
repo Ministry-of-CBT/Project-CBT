@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cbt:items/tetraschrabadic_trinaquadium_wire_4way_ae_s"
+  }
+}
