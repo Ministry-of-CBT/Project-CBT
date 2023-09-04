@@ -1,0 +1,13 @@
+name = "Minestuck"
+filename = "Minestuck-1.12.2-1.4.302_side_b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04dd132efc7dfd6a93964302a239b9ee20268d00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3875813
+project-id = 224635

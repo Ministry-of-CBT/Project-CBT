@@ -3150,6 +3150,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/minestuck.pw.toml"
+hash = "e289e5ef7a4badab63471a1e0c952d83e391db62c783852db90af5aec5f8ad5f"
+metafile = true
+
+[[files]]
 file = "mods/mixin-0-7-0-8-compatibility.pw.toml"
 hash = "f39c64e5bbdc2ec6a12936cbdd4a2821d891d591402de376acb21fcde158a548"
 metafile = true
