@@ -1166,7 +1166,7 @@ cover.filter.blacklist.disabled=Whitelist
 cover.filter.blacklist.enabled=Blacklist
 
 cover.ore_dictionary_filter.title=Ore Dictionary Filter
-cover.ore_dictionary_filter.info=§bAccepts complex expressions/n§6a & b§r = AND/n§6a | b§r = OR/n§6a ^ b§r = XOR/n§6! abc§r = NOT/n§6( abc )§r for grouping/n§6*§r for wildcard (i.e. 0 or more characters)/n§6?§r for any 1 character/n§6()§r for matching empty entry (including items with no ore dictionary)/n§6$c§r at the start of expression for case-sensitive match/n§bExample:/n§6dust*Gold | (plate* & !*Double*)/nWill match all gold dusts of all sizes or all plates, but not double plates
+cover.ore_dictionary_filter.info=§bAccepts complex expressions/n§6a & b§r=AND/n§6a | b§r=OR/n§6a ^ b§r=XOR/n§6! abc§r=NOT/n§6( abc )§r for grouping/n§6*§r for wildcard (i.e. 0 or more characters)/n§6?§r for any 1 character/n§6()§r for matching empty entry (including items with no ore dictionary)/n§6$c§r at the start of expression for case-sensitive match/n§bExample:/n§6dust*Gold | (plate* & !*Double*)/nWill match all gold dusts of all sizes or all plates, but not double plates
 cover.ore_dictionary_filter.test_slot.info=Insert a item to test if it matches the filter expression
 cover.ore_dictionary_filter.test_slot.matches=§a* %s
 cover.ore_dictionary_filter.test_slot.matches_not=§c* %s
@@ -2181,6 +2181,23 @@ item.gregtech.material.platinum_sludge_residue.dust=Platinum Sludge Residue
 item.gregtech.material.iridium_metal_residue.dustTiny=Tiny Pile of Iridium Metal Residue
 item.gregtech.material.iridium_metal_residue.dustSmall=Small Pile of Iridium Metal Residue
 item.gregtech.material.iridium_metal_residue.dust=Iridium Metal Residue
+
+material.crystal_meth=Crystal Meth
+material.meth=Methamphetamine
+material.hydrogen_cyanide=Hydrogen Cyanide
+material.sodium_cyanide=Sodium Cyanide
+material.benzyl_chloride=Benzyl Chloride
+material.benzyl_cyanide=Benzyl Cyanide
+material.phenylacetic_acid=Phenylacetic Acid
+material.phenylacetone=Phenylacetone
+material.acetic_anhydride=Acetic Anhydride
+material.sodium_acetate=Sodium Acetate
+material.methylamine=Methylamine
+material.chloroacetone=Chloroacetone
+material.sodium_metasilicate=Sodium Metasilicate
+material.aluminium_chloride=Anhydrous Aluminium Chloride
+material.aluminium_chloride_hydrate=Aluminium Chloride Hexahydrate
+material.sodium_borohydride=Sodium Borohydride
 
 recipemap.ore_washer.name=Ore Washer
 recipemap.thermal_centrifuge.name=Thermal Centrifuge
@@ -3802,13 +3819,13 @@ gregtech.machine.circuit_assembler.opv.tooltip=Computation Factory
 
 # Mass Fabricator
 gregtech.machine.mass_fabricator.lv.name=Basic Mass Fabricator
-gregtech.machine.mass_fabricator.lv.tooltip=UUM = Matter * Fabrication Squared
+gregtech.machine.mass_fabricator.lv.tooltip=UUM=Matter * Fabrication Squared
 gregtech.machine.mass_fabricator.mv.name=Advanced Mass Fabricator
-gregtech.machine.mass_fabricator.mv.tooltip=UUM = Matter * Fabrication Squared
+gregtech.machine.mass_fabricator.mv.tooltip=UUM=Matter * Fabrication Squared
 gregtech.machine.mass_fabricator.hv.name=Advanced Mass Fabricator II
-gregtech.machine.mass_fabricator.hv.tooltip=UUM = Matter * Fabrication Squared
+gregtech.machine.mass_fabricator.hv.tooltip=UUM=Matter * Fabrication Squared
 gregtech.machine.mass_fabricator.ev.name=Advanced Mass Fabricator III
-gregtech.machine.mass_fabricator.ev.tooltip=UUM = Matter * Fabrication Squared
+gregtech.machine.mass_fabricator.ev.tooltip=UUM=Matter * Fabrication Squared
 gregtech.machine.mass_fabricator.iv.name=Elite Mass Fabricator
 gregtech.machine.mass_fabricator.iv.tooltip=Genesis Factory
 gregtech.machine.mass_fabricator.luv.name=Elite Mass Fabricator II

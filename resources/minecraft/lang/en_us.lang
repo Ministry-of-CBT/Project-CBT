@@ -3297,16 +3297,16 @@ subtitles.item.totem.use=Totem activates
 subtitles.weather.rain=Please Shut Up! Subtitles!
 
 debug.prefix=[Cock and Ball Torture]:
-debug.reload_chunks.help=F3 + A = Reload the simulation
-debug.show_hitboxes.help=F3 + B = Show the matrix
-debug.clear_chat.help=F3 + D = Clear chat
-debug.cycle_renderdistance.help=F3 + F = Cycle render distance (Shift to invert)
-debug.chunk_boundaries.help=F3 + G = Show Personal Boundaries
-debug.advanced_tooltips.help=F3 + H = Advanced Gregging
-debug.creative_spectator.help=F3 + N = Cycle BULLSHIT!!! <-> FBI MODE
-debug.pause_focus.help=F3 + P = Pause on lost focus
-debug.help.help=F3 + Q = Show this masterpiece
-debug.reload_resourcepacks.help=F3 + T = Reload ClientSide CBT
+debug.reload_chunks.help=F3 + A=Reload the simulation
+debug.show_hitboxes.help=F3 + B=Show the matrix
+debug.clear_chat.help=F3 + D=Clear chat
+debug.cycle_renderdistance.help=F3 + F=Cycle render distance (Shift to invert)
+debug.chunk_boundaries.help=F3 + G=Show Personal Boundaries
+debug.advanced_tooltips.help=F3 + H=Advanced Gregging
+debug.creative_spectator.help=F3 + N=Cycle BULLSHIT!!! <-> FBI MODE
+debug.pause_focus.help=F3 + P=Pause on lost focus
+debug.help.help=F3 + Q=Show this masterpiece
+debug.reload_resourcepacks.help=F3 + T=Reload ClientSide CBT
 
 debug.reload_chunks.message=Reloading simulation!
 debug.show_hitboxes.on=Hitboxes: shown

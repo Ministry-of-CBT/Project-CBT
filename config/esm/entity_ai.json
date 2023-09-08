@@ -23,7 +23,7 @@
     ],
     "Pillaring": false,
     "Pillar Block": "minecraft:cobblestone:0",
-    "Digging": false,
+    "Digging": true,
     "Digging Blacklist": [],
     "Invert Blacklist": false,
     "Requires Tools": true,
