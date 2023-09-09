@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cbt:items/uhv_circuit_8bit_support_layer_module"
+  }
+}
