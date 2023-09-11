@@ -17,16 +17,8 @@ file = "CONTRIBUTING.md"
 hash = "364adb650ddd90b6650fd3a624591466cc29b753e0962087fe0cd1243bffc4d3"
 
 [[files]]
-file = "Jenny-Mod-Forge-1.12.2-v1.9.0.jar"
-hash = "ee9fcb4977064a6ebfadb81b1e33e806c96c6256e7f49a474f91d974ec12a709"
-
-[[files]]
 file = "LICENSE.MD"
 hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
-
-[[files]]
-file = "ProjectCBT_FORKED_More-Planets-1.12.2-2.3.2-GC4.0.5.jar"
-hash = "2ae175e217f9c94d87d9df0d1b8f834c0ecf45ad5c0f5e190f2b695596ea5270"
 
 [[files]]
 file = "README.md"
@@ -82,7 +74,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "72ae699c1a6f38fd9887e4e245bea5c57552630034556a16fe1b97ff7677f6f8"
+hash = "dfdcec3e322c766667df97081772d85489a3230f24b247c2bbdf02dc52eead68"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
@@ -214,7 +206,7 @@ hash = "af7e55870e5428b64c4bb9759567fd30fd3b0c0c0ec2cc41848c0f941fb7b697"
 
 [[files]]
 file = "config/LaunchGui.cfg"
-hash = "361830206de528d21850eeede70ca8a48be5362111f21019df1db0e003ebcd68"
+hash = "a1884350ebd65c39ba6869643afd829356086d7f1a4560266e8263364a48a0f7"
 
 [[files]]
 file = "config/MorePlanetsExtras.cfg"
@@ -3482,7 +3474,7 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "ac565151437306d7552177e787795fbf0b95d6dd843316f02d414a7567691153"
+hash = "4e064bacfe215a5c6e2d32255d33618a065bdbec7963c38b354a6969b80d50cc"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
@@ -3526,7 +3518,7 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "b21abb525cb4938bf8305d528c37ac4149e2b16ee8a124995914ec19fe93b616"
+hash = "2b32a3d6479bf54d6a18692d8396427d0785dc6356bb9a13664d54794642d0b1"
 
 [[files]]
 file = "config/fancymenu/customguis/PackSettings.txt"
@@ -3534,7 +3526,11 @@ hash = "e538bb1a08b13df8326fc416df5dfd7be9378c3a94227d5e1a9a6163fc8f5353"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "61244948eeab4bb37899e50bd857fd2f1155b48d2c933237670ce867c7a76eeb"
+hash = "8d9f399c77fdf23e5c6d4ba56d4ec02ea03be95f4278d21d8dedc287bdbda66e"
+
+[[files]]
+file = "config/fancymenu/customization/.disabled/removedifficulty.txt"
+hash = "81fc65342f65f3d79544d3ebef36a51398542fb28a91bcd6db0c2ad5cc6cbcc3"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/universalbackground_1_1.txt"
@@ -5070,7 +5066,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "a1873e57883fb8f22ddb85da8e4eae29c65d36759cd07d22258e878249a2a501"
+hash = "7749e7990e88d0e73b1a72c96f4648c1f3445f6ee046c2d82013e0b1b88f5529"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -5145,8 +5141,36 @@ file = "config/multiblocked/assets/multiblocked/textures/dfc_sex_multiblock/gui/
 hash = "950a7325de788c2abd21202ad7c1edda1f40d61369ea3af55239bce70c35841c"
 
 [[files]]
+file = "config/multiblocked/assets/multiblocked/textures/ulv_circuit_multiblock/deco_steel_part.png"
+hash = "8ba28022176fb115ca232070795a7729c7a2900bcfb071e6b618d1aaabf73ced"
+
+[[files]]
+file = "config/multiblocked/assets/multiblocked/textures/ulv_circuit_multiblock/gui/gui1.png"
+hash = "abd7d895d2646f132f6483631cd0e58b54041f2a3b986c2c054d0672ab05af0d"
+
+[[files]]
 file = "config/multiblocked/definition/controller/cbt_dfc_sex_multiblock.json"
-hash = "c23a921a00df024b29581f6341429523f1e2812df17760f29727ab1b5ef0fb1c"
+hash = "9c6f00f3ea4241f13a63fabc9b6880b0872eb79eccbc24a252d061736100d368"
+
+[[files]]
+file = "config/multiblocked/definition/controller/cbt_ulv_station_mb_1.json"
+hash = "70a10dd50abe8cb3a2ab759ae4abb01565eca5974020b35a71363ab90871e289"
+
+[[files]]
+file = "config/multiblocked/definition/part/cbt_dfc_sex_multiblock_energy_provider.json"
+hash = "525f9d88866dca8d2491ec13029e41f638d6dd458d61f5c29a8c1f1c799abefc"
+
+[[files]]
+file = "config/multiblocked/definition/part/cbt_dfc_sex_multiblock_fluid_provider.json"
+hash = "eaf46c9ff90c1ca9256e8176cff145efadf1600d6beefa8766a89f23a05d1c4f"
+
+[[files]]
+file = "config/multiblocked/definition/part/cbt_dfc_sex_multiblock_item_provider.json"
+hash = "12acd399ea93df843f7a4394a0b7159ad9d9c31e46a16753714940f402fd8899"
+
+[[files]]
+file = "config/multiblocked/definition/part/cbt_ulv_circuit_multiblock_ep.json"
+hash = "5e06a0fd378a16d06eac21ab3e00281361d061a3f982d2dcc99cb63d514c6ebc"
 
 [[files]]
 file = "config/multiblocked/recipe_map/UHV.json"
@@ -5226,7 +5250,7 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "e0e817653ca0e76a4d9dfd1c052f71e740994aace57b6d9d5e09494fa9acacb6"
+hash = "6ac57a4edcc3958454f0fb3ea958630713b2f6434377a2cd96b11c8ddfa29cda"
 
 [[files]]
 file = "config/splashanimation.cfg"
@@ -5455,6 +5479,154 @@ hash = "16c0f3f2ee910feea2a8b406490bb0e2902af0c8ab7fd8f6bfa864ed9e4d090d"
 [[files]]
 file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_part1.json"
 hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_1bit_storage_circuit.json"
+hash = "b5266429de9790d08aa08b6dff54bdc0d87dfd5abe20771c172b110b6d82896b"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_8bit_binary_extender.json"
+hash = "9080fdee1fde366b97feee109c48af4c66737dc6d58a752485ecd7155d822562"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "446c80d639800b3cfd9146b69f164e11f1136ca74b7c9a9f6c5a151147577d51"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "bed44a01e5c637a648117f7358cb5f5b48f38e8b7df5f70b24fbd351979f4814"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_8bit_quackity_module.json"
+hash = "667f43f3e368181b16e2b4a0659d628f76f05ab521684ac561eff07ce52c2008"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "94c18a7ee5e925b9a0e412cb7ff95fa4fc8b3ea2c52e61113fba91282a0f5ebc"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_8bit_translation_module.json"
+hash = "65f6e1d5bd8141b6b4de29820686b8c534ddde641c4da0ba2d0e98396ad3d5d8"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_accelerator_configuration_chip.json"
+hash = "a4edd2af3a7d17912115c1f4245c15634f6b24ee0e8963914ff3e1a744fe33bf"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_circuit_timings.json"
+hash = "baf301e82cd635e29306ef0f509f9409122b15d5106f1445f9bafd2249add8f6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_computer.json"
+hash = "834d36991e1f314d34546b8990d7cdad955f10c06c811d2ebc70854f243c60a2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_controller_chip_operations_center.json"
+hash = "d35aedbf8ffdd4ccc2d4d7216845323636687feec57a0e707f4d04cfe694e2e7"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_cpu.json"
+hash = "0a14db9e1a7a34aaa1f7d50cee2512842273f4a62673a300ebb0792ed9d934a2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "f7ddf3790140a80c9354bddede15af68b8e2d6aa901a65958aea6dd93876500f"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_gpu.json"
+hash = "93ed4fac04b76832c88f8f984791cd816d2726b82aa5e5eefed0ab6ba14d8513"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "87152d5ecf21de984f6ba59b50e873203ae5e02f5ddcc2a5a4a2e1bacdc9d782"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_megacruncher.json"
+hash = "166a4c3dd120f880ba92c4eaff4fda87a2f756468cfd9bff062e975c93732039"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_memory_bus.json"
+hash = "0278bce8dd0233b681a95c4e4b298993886f977498a08f962428dacf84536a05"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_memory_component.json"
+hash = "63b3a8f8fbd2435ad2ded23a89bf5e912902faf3b18821fba13930473f6ceac0"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_operator_design_1.json"
+hash = "d50cf3a7781d4fb263e7f0df2f8f65e277e8686694485dedb29560e283ff2b76"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_operator_design_2.json"
+hash = "eed3f1e3de392a43f119dfe7bd9712f6af8232f2f5ab51c91af86b6fac24530e"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_operator_design_3.json"
+hash = "b058bda6f8badec8f4d9bdc4f95af7115f0dcaa4d41e86338f6e52e8d80e0736"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_operator_design_4.json"
+hash = "9d1fe25b8bfd1d810a31eeb33b7f68c94ab81fb3343c9e10815b9b140c466e96"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_operator_design_5.json"
+hash = "cf31b99286f4f221f683c7e86ea0e78ca21de48f16a9d4168a2a0dded82cfa8a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "d4eb4b91a397579ce1cc95fcd22b0214ef8ac5b79f7f95986b9b5bbf60c766e1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "767fda211fce91927c09aa2a927be1d17c8ca51f9525cd6521316d53349cd670"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_refined_circuit_timings.json"
+hash = "5392304bf4943c5a02d109574ac4112271922cf80a7998797ba42d86ffb55db6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_refined_cpu.json"
+hash = "a1499f359b7759d335036b8dcf4ff49dbeb7bd9cf8da023921901cb16720ec5d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_sensor_chip.json"
+hash = "fab56730e17e4cf101a88f4ebf93db76f713aff33fe56792d7063a1b510f9f3a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_sensor_circuit.json"
+hash = "cb2db20168799b481175d9aef49b646b9861151049c00fc712c4b24003df6ab0"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_sensor_io.json"
+hash = "fe18a98400ceae2a9a6be32b822502fc148766cd8ee08516cf035d9d4d8a8346"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_storage_circuit.json"
+hash = "37d7d0469004ada1a68f593387f3548930e78413cfe05555b20b43737a59056e"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_4bit_ultraspeedifier.json"
+hash = "92410488d98e95d55c60eaf9e02453596ca17b1b3f232d04d8f60f541c752bfc"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_8bit_support_layer_module.json"
+hash = "fa880039a0c4eee3f3ddf0d830fe2189fb604586e7f71642101d25b20ea46198"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_ddssc4_circuit_timings.json"
+hash = "746c2c342afc71e224a500c9abe24addf000beb2830ff7c2ff27cc60f41180ff"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_extended_4bit_sensor_chip.json"
+hash = "f5f6b311e8735e7b2fac4a8e53670d2505c6719264af59cb45b426dd495bae6a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_hub_4bit.json"
+hash = "3b39581bb97ddbe5b55b2388037604debe0496aa9fa6ea898a800d5ba51d4dca"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/lv_circuit_super4bit_parax.json"
+hash = "e691158087119a0a1fb2f8db7b78bfd5167f0dd86b207f8d143fb642c386af24"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
@@ -5973,16 +6145,12 @@ file = "groovy/assets/cbt/models/item/urephittium.json"
 hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
 [[files]]
-file = "groovy/classes/import.groovy"
-hash = "9a13314a84039092cd222103c1b96cef713df77d52674051009f8c5c9d78c92c"
-
-[[files]]
 file = "groovy/postInit/main.groovy"
 hash = "70d4c2ed9044c2827ed42272ac5f651874e0595244f7437288fd04aac16a4130"
 
 [[files]]
-file = "groovy/preInit/Circuit/uhvcircuits.groovy"
-hash = "76ba0c244a4276d3f4f209e41d00a5caff8bf7094b5baa2450439b24320fd47b"
+file = "groovy/preInit/Food/meth.groovy"
+hash = "8a3d710e75dd0643a85dc15eca3b8c3bbd5984556ac392db24632d7e67f37bf8"
 
 [[files]]
 file = "groovy/preInit/Machines/blackholeforgery.groovy"
@@ -6011,6 +6179,10 @@ hash = "c513374cfd6b3d05d7f690f351ffd3acb569447234e559d0178ff8ff1381a0a0"
 [[files]]
 file = "groovy/preInit/UHV/urephittiumoretip.groovy"
 hash = "039bf24b6f945a771c4ed657afcaf3b350bf9f30a8359302c2cb7f17f9fe7490"
+
+[[files]]
+file = "groovy/preInit/ULV/ulvcircuits.groovy"
+hash = "5e65f95c971396ae402d07f2f5a5410941bdbf288e0301c4755eb76d1425a111"
 
 [[files]]
 file = "groovy/runConfig.json"
@@ -6049,496 +6221,12 @@ file = "logs/latest.log"
 hash = "dc3590c05b337c70fc678eac5a7bca4f597b4f6461b8ef35586cae1f1956c386"
 
 [[files]]
-file = "mods/.index/advanced-backups.pw.toml"
-hash = "0fc70e4eac5da27222d87eb4d5927f991c900e8245c80cf81f441f74ee6981cf"
-metafile = true
+file = "mods/Jenny-Mod-Forge-1.12.2-v1.9.0.jar"
+hash = "ee9fcb4977064a6ebfadb81b1e33e806c96c6256e7f49a474f91d974ec12a709"
 
 [[files]]
-file = "mods/.index/advancement-plaques.pw.toml"
-hash = "daa1da34f1eb859321542ecd54f3e2c7a2d247102277ce5610664fc7f4a1c743"
-metafile = true
-
-[[files]]
-file = "mods/.index/ae2-extended-life.pw.toml"
-hash = "05c3c94a3c7200969e29e196bf586efc9c37992439d27ac248fcccb0b4004362"
-metafile = true
-
-[[files]]
-file = "mods/.index/ambience-extras.pw.toml"
-hash = "999070024473c2a1cec566bdeafad376599d3a739176cb5a4871c5212b9c2b26"
-metafile = true
-
-[[files]]
-file = "mods/.index/asmodeuscore.pw.toml"
-hash = "c4e005215f5b4c79b7eda446331db6b0c3b47812bd0f67d27006b907f19482e8"
-metafile = true
-
-[[files]]
-file = "mods/.index/atomicstrykers-battle-towers.pw.toml"
-hash = "f51d6878fab627a8b8641defe2362d6d1412083f951a96f6fdab08d27f774c83"
-metafile = true
-
-[[files]]
-file = "mods/.index/attributefix.pw.toml"
-hash = "1eaf1f193bc0a09d7a3cc40e60362d41af3878793e9d2caea6fb305f6c696797"
-metafile = true
-
-[[files]]
-file = "mods/.index/autoreglib.pw.toml"
-hash = "42b45e54c430fe0669d90c19942736a337c585ae7723c0e213358f90927261be"
-metafile = true
-
-[[files]]
-file = "mods/.index/avaritia-1-10.pw.toml"
-hash = "b80d9b98c88e8d837f6b059487f401272115ce97db053b68a5209cb77236959c"
-metafile = true
-
-[[files]]
-file = "mods/.index/avaritia-recipe-generator.pw.toml"
-hash = "6b620001c89c8ccb65996f602dfac0df20c7e86e96737edebd00e139f960e128"
-metafile = true
-
-[[files]]
-file = "mods/.index/baubles.pw.toml"
-hash = "9071784340e688e06d41ab3bb5b00fc8c6dafcc14da054a3c659f62b09dc264d"
-metafile = true
-
-[[files]]
-file = "mods/.index/better-advancements.pw.toml"
-hash = "e0479b994f5b41b8d4e8b4b413863aeafeb8a66262ff6e734283b3727111d2d7"
-metafile = true
-
-[[files]]
-file = "mods/.index/better-loading-screen.pw.toml"
-hash = "562145633fc1e69e516d0f6d314645d28c19c892d899772b3d068ebe0ce6420e"
-metafile = true
-
-[[files]]
-file = "mods/.index/bnbgaminglib.pw.toml"
-hash = "16e6f62d531d8d242a8df03af0c3d0afcb587a7a2464076028de4a92058150ed"
-metafile = true
-
-[[files]]
-file = "mods/.index/carry-on.pw.toml"
-hash = "793566af7bea7447aaeba3db455d75392a2eb6f7135a4b5fe77601754c8db12f"
-metafile = true
-
-[[files]]
-file = "mods/.index/chameleon.pw.toml"
-hash = "f31c6192ca13af90e283ad99b07dd0a0ae8096a68fef584745ef6bd82333b110"
-metafile = true
-
-[[files]]
-file = "mods/.index/clumps.pw.toml"
-hash = "0dcbdf3081087c143350b1af02f0b888b72127b4ddd3eed0f710a990ea1290cb"
-metafile = true
-
-[[files]]
-file = "mods/.index/codechicken-lib-1-8.pw.toml"
-hash = "78acf6b485ef8f2e3266bfed3165ba0ab0c6acd0e726f3d36a23214900a41ac4"
-metafile = true
-
-[[files]]
-file = "mods/.index/collective.pw.toml"
-hash = "566888a8e9224b891fd6dfd57fb0238db952d631896c5fca4a2fb438eedd9327"
-metafile = true
-
-[[files]]
-file = "mods/.index/config-checker.pw.toml"
-hash = "18050bbfdbae5e730c958f07639555e049506b59cbf8377d0fbf1234401a105d"
-metafile = true
-
-[[files]]
-file = "mods/.index/coroutil.pw.toml"
-hash = "94138c8e4098bd94cf90f59ed790bfe9eb95416a1d67f974771b36a5cefa88aa"
-metafile = true
-
-[[files]]
-file = "mods/.index/cosmetic-armor-reworked.pw.toml"
-hash = "1db7b22deafa71f70e09e2815876f049edae9f6bd5fb78813aaa6d29bad9a1da"
-metafile = true
-
-[[files]]
-file = "mods/.index/crafttweaker.pw.toml"
-hash = "e67d0ad37ad2e14080151ca6beb3bd3a0dda60f981cef71b9738d77a69d4f760"
-metafile = true
-
-[[files]]
-file = "mods/.index/custom-fov.pw.toml"
-hash = "ddc6163239a5ff038d35a4b0738ccb3b07df3e269b92677f554c457f76acc859"
-metafile = true
-
-[[files]]
-file = "mods/.index/custom-window-title.pw.toml"
-hash = "ac0d4fed293f11ee2b7454d25abc39b43cfdf88a86f0ae818bc02b44a2ae553d"
-metafile = true
-
-[[files]]
-file = "mods/.index/enchantment-descriptions.pw.toml"
-hash = "e6e1607500aeba34d7253428f5eab9dd120676ba3575230fb1e06afa790dcc05"
-metafile = true
-
-[[files]]
-file = "mods/.index/epic-siege-mod.pw.toml"
-hash = "76dab22e56d2e0a289b6c56774cd3af2f0a8f9260389c44c2320ae3401b737b3"
-metafile = true
-
-[[files]]
-file = "mods/.index/ex-nihilo-creatio.pw.toml"
-hash = "76d6bebab344cb15a3f018cf8f12643e34c039678e1611a900e376ac47c8313e"
-metafile = true
-
-[[files]]
-file = "mods/.index/extraplanets.pw.toml"
-hash = "04ecb0b5b2d1675ff0c6ca342ba4a2e6e94c0f9c8c4399f1eb55ae295caf1fae"
-metafile = true
-
-[[files]]
-file = "mods/.index/fancymenu-forge.pw.toml"
-hash = "8e64f0b0721d0bd62c8aa703312cd34fd2cc2f22e7eec41f83195f7e28065e14"
-metafile = true
-
-[[files]]
-file = "mods/.index/fastfurnace.pw.toml"
-hash = "3cfe11000d4b9f39fca2950089c3076dfe695bf9ff0deaff235e1f54350a131a"
-metafile = true
-
-[[files]]
-file = "mods/.index/fastworkbench.pw.toml"
-hash = "7d7aeac70046d50c996f0d888624d7f8843289c78597182b37de8f1e8ebfa8ab"
-metafile = true
-
-[[files]]
-file = "mods/.index/first-join-message.pw.toml"
-hash = "ad98c4eaddcc771f4ee67d0a35d9e9041534635648b8a9e141dff13e02cafd53"
-metafile = true
-
-[[files]]
-file = "mods/.index/ftb-library-legacy-forge.pw.toml"
-hash = "fc86051955546afa8607c29d1e9d00cf58b90a14681f20e6cd066ee81c02c35e"
-metafile = true
-
-[[files]]
-file = "mods/.index/ftb-quests-forge.pw.toml"
-hash = "5e9759de1f77a4b026d28c73f6ec679ff4a4716bfcc652b64532c4320a9c2dab"
-metafile = true
-
-[[files]]
-file = "mods/.index/galacticraft-legacy.pw.toml"
-hash = "59e608aee5b92793d5eea1c7c4b97349442737275563ca7b60fb34c6e3fddd81"
-metafile = true
-
-[[files]]
-file = "mods/.index/galaxy-space-addon-for-galacticraft.pw.toml"
-hash = "3475299f223112dd40cd204d695b0301fadb191a1cb7e235d798c308af1af097"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregicality-multiblocks.pw.toml"
-hash = "8ecdfa806e3dcbd3f5483a7f95c37b0ed2ccfdcf23acd366710970480e0fc55a"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregtech-ce-unofficial.pw.toml"
-hash = "cdeb4590791bfdc64d72c821cd7656c0b9003ce265f6bc74899072a5bf15d278"
-metafile = true
-
-[[files]]
-file = "mods/.index/gregtech-food-option.pw.toml"
-hash = "8c70c18671804b054c2eeba21845e5d1ae33c1e2e43a84aa5716d5b8a4257dd4"
-metafile = true
-
-[[files]]
-file = "mods/.index/groovyscript.pw.toml"
-hash = "675163c7840c5cfc3c1f4dea4b051d714f9a6978632045735541f4c4bf0312c2"
-metafile = true
-
-[[files]]
-file = "mods/.index/had-enough-items.pw.toml"
-hash = "1a413b6ba78ee34706e7e55fc918912a3304df6cb4598fdb49c9a5a99acfc102"
-metafile = true
-
-[[files]]
-file = "mods/.index/hardcore-darkness.pw.toml"
-hash = "697cabfd9f1045d640a89c4226d37c8c81fdfd85b7151b29e70735cdb78feab6"
-metafile = true
-
-[[files]]
-file = "mods/.index/hardcore-revival.pw.toml"
-hash = "821a5f99c62700c9cc6312e88c5575638c01ce9ba28cb518cd592abf36f1f4b6"
-metafile = true
-
-[[files]]
-file = "mods/.index/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "296ac5b703ca13a0b038bbfccc309636885b953b680ad35b630c577502de0545"
-metafile = true
-
-[[files]]
-file = "mods/.index/hostile-worlds-invasions.pw.toml"
-hash = "9d0888ad8fee7fdb4d3cf85fc49311d1da90195fd8fe204cb908118e7128d58e"
-metafile = true
-
-[[files]]
-file = "mods/.index/hwyla.pw.toml"
-hash = "4e6374a21b2d7287b6d6dcb183f5d6a4ec7a2668a6b03799b6703ba1ed3d07b7"
-metafile = true
-
-[[files]]
-file = "mods/.index/inventory-pets.pw.toml"
-hash = "2717993a388bc53d4b954ad82bb9499ae4d09d1ba3d8ed0c692a01ab99f34623"
-metafile = true
-
-[[files]]
-file = "mods/.index/item-filters.pw.toml"
-hash = "5850e364f24729376ebacdb54d8494d93342c3d0e8c0032450e72774ff6ced6a"
-metafile = true
-
-[[files]]
-file = "mods/.index/jeid.pw.toml"
-hash = "ac10104ed5a85ec02139d8c066519d75b6f00bed099a5672c1ced66721e16787"
-metafile = true
-
-[[files]]
-file = "mods/.index/konkrete.pw.toml"
-hash = "a9b4019b5e918fe9b4555cd380d09ab32b9f1fa75d2c3bc0c275edd6e7108757"
-metafile = true
-
-[[files]]
-file = "mods/.index/legendary-tooltips.pw.toml"
-hash = "e5039a56e99de978d001662205468e68fa6827e49715b9fc2d0794a3dee2a7f2"
-metafile = true
-
-[[files]]
-file = "mods/.index/let-me-despawn.pw.toml"
-hash = "7c366245edecb6110765dd4d07a09bc2291b83ffab74d8a368f6dc53b14036e4"
-metafile = true
-
-[[files]]
-file = "mods/.index/load-my-resources-forge.pw.toml"
-hash = "f523ac251ab1fac791b6744a157af15ad9dfbcb07bd7dfe0736d4c5152ed7142"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-profiler.pw.toml"
-hash = "ba6eb14538afcf78297b9f0a738ea7313c12de80f6a2fa1ac6115aa609f4ca1e"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-progress-bar.pw.toml"
-hash = "63d49210c3674b3526af5bb1212d2ed4dcf1a53e207e430488835e2650e4d687"
-metafile = true
-
-[[files]]
-file = "mods/.index/loading-screens.pw.toml"
-hash = "d19fe7e50c45d2a1c9b335995bfe00e6f47d5cd0bc0e9d46058a4a97d5ab2df5"
-metafile = true
-
-[[files]]
-file = "mods/.index/mantle.pw.toml"
-hash = "7f0e07d0f819d6aa795110131434fc0e92b9cf90735526f9b28fdb402862c4b5"
-metafile = true
-
-[[files]]
-file = "mods/.index/mixin-0-7-0-8-compatibility.pw.toml"
-hash = "9b71866fee13f628c68d4dff24ff1d97e79b75a1650d81883b41c9cc78276ca9"
-metafile = true
-
-[[files]]
-file = "mods/.index/mixin-booter.pw.toml"
-hash = "15b296983532603d981ef277da531a3a95277f24f00ddd6b4f216b150612c3eb"
-metafile = true
-
-[[files]]
-file = "mods/.index/mjrlegendslib.pw.toml"
-hash = "90e7034b13d5fd4af91f158c30a214c800e883057e990db5244376cfe4dde384"
-metafile = true
-
-[[files]]
-file = "mods/.index/more-player-models.pw.toml"
-hash = "31cc31a7e93ed797386783146c9689ccecba932e13193b3ed62559b91f12d04a"
-metafile = true
-
-[[files]]
-file = "mods/.index/more-sound-config.pw.toml"
-hash = "dc8b63f367d1736335d1f55b3e9afca0a00f78f0736303fa51ce52daa16124ef"
-metafile = true
-
-[[files]]
-file = "mods/.index/nuclear-option.pw.toml"
-hash = "36b14ec9c5967cf7faa311c698af84033a6e10ead6c25f9386a968e9daf9aadc"
-metafile = true
-
-[[files]]
-file = "mods/.index/opencomputers.pw.toml"
-hash = "a8bf8d835aedf34d009724220a49ab8b9774320049d2d435a28ea487b0715237"
-metafile = true
-
-[[files]]
-file = "mods/.index/patchouli.pw.toml"
-hash = "a2b01f8534da3e3a33c15ad2e43f61dfd8177a9b2117e3764ce885bb9bedc7ea"
-metafile = true
-
-[[files]]
-file = "mods/.index/quark.pw.toml"
-hash = "ba283903e029acaac18cf335d614281fb6a80ff3101d4c8e04f18afec9c1c7ff"
-metafile = true
-
-[[files]]
-file = "mods/.index/reach-fix.pw.toml"
-hash = "464f2a6b323e2dde472188d8cabbebdd40d020e0bc971627d4a98708902bce74"
-metafile = true
-
-[[files]]
-file = "mods/.index/refined-storage.pw.toml"
-hash = "bc122e4ea1da4cd15116ba3e226f7ffea5dc00aa1a656d1885d28cc7bc973e73"
-metafile = true
-
-[[files]]
-file = "mods/.index/resource-loader.pw.toml"
-hash = "e41134c12bce055f7120d254e353bef04860b80f99e1afe68bfb88f34419c4ad"
-metafile = true
-
-[[files]]
-file = "mods/.index/rlcombat.pw.toml"
-hash = "e2b4bfe4d8d7bae4ada63eb1ec79e70ec42e72600fc3234a73d8ce214de7f5bb"
-metafile = true
-
-[[files]]
-file = "mods/.index/scaling-health.pw.toml"
-hash = "12fdf2c3b433bbc9fc1b0f877891b2eb069b537fb739f7975e46da10243bad24"
-metafile = true
-
-[[files]]
-file = "mods/.index/scape-and-run-parasites.pw.toml"
-hash = "349fee1e060ec475e8b83e562b9a4aef8e2227c46dd66e720ec795c98db8a7a1"
-metafile = true
-
-[[files]]
-file = "mods/.index/scp-lockdown.pw.toml"
-hash = "e5ede6ff91d8861d8480601fe971cee76daa64d98f92c883ab4e44db728fa466"
-metafile = true
-
-[[files]]
-file = "mods/.index/shadowfacts-forgelin.pw.toml"
-hash = "79cd8e68fa92c866219eb9c318d59814cb0c229552b312043c6279b47e3f3b7b"
-metafile = true
-
-[[files]]
-file = "mods/.index/silent-gear.pw.toml"
-hash = "7bfe1d1749cc9a6139318eb2bd4d51a759209760c21ccd9389c037cd81a7c501"
-metafile = true
-
-[[files]]
-file = "mods/.index/silent-lib.pw.toml"
-hash = "576f08a79118b6a1dd570a566ea91f011d183b976bac1e00bb048fb3eebaf5aa"
-metafile = true
-
-[[files]]
-file = "mods/.index/silents-gems-tic-support.pw.toml"
-hash = "fe17e1457efef893f59e3b82edc564aa0df4c31f315c758368b080df799aac4e"
-metafile = true
-
-[[files]]
-file = "mods/.index/silents-gems.pw.toml"
-hash = "8e1b5b9d29de55d475c464a2e7a4082eebf5aef674b03a331bd6ad973180b1bc"
-metafile = true
-
-[[files]]
-file = "mods/.index/spartan-weaponry.pw.toml"
-hash = "ef987a5fab8a0a9f2d7d617fec18fec57c5ec1f01d35842a85d1448750508982"
-metafile = true
-
-[[files]]
-file = "mods/.index/splashanimation.pw.toml"
-hash = "eb9a0341dfca0c5bcd699aa91ad21142679decb0ab9468197400c8dc0f71fb86"
-metafile = true
-
-[[files]]
-file = "mods/.index/stevekungs-lib.pw.toml"
-hash = "64675bb73f4ae9b7190bc7f7dfed1bd306086fee91c683398f54014d73c2202d"
-metafile = true
-
-[[files]]
-file = "mods/.index/storage-drawers.pw.toml"
-hash = "3199d71da7f36218dfd494cd295fa15b71caff56b06c1f277dcf546ecb266f34"
-metafile = true
-
-[[files]]
-file = "mods/.index/swingthroughgrass.pw.toml"
-hash = "0c33d8b6cae6083e961ca83884a135e4b35d2994d7c3d875901d75a3366628e3"
-metafile = true
-
-[[files]]
-file = "mods/.index/tails.pw.toml"
-hash = "204c420d2c6d84c6ff53e75e16380c6fa6f67aaa9b4d1a5aeeea49eaa1bcd05c"
-metafile = true
-
-[[files]]
-file = "mods/.index/terrafirmacraft.pw.toml"
-hash = "998c147c7f306ca3f86b9f7e897fad8c8dad9b998653484b6f1c55f3c60397fa"
-metafile = true
-
-[[files]]
-file = "mods/.index/terrafirmathings.pw.toml"
-hash = "46cade3a081367b96e147cd45d5fda7f327a5f5d1289f5851a1f84f4636f24bd"
-metafile = true
-
-[[files]]
-file = "mods/.index/texfix.pw.toml"
-hash = "66024ffe96c3a5aca24783c867468a2ebe7dfb7f2895fdeaf125d252b54d35d3"
-metafile = true
-
-[[files]]
-file = "mods/.index/thaumcraft.pw.toml"
-hash = "50e46633ca33b0fa58092ffae324a56547c2947f2aeff75104212aa4e4f04a7b"
-metafile = true
-
-[[files]]
-file = "mods/.index/tinkers-construct.pw.toml"
-hash = "ef319c3fcf03f1a1606e7c311eab694753c7dd4c17cf7fd2efac05ec030a44c9"
-metafile = true
-
-[[files]]
-file = "mods/.index/touhou-little-maid.pw.toml"
-hash = "a26fe1d55992e849fd93c85c2aba77acd540b8cfbe7c56868150d2a6aef5d665"
-metafile = true
-
-[[files]]
-file = "mods/.index/yarcf.pw.toml"
-hash = "7aeeacd79e3f1d429d79c98d470da0c3670cdae6bd0b73e45a0d695b320c85c1"
-metafile = true
-
-[[files]]
-file = "mods/.index/yungs-better-caves.pw.toml"
-hash = "7decc36067c8db5be44f982cf2c355accd3d3f436f5f7658fd7f7caab0db50ec"
-metafile = true
-
-[[files]]
-file = "mods/.index/yungs-better-mineshafts-forge.pw.toml"
-hash = "4382b98521c09cbb66995e530f039fcae7a51f6a4244ef4ff3f9495f39b18ed6"
-metafile = true
-
-[[files]]
-file = "mods/.index/zollern-galaxy.pw.toml"
-hash = "6f79e28ea95fffefee46604347101d2822e90a8456563420801951dbf0e77f70"
-metafile = true
-
-[[files]]
-file = "mods/.index/zombie-awareness.pw.toml"
-hash = "36c778743adb0dcfc3a58067d302e808d37353cc790f5eb2bffdccfe42936fee"
-metafile = true
-
-[[files]]
-file = "mods/1.12.2/codecjlayermp3-1.0.0-SNAPSHOT.jar"
-hash = "e3d0723dbe20290856d80a487a9bbfd5e988f23db17b234fcfe47db17fe6f3fd"
-
-[[files]]
-file = "mods/1.12.2/jlayer-1.0.1.jar"
-hash = "850508c837454a1b06017c32a36876fae516de1e89a829f725fee1e6dcc52000"
-
-[[files]]
-file = "mods/1.12.2/nashorn.jar"
-hash = "984ab65c7c96483caa9e3722d932ee8ad6f4f017364538ed2d169c596ec4fe56"
+file = "mods/ProjectCBT_FORKED_More-Planets-1.12.2-2.3.2-GC4.0.5.jar"
+hash = "2ae175e217f9c94d87d9df0d1b8f834c0ecf45ad5c0f5e190f2b695596ea5270"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -6854,14 +6542,6 @@ metafile = true
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
-
-[[files]]
-file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar"
-hash = "de8b85e79cb73826ec77d038bb8bae38e8e3e334526bac1a4812b29f6cf2ae24"
-
-[[files]]
-file = "mods/memory_repo/ichttt/moresoundconfig-core/1.0.4/moresoundconfig-core-1.0.4.jar.meta"
-hash = "72c0d1254909cdfc2a47f26239ec0ce4c65994609db111510534cda6719bf34a"
 
 [[files]]
 file = "mods/minestuck.pw.toml"
