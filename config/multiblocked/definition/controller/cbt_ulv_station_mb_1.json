@@ -1,0 +1,417 @@
+{
+  "version": 2,
+  "location": "cbt:ulv_station_mb_1",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "gregtech:machine_casing",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "empty",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBBBBBC       ",
+        "BBBBBBBBBB        ",
+        "BBBBBBBBBB        ",
+        "BBBBBBBBBBDDDD    ",
+        "E        E        ",
+        "                  ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBAFFBC     G ",
+        "BBBBBBAFFB      G ",
+        "BBBBBBAFFB      G ",
+        "BBBBBBBBBBDDDD  G ",
+        " HHHHHHHI       G ",
+        "  E J E I       G ",
+        "    E   E       E "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBA  BC       ",
+        "BBBBBBA  B        ",
+        "BBBBBBA  B        ",
+        "BBBBBBBBBBDDDD    ",
+        " H     H          ",
+        " E     E          ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBA           ",
+        "BBBBBBA           ",
+        "BBBBBBA  B        ",
+        "BBBBBBBBBBDDDD    ",
+        " H     H          ",
+        "                  ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBA           ",
+        "BBBBBB@           ",
+        "BBBBBBA  B        ",
+        "BBBBBBBBBBDDDD    ",
+        " H     H          ",
+        "                  ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBA  BC       ",
+        "BBBBBBA  B        ",
+        "BBBBBBA  B        ",
+        "BBBBBBBBBBDDDD    ",
+        " H     H          ",
+        " E     E          ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBAKKBC       ",
+        "BBBBBBAKKB        ",
+        "BBBBBBAKKB        ",
+        "BBBBBBBBBBDDDD    ",
+        " HHHHHHHI         ",
+        "  E L E I         ",
+        "    E   E         "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "BBBBBBBBBBC       ",
+        "BMBMBMBBBB        ",
+        "BMBMBMBBBB        ",
+        "BBBBBBBBBBDDDD    ",
+        "E        E        ",
+        "                  ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "N                 ",
+        "                  ",
+        "                  ",
+        "                  ",
+        "                  ",
+        "                  ",
+        "                  "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "N               G ",
+        "                G ",
+        "                G ",
+        "                G ",
+        "                G ",
+        "                G ",
+        "                E "
+      ],
+      [
+        "AAAAAAAAAAAAAAAAAA",
+        "OPPPPPPPPP        ",
+        "                  ",
+        "                  ",
+        "                  ",
+        "                  ",
+        "                  ",
+        "                  "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "gregtech:machine_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "cbt:ulv_station_mb_1",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "hbm:deco_steel",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "hbm:crate_steel",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "hbm:steel_grate",
+            "meta": 7
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "hbm:pole_top",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "hbm:crate_steel",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "hbm:deco_pipe_quad",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "H": {
+        "states": [
+          {
+            "id": "minecraft:iron_block",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "I": {
+        "states": [
+          {
+            "id": "hbm:steel_poles",
+            "meta": 2
+          }
+        ],
+        "type": "states"
+      },
+      "J": {
+        "states": [
+          {
+            "id": "hbm:steel_poles",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "states": [
+          {
+            "id": "hbm:crate_steel",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "L": {
+        "states": [
+          {
+            "id": "hbm:steel_poles",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "states": [
+          {
+            "id": "cbt:ulv_circuit_multiblock_provider",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "N": {
+        "states": [
+          {
+            "id": "hbm:steel_wall",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "O": {
+        "states": [
+          {
+            "id": "hbm:steel_corner",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "P": {
+        "states": [
+          {
+            "id": "hbm:steel_wall",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "-": [
+        "air"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
+      ]
+    }
+  }
+}

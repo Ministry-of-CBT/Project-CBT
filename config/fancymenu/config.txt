@@ -40,7 +40,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = '';
+S:customwindowtitle = 'Project Cock and Ball Touhouture: NuclearGreg Horizons';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'false';
 

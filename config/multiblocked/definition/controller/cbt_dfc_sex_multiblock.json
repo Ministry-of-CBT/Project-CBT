@@ -5,8 +5,8 @@
     "fuel_progress": {
       "cIO": 2,
       "gIO": 2,
-      "x": 8,
-      "y": 141,
+      "x": 7,
+      "y": 8,
       "width": 100,
       "height": 10,
       "texture": "multiblocked:textures/gui/energy_bar.png",
@@ -15,8 +15,8 @@
     "recipe_progress": {
       "cIO": 2,
       "gIO": 2,
-      "x": 9,
-      "y": 155,
+      "x": 7,
+      "y": 22,
       "width": 100,
       "height": 10,
       "texture": "multiblocked:textures/gui/energy_bar.png",
@@ -24,99 +24,51 @@
     },
     "item": [
       {
-        "cIO": 0,
-        "gIO": 0,
-        "mIO": 0,
-        "x": 107,
-        "y": 84,
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 97,
+        "y": 143,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 27,
-        "y": 24,
+        "x": 25,
+        "y": 71,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 47,
-        "y": 24,
+        "x": 43,
+        "y": 71,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 67,
-        "y": 24,
+        "x": 61,
+        "y": 71,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 87,
-        "y": 24,
+        "x": 79,
+        "y": 71,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 107,
-        "y": 24,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "mIO": 2,
-        "x": 7,
-        "y": 44,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "mIO": 2,
-        "x": 27,
-        "y": 44,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "mIO": 2,
-        "x": 47,
-        "y": 44,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "mIO": 2,
-        "x": 67,
-        "y": 44,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "mIO": 2,
-        "x": 87,
-        "y": 44,
-        "autoIO": false
-      },
-      {
-        "cIO": 2,
-        "gIO": 2,
-        "mIO": 2,
-        "x": 107,
-        "y": 44,
+        "x": 97,
+        "y": 71,
         "autoIO": false
       },
       {
@@ -124,87 +76,47 @@
         "gIO": 2,
         "mIO": 2,
         "x": 7,
-        "y": 64,
+        "y": 89,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 27,
-        "y": 64,
+        "x": 25,
+        "y": 89,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 47,
-        "y": 64,
+        "x": 43,
+        "y": 89,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 67,
-        "y": 64,
+        "x": 61,
+        "y": 89,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 87,
-        "y": 64,
+        "x": 79,
+        "y": 89,
         "autoIO": false
       },
       {
         "cIO": 2,
         "gIO": 2,
         "mIO": 2,
-        "x": 107,
-        "y": 64,
-        "autoIO": false
-      },
-      {
-        "cIO": 0,
-        "gIO": 0,
-        "mIO": 0,
-        "x": 7,
-        "y": 84,
-        "autoIO": false
-      },
-      {
-        "cIO": 0,
-        "gIO": 0,
-        "mIO": 0,
-        "x": 27,
-        "y": 85,
-        "autoIO": false
-      },
-      {
-        "cIO": 0,
-        "gIO": 0,
-        "mIO": 0,
-        "x": 47,
-        "y": 84,
-        "autoIO": false
-      },
-      {
-        "cIO": 0,
-        "gIO": 0,
-        "mIO": 0,
-        "x": 67,
-        "y": 84,
-        "autoIO": false
-      },
-      {
-        "cIO": 0,
-        "gIO": 0,
-        "mIO": 0,
-        "x": 87,
-        "y": 84,
+        "x": 97,
+        "y": 89,
         "autoIO": false
       },
       {
@@ -212,17 +124,105 @@
         "gIO": 2,
         "mIO": 2,
         "x": 7,
-        "y": 24,
+        "y": 107,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 25,
+        "y": 107,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 43,
+        "y": 107,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 61,
+        "y": 107,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 79,
+        "y": 107,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 97,
+        "y": 107,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 7,
+        "y": 143,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 25,
+        "y": 143,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 43,
+        "y": 143,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 61,
+        "y": 143,
+        "autoIO": false
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 79,
+        "y": 143,
+        "autoIO": false
+      },
+      {
+        "cIO": 2,
+        "gIO": 2,
+        "mIO": 2,
+        "x": 7,
+        "y": 71,
         "autoIO": false
       }
     ],
     "gtce_energy": {
       "cIO": 2,
       "gIO": 2,
-      "x": 5,
-      "y": 5,
+      "x": 8,
+      "y": 163,
       "width": 60,
-      "height": 18,
+      "height": 8,
       "texture": "multiblocked:textures/gui/energy_bar.png",
       "fillDirection": 0,
       "capacity": 13333333
@@ -235,7 +235,7 @@
         "x": 158,
         "y": 7,
         "autoIO": false,
-        "tC": 1000000,
+        "tC": 1000000000,
         "w": 10,
         "h": 150,
         "fillDir": "DOWN_TO_UP"
@@ -247,7 +247,7 @@
         "x": 132,
         "y": 7,
         "autoIO": false,
-        "tC": 1000,
+        "tC": 1000000000,
         "w": 10,
         "h": 150,
         "fillDir": "DOWN_TO_UP"
@@ -259,13 +259,13 @@
         "x": 145,
         "y": 7,
         "autoIO": false,
-        "tC": 1000,
+        "tC": 1000000000,
         "w": 10,
         "h": 150,
         "fillDir": "DOWN_TO_UP"
       }
     ],
-    "background": "multiblocked:textures/dfc_sex_multiblock/gui/bg.png"
+    "background": "multiblocked:textures/dfc_sex_multiblock/gui/interface_gui.png"
   },
   "properties": {
     "rotationState": "ALL",

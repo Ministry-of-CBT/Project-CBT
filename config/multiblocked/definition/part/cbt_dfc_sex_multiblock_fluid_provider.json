@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "location": "cbt:dfc_sex_multiblock_fluid_provider",
+  "traits": {
+    "fluid": [
+      {
+        "cIO": 0,
+        "gIO": 0,
+        "mIO": 0,
+        "x": 5,
+        "y": 5,
+        "autoIO": false,
+        "tC": 1000,
+        "w": 18,
+        "h": 18,
+        "fillDir": "ALWAYS_FULL"
+      },
+      {
+        "cIO": 1,
+        "gIO": 1,
+        "mIO": 1,
+        "x": 27,
+        "y": 5,
+        "autoIO": false,
+        "tC": 1000,
+        "w": 18,
+        "h": 18,
+        "fillDir": "ALWAYS_FULL"
+      }
+    ]
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {},
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "canShared": true
+}

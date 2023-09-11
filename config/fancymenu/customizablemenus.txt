@@ -6,9 +6,6 @@ net.minecraft.client.gui.GuiMainMenu {
 net.minecraft.client.gui.GuiWorldSelection {
 }
 
-net.minecraft.client.gui.GuiOptions {
-}
-
 net.dries007.tfc.client.gui.GuiCustomizeWorld {
 }
 
@@ -82,5 +79,8 @@ com.cleanroommc.multiblocked.api.gui.modular.ModularUIGuiContainer {
 }
 
 net.minecraft.client.gui.GuiShareToLan {
+}
+
+net.minecraft.client.gui.GuiOptions {
 }
 

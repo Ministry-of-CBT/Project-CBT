@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "location": "cbt:dfc_sex_multiblock_energy_provider",
+  "traits": {
+    "gtce_energy": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 8,
+      "y": 9,
+      "width": 160,
+      "height": 10,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 10000
+    },
+    "background": "multiblocked:textures/dfc_sex_multiblock/gui/bg.png"
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "lightEmissive": 4
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "canShared": true
+}
