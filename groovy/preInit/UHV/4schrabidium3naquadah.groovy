@@ -1,3 +1,5 @@
+package cbt.fourschrabidiumthreenaquadah
+
 // tetraschrabadic_trinaquadium items and bullshit - conductor
 
 def schrabidium_naquadah_4_3_alloy = content.createItem('tetraschrabadic_trinaquadium')

@@ -1,0 +1,1034 @@
+{
+  "version": 2,
+  "location": "mod_id:component_id",
+  "traits": {},
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "gregtech:machine",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "empty",
+  "basePattern": {
+    "structureDir": [
+      "RIGHT",
+      "UP",
+      "FRONT"
+    ],
+    "pattern": [
+      [
+        " ABA   ABA ",
+        " BAB   BAB ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "BBBBA BBBBA",
+        "BBBBB BBBBB",
+        " CDC   CDC ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " BAB   BAB ",
+        " EEE   EEE ",
+        " BAA   BAA ",
+        " EEE   EEE ",
+        " BBB   BBB ",
+        " AAA   AAA ",
+        " FFF   FFF ",
+        " FFF   FFF ",
+        " GGG   GGG ",
+        " H H   H H ",
+        " AAIAAIAAI ",
+        " IAIIAIIAI ",
+        " IIIIIIIII ",
+        " AFFG GFFG ",
+        " AFFG GFFA ",
+        " AFFG GFFA ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "BBBBA BBBBA",
+        "BBBBB BBBBB",
+        " DDD   DDD ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " BBB   BBB ",
+        " E E   E E ",
+        " B B   B B ",
+        " E E   E E ",
+        " BAB   BAB ",
+        " AGA   AGA ",
+        " F F   F F ",
+        " F F   F F ",
+        " GAG   GAG ",
+        "           ",
+        " AIIAIIAII ",
+        " IJIIJIIJI ",
+        " IFIIFIIFI ",
+        " AFFG GFFA ",
+        " G  A A  G ",
+        " AFFG GFFA ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "BBBBA BBBBA",
+        "BBBBB BBBBB",
+        " CDC   CDC ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " BAB   BAB ",
+        " EEE   EEE ",
+        " BAB   BAB ",
+        " EEE   EEE ",
+        " BBB   BBB ",
+        " GAA   GAA ",
+        " FFF   FFF ",
+        " FFF   FFF ",
+        " GGG   GGG ",
+        " H H   H H ",
+        " IIIIIIIII ",
+        " IAIIAIIAI ",
+        " IIIIIIIII ",
+        " GFFG GFFA ",
+        " AFFG GFFA ",
+        " AFFG GFFA ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        " BBA   BBA ",
+        " BBB   BBB ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " IIIIIIIAA ",
+        " IIIIFIIII ",
+        " IIIIIIIII ",
+        "           ",
+        " KKKGAAKKK ",
+        " KKKAGAKKK ",
+        " AKAAAAAKA ",
+        "  KKK KKK  ",
+        "  KKK KKK  ",
+        "  AKA AKA  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " AIIIAIIIA ",
+        " AJAIJIAJA ",
+        " IFIIAIIFI ",
+        "           ",
+        " KLKFFFKLK ",
+        " LMLF FLML ",
+        " KLKFFFKLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " AAIIIIIII ",
+        " IIIIIAIII ",
+        " IIIIAAIII ",
+        "           ",
+        " KLKFFFKLK ",
+        " LMLF FLML ",
+        " KLKFFFKLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " AFFG GFFG ",
+        " AFFG GFFA ",
+        " AFFG GFFA ",
+        "           ",
+        " KLKGGGKLK ",
+        " LMLGAGLML ",
+        " KLKGGGKLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " AFFG GFFA ",
+        " G  A A  G ",
+        " AFFG GFFA ",
+        "           ",
+        " KLK   KLK ",
+        " LML   LML ",
+        " KLK   KLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " GFFG GFFA ",
+        " AFFG GFFA ",
+        " AFFG GFFA ",
+        "           ",
+        " KLKGGGKLK ",
+        " LMLGAGLML ",
+        " KLKGGGKLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " IIIIIIIAA ",
+        " IIIAIIIII ",
+        " IIIAAIIII ",
+        "           ",
+        " KLKFFFKLK ",
+        " LMLF FLML ",
+        " KLKFFFKLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " AIIIAIIIA ",
+        " AJAIJIAJA ",
+        " IFIIAIIFI ",
+        "           ",
+        " KLKFFFKLK ",
+        " LMLF FLML ",
+        " KLKFFFKLK ",
+        "  KLK KLK  ",
+        "  LML LML  ",
+        "  KLK KLK  "
+      ],
+      [
+        " ABA   ABA ",
+        " BAB   BAB ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " AAIIIIIII ",
+        " IIIIFIIII ",
+        " IIIIIIIII ",
+        "           ",
+        " KAAAAGKAA ",
+        " KKKAGAKKK ",
+        " AAAAAAAAA ",
+        "  KAA KAA  ",
+        "  KKK KKK  ",
+        "  AAA AAA  "
+      ],
+      [
+        "BBBBA BBBBA",
+        "BBBBB BBBBB",
+        " CDC   CDC ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " BAB   BAB ",
+        " EEE   EEE ",
+        " BAA   BAA ",
+        " EEE   EEE ",
+        " BBB   BBB ",
+        " AAA   AAA ",
+        " FFF   FFF ",
+        " FFF   FFF ",
+        " GGG   GGG ",
+        " H H   H H ",
+        " IIIIIIIII ",
+        " IAIIAIIAI ",
+        " IIIIIIIII ",
+        " AFFG GFFG ",
+        " AFFG GFFA ",
+        " AFFG GFFA ",
+        "    III    ",
+        "    IAI    ",
+        "    III    ",
+        "           "
+      ],
+      [
+        "BBBBA BBBBA",
+        "BBBBB BBBBB",
+        " DDD   DDD ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        " BBB   BBB ",
+        " E E   E E ",
+        " B B   B B ",
+        " E E   E E ",
+        " BAB   BAB ",
+        " AGA   AGA ",
+        " F F   F F ",
+        " F F   F F ",
+        " GAG   GAG ",
+        "           ",
+        " IIAIIAIIA ",
+        " IJIIJIIJI ",
+        " IFIIFIIFI ",
+        " AFFG GFFA ",
+        " G  A A  G ",
+        " AFFG GFFA ",
+        "    IIA    ",
+        "    IJI    ",
+        "    IFI    ",
+        "           "
+      ],
+      [
+        "BBBBA BBBBA",
+        "BBBBB BBBBB",
+        " CDC   CDC ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " C C   C C ",
+        " BAB   BAB ",
+        " EEE   EEE ",
+        " BAB   BAB ",
+        " EEE   EEE ",
+        " BBB   BBB ",
+        " GAA   GAA ",
+        " FFF   FFF ",
+        " FFF   FFF ",
+        " GGG   GGG ",
+        " H H   H H ",
+        " IAAIAAIAA ",
+        " IAIIAIIAI ",
+        " IIIIIIIII ",
+        " GFFG GFFA ",
+        " AFFG GFFA ",
+        " AFFG GFFA ",
+        "    IAA    ",
+        "    I@I    ",
+        "    III    ",
+        "           "
+      ],
+      [
+        " BBA   BBA ",
+        " BBB   BBB ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "    NNN    ",
+        "    NNN    ",
+        "    NNN    ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "    ANN    ",
+        "    N N    ",
+        "    NNN    ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "    NNN    ",
+        "    NNN    ",
+        "    NNN    ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "   OAAAA   ",
+        "   OOOOO   ",
+        "   OAAAO   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "   OOOOA   ",
+        "  AOPPPAA  ",
+        "   OOOOO   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "   OOOOO   ",
+        "   OQQQO   ",
+        "   OOOOO   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ],
+      [
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "   OOOOO   ",
+        "   OOOOO   ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           ",
+        "           "
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "gregtech:machine",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "mod_id:component_id",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "gregtech:metal_casing",
+            "meta": 5
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "gregtech:metal_casing",
+            "meta": 4
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "gregtech:boiler_casing",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "gregtech:wire_coil",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "gregtech:wire_coil",
+            "meta": 6
+          }
+        ],
+        "type": "states"
+      },
+      "G": {
+        "states": [
+          {
+            "id": "gregtech:metal_casing",
+            "meta": 2
+          }
+        ],
+        "type": "states"
+      },
+      "H": {
+        "states": [
+          {
+            "id": "gregtech:frame_steel",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "I": {
+        "states": [
+          {
+            "id": "gtadditions:ga_multiblock_casing",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "J": {
+        "states": [
+          {
+            "id": "gtadditions:ga_multiblock_casing",
+            "meta": 14
+          }
+        ],
+        "type": "states"
+      },
+      "air": {
+        "type": "air"
+      },
+      "K": {
+        "states": [
+          {
+            "id": "gtadditions:ga_multiblock_casing",
+            "meta": 13
+          }
+        ],
+        "type": "states"
+      },
+      "L": {
+        "states": [
+          {
+            "id": "gtadditions:ga_transparent_casing",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      },
+      "M": {
+        "states": [
+          {
+            "id": "gtadditions:ga_nuclear_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "N": {
+        "states": [
+          {
+            "id": "gtadditions:ga_metal_casing_1",
+            "meta": 10
+          }
+        ],
+        "type": "states"
+      },
+      "O": {
+        "states": [
+          {
+            "id": "gtadditions:ga_metal_casing_1",
+            "meta": 7
+          }
+        ],
+        "type": "states"
+      },
+      "P": {
+        "states": [
+          {
+            "id": "gregtech:boiler_casing",
+            "meta": 3
+          }
+        ],
+        "type": "states"
+      },
+      "Q": {
+        "states": [
+          {
+            "id": "gtadditions:ga_piston_casing",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ],
+      "G": [
+        "G"
+      ],
+      "H": [
+        "H"
+      ],
+      "I": [
+        "I"
+      ],
+      "J": [
+        "J"
+      ],
+      "K": [
+        "K"
+      ],
+      "L": [
+        "L"
+      ],
+      "M": [
+        "M"
+      ],
+      "-": [
+        "air"
+      ],
+      "N": [
+        "N"
+      ],
+      "O": [
+        "O"
+      ],
+      "P": [
+        "P"
+      ],
+      "Q": [
+        "Q"
+      ]
+    }
+  }
+}

@@ -1674,6 +1674,556 @@ inventorypets:petachieveitem50, item.inventorypets_petachieveitem50.name
 inventorypets:petachieveitem60, item.inventorypets_petachieveitem60.name
 inventorypets:petachieveitemall, item.inventorypets_petachieveitemall.name
 inventorypets:petachieveitemgeneral, item.inventorypets_petachieveitemgeneral.name
+moreplanets:diona_cobblestone_slab, Diona Cobblestone Slab
+moreplanets:chalos_cobblestone_slab, Chalos Cobblestone Slab
+moreplanets:nibiru_cobblestone_slab, Nibiru Cobblestone Slab
+moreplanets:diona_dungeon_brick_slab, Diona Dungeon Brick Slab
+moreplanets:chalos_dungeon_brick_slab, Chalos Dungeon Brick Slab
+moreplanets:nibiru_dungeon_brick_slab, Nibiru Dungeon Brick Slab
+moreplanets:alien_ship_decoration_slab, Alien Ship Decoration Slab
+moreplanets:cheese_spore_slab, Cheese Spore Slab
+moreplanets:infected_oak_slab, Infected Oak Slab
+moreplanets:alien_berry_oak_slab, Alien Berry Oak Slab
+moreplanets:oscalea_slab, Oscalea Slab
+moreplanets:frolia_slab, Frolia Slab
+moreplanets:infected_oak_pressure_plate, Infected Oak Pressure Plate
+moreplanets:alien_berry_oak_pressure_plate, Alien Berry Oak Pressure Plate
+moreplanets:oscalea_pressure_plate, Oscalea Pressure Plate
+moreplanets:frolia_pressure_plate, Frolia Pressure Plate
+moreplanets:dark_energy_storage_cluster, Dark Energy Storage Cluster
+moreplanets:nuclear_waste_energy_storage_cluster, Nuclear Waste Energy Storage Cluster
+moreplanets:space_warp_pad, Space Warp Pad
+moreplanets:dark_energy_receiver, Dark Energy Receiver
+moreplanets:black_hole_storage, Black Hole Storage
+moreplanets:alien_defender_beacon, Alien Defender Beacon
+moreplanets:shield_generator, Shield Generator
+moreplanets:alien_ship_booster, Alien Ship Booster
+moreplanets:alien_ship_decoration_0, Alien Ship Decoration
+moreplanets:alien_ship_decoration_1, Alien Ship Decoration
+moreplanets:alien_chest, Alien Chest
+moreplanets:tinted_glass, Tinted Glass
+moreplanets:white_tinted_glass, White Tinted Glass
+moreplanets:orange_tinted_glass, Orange Tinted Glass
+moreplanets:magenta_tinted_glass, Magenta Tinted Glass
+moreplanets:light_blue_tinted_glass, Light Blue Tinted Glass
+moreplanets:yellow_tinted_glass, Yellow Tinted Glass
+moreplanets:lime_tinted_glass, Lime Tinted Glass
+moreplanets:pink_tinted_glass, Pink Tinted Glass
+moreplanets:gray_tinted_glass, Gray Tinted Glass
+moreplanets:silver_tinted_glass, Light Gray Tinted Glass
+moreplanets:cyan_tinted_glass, Cyan Tinted Glass
+moreplanets:purple_tinted_glass, Purple Tinted Glass
+moreplanets:blue_tinted_glass, Blue Tinted Glass
+moreplanets:brown_tinted_glass, Brown Tinted Glass
+moreplanets:green_tinted_glass, Green Tinted Glass
+moreplanets:red_tinted_glass, Red Tinted Glass
+moreplanets:black_tinted_glass, Black Tinted Glass
+moreplanets:tinted_glass_pane, Tinted Glass Pane
+moreplanets:white_tinted_glass_pane, White Tinted Glass Pane
+moreplanets:orange_tinted_glass_pane, Orange Tinted Glass Pane
+moreplanets:magenta_tinted_glass_pane, Magenta Tinted Glass Pane
+moreplanets:light_blue_tinted_glass_pane, Light Blue Tinted Glass Pane
+moreplanets:yellow_tinted_glass_pane, Yellow Tinted Glass Pane
+moreplanets:lime_tinted_glass_pane, Lime Tinted Glass Pane
+moreplanets:pink_tinted_glass_pane, Pink Tinted Glass Pane
+moreplanets:gray_tinted_glass_pane, Gray Tinted Glass Pane
+moreplanets:silver_tinted_glass_pane, Light Gray Tinted Glass Pane
+moreplanets:cyan_tinted_glass_pane, Cyan Tinted Glass Pane
+moreplanets:purple_tinted_glass_pane, Purple Tinted Glass Pane
+moreplanets:blue_tinted_glass_pane, Blue Tinted Glass Pane
+moreplanets:brown_tinted_glass_pane, Brown Tinted Glass Pane
+moreplanets:green_tinted_glass_pane, Green Tinted Glass Pane
+moreplanets:red_tinted_glass_pane, Red Tinted Glass Pane
+moreplanets:black_tinted_glass_pane, Black Tinted Glass Pane
+moreplanets:diona_cobblestone_wall, Diona Cobblestone Wall
+moreplanets:chalos_cobblestone_wall, Chalos Cobblestone Wall
+moreplanets:nibiru_cobblestone_wall, Nibiru Cobblestone Wall
+moreplanets:diona_dungeon_brick_wall, Diona Dungeon Brick Wall
+moreplanets:chalos_dungeon_brick_wall, Chalos Dungeon Brick Wall
+moreplanets:nibiru_dungeon_brick_wall, Nibiru Dungeon Brick Wall
+moreplanets:polished_tin_decoration_block, Polished Tin Decoration Block
+moreplanets:polished_aluminum_decoration_block, Polished Aluminum Decoration Block
+moreplanets:desh_frame, Desh Frame
+moreplanets:dungeon_glowstone, Dungeon Glowstone
+moreplanets:fronos_grass_block, Fronos Grass Block
+moreplanets:fronos_dirt, Fronos Dirt
+moreplanets:fronos_coarse_dirt, Fronos Coarse Dirt
+moreplanets:fronos_farmland, Fronos Farmland
+moreplanets:fronos_stone, Fronos Stone
+moreplanets:fronos_cobblestone, Fronos Cobblestone
+moreplanets:fronos_stone_bricks, Fronos Stone Bricks
+moreplanets:fronos_mossy_stone_bricks, Fronos Mossy Stone Bricks
+moreplanets:fronos_cracked_stone_bricks, Fronos Cracked Stone Bricks
+moreplanets:fronos_chiseled_stone_bricks, Fronos Chiseled Stone Bricks
+moreplanets:fronos_dungeon_brick, Fronos Dungeon Brick
+moreplanets:fronos_grass, Fronos Grass
+moreplanets:large_wheat, Large Wheat
+moreplanets:fronos_tall_grass, Fronos Tall Grass
+moreplanets:oscalea_fence, Oscalea Fence
+moreplanets:frolia_fence, Frolia Fence
+moreplanets:oscalea_fence_gate, Oscalea Fence Gate
+moreplanets:frolia_fence_gate, Frolia Fence Gate
+moreplanets:oscalea_stairs, Oscalea Stairs
+moreplanets:frolia_stairs, Frolia Stairs
+moreplanets:oscalea_trapdoor, Oscalea Trapdoor
+moreplanets:frolia_trapdoor, Frolia Trapdoor
+moreplanets:fronos_iron_ore, Iron Ore
+moreplanets:fronos_gold_ore, Gold Ore
+moreplanets:fronos_tin_ore, Tin Ore
+moreplanets:fronos_copper_ore, Copper Ore
+moreplanets:fronos_aluminum_ore, Aluminum Ore
+moreplanets:fronos_lead_ore, Lead Ore
+moreplanets:fronos_coal_ore, Coal Ore
+moreplanets:fronos_lapis_ore, Lapis Ore
+moreplanets:fronos_diamond_ore, Diamond Ore
+moreplanets:fronos_emerald_ore, Emerald Ore
+moreplanets:fronos_redstone_ore, Redstone Ore
+moreplanets:fronos_silicon_ore, Silicon Ore
+moreplanets:fronos_quartz_ore, Quartz Ore
+moreplanets:extrailonite_ore, Extrailonite Ore
+moreplanets:red_candy_cane, Red Candy Cane
+moreplanets:green_candy_cane, Green Candy Cane
+moreplanets:blue_candy_cane, Blue Candy Cane
+moreplanets:orange_candy_cane, Orange Candy Cane
+moreplanets:pink_candy_cane, Pink Candy Cane
+moreplanets:yellow_candy_cane, Yellow Candy Cane
+moreplanets:purple_candy_cane, Purple Candy Cane
+moreplanets:rainbow_candy_cane, Rainbow Candy Cane
+moreplanets:grape_jelly_block, Grape Jelly Block
+moreplanets:raspberry_jelly_block, Raspberry Jelly Block
+moreplanets:strawberry_jelly_block, Strawberry Jelly Block
+moreplanets:berry_jelly_block, Berry Jelly Block
+moreplanets:lime_jelly_block, Lime Jelly Block
+moreplanets:orange_jelly_block, Orange Jelly Block
+moreplanets:green_jelly_block, Green Jelly Block
+moreplanets:lemon_jelly_block, Lemon Jelly Block
+moreplanets:diona_surface_rock, Diona Surface Rock
+moreplanets:diona_sub_surface_rock, Diona Sub-Surface Rock
+moreplanets:diona_rock, Diona Rock
+moreplanets:diona_cobblestone, Diona Cobblestone
+moreplanets:setrorium_ore, Setrorium Ore
+moreplanets:illenium_ore, Illenium Ore
+moreplanets:diona_tin_ore, Tin Ore
+moreplanets:diona_copper_ore, Copper Ore
+moreplanets:diona_aluminum_ore, Aluminum Ore
+moreplanets:setrorium_block, Block of Setrorium
+moreplanets:illenium_block, Block of Illenium
+moreplanets:diona_dungeon_brick, Diona Dungeon Brick
+moreplanets:infected_purlonite_segment, Infected Purlonite Segment
+moreplanets:infected_purlonite_eye_core, Infected Purlonite Eye Core
+moreplanets:infected_purlonite_ender_core, Infected Purlonite Ender Core
+moreplanets:albetius_worm_egg_rock, Albetius Worm Egg Rock
+moreplanets:infected_purlonite_planks, Infected Purlonite Planks
+moreplanets:infected_purlonite_fence, Infected Purlonite Fence
+moreplanets:diona_ancient_chest, Diona Ancient Chest
+moreplanets:diona_treasure_chest, Diona Treasure Chest
+moreplanets:zelius_egg, Zelius Egg
+moreplanets:infected_purlonite_cobweb, Infected Purlonite Cobweb
+moreplanets:infected_purlonite_torch, Infected Purlonite Torch
+moreplanets:infected_purlonite_crystal, Infected Purlonite Crystal
+moreplanets:alien_miner_blood, Alien Miner Blood
+moreplanets:infected_purlonite_slime_block, Infected Purlonite Slime Block
+moreplanets:dark_energy_core, Dark Energy Core
+moreplanets:infected_purlonite_water_fluid, Infected Purlonite Water
+moreplanets:infected_purlonite_lava_fluid, Infected Purlonite Lava
+moreplanets:diona_cobblestone_stairs, Diona Cobblestone Stairs
+moreplanets:diona_dungeon_brick_stairs, Diona Dungeon Brick Stairs
+moreplanets:dark_energy_generator, Dark Energy Generator
+moreplanets:glowing_iron_block, Block of Glowing Iron
+moreplanets:crashed_alien_probe, Crashed Alien Probe
+moreplanets:alien_ship_decoration_stairs, Alien Ship Decoration Stairs
+moreplanets:koentus_regolith, Koentus Regolith
+moreplanets:koentus_fine_regolith, Koentus Fine Regolith
+moreplanets:koentus_rock, Koentus Rock
+moreplanets:koentus_cobblestone, Koentus Cobblestone
+moreplanets:anti_gravity_ore, Anti Gravity Ore
+moreplanets:goldenite_crystals_ore, Goldenite Crystals Ore
+moreplanets:koentus_tin_ore, Tin Ore
+moreplanets:koentus_copper_ore, Copper Ore
+moreplanets:koentus_aluminum_ore, Aluminum Ore
+moreplanets:koentus_iron_ore, Iron Ore
+moreplanets:anti_gravity_fragments_block, Block of Anti Gravity Fragments
+moreplanets:goldenite_crystals_block, Block of Goldenite Crystals
+moreplanets:koentus_dungeon_brick, Koentus Dungeon Brick
+moreplanets:fallen_koentus_meteor, Fallen Koentus Meteor
+moreplanets:koentus_ice, Koentus Ice
+moreplanets:white_glowing_hardened_ice, White Glowing Hardened Ice
+moreplanets:orange_glowing_hardened_ice, Orange Glowing Hardened Ice
+moreplanets:magenta_glowing_hardened_ice, Magenta Glowing Hardened Ice
+moreplanets:light_blue_glowing_hardened_ice, Light Blue Glowing Hardened Ice
+moreplanets:yellow_glowing_hardened_ice, Yellow Glowing Hardened Ice
+moreplanets:lime_glowing_hardened_ice, Lime Glowing Hardened Ice
+moreplanets:pink_glowing_hardened_ice, Pink Glowing Hardened Ice
+moreplanets:gray_glowing_hardened_ice, Gray Glowing Hardened Ice
+moreplanets:silver_glowing_hardened_ice, Silver Glowing Hardened Ice
+moreplanets:cyan_glowing_hardened_ice, Cyan Glowing Hardened Ice
+moreplanets:purple_glowing_hardened_ice, Purple Glowing Hardened Ice
+moreplanets:blue_glowing_hardened_ice, Blue Glowing Hardened Ice
+moreplanets:brown_glowing_hardened_ice, Brown Glowing Hardened Ice
+moreplanets:green_glowing_hardened_ice, Green Glowing Hardened Ice
+moreplanets:red_glowing_hardened_ice, Red Glowing Hardened Ice
+moreplanets:black_glowing_hardened_ice, Black Glowing Hardened Ice
+moreplanets:creep_block, Creep Block
+moreplanets:gravity_creep_block, Gravity Creep Block
+moreplanets:gravity_creep_extractor, Gravity Creep Extractor
+moreplanets:gravity_creep_vines, Gravity Creep Vines
+moreplanets:chalos_rock, Chalos Rock
+moreplanets:chalos_cobblestone, Chalos Cobblestone
+moreplanets:diremsium_ore, Diremsium Ore
+moreplanets:zyptorium_ore, Zyptorium Ore
+moreplanets:cheese_milk_ore, Cheese Milk Ore
+moreplanets:chalos_iron_ore, Iron Ore
+moreplanets:chalos_tin_ore, Tin Ore
+moreplanets:chalos_copper_ore, Copper Ore
+moreplanets:chalos_aluminum_ore, Aluminum Ore
+moreplanets:diremsium_block, Block of Diremsium
+moreplanets:zyptorium_block, Block of Zyptorium
+moreplanets:chalos_dungeon_brick, Chalos Dungeon Brick
+moreplanets:cheese_grass_block, Cheese Grass Block
+moreplanets:cheese_dirt, Cheese Dirt
+moreplanets:cheese_coarse_dirt, Cheese Coarse Dirt
+moreplanets:cheese_spore_stem, Cheese Spore Stem
+moreplanets:cheese_spore_block, Cheese Spore
+moreplanets:cheese_spore_planks, Cheese Spore Planks
+moreplanets:cheese_slime_block, Cheese Slime Block
+moreplanets:chalos_ancient_chest, Chalos Ancient Chest
+moreplanets:chalos_treasure_chest, Chalos Treasure Chest
+moreplanets:cheese_milk_cake, Cheese Milk Cake
+moreplanets:cheese_spore_flower, Cheese Spore Flower
+moreplanets:cheese_grass, Cheese Grass
+moreplanets:cheese_farmland, Cheese Farmland
+moreplanets:cheese_milk_fluid, Cheese Milk
+moreplanets:gaseous_cheese_milk, Gaseous Cheese Milk
+moreplanets:cheese_tall_grass, Cheese Tall Grass
+moreplanets:cheese_spore_crafting_table, Cheese Spore Crafting Table
+moreplanets:cheese_spore_chest, Cheese Spore Chest
+moreplanets:chalos_cobblestone_stairs, Chalos Cobblestone Stairs
+moreplanets:chalos_dungeon_brick_stairs, Chalos Dungeon Brick Stairs
+moreplanets:cheese_spore_stairs, Cheese Spore Stairs
+moreplanets:cheese_spore_fence, Cheese Spore Fence
+moreplanets:cheese_spore_fence_gate, Cheese Spore Fence Gate
+moreplanets:infected_grass_block, Infected Grass Block
+moreplanets:infected_dirt, Infected Dirt
+moreplanets:infected_coarse_dirt, Infected Coarse Dirt
+moreplanets:infected_podzol, Infected Podzol
+moreplanets:infected_grass, Infected Grass
+moreplanets:infected_fern, Infected Fern
+moreplanets:green_vein_grass, Green Vein Grass
+moreplanets:infected_orange_rose_bush, Infected Orange Rose Bush
+moreplanets:infected_tall_grass, Infected Tall Grass
+moreplanets:infected_large_fern, Infected Large Fern
+moreplanets:green_vein_tall_grass, Green Vein Tall Grass
+moreplanets:nibiru_rock, Nibiru Rock
+moreplanets:nibiru_cobblestone, Nibiru Cobblestone
+moreplanets:nibiru_vein_cobblestone, Nibiru Vein Cobblestone
+moreplanets:infected_stone_bricks, Infected Stone Bricks
+moreplanets:infected_vein_stone_bricks, Infected Vein Stone Bricks
+moreplanets:infected_cracked_stone_bricks, Cracked Infected Stone Bricks
+moreplanets:infected_chiseled_stone_bricks, Chiseled Infected Stone Bricks
+moreplanets:inferumite_block, Block of Inferumite
+moreplanets:nibiru_dungeon_brick, Nibiru Dungeon Brick
+moreplanets:mossy_nibiru_dungeon_brick, Mossy Nibiru Dungeon Brick
+moreplanets:infected_sandstone, Infected Sandstone
+moreplanets:infected_chiseled_sandstone, Infected Chiseled Sandstone
+moreplanets:infected_cut_sandstone, Infected Cut Sandstone
+moreplanets:infested_nibiru_rock, Infested Nibiru Rock
+moreplanets:infested_nibiru_cobblestone, Infested Nibiru Cobblestone
+moreplanets:infested_nibiru_vein_cobblestone, Infested Nibiru Vein Cobblestone
+moreplanets:infested_infected_stone_bricks, Infested Infected Stone Bricks
+moreplanets:infested_infected_vein_stone_bricks, Infested Infected Vein Stone Bricks
+moreplanets:infested_infected_cracked_stone_bricks, Infested Cracked Infected Stone Bricks
+moreplanets:infested_infected_chiseled_stone_bricks, Infested Chiseled Infected Stone Bricks
+moreplanets:infected_iron_ore, Infected Iron Ore
+moreplanets:infected_gold_ore, Infected Gold Ore
+moreplanets:infected_tin_ore, Infected Tin Ore
+moreplanets:infected_copper_ore, Infected Copper Ore
+moreplanets:infected_aluminum_ore, Infected Aluminum Ore
+moreplanets:infected_coal_ore, Infected Coal Ore
+moreplanets:infected_lapis_ore, Infected Lapis Ore
+moreplanets:infected_diamond_ore, Infected Diamond Ore
+moreplanets:infected_emerald_ore, Infected Emerald Ore
+moreplanets:infected_redstone_ore, Infected Redstone Ore
+moreplanets:infected_silicon_ore, Infected Silicon Ore
+moreplanets:inferumite_crystal_ore, Inferumite Crystal Ore
+moreplanets:infected_oak_log, Infected Oak Log
+moreplanets:infected_deadwood_log, Infected Deadwood Log
+moreplanets:infected_spruce_log, Infected Spruce Log
+moreplanets:infected_jungle_log, Infected Jungle Log
+moreplanets:alien_berry_oak_log, Alien Berry Oak Log
+moreplanets:oscalea_log, Oscalea Log
+moreplanets:frolia_log, Frolia Log
+moreplanets:oscalea_planks, Oscalea Planks
+moreplanets:frolia_planks, Frolia Planks
+moreplanets:infected_oak_planks, Infected Oak Planks
+moreplanets:infected_spruce_planks, Infected Spruce Planks
+moreplanets:alien_berry_oak_planks, Alien Berry Oak Planks
+moreplanets:infected_oak_leaves, Infected Oak Leaves
+moreplanets:infected_spruce_leaves, Infected Spruce Leaves
+moreplanets:infected_jungle_leaves, Infected Jungle Leaves
+moreplanets:alien_berry_oak_leaves, Alien Berry Oak Leaves
+moreplanets:oscalea_leaves, Oscalea Leaves
+moreplanets:frolia_leaves, Frolia Leaves
+moreplanets:flowering_frolia_leaves, Flowering Frolia Leaves
+moreplanets:infected_oak_sapling, Infected Oak Sapling
+moreplanets:infected_spruce_sapling, Infected Spruce Sapling
+moreplanets:infected_jungle_sapling, Infected Jungle Sapling
+moreplanets:alien_berry_oak_sapling, Alien Berry Oak Sapling
+moreplanets:pure_herb, Pure Herb
+moreplanets:terrapuff_herb, Terrapuff Herb
+moreplanets:batasia_dandelion, Bastasia Dandelion
+moreplanets:pyolonia, Pyolonia
+moreplanets:philipy, Philipy
+moreplanets:white_tail, White Tail
+moreplanets:vealium_vines, Vealium Vines
+moreplanets:terrashroom, Terrashroom
+moreplanets:nemophila, Nemophila
+moreplanets:pink_blechnum, Pink Blechnum
+moreplanets:purple_bush, Purple Bush
+moreplanets:fronos_fern, Fronos Fern
+moreplanets:fronos_lily_pad, Fronos Lily Pad
+moreplanets:fronos_mushroom, Fronos Mushroom
+moreplanets:oscalea_sapling, Oscalea Sapling
+moreplanets:frolia_sapling, Frolia Sapling
+moreplanets:infected_crafting_table, Infected Crafting Table
+moreplanets:alien_berry_crafting_table, Alien Berry Crafting Table
+moreplanets:infected_oak_bookshelf, Infected Oak Bookshelf
+moreplanets:alien_berry_oak_bookshelf, Alien Berry Oak Bookshelf
+moreplanets:infected_oak_fence, Infected Oak Fence
+moreplanets:alien_berry_oak_fence, Alien Berry Oak Fence
+moreplanets:infected_grass_path, Infected Grass Path
+moreplanets:green_vein_grass_path, Green Vein Grass Path
+moreplanets:infected_farmland, Infected Farmland
+moreplanets:infected_sand, Infected Sand
+moreplanets:infected_cactus, Infected Cactus
+moreplanets:infected_water_fluid_mp, Infected Water
+moreplanets:infected_vines, Infected Vines
+moreplanets:sporelily, Sporelily
+moreplanets:infected_oak_fence_gate, Infected Oak Fence Gate
+moreplanets:nibiru_ancient_chest, Nibiru Ancient Chest
+moreplanets:infected_snow, Infected Snow
+moreplanets:purified_snow, Purified Snow
+moreplanets:infected_ice, Infected Ice
+moreplanets:infected_packed_ice, Infected Packed Ice
+moreplanets:infected_snow_layer, tile.infected_snow_layer.name
+moreplanets:purified_snow_layer, tile.purified_snow_layer.name
+moreplanets:green_vein_grass_block, Green Vein Grass Block
+moreplanets:infected_melon, Infected Melon
+moreplanets:infected_gravel, Infected Gravel
+moreplanets:infected_clay, Infected Clay
+moreplanets:nibiru_treasure_chest, Nibiru Treasure Chest
+moreplanets:infected_chest, Infected Chest
+moreplanets:alien_berry_chest, Alien Berry Chest
+moreplanets:multalic_crystal, Multalic Crystal
+moreplanets:infected_prismarine, Infected Prismarine
+moreplanets:infected_prismarine_bricks, Infected Prismarine Bricks
+moreplanets:infected_dark_prismarine, Infected Dark Prismarine
+moreplanets:infected_sea_lantern, Infected Sea Lantern
+moreplanets:infected_sponge, Infected Sponge
+moreplanets:infected_wet_sponge, Infected Wet Sponge
+moreplanets:infected_seaweed, Infected Seaweed
+moreplanets:oil_ore, Oil Ore
+moreplanets:helium_gas, Helium Gas
+moreplanets:infected_vines_dirt, Infected Vines Dirt
+moreplanets:infected_torch, Infected Torch
+moreplanets:infected_furnace, Infected Furnace
+moreplanets:terrastone_furnace, Terrastone Furnace
+moreplanets:juicer_egg, Juicer Egg
+moreplanets:nuclear_waste_tank, Nuclear Waste Tank
+moreplanets:nuclear_waste_fluid, Nuclear Waste
+moreplanets:vein_frame, Vein Frame
+moreplanets:nuclear_waste_generator, Nuclear Waste Generator
+moreplanets:alien_berry_oak_fence_gate, Alien Berry Oak Fence Gate
+moreplanets:multalic_crystal_block, Block of Multalic Crystal
+moreplanets:terrastone, Terrastone
+moreplanets:purified_water_fluid, Purified Water
+moreplanets:purified_gravel, Purified Gravel
+moreplanets:huge_terrashroom_block, Terrashroom Block
+moreplanets:sealable_nuclear_waste_rod, Sealable Nuclear Waste Rod
+moreplanets:nibiru_dungeon_brick_stairs, Nibiru Dungeon Brick Stairs
+moreplanets:infected_oak_stairs, Infected Oak Stairs
+moreplanets:alien_berry_oak_stairs, Alien Berry Oak Stairs
+moreplanets:infected_prismarine_stairs, Infected Prismarine Stairs
+moreplanets:infected_prismarine_brick_stairs, Infected Prismarine Brick Stairs
+moreplanets:infected_dark_prismarine_stairs, Infected Dark Prismarine Stairs
+moreplanets:infected_vein_stone_bricks_stairs, Infected Vein Stone Bricks Stairs
+moreplanets:cracked_infected_stone_bricks_stairs, Cracked Infected Stone Bricks
+moreplanets:infected_cut_sandstone_stairs, Infected Cut Sandstone Stairs
+moreplanets:nibiru_cobblestone_stairs, Nibiru Cobblestone Stairs
+moreplanets:infected_stone_bricks_stairs, Infected Stone Bricks Stairs
+moreplanets:infected_sandstone_stairs, Infected Sandstone Stairs
+moreplanets:terrastone_stairs, Terrastone Stairs
+moreplanets:infected_prismarine_slab, Infected Prismarine Slab
+moreplanets:infected_prismarine_brick_slab, Infected Prismarine Brick Slab
+moreplanets:infected_dark_prismarine_slab, Infected Dark Prismarine Slab
+moreplanets:infected_stone_bricks_slab, Infected Stone Bricks Slab
+moreplanets:infected_vein_stone_bricks_slab, Infected Vein Stone Bricks Slab
+moreplanets:infected_cracked_stone_bricks_slab, Cracked Infected Stone Bricks Slab
+moreplanets:terrastone_slab, Terrastone Slab
+moreplanets:infected_sandstone_slab, Infected Sandstone Slab
+moreplanets:infected_cut_sandstone_slab, Infected Cut Sandstone Slab
+moreplanets:empty_capsule, Empty Capsule
+moreplanets:infected_spore_protection_capsule, Infected Spore Protection Capsule
+moreplanets:dark_energy_protection_capsule, Dark Energy Protection Capsule
+moreplanets:laser_bullet, Laser Bullet
+moreplanets:infected_purlonite_laser_bullet, Infected Purlonite Laser Bullet
+moreplanets:ion_cannon_schematic, item.ion_cannon_schematic.name
+moreplanets:black_hole_storage_schematic, item.black_hole_storage_schematic.name
+moreplanets:zelius_fish, Zelius Fish
+moreplanets:glowing_alien_fish, Glowing Alien Fish
+moreplanets:cheese_fish, Cheese Fish
+moreplanets:space_warper_core, Space Warper Core
+moreplanets:space_bow, Space Bow
+moreplanets:space_fishing_rod, Space Fishing Rod
+moreplanets:blue_dye, Blue Dye
+moreplanets:laser_gun, Laser Gun
+moreplanets:alien_defender_reinforcement, Alien Defender Reinforcement
+moreplanets:creative_space_kit, Creative Space Kit
+moreplanets:vein_floater_disc, item.vein_floater_disc.name
+moreplanets:upgrade_template, Machine Upgrade Template
+moreplanets:shield_damage_upgrade, Shield Damage Upgrade
+moreplanets:shield_size_upgrade, Shield Size Upgrade
+moreplanets:shield_capacity_upgrade, Shield Capacity Upgrade
+moreplanets:machine_speed_upgrade, Machine Speed Upgrade
+moreplanets:gravity_amulet, Gravity Amulet (WIP)
+moreplanets:illenium_ingot, Illenium Ingot
+moreplanets:setrorium_shard, Setrorium Shard
+moreplanets:compressed_illenium, Compressed Illenium
+moreplanets:compressed_setrorium, Compressed Setrorium
+moreplanets:infected_purlonite_shard, Infected Purlonite Shard
+moreplanets:alien_miner_part, Alien Miner Part
+moreplanets:glowing_iron_ingot, Glowing Iron Ingot
+moreplanets:black_hole_fragments, Black Hole Fragments
+moreplanets:anti_gravity_fragments, Anti Gravity Fragments
+moreplanets:infected_purlonite_bomb, Infected Purlonite Bomb
+moreplanets:diona_dungeon_key, Diona Dungeon Key
+moreplanets:infected_purlonite_slimeball, Infected Purlonite Slimeball
+moreplanets:infected_purlonite_arrow, Infected Purlonite Arrow
+moreplanets:dark_energy_pearl, Dark Energy Pearl
+moreplanets:anti_gravity_arrow, Anti Gravity Arrow
+moreplanets:illenium_sword, Illenium Sword
+moreplanets:illenium_shovel, Illenium Shovel
+moreplanets:illenium_pickaxe, Illenium Pickaxe
+moreplanets:illenium_axe, Illenium Axe
+moreplanets:illenium_hoe, Illenium Hoe
+moreplanets:illenium_helmet, Illenium Helmet
+moreplanets:illenium_chestplate, Illenium Chestplate
+moreplanets:illenium_leggings, Illenium Leggings
+moreplanets:illenium_boots, Illenium Boots
+moreplanets:breathable_illenium_helmet, Breathable Illenium Helmet
+moreplanets:diremsium_ingot, Diremsium Ingot
+moreplanets:zyptorium_ingot, Zyptorium Ingot
+moreplanets:compressed_diremsium, Compressed Diremsium
+moreplanets:compressed_zyptorium, Compressed Zyptorium
+moreplanets:cheese_milk_curd, Cheese Milk Curd
+moreplanets:raw_cheese_beef, Raw Cheese Beef
+moreplanets:cooked_cheese_beef, Cooked Cheese Steak
+moreplanets:cheese_spore_berry, Cheese Spore Berry
+moreplanets:cheese_slimeball, Cheese Slimeball
+moreplanets:cheese_spore_item, Cheese Spore
+moreplanets:cheese_spore_seed, Cheese Spore Seed
+moreplanets:chalos_dungeon_key, Chalos Dungeon Key
+moreplanets:cheese_spore_door, Cheese Spore Door
+moreplanets:inferumite_crystal, Inferumite Crystal
+moreplanets:multalic_crystal_pieces, Multalic Crystal Pieces
+moreplanets:infected_coal, Infected Coal
+moreplanets:infected_charcoal, Infected Charcoal
+moreplanets:shlime_tail, Shlime Tail
+moreplanets:infected_prismarine_shard, Infected Prismarine Shard
+moreplanets:infected_prismarine_crystals, Infected Prismarine Crystals
+moreplanets:infected_apple, Infected Apple
+moreplanets:infected_golden_apple, Infected Golden Apple
+moreplanets:enchanted_infected_golden_apple, item.enchanted_infected_golden_apple.name
+moreplanets:infected_melon_slice, Infected Melon Slice
+moreplanets:alien_berry, Alien Berry
+moreplanets:golden_alien_berry, Golden Alien Berry
+moreplanets:terraberry, Terraberry
+moreplanets:raw_shlime_meat, Raw Shlime Meat
+moreplanets:cooked_shlime_meat, Cooked Shlime Meat
+moreplanets:infected_wheat_seeds, Infected Wheat Seeds
+moreplanets:infected_oak_door, Infected Oak Door
+moreplanets:alien_berry_oak_door, Alien Berry Oak Door
+moreplanets:infected_wheat, Infected Wheat
+moreplanets:infected_clay_ball, Infected Clay Ball
+moreplanets:infected_snowball, Infected Snowball
+moreplanets:purified_snowball, Purified Snowball
+moreplanets:nibiru_dungeon_key, Nibiru Dungeon Key
+moreplanets:nibiru_dungeon_key_bow, Nibiru Dungeon Key Bow
+moreplanets:nibiru_dungeon_key_blade, Nibiru Dungeon Key Blade
+moreplanets:infected_sugar_cane, Infected Sugar Cane
+moreplanets:infected_egg, Infected Egg
+moreplanets:infected_arrow, Infected Arrow
+moreplanets:infected_melon_seeds, Infected Melon Seeds
+moreplanets:vein_eye, Vein Eye
+moreplanets:waste_rod_picker, Waste Rod Picker
+moreplanets:nuclear_waste_rod, Nuclear Waste Rod
+moreplanets:gravity_boots, Gravity Boots
+moreplanets:extrailonite_ingot, Extrailonite Ingot
+moreplanets:compressed_extrailonite, Compressed Extrailonite
+moreplanets:oscalea_door, Oscalea Door
+moreplanets:frolia_door, Frolia Door
+moreplanets:strawberry, Strawberry
+moreplanets:giant_blueberry, Giant Blueberry
+moreplanets:chocolate_bar, Chocolate Bar
+moreplanets:jelly_beans, Jelly Beans
+moreplanets:marshmallow, Marshmallow on a Stick
+moreplanets:cooked_marshmallow, Cooked Marshmallow
+moreplanets:blue_pear, Blue Pear
+moreplanets:red_candy_cane_stick, Red Candy Cane Stick
+moreplanets:green_candy_cane_stick, Green Candy Cane Stick
+moreplanets:blue_candy_cane_stick, Blue Candy Cane Stick
+moreplanets:orange_candy_cane_stick, Orange Candy Cane Stick
+moreplanets:pink_candy_cane_stick, Pink Candy Cane Stick
+moreplanets:yellow_candy_cane_stick, Yellow Candy Cane Stick
+moreplanets:purple_candy_cane_stick, Purple Candy Cane Stick
+moreplanets:rainbow_candy_cane_stick, Rainbow Candy Cane Stick
+moreplanets:grape_jelly, Grape Jelly
+moreplanets:raspberry_jelly, Raspberry Jelly
+moreplanets:strawberry_jelly, Strawberry Jelly
+moreplanets:berry_jelly, Berry Jelly
+moreplanets:lime_jelly, Lime Jelly
+moreplanets:orange_jelly, Orange Jelly
+moreplanets:green_jelly, Green Jelly
+moreplanets:lemon_jelly, Lemon Jelly
+moreplanets:diremsium_sword, Diremsium Sword
+moreplanets:diremsium_shovel, Diremsium Shovel
+moreplanets:diremsium_pickaxe, Diremsium Pickaxe
+moreplanets:diremsium_axe, Diremsium Axe
+moreplanets:diremsium_hoe, Diremsium Hoe
+moreplanets:cheese_spore_wood_sword, Cheese Spore Wooden Sword
+moreplanets:cheese_spore_wood_shovel, Cheese Spore Wooden Shovel
+moreplanets:cheese_spore_wood_pickaxe, Cheese Spore Wooden Pickaxe
+moreplanets:cheese_spore_wood_axe, Cheese Spore Wooden Axe
+moreplanets:cheese_spore_wood_hoe, Cheese Spore Wooden Hoe
+moreplanets:infected_wood_sword, Infected Wooden Sword
+moreplanets:infected_wood_shovel, Infected Wooden Shovel
+moreplanets:infected_wood_pickaxe, Infected Wooden Pickaxe
+moreplanets:infected_wood_axe, Infected Wooden Axe
+moreplanets:infected_wood_hoe, Infected Wooden Hoe
+moreplanets:alien_berry_wood_sword, Alien Berry Wooden Sword
+moreplanets:alien_berry_wood_shovel, Alien Berry Wooden Shovel
+moreplanets:alien_berry_wood_pickaxe, Alien Berry Wooden Pickaxe
+moreplanets:alien_berry_wood_axe, Alien Berry Wooden Axe
+moreplanets:alien_berry_wood_hoe, Alien Berry Wooden Hoe
+moreplanets:nibiru_stone_sword, Nibiru Stone Sword
+moreplanets:nibiru_stone_shovel, Nibiru Stone Shovel
+moreplanets:nibiru_stone_pickaxe, Nibiru Stone Pickaxe
+moreplanets:nibiru_stone_axe, Nibiru Stone Axe
+moreplanets:nibiru_stone_hoe, Nibiru Stone Hoe
+moreplanets:multalic_crystal_sword, Multalic Crystal Sword
+moreplanets:multalic_crystal_shovel, Multalic Crystal Shovel
+moreplanets:multalic_crystal_pickaxe, Multalic Crystal Pickaxe
+moreplanets:multalic_crystal_axe, Multalic Crystal Axe
+moreplanets:multalic_crystal_hoe, Multalic Crystal Hoe
+moreplanets:diremsium_helmet, Diremsium Helmet
+moreplanets:diremsium_chestplate, Diremsium Chestplate
+moreplanets:diremsium_leggings, Diremsium Leggings
+moreplanets:diremsium_boots, Diremsium Boots
+moreplanets:breathable_diremsium_helmet, Breathable Diremsium Helmet
+moreplanets:multalic_crystal_helmet, Multalic Crystal Helmet
+moreplanets:multalic_crystal_chestplate, Multalic Crystal Chestplate
+moreplanets:multalic_crystal_leggings, Multalic Crystal Leggings
+moreplanets:multalic_crystal_boots, Multalic Crystal Boots
+moreplanets:breathable_multalic_crystal_helmet, Breathable Multalic Crystal Helmet
 hbm:redstone_sword, Redstone Sword
 hbm:big_sword, Great Sword
 hbm:dosimeter, Dosimeter
@@ -2520,6 +3070,15 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Tantalum Carbide
 hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Molybdenum Disilicide
 hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Titanium Tungsten Carbide
 hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Incoloy-MA956
+hbm:fluid_tank_full:0, Universal Fluid Tank: XP
+hbm:fluid_tank_full:0, Universal Fluid Tank: Infected Purlonite Water
+hbm:fluid_tank_full:0, Universal Fluid Tank: Infected Purlonite Lava
+hbm:fluid_tank_full:0, Universal Fluid Tank: Cheese Milk
+hbm:fluid_tank_full:0, Universal Fluid Tank: Gaseous Cheese Milk
+hbm:fluid_tank_full:0, Universal Fluid Tank: Infected Water
+hbm:fluid_tank_full:0, Universal Fluid Tank: Helium Gas
+hbm:fluid_tank_full:0, Universal Fluid Tank: Nuclear Waste
+hbm:fluid_tank_full:0, Universal Fluid Tank: Purified Water
 hbm:fluid_tank_full:0, Universal Fluid Tank: Low-Pressure Steam
 hbm:fluid_tank_full:0, Universal Fluid Tank: Dense Steam
 hbm:fluid_tank_full:0, Universal Fluid Tank: Super Dense Steam
@@ -2580,15 +3139,6 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Oxidized Watz Mud
 hbm:fluid_tank_full:0, Universal Fluid Tank: Schrabidic Acid
 hbm:fluid_tank_full:0, Universal Fluid Tank: Corium
 hbm:fluid_tank_full:0, Universal Fluid Tank: Volcanic Lava
-hbm:fluid_tank_full:0, Universal Fluid Tank: XP
-hbm:fluid_tank_full:0, Universal Fluid Tank: Infected Purlonite Water
-hbm:fluid_tank_full:0, Universal Fluid Tank: Infected Purlonite Lava
-hbm:fluid_tank_full:0, Universal Fluid Tank: Cheese Milk
-hbm:fluid_tank_full:0, Universal Fluid Tank: Gaseous Cheese Milk
-hbm:fluid_tank_full:0, Universal Fluid Tank: Infected Water
-hbm:fluid_tank_full:0, Universal Fluid Tank: Helium Gas
-hbm:fluid_tank_full:0, Universal Fluid Tank: Nuclear Waste
-hbm:fluid_tank_full:0, Universal Fluid Tank: Purified Water
 hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.deadblood
 hbm:fluid_tank_full:0, Universal Fluid Tank: Seared Stone
 hbm:fluid_tank_full:0, Universal Fluid Tank: Molten Obsidian
@@ -3227,6 +3777,15 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Molten Tantalum Carbide
 hbm:fluid_barrel_full:0, Fluid Barrel: Molten Molybdenum Disilicide
 hbm:fluid_barrel_full:0, Fluid Barrel: Molten Titanium Tungsten Carbide
 hbm:fluid_barrel_full:0, Fluid Barrel: Molten Incoloy-MA956
+hbm:fluid_barrel_full:0, Fluid Barrel: XP
+hbm:fluid_barrel_full:0, Fluid Barrel: Infected Purlonite Water
+hbm:fluid_barrel_full:0, Fluid Barrel: Infected Purlonite Lava
+hbm:fluid_barrel_full:0, Fluid Barrel: Cheese Milk
+hbm:fluid_barrel_full:0, Fluid Barrel: Gaseous Cheese Milk
+hbm:fluid_barrel_full:0, Fluid Barrel: Infected Water
+hbm:fluid_barrel_full:0, Fluid Barrel: Helium Gas
+hbm:fluid_barrel_full:0, Fluid Barrel: Nuclear Waste
+hbm:fluid_barrel_full:0, Fluid Barrel: Purified Water
 hbm:fluid_barrel_full:0, Fluid Barrel: Low-Pressure Steam
 hbm:fluid_barrel_full:0, Fluid Barrel: Dense Steam
 hbm:fluid_barrel_full:0, Fluid Barrel: Super Dense Steam
@@ -3287,15 +3846,6 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Oxidized Watz Mud
 hbm:fluid_barrel_full:0, Fluid Barrel: Schrabidic Acid
 hbm:fluid_barrel_full:0, Fluid Barrel: Corium
 hbm:fluid_barrel_full:0, Fluid Barrel: Volcanic Lava
-hbm:fluid_barrel_full:0, Fluid Barrel: XP
-hbm:fluid_barrel_full:0, Fluid Barrel: Infected Purlonite Water
-hbm:fluid_barrel_full:0, Fluid Barrel: Infected Purlonite Lava
-hbm:fluid_barrel_full:0, Fluid Barrel: Cheese Milk
-hbm:fluid_barrel_full:0, Fluid Barrel: Gaseous Cheese Milk
-hbm:fluid_barrel_full:0, Fluid Barrel: Infected Water
-hbm:fluid_barrel_full:0, Fluid Barrel: Helium Gas
-hbm:fluid_barrel_full:0, Fluid Barrel: Nuclear Waste
-hbm:fluid_barrel_full:0, Fluid Barrel: Purified Water
 hbm:fluid_barrel_full:0, Fluid Barrel: fluid.deadblood
 hbm:fluid_barrel_full:0, Fluid Barrel: Seared Stone
 hbm:fluid_barrel_full:0, Fluid Barrel: Molten Obsidian
@@ -4300,7 +4850,7 @@ hbm:canteen_fab, Fabulous Vodka
 hbm:pancake, Pancake made from Scrap Metal, Nails and Gem Dust
 hbm:nugget, Chicken Nugget
 hbm:peas, Pea Pod
-hbm:marshmallow, Marshmallow
+hbm:marshmallow, Marshmallow on a Stick
 hbm:marshmallow_roasted, Marshmallow on a Stick
 hbm:spongebob_macaroni, Spongebob Macaroni
 hbm:canned_beef, Canned Beef
@@ -4701,7 +5251,7 @@ hbm:crystal_trixite, Trixite Crystals
 hbm:crystal_osmiridium, Osmiridium Crystals
 hbm:gem_tantalium, Tantalium Polycrystal
 hbm:gem_volcanic, Volcanic Gem
-hbm:upgrade_template, Upgrade Template
+hbm:upgrade_template, Machine Upgrade Template
 hbm:deuterium_filter, Deuterium Filter
 hbm:circuit_raw, Basic Circuit Assembly
 hbm:circuit_aluminium, Basic Circuit
@@ -6048,6 +6598,15 @@ hbm:fluid_icon:0, Molten Tantalum Carbide
 hbm:fluid_icon:0, Molten Molybdenum Disilicide
 hbm:fluid_icon:0, Molten Titanium Tungsten Carbide
 hbm:fluid_icon:0, Molten Incoloy-MA956
+hbm:fluid_icon:0, XP
+hbm:fluid_icon:0, Infected Purlonite Water
+hbm:fluid_icon:0, Infected Purlonite Lava
+hbm:fluid_icon:0, Cheese Milk
+hbm:fluid_icon:0, Gaseous Cheese Milk
+hbm:fluid_icon:0, Infected Water
+hbm:fluid_icon:0, Helium Gas
+hbm:fluid_icon:0, Nuclear Waste
+hbm:fluid_icon:0, Purified Water
 hbm:fluid_icon:0, Low-Pressure Steam
 hbm:fluid_icon:0, Dense Steam
 hbm:fluid_icon:0, Super Dense Steam
@@ -6108,15 +6667,6 @@ hbm:fluid_icon:0, Oxidized Watz Mud
 hbm:fluid_icon:0, Schrabidic Acid
 hbm:fluid_icon:0, Corium
 hbm:fluid_icon:0, Volcanic Lava
-hbm:fluid_icon:0, XP
-hbm:fluid_icon:0, Infected Purlonite Water
-hbm:fluid_icon:0, Infected Purlonite Lava
-hbm:fluid_icon:0, Cheese Milk
-hbm:fluid_icon:0, Gaseous Cheese Milk
-hbm:fluid_icon:0, Infected Water
-hbm:fluid_icon:0, Helium Gas
-hbm:fluid_icon:0, Nuclear Waste
-hbm:fluid_icon:0, Purified Water
 hbm:fluid_icon:0, fluid.deadblood
 hbm:fluid_icon:0, Seared Stone
 hbm:fluid_icon:0, Molten Obsidian
@@ -7722,556 +8272,6 @@ opencomputers:misc:0, Creatix
 opencomputers:misc:0, Tablet
 opencomputers:misc:0, Hover Boots
 opencomputers:misc:0, EEPROM (Lua BIOS)
-moreplanets:diona_cobblestone_slab, Diona Cobblestone Slab
-moreplanets:chalos_cobblestone_slab, Chalos Cobblestone Slab
-moreplanets:nibiru_cobblestone_slab, Nibiru Cobblestone Slab
-moreplanets:diona_dungeon_brick_slab, Diona Dungeon Brick Slab
-moreplanets:chalos_dungeon_brick_slab, Chalos Dungeon Brick Slab
-moreplanets:nibiru_dungeon_brick_slab, Nibiru Dungeon Brick Slab
-moreplanets:alien_ship_decoration_slab, Alien Ship Decoration Slab
-moreplanets:cheese_spore_slab, Cheese Spore Slab
-moreplanets:infected_oak_slab, Infected Oak Slab
-moreplanets:alien_berry_oak_slab, Alien Berry Oak Slab
-moreplanets:oscalea_slab, Oscalea Slab
-moreplanets:frolia_slab, Frolia Slab
-moreplanets:infected_oak_pressure_plate, Infected Oak Pressure Plate
-moreplanets:alien_berry_oak_pressure_plate, Alien Berry Oak Pressure Plate
-moreplanets:oscalea_pressure_plate, Oscalea Pressure Plate
-moreplanets:frolia_pressure_plate, Frolia Pressure Plate
-moreplanets:dark_energy_storage_cluster, Dark Energy Storage Cluster
-moreplanets:nuclear_waste_energy_storage_cluster, Nuclear Waste Energy Storage Cluster
-moreplanets:space_warp_pad, Space Warp Pad
-moreplanets:dark_energy_receiver, Dark Energy Receiver
-moreplanets:black_hole_storage, Black Hole Storage
-moreplanets:alien_defender_beacon, Alien Defender Beacon
-moreplanets:shield_generator, Shield Generator
-moreplanets:alien_ship_booster, Alien Ship Booster
-moreplanets:alien_ship_decoration_0, Alien Ship Decoration
-moreplanets:alien_ship_decoration_1, Alien Ship Decoration
-moreplanets:alien_chest, Alien Chest
-moreplanets:tinted_glass, Tinted Glass
-moreplanets:white_tinted_glass, White Tinted Glass
-moreplanets:orange_tinted_glass, Orange Tinted Glass
-moreplanets:magenta_tinted_glass, Magenta Tinted Glass
-moreplanets:light_blue_tinted_glass, Light Blue Tinted Glass
-moreplanets:yellow_tinted_glass, Yellow Tinted Glass
-moreplanets:lime_tinted_glass, Lime Tinted Glass
-moreplanets:pink_tinted_glass, Pink Tinted Glass
-moreplanets:gray_tinted_glass, Gray Tinted Glass
-moreplanets:silver_tinted_glass, Light Gray Tinted Glass
-moreplanets:cyan_tinted_glass, Cyan Tinted Glass
-moreplanets:purple_tinted_glass, Purple Tinted Glass
-moreplanets:blue_tinted_glass, Blue Tinted Glass
-moreplanets:brown_tinted_glass, Brown Tinted Glass
-moreplanets:green_tinted_glass, Green Tinted Glass
-moreplanets:red_tinted_glass, Red Tinted Glass
-moreplanets:black_tinted_glass, Black Tinted Glass
-moreplanets:tinted_glass_pane, Tinted Glass Pane
-moreplanets:white_tinted_glass_pane, White Tinted Glass Pane
-moreplanets:orange_tinted_glass_pane, Orange Tinted Glass Pane
-moreplanets:magenta_tinted_glass_pane, Magenta Tinted Glass Pane
-moreplanets:light_blue_tinted_glass_pane, Light Blue Tinted Glass Pane
-moreplanets:yellow_tinted_glass_pane, Yellow Tinted Glass Pane
-moreplanets:lime_tinted_glass_pane, Lime Tinted Glass Pane
-moreplanets:pink_tinted_glass_pane, Pink Tinted Glass Pane
-moreplanets:gray_tinted_glass_pane, Gray Tinted Glass Pane
-moreplanets:silver_tinted_glass_pane, Light Gray Tinted Glass Pane
-moreplanets:cyan_tinted_glass_pane, Cyan Tinted Glass Pane
-moreplanets:purple_tinted_glass_pane, Purple Tinted Glass Pane
-moreplanets:blue_tinted_glass_pane, Blue Tinted Glass Pane
-moreplanets:brown_tinted_glass_pane, Brown Tinted Glass Pane
-moreplanets:green_tinted_glass_pane, Green Tinted Glass Pane
-moreplanets:red_tinted_glass_pane, Red Tinted Glass Pane
-moreplanets:black_tinted_glass_pane, Black Tinted Glass Pane
-moreplanets:diona_cobblestone_wall, Diona Cobblestone Wall
-moreplanets:chalos_cobblestone_wall, Chalos Cobblestone Wall
-moreplanets:nibiru_cobblestone_wall, Nibiru Cobblestone Wall
-moreplanets:diona_dungeon_brick_wall, Diona Dungeon Brick Wall
-moreplanets:chalos_dungeon_brick_wall, Chalos Dungeon Brick Wall
-moreplanets:nibiru_dungeon_brick_wall, Nibiru Dungeon Brick Wall
-moreplanets:polished_tin_decoration_block, Polished Tin Decoration Block
-moreplanets:polished_aluminum_decoration_block, Polished Aluminum Decoration Block
-moreplanets:desh_frame, Desh Frame
-moreplanets:dungeon_glowstone, Dungeon Glowstone
-moreplanets:fronos_grass_block, Fronos Grass Block
-moreplanets:fronos_dirt, Fronos Dirt
-moreplanets:fronos_coarse_dirt, Fronos Coarse Dirt
-moreplanets:fronos_farmland, Fronos Farmland
-moreplanets:fronos_stone, Fronos Stone
-moreplanets:fronos_cobblestone, Fronos Cobblestone
-moreplanets:fronos_stone_bricks, Fronos Stone Bricks
-moreplanets:fronos_mossy_stone_bricks, Fronos Mossy Stone Bricks
-moreplanets:fronos_cracked_stone_bricks, Fronos Cracked Stone Bricks
-moreplanets:fronos_chiseled_stone_bricks, Fronos Chiseled Stone Bricks
-moreplanets:fronos_dungeon_brick, Fronos Dungeon Brick
-moreplanets:fronos_grass, Fronos Grass
-moreplanets:large_wheat, Large Wheat
-moreplanets:fronos_tall_grass, Fronos Tall Grass
-moreplanets:oscalea_fence, Oscalea Fence
-moreplanets:frolia_fence, Frolia Fence
-moreplanets:oscalea_fence_gate, Oscalea Fence Gate
-moreplanets:frolia_fence_gate, Frolia Fence Gate
-moreplanets:oscalea_stairs, Oscalea Stairs
-moreplanets:frolia_stairs, Frolia Stairs
-moreplanets:oscalea_trapdoor, Oscalea Trapdoor
-moreplanets:frolia_trapdoor, Frolia Trapdoor
-moreplanets:fronos_iron_ore, Iron Ore
-moreplanets:fronos_gold_ore, Gold Ore
-moreplanets:fronos_tin_ore, Tin Ore
-moreplanets:fronos_copper_ore, Copper Ore
-moreplanets:fronos_aluminum_ore, Aluminum Ore
-moreplanets:fronos_lead_ore, Lead Ore
-moreplanets:fronos_coal_ore, Coal Ore
-moreplanets:fronos_lapis_ore, Lapis Ore
-moreplanets:fronos_diamond_ore, Diamond Ore
-moreplanets:fronos_emerald_ore, Emerald Ore
-moreplanets:fronos_redstone_ore, Redstone Ore
-moreplanets:fronos_silicon_ore, Silicon Ore
-moreplanets:fronos_quartz_ore, Quartz Ore
-moreplanets:extrailonite_ore, Extrailonite Ore
-moreplanets:red_candy_cane, Red Candy Cane
-moreplanets:green_candy_cane, Green Candy Cane
-moreplanets:blue_candy_cane, Blue Candy Cane
-moreplanets:orange_candy_cane, Orange Candy Cane
-moreplanets:pink_candy_cane, Pink Candy Cane
-moreplanets:yellow_candy_cane, Yellow Candy Cane
-moreplanets:purple_candy_cane, Purple Candy Cane
-moreplanets:rainbow_candy_cane, Rainbow Candy Cane
-moreplanets:grape_jelly_block, Grape Jelly Block
-moreplanets:raspberry_jelly_block, Raspberry Jelly Block
-moreplanets:strawberry_jelly_block, Strawberry Jelly Block
-moreplanets:berry_jelly_block, Berry Jelly Block
-moreplanets:lime_jelly_block, Lime Jelly Block
-moreplanets:orange_jelly_block, Orange Jelly Block
-moreplanets:green_jelly_block, Green Jelly Block
-moreplanets:lemon_jelly_block, Lemon Jelly Block
-moreplanets:diona_surface_rock, Diona Surface Rock
-moreplanets:diona_sub_surface_rock, Diona Sub-Surface Rock
-moreplanets:diona_rock, Diona Rock
-moreplanets:diona_cobblestone, Diona Cobblestone
-moreplanets:setrorium_ore, Setrorium Ore
-moreplanets:illenium_ore, Illenium Ore
-moreplanets:diona_tin_ore, Tin Ore
-moreplanets:diona_copper_ore, Copper Ore
-moreplanets:diona_aluminum_ore, Aluminum Ore
-moreplanets:setrorium_block, Block of Setrorium
-moreplanets:illenium_block, Block of Illenium
-moreplanets:diona_dungeon_brick, Diona Dungeon Brick
-moreplanets:infected_purlonite_segment, Infected Purlonite Segment
-moreplanets:infected_purlonite_eye_core, Infected Purlonite Eye Core
-moreplanets:infected_purlonite_ender_core, Infected Purlonite Ender Core
-moreplanets:albetius_worm_egg_rock, Albetius Worm Egg Rock
-moreplanets:infected_purlonite_planks, Infected Purlonite Planks
-moreplanets:infected_purlonite_fence, Infected Purlonite Fence
-moreplanets:diona_ancient_chest, Diona Ancient Chest
-moreplanets:diona_treasure_chest, Diona Treasure Chest
-moreplanets:zelius_egg, Zelius Egg
-moreplanets:infected_purlonite_cobweb, Infected Purlonite Cobweb
-moreplanets:infected_purlonite_torch, Infected Purlonite Torch
-moreplanets:infected_purlonite_crystal, Infected Purlonite Crystal
-moreplanets:alien_miner_blood, Alien Miner Blood
-moreplanets:infected_purlonite_slime_block, Infected Purlonite Slime Block
-moreplanets:dark_energy_core, Dark Energy Core
-moreplanets:infected_purlonite_water_fluid, Infected Purlonite Water
-moreplanets:infected_purlonite_lava_fluid, Infected Purlonite Lava
-moreplanets:diona_cobblestone_stairs, Diona Cobblestone Stairs
-moreplanets:diona_dungeon_brick_stairs, Diona Dungeon Brick Stairs
-moreplanets:dark_energy_generator, Dark Energy Generator
-moreplanets:glowing_iron_block, Block of Glowing Iron
-moreplanets:crashed_alien_probe, Crashed Alien Probe
-moreplanets:alien_ship_decoration_stairs, Alien Ship Decoration Stairs
-moreplanets:koentus_regolith, Koentus Regolith
-moreplanets:koentus_fine_regolith, Koentus Fine Regolith
-moreplanets:koentus_rock, Koentus Rock
-moreplanets:koentus_cobblestone, Koentus Cobblestone
-moreplanets:anti_gravity_ore, Anti Gravity Ore
-moreplanets:goldenite_crystals_ore, Goldenite Crystals Ore
-moreplanets:koentus_tin_ore, Tin Ore
-moreplanets:koentus_copper_ore, Copper Ore
-moreplanets:koentus_aluminum_ore, Aluminum Ore
-moreplanets:koentus_iron_ore, Iron Ore
-moreplanets:anti_gravity_fragments_block, Block of Anti Gravity Fragments
-moreplanets:goldenite_crystals_block, Block of Goldenite Crystals
-moreplanets:koentus_dungeon_brick, Koentus Dungeon Brick
-moreplanets:fallen_koentus_meteor, Fallen Koentus Meteor
-moreplanets:koentus_ice, Koentus Ice
-moreplanets:white_glowing_hardened_ice, White Glowing Hardened Ice
-moreplanets:orange_glowing_hardened_ice, Orange Glowing Hardened Ice
-moreplanets:magenta_glowing_hardened_ice, Magenta Glowing Hardened Ice
-moreplanets:light_blue_glowing_hardened_ice, Light Blue Glowing Hardened Ice
-moreplanets:yellow_glowing_hardened_ice, Yellow Glowing Hardened Ice
-moreplanets:lime_glowing_hardened_ice, Lime Glowing Hardened Ice
-moreplanets:pink_glowing_hardened_ice, Pink Glowing Hardened Ice
-moreplanets:gray_glowing_hardened_ice, Gray Glowing Hardened Ice
-moreplanets:silver_glowing_hardened_ice, Silver Glowing Hardened Ice
-moreplanets:cyan_glowing_hardened_ice, Cyan Glowing Hardened Ice
-moreplanets:purple_glowing_hardened_ice, Purple Glowing Hardened Ice
-moreplanets:blue_glowing_hardened_ice, Blue Glowing Hardened Ice
-moreplanets:brown_glowing_hardened_ice, Brown Glowing Hardened Ice
-moreplanets:green_glowing_hardened_ice, Green Glowing Hardened Ice
-moreplanets:red_glowing_hardened_ice, Red Glowing Hardened Ice
-moreplanets:black_glowing_hardened_ice, Black Glowing Hardened Ice
-moreplanets:creep_block, Creep Block
-moreplanets:gravity_creep_block, Gravity Creep Block
-moreplanets:gravity_creep_extractor, Gravity Creep Extractor
-moreplanets:gravity_creep_vines, Gravity Creep Vines
-moreplanets:chalos_rock, Chalos Rock
-moreplanets:chalos_cobblestone, Chalos Cobblestone
-moreplanets:diremsium_ore, Diremsium Ore
-moreplanets:zyptorium_ore, Zyptorium Ore
-moreplanets:cheese_milk_ore, Cheese Milk Ore
-moreplanets:chalos_iron_ore, Iron Ore
-moreplanets:chalos_tin_ore, Tin Ore
-moreplanets:chalos_copper_ore, Copper Ore
-moreplanets:chalos_aluminum_ore, Aluminum Ore
-moreplanets:diremsium_block, Block of Diremsium
-moreplanets:zyptorium_block, Block of Zyptorium
-moreplanets:chalos_dungeon_brick, Chalos Dungeon Brick
-moreplanets:cheese_grass_block, Cheese Grass Block
-moreplanets:cheese_dirt, Cheese Dirt
-moreplanets:cheese_coarse_dirt, Cheese Coarse Dirt
-moreplanets:cheese_spore_stem, Cheese Spore Stem
-moreplanets:cheese_spore_block, Cheese Spore
-moreplanets:cheese_spore_planks, Cheese Spore Planks
-moreplanets:cheese_slime_block, Cheese Slime Block
-moreplanets:chalos_ancient_chest, Chalos Ancient Chest
-moreplanets:chalos_treasure_chest, Chalos Treasure Chest
-moreplanets:cheese_milk_cake, Cheese Milk Cake
-moreplanets:cheese_spore_flower, Cheese Spore Flower
-moreplanets:cheese_grass, Cheese Grass
-moreplanets:cheese_farmland, Cheese Farmland
-moreplanets:cheese_milk_fluid, Cheese Milk
-moreplanets:gaseous_cheese_milk, Gaseous Cheese Milk
-moreplanets:cheese_tall_grass, Cheese Tall Grass
-moreplanets:cheese_spore_crafting_table, Cheese Spore Crafting Table
-moreplanets:cheese_spore_chest, Cheese Spore Chest
-moreplanets:chalos_cobblestone_stairs, Chalos Cobblestone Stairs
-moreplanets:chalos_dungeon_brick_stairs, Chalos Dungeon Brick Stairs
-moreplanets:cheese_spore_stairs, Cheese Spore Stairs
-moreplanets:cheese_spore_fence, Cheese Spore Fence
-moreplanets:cheese_spore_fence_gate, Cheese Spore Fence Gate
-moreplanets:infected_grass_block, Infected Grass Block
-moreplanets:infected_dirt, Infected Dirt
-moreplanets:infected_coarse_dirt, Infected Coarse Dirt
-moreplanets:infected_podzol, Infected Podzol
-moreplanets:infected_grass, Infected Grass
-moreplanets:infected_fern, Infected Fern
-moreplanets:green_vein_grass, Green Vein Grass
-moreplanets:infected_orange_rose_bush, Infected Orange Rose Bush
-moreplanets:infected_tall_grass, Infected Tall Grass
-moreplanets:infected_large_fern, Infected Large Fern
-moreplanets:green_vein_tall_grass, Green Vein Tall Grass
-moreplanets:nibiru_rock, Nibiru Rock
-moreplanets:nibiru_cobblestone, Nibiru Cobblestone
-moreplanets:nibiru_vein_cobblestone, Nibiru Vein Cobblestone
-moreplanets:infected_stone_bricks, Infected Stone Bricks
-moreplanets:infected_vein_stone_bricks, Infected Vein Stone Bricks
-moreplanets:infected_cracked_stone_bricks, Cracked Infected Stone Bricks
-moreplanets:infected_chiseled_stone_bricks, Chiseled Infected Stone Bricks
-moreplanets:inferumite_block, Block of Inferumite
-moreplanets:nibiru_dungeon_brick, Nibiru Dungeon Brick
-moreplanets:mossy_nibiru_dungeon_brick, Mossy Nibiru Dungeon Brick
-moreplanets:infected_sandstone, Infected Sandstone
-moreplanets:infected_chiseled_sandstone, Infected Chiseled Sandstone
-moreplanets:infected_cut_sandstone, Infected Cut Sandstone
-moreplanets:infested_nibiru_rock, Infested Nibiru Rock
-moreplanets:infested_nibiru_cobblestone, Infested Nibiru Cobblestone
-moreplanets:infested_nibiru_vein_cobblestone, Infested Nibiru Vein Cobblestone
-moreplanets:infested_infected_stone_bricks, Infested Infected Stone Bricks
-moreplanets:infested_infected_vein_stone_bricks, Infested Infected Vein Stone Bricks
-moreplanets:infested_infected_cracked_stone_bricks, Infested Cracked Infected Stone Bricks
-moreplanets:infested_infected_chiseled_stone_bricks, Infested Chiseled Infected Stone Bricks
-moreplanets:infected_iron_ore, Infected Iron Ore
-moreplanets:infected_gold_ore, Infected Gold Ore
-moreplanets:infected_tin_ore, Infected Tin Ore
-moreplanets:infected_copper_ore, Infected Copper Ore
-moreplanets:infected_aluminum_ore, Infected Aluminum Ore
-moreplanets:infected_coal_ore, Infected Coal Ore
-moreplanets:infected_lapis_ore, Infected Lapis Ore
-moreplanets:infected_diamond_ore, Infected Diamond Ore
-moreplanets:infected_emerald_ore, Infected Emerald Ore
-moreplanets:infected_redstone_ore, Infected Redstone Ore
-moreplanets:infected_silicon_ore, Infected Silicon Ore
-moreplanets:inferumite_crystal_ore, Inferumite Crystal Ore
-moreplanets:infected_oak_log, Infected Oak Log
-moreplanets:infected_deadwood_log, Infected Deadwood Log
-moreplanets:infected_spruce_log, Infected Spruce Log
-moreplanets:infected_jungle_log, Infected Jungle Log
-moreplanets:alien_berry_oak_log, Alien Berry Oak Log
-moreplanets:oscalea_log, Oscalea Log
-moreplanets:frolia_log, Frolia Log
-moreplanets:oscalea_planks, Oscalea Planks
-moreplanets:frolia_planks, Frolia Planks
-moreplanets:infected_oak_planks, Infected Oak Planks
-moreplanets:infected_spruce_planks, Infected Spruce Planks
-moreplanets:alien_berry_oak_planks, Alien Berry Oak Planks
-moreplanets:infected_oak_leaves, Infected Oak Leaves
-moreplanets:infected_spruce_leaves, Infected Spruce Leaves
-moreplanets:infected_jungle_leaves, Infected Jungle Leaves
-moreplanets:alien_berry_oak_leaves, Alien Berry Oak Leaves
-moreplanets:oscalea_leaves, Oscalea Leaves
-moreplanets:frolia_leaves, Frolia Leaves
-moreplanets:flowering_frolia_leaves, Flowering Frolia Leaves
-moreplanets:infected_oak_sapling, Infected Oak Sapling
-moreplanets:infected_spruce_sapling, Infected Spruce Sapling
-moreplanets:infected_jungle_sapling, Infected Jungle Sapling
-moreplanets:alien_berry_oak_sapling, Alien Berry Oak Sapling
-moreplanets:pure_herb, Pure Herb
-moreplanets:terrapuff_herb, Terrapuff Herb
-moreplanets:batasia_dandelion, Bastasia Dandelion
-moreplanets:pyolonia, Pyolonia
-moreplanets:philipy, Philipy
-moreplanets:white_tail, White Tail
-moreplanets:vealium_vines, Vealium Vines
-moreplanets:terrashroom, Terrashroom
-moreplanets:nemophila, Nemophila
-moreplanets:pink_blechnum, Pink Blechnum
-moreplanets:purple_bush, Purple Bush
-moreplanets:fronos_fern, Fronos Fern
-moreplanets:fronos_lily_pad, Fronos Lily Pad
-moreplanets:fronos_mushroom, Fronos Mushroom
-moreplanets:oscalea_sapling, Oscalea Sapling
-moreplanets:frolia_sapling, Frolia Sapling
-moreplanets:infected_crafting_table, Infected Crafting Table
-moreplanets:alien_berry_crafting_table, Alien Berry Crafting Table
-moreplanets:infected_oak_bookshelf, Infected Oak Bookshelf
-moreplanets:alien_berry_oak_bookshelf, Alien Berry Oak Bookshelf
-moreplanets:infected_oak_fence, Infected Oak Fence
-moreplanets:alien_berry_oak_fence, Alien Berry Oak Fence
-moreplanets:infected_grass_path, Infected Grass Path
-moreplanets:green_vein_grass_path, Green Vein Grass Path
-moreplanets:infected_farmland, Infected Farmland
-moreplanets:infected_sand, Infected Sand
-moreplanets:infected_cactus, Infected Cactus
-moreplanets:infected_water_fluid_mp, Infected Water
-moreplanets:infected_vines, Infected Vines
-moreplanets:sporelily, Sporelily
-moreplanets:infected_oak_fence_gate, Infected Oak Fence Gate
-moreplanets:nibiru_ancient_chest, Nibiru Ancient Chest
-moreplanets:infected_snow, Infected Snow
-moreplanets:purified_snow, Purified Snow
-moreplanets:infected_ice, Infected Ice
-moreplanets:infected_packed_ice, Infected Packed Ice
-moreplanets:infected_snow_layer, tile.infected_snow_layer.name
-moreplanets:purified_snow_layer, tile.purified_snow_layer.name
-moreplanets:green_vein_grass_block, Green Vein Grass Block
-moreplanets:infected_melon, Infected Melon
-moreplanets:infected_gravel, Infected Gravel
-moreplanets:infected_clay, Infected Clay
-moreplanets:nibiru_treasure_chest, Nibiru Treasure Chest
-moreplanets:infected_chest, Infected Chest
-moreplanets:alien_berry_chest, Alien Berry Chest
-moreplanets:multalic_crystal, Multalic Crystal
-moreplanets:infected_prismarine, Infected Prismarine
-moreplanets:infected_prismarine_bricks, Infected Prismarine Bricks
-moreplanets:infected_dark_prismarine, Infected Dark Prismarine
-moreplanets:infected_sea_lantern, Infected Sea Lantern
-moreplanets:infected_sponge, Infected Sponge
-moreplanets:infected_wet_sponge, Infected Wet Sponge
-moreplanets:infected_seaweed, Infected Seaweed
-moreplanets:oil_ore, Oil Ore
-moreplanets:helium_gas, Helium Gas
-moreplanets:infected_vines_dirt, Infected Vines Dirt
-moreplanets:infected_torch, Infected Torch
-moreplanets:infected_furnace, Infected Furnace
-moreplanets:terrastone_furnace, Terrastone Furnace
-moreplanets:juicer_egg, Juicer Egg
-moreplanets:nuclear_waste_tank, Nuclear Waste Tank
-moreplanets:nuclear_waste_fluid, Nuclear Waste
-moreplanets:vein_frame, Vein Frame
-moreplanets:nuclear_waste_generator, Nuclear Waste Generator
-moreplanets:alien_berry_oak_fence_gate, Alien Berry Oak Fence Gate
-moreplanets:multalic_crystal_block, Block of Multalic Crystal
-moreplanets:terrastone, Terrastone
-moreplanets:purified_water_fluid, Purified Water
-moreplanets:purified_gravel, Purified Gravel
-moreplanets:huge_terrashroom_block, Terrashroom Block
-moreplanets:sealable_nuclear_waste_rod, Sealable Nuclear Waste Rod
-moreplanets:nibiru_dungeon_brick_stairs, Nibiru Dungeon Brick Stairs
-moreplanets:infected_oak_stairs, Infected Oak Stairs
-moreplanets:alien_berry_oak_stairs, Alien Berry Oak Stairs
-moreplanets:infected_prismarine_stairs, Infected Prismarine Stairs
-moreplanets:infected_prismarine_brick_stairs, Infected Prismarine Brick Stairs
-moreplanets:infected_dark_prismarine_stairs, Infected Dark Prismarine Stairs
-moreplanets:infected_vein_stone_bricks_stairs, Infected Vein Stone Bricks Stairs
-moreplanets:cracked_infected_stone_bricks_stairs, Cracked Infected Stone Bricks
-moreplanets:infected_cut_sandstone_stairs, Infected Cut Sandstone Stairs
-moreplanets:nibiru_cobblestone_stairs, Nibiru Cobblestone Stairs
-moreplanets:infected_stone_bricks_stairs, Infected Stone Bricks Stairs
-moreplanets:infected_sandstone_stairs, Infected Sandstone Stairs
-moreplanets:terrastone_stairs, Terrastone Stairs
-moreplanets:infected_prismarine_slab, Infected Prismarine Slab
-moreplanets:infected_prismarine_brick_slab, Infected Prismarine Brick Slab
-moreplanets:infected_dark_prismarine_slab, Infected Dark Prismarine Slab
-moreplanets:infected_stone_bricks_slab, Infected Stone Bricks Slab
-moreplanets:infected_vein_stone_bricks_slab, Infected Vein Stone Bricks Slab
-moreplanets:infected_cracked_stone_bricks_slab, Cracked Infected Stone Bricks Slab
-moreplanets:terrastone_slab, Terrastone Slab
-moreplanets:infected_sandstone_slab, Infected Sandstone Slab
-moreplanets:infected_cut_sandstone_slab, Infected Cut Sandstone Slab
-moreplanets:empty_capsule, Empty Capsule
-moreplanets:infected_spore_protection_capsule, Infected Spore Protection Capsule
-moreplanets:dark_energy_protection_capsule, Dark Energy Protection Capsule
-moreplanets:laser_bullet, Laser Bullet
-moreplanets:infected_purlonite_laser_bullet, Infected Purlonite Laser Bullet
-moreplanets:ion_cannon_schematic, item.ion_cannon_schematic.name
-moreplanets:black_hole_storage_schematic, item.black_hole_storage_schematic.name
-moreplanets:zelius_fish, Zelius Fish
-moreplanets:glowing_alien_fish, Glowing Alien Fish
-moreplanets:cheese_fish, Cheese Fish
-moreplanets:space_warper_core, Space Warper Core
-moreplanets:space_bow, Space Bow
-moreplanets:space_fishing_rod, Space Fishing Rod
-moreplanets:blue_dye, Blue Dye
-moreplanets:laser_gun, Laser Gun
-moreplanets:alien_defender_reinforcement, Alien Defender Reinforcement
-moreplanets:creative_space_kit, Creative Space Kit
-moreplanets:vein_floater_disc, item.vein_floater_disc.name
-moreplanets:upgrade_template, Upgrade Template
-moreplanets:shield_damage_upgrade, Shield Damage Upgrade
-moreplanets:shield_size_upgrade, Shield Size Upgrade
-moreplanets:shield_capacity_upgrade, Shield Capacity Upgrade
-moreplanets:machine_speed_upgrade, Machine Speed Upgrade
-moreplanets:gravity_amulet, Gravity Amulet (WIP)
-moreplanets:illenium_ingot, Illenium Ingot
-moreplanets:setrorium_shard, Setrorium Shard
-moreplanets:compressed_illenium, Compressed Illenium
-moreplanets:compressed_setrorium, Compressed Setrorium
-moreplanets:infected_purlonite_shard, Infected Purlonite Shard
-moreplanets:alien_miner_part, Alien Miner Part
-moreplanets:glowing_iron_ingot, Glowing Iron Ingot
-moreplanets:black_hole_fragments, Black Hole Fragments
-moreplanets:anti_gravity_fragments, Anti Gravity Fragments
-moreplanets:infected_purlonite_bomb, Infected Purlonite Bomb
-moreplanets:diona_dungeon_key, Diona Dungeon Key
-moreplanets:infected_purlonite_slimeball, Infected Purlonite Slimeball
-moreplanets:infected_purlonite_arrow, Infected Purlonite Arrow
-moreplanets:dark_energy_pearl, Dark Energy Pearl
-moreplanets:anti_gravity_arrow, Anti Gravity Arrow
-moreplanets:illenium_sword, Illenium Sword
-moreplanets:illenium_shovel, Illenium Shovel
-moreplanets:illenium_pickaxe, Illenium Pickaxe
-moreplanets:illenium_axe, Illenium Axe
-moreplanets:illenium_hoe, Illenium Hoe
-moreplanets:illenium_helmet, Illenium Helmet
-moreplanets:illenium_chestplate, Illenium Chestplate
-moreplanets:illenium_leggings, Illenium Leggings
-moreplanets:illenium_boots, Illenium Boots
-moreplanets:breathable_illenium_helmet, Breathable Illenium Helmet
-moreplanets:diremsium_ingot, Diremsium Ingot
-moreplanets:zyptorium_ingot, Zyptorium Ingot
-moreplanets:compressed_diremsium, Compressed Diremsium
-moreplanets:compressed_zyptorium, Compressed Zyptorium
-moreplanets:cheese_milk_curd, Cheese Milk Curd
-moreplanets:raw_cheese_beef, Raw Cheese Beef
-moreplanets:cooked_cheese_beef, Cooked Cheese Steak
-moreplanets:cheese_spore_berry, Cheese Spore Berry
-moreplanets:cheese_slimeball, Cheese Slimeball
-moreplanets:cheese_spore_item, Cheese Spore
-moreplanets:cheese_spore_seed, Cheese Spore Seed
-moreplanets:chalos_dungeon_key, Chalos Dungeon Key
-moreplanets:cheese_spore_door, Cheese Spore Door
-moreplanets:inferumite_crystal, Inferumite Crystal
-moreplanets:multalic_crystal_pieces, Multalic Crystal Pieces
-moreplanets:infected_coal, Infected Coal
-moreplanets:infected_charcoal, Infected Charcoal
-moreplanets:shlime_tail, Shlime Tail
-moreplanets:infected_prismarine_shard, Infected Prismarine Shard
-moreplanets:infected_prismarine_crystals, Infected Prismarine Crystals
-moreplanets:infected_apple, Infected Apple
-moreplanets:infected_golden_apple, Infected Golden Apple
-moreplanets:enchanted_infected_golden_apple, item.enchanted_infected_golden_apple.name
-moreplanets:infected_melon_slice, Infected Melon Slice
-moreplanets:alien_berry, Alien Berry
-moreplanets:golden_alien_berry, Golden Alien Berry
-moreplanets:terraberry, Terraberry
-moreplanets:raw_shlime_meat, Raw Shlime Meat
-moreplanets:cooked_shlime_meat, Cooked Shlime Meat
-moreplanets:infected_wheat_seeds, Infected Wheat Seeds
-moreplanets:infected_oak_door, Infected Oak Door
-moreplanets:alien_berry_oak_door, Alien Berry Oak Door
-moreplanets:infected_wheat, Infected Wheat
-moreplanets:infected_clay_ball, Infected Clay Ball
-moreplanets:infected_snowball, Infected Snowball
-moreplanets:purified_snowball, Purified Snowball
-moreplanets:nibiru_dungeon_key, Nibiru Dungeon Key
-moreplanets:nibiru_dungeon_key_bow, Nibiru Dungeon Key Bow
-moreplanets:nibiru_dungeon_key_blade, Nibiru Dungeon Key Blade
-moreplanets:infected_sugar_cane, Infected Sugar Cane
-moreplanets:infected_egg, Infected Egg
-moreplanets:infected_arrow, Infected Arrow
-moreplanets:infected_melon_seeds, Infected Melon Seeds
-moreplanets:vein_eye, Vein Eye
-moreplanets:waste_rod_picker, Waste Rod Picker
-moreplanets:nuclear_waste_rod, Nuclear Waste Rod
-moreplanets:gravity_boots, Gravity Boots
-moreplanets:extrailonite_ingot, Extrailonite Ingot
-moreplanets:compressed_extrailonite, Compressed Extrailonite
-moreplanets:oscalea_door, Oscalea Door
-moreplanets:frolia_door, Frolia Door
-moreplanets:strawberry, Strawberry
-moreplanets:giant_blueberry, Giant Blueberry
-moreplanets:chocolate_bar, Chocolate Bar
-moreplanets:jelly_beans, Jelly Beans
-moreplanets:marshmallow, Marshmallow
-moreplanets:cooked_marshmallow, Cooked Marshmallow
-moreplanets:blue_pear, Blue Pear
-moreplanets:red_candy_cane_stick, Red Candy Cane Stick
-moreplanets:green_candy_cane_stick, Green Candy Cane Stick
-moreplanets:blue_candy_cane_stick, Blue Candy Cane Stick
-moreplanets:orange_candy_cane_stick, Orange Candy Cane Stick
-moreplanets:pink_candy_cane_stick, Pink Candy Cane Stick
-moreplanets:yellow_candy_cane_stick, Yellow Candy Cane Stick
-moreplanets:purple_candy_cane_stick, Purple Candy Cane Stick
-moreplanets:rainbow_candy_cane_stick, Rainbow Candy Cane Stick
-moreplanets:grape_jelly, Grape Jelly
-moreplanets:raspberry_jelly, Raspberry Jelly
-moreplanets:strawberry_jelly, Strawberry Jelly
-moreplanets:berry_jelly, Berry Jelly
-moreplanets:lime_jelly, Lime Jelly
-moreplanets:orange_jelly, Orange Jelly
-moreplanets:green_jelly, Green Jelly
-moreplanets:lemon_jelly, Lemon Jelly
-moreplanets:diremsium_sword, Diremsium Sword
-moreplanets:diremsium_shovel, Diremsium Shovel
-moreplanets:diremsium_pickaxe, Diremsium Pickaxe
-moreplanets:diremsium_axe, Diremsium Axe
-moreplanets:diremsium_hoe, Diremsium Hoe
-moreplanets:cheese_spore_wood_sword, Cheese Spore Wooden Sword
-moreplanets:cheese_spore_wood_shovel, Cheese Spore Wooden Shovel
-moreplanets:cheese_spore_wood_pickaxe, Cheese Spore Wooden Pickaxe
-moreplanets:cheese_spore_wood_axe, Cheese Spore Wooden Axe
-moreplanets:cheese_spore_wood_hoe, Cheese Spore Wooden Hoe
-moreplanets:infected_wood_sword, Infected Wooden Sword
-moreplanets:infected_wood_shovel, Infected Wooden Shovel
-moreplanets:infected_wood_pickaxe, Infected Wooden Pickaxe
-moreplanets:infected_wood_axe, Infected Wooden Axe
-moreplanets:infected_wood_hoe, Infected Wooden Hoe
-moreplanets:alien_berry_wood_sword, Alien Berry Wooden Sword
-moreplanets:alien_berry_wood_shovel, Alien Berry Wooden Shovel
-moreplanets:alien_berry_wood_pickaxe, Alien Berry Wooden Pickaxe
-moreplanets:alien_berry_wood_axe, Alien Berry Wooden Axe
-moreplanets:alien_berry_wood_hoe, Alien Berry Wooden Hoe
-moreplanets:nibiru_stone_sword, Nibiru Stone Sword
-moreplanets:nibiru_stone_shovel, Nibiru Stone Shovel
-moreplanets:nibiru_stone_pickaxe, Nibiru Stone Pickaxe
-moreplanets:nibiru_stone_axe, Nibiru Stone Axe
-moreplanets:nibiru_stone_hoe, Nibiru Stone Hoe
-moreplanets:multalic_crystal_sword, Multalic Crystal Sword
-moreplanets:multalic_crystal_shovel, Multalic Crystal Shovel
-moreplanets:multalic_crystal_pickaxe, Multalic Crystal Pickaxe
-moreplanets:multalic_crystal_axe, Multalic Crystal Axe
-moreplanets:multalic_crystal_hoe, Multalic Crystal Hoe
-moreplanets:diremsium_helmet, Diremsium Helmet
-moreplanets:diremsium_chestplate, Diremsium Chestplate
-moreplanets:diremsium_leggings, Diremsium Leggings
-moreplanets:diremsium_boots, Diremsium Boots
-moreplanets:breathable_diremsium_helmet, Breathable Diremsium Helmet
-moreplanets:multalic_crystal_helmet, Multalic Crystal Helmet
-moreplanets:multalic_crystal_chestplate, Multalic Crystal Chestplate
-moreplanets:multalic_crystal_leggings, Multalic Crystal Leggings
-moreplanets:multalic_crystal_boots, Multalic Crystal Boots
-moreplanets:breathable_multalic_crystal_helmet, Breathable Multalic Crystal Helmet
 scalinghealth:crystalore, Heart Crystal Ore
 silentgear:crimson_iron_ore, Crimson Iron Ore
 silentgear:crafting_station, Crafting Station
@@ -9960,6 +9960,193 @@ appliedenergistics2:facade:0, Cable Facade - Maveth Electrum Ore
 appliedenergistics2:facade:0, Cable Facade - Maveth Amaranth Ore
 appliedenergistics2:facade:0, Cable Facade - Maveth Zollernium Ore
 appliedenergistics2:facade:0, Cable Facade - Maveth Vibranium Ore
+appliedenergistics2:facade:0, Cable Facade - Alien Ship Booster
+appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
+appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
+appliedenergistics2:facade:0, Cable Facade - Polished Tin Decoration Block
+appliedenergistics2:facade:0, Cable Facade - Polished Aluminum Decoration Block
+appliedenergistics2:facade:0, Cable Facade - Desh Frame
+appliedenergistics2:facade:0, Cable Facade - Dungeon Glowstone
+appliedenergistics2:facade:0, Cable Facade - Fronos Grass Block
+appliedenergistics2:facade:0, Cable Facade - Fronos Dirt
+appliedenergistics2:facade:0, Cable Facade - Fronos Coarse Dirt
+appliedenergistics2:facade:0, Cable Facade - Fronos Stone
+appliedenergistics2:facade:0, Cable Facade - Fronos Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Fronos Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Fronos Mossy Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Fronos Cracked Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Fronos Chiseled Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Fronos Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Lapis Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Extrailonite Ore
+appliedenergistics2:facade:0, Cable Facade - Red Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Green Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Blue Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Orange Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Pink Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Yellow Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Purple Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Rainbow Candy Cane
+appliedenergistics2:facade:0, Cable Facade - Diona Surface Rock
+appliedenergistics2:facade:0, Cable Facade - Diona Sub-Surface Rock
+appliedenergistics2:facade:0, Cable Facade - Diona Rock
+appliedenergistics2:facade:0, Cable Facade - Diona Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Setrorium Ore
+appliedenergistics2:facade:0, Cable Facade - Illenium Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Setrorium
+appliedenergistics2:facade:0, Cable Facade - Block of Illenium
+appliedenergistics2:facade:0, Cable Facade - Diona Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Albetius Worm Egg Rock
+appliedenergistics2:facade:0, Cable Facade - Infected Purlonite Planks
+appliedenergistics2:facade:0, Cable Facade - Alien Miner Blood
+appliedenergistics2:facade:0, Cable Facade - Infected Purlonite Slime Block
+appliedenergistics2:facade:0, Cable Facade - Block of Glowing Iron
+appliedenergistics2:facade:0, Cable Facade - Koentus Regolith
+appliedenergistics2:facade:0, Cable Facade - Koentus Fine Regolith
+appliedenergistics2:facade:0, Cable Facade - Koentus Rock
+appliedenergistics2:facade:0, Cable Facade - Koentus Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Anti Gravity Ore
+appliedenergistics2:facade:0, Cable Facade - Goldenite Crystals Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Anti Gravity Fragments
+appliedenergistics2:facade:0, Cable Facade - Block of Goldenite Crystals
+appliedenergistics2:facade:0, Cable Facade - Koentus Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Koentus Ice
+appliedenergistics2:facade:0, Cable Facade - White Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Orange Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Magenta Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Light Blue Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Yellow Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Lime Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Pink Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Gray Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Silver Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Cyan Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Purple Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Blue Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Brown Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Green Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Red Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Black Glowing Hardened Ice
+appliedenergistics2:facade:0, Cable Facade - Creep Block
+appliedenergistics2:facade:0, Cable Facade - Gravity Creep Block
+appliedenergistics2:facade:0, Cable Facade - Chalos Rock
+appliedenergistics2:facade:0, Cable Facade - Chalos Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Diremsium Ore
+appliedenergistics2:facade:0, Cable Facade - Zyptorium Ore
+appliedenergistics2:facade:0, Cable Facade - Cheese Milk Ore
+appliedenergistics2:facade:0, Cable Facade - Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Diremsium
+appliedenergistics2:facade:0, Cable Facade - Block of Zyptorium
+appliedenergistics2:facade:0, Cable Facade - Chalos Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Cheese Grass Block
+appliedenergistics2:facade:0, Cable Facade - Cheese Dirt
+appliedenergistics2:facade:0, Cable Facade - Cheese Coarse Dirt
+appliedenergistics2:facade:0, Cable Facade - Cheese Spore Stem
+appliedenergistics2:facade:0, Cable Facade - Cheese Spore
+appliedenergistics2:facade:0, Cable Facade - Cheese Spore Planks
+appliedenergistics2:facade:0, Cable Facade - Cheese Slime Block
+appliedenergistics2:facade:0, Cable Facade - Cheese Spore Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Infected Grass Block
+appliedenergistics2:facade:0, Cable Facade - Infected Dirt
+appliedenergistics2:facade:0, Cable Facade - Infected Coarse Dirt
+appliedenergistics2:facade:0, Cable Facade - Infected Podzol
+appliedenergistics2:facade:0, Cable Facade - Nibiru Rock
+appliedenergistics2:facade:0, Cable Facade - Nibiru Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Nibiru Vein Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Infected Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Infected Vein Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Cracked Infected Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Chiseled Infected Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Block of Inferumite
+appliedenergistics2:facade:0, Cable Facade - Nibiru Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Mossy Nibiru Dungeon Brick
+appliedenergistics2:facade:0, Cable Facade - Infected Sandstone
+appliedenergistics2:facade:0, Cable Facade - Infected Chiseled Sandstone
+appliedenergistics2:facade:0, Cable Facade - Infected Cut Sandstone
+appliedenergistics2:facade:0, Cable Facade - Infested Nibiru Rock
+appliedenergistics2:facade:0, Cable Facade - Infested Nibiru Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Infested Nibiru Vein Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Infested Infected Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Infested Infected Vein Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Infested Cracked Infected Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Infested Chiseled Infected Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Infected Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Lapis Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Inferumite Crystal Ore
+appliedenergistics2:facade:0, Cable Facade - Infected Oak Log
+appliedenergistics2:facade:0, Cable Facade - Infected Deadwood Log
+appliedenergistics2:facade:0, Cable Facade - Infected Spruce Log
+appliedenergistics2:facade:0, Cable Facade - Infected Jungle Log
+appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Log
+appliedenergistics2:facade:0, Cable Facade - Oscalea Log
+appliedenergistics2:facade:0, Cable Facade - Frolia Log
+appliedenergistics2:facade:0, Cable Facade - Oscalea Planks
+appliedenergistics2:facade:0, Cable Facade - Frolia Planks
+appliedenergistics2:facade:0, Cable Facade - Infected Oak Planks
+appliedenergistics2:facade:0, Cable Facade - Infected Spruce Planks
+appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Planks
+appliedenergistics2:facade:0, Cable Facade - Infected Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - Infected Spruce Leaves
+appliedenergistics2:facade:0, Cable Facade - Infected Jungle Leaves
+appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - Oscalea Leaves
+appliedenergistics2:facade:0, Cable Facade - Frolia Leaves
+appliedenergistics2:facade:0, Cable Facade - Flowering Frolia Leaves
+appliedenergistics2:facade:0, Cable Facade - Infected Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Alien Berry Crafting Table
+appliedenergistics2:facade:0, Cable Facade - Infected Oak Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Infected Sand
+appliedenergistics2:facade:0, Cable Facade - Infected Snow
+appliedenergistics2:facade:0, Cable Facade - Purified Snow
+appliedenergistics2:facade:0, Cable Facade - Infected Ice
+appliedenergistics2:facade:0, Cable Facade - Infected Packed Ice
+appliedenergistics2:facade:0, Cable Facade - Green Vein Grass Block
+appliedenergistics2:facade:0, Cable Facade - Infected Melon
+appliedenergistics2:facade:0, Cable Facade - Infected Gravel
+appliedenergistics2:facade:0, Cable Facade - Infected Clay
+appliedenergistics2:facade:0, Cable Facade - Infected Prismarine
+appliedenergistics2:facade:0, Cable Facade - Infected Prismarine Bricks
+appliedenergistics2:facade:0, Cable Facade - Infected Dark Prismarine
+appliedenergistics2:facade:0, Cable Facade - Infected Sea Lantern
+appliedenergistics2:facade:0, Cable Facade - Infected Sponge
+appliedenergistics2:facade:0, Cable Facade - Infected Wet Sponge
+appliedenergistics2:facade:0, Cable Facade - Oil Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Multalic Crystal
+appliedenergistics2:facade:0, Cable Facade - Terrastone
+appliedenergistics2:facade:0, Cable Facade - Purified Gravel
+appliedenergistics2:facade:0, Cable Facade - Terrashroom Block
 appliedenergistics2:facade:0, Cable Facade - Gelid Euphemium
 appliedenergistics2:facade:0, Cable Facade - Unstable Euphemium Schrabide Block
 appliedenergistics2:facade:0, Cable Facade - Dark Crystal
@@ -10403,193 +10590,6 @@ appliedenergistics2:facade:0, Cable Facade - Pink Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Pink Wood Double Slab
 appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:facade:0, Cable Facade - End Stone
-appliedenergistics2:facade:0, Cable Facade - Alien Ship Booster
-appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
-appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
-appliedenergistics2:facade:0, Cable Facade - Polished Tin Decoration Block
-appliedenergistics2:facade:0, Cable Facade - Polished Aluminum Decoration Block
-appliedenergistics2:facade:0, Cable Facade - Desh Frame
-appliedenergistics2:facade:0, Cable Facade - Dungeon Glowstone
-appliedenergistics2:facade:0, Cable Facade - Fronos Grass Block
-appliedenergistics2:facade:0, Cable Facade - Fronos Dirt
-appliedenergistics2:facade:0, Cable Facade - Fronos Coarse Dirt
-appliedenergistics2:facade:0, Cable Facade - Fronos Stone
-appliedenergistics2:facade:0, Cable Facade - Fronos Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Fronos Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Fronos Mossy Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Fronos Cracked Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Fronos Chiseled Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Fronos Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Lead Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Lapis Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Extrailonite Ore
-appliedenergistics2:facade:0, Cable Facade - Red Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Green Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Blue Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Orange Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Pink Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Yellow Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Purple Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Rainbow Candy Cane
-appliedenergistics2:facade:0, Cable Facade - Diona Surface Rock
-appliedenergistics2:facade:0, Cable Facade - Diona Sub-Surface Rock
-appliedenergistics2:facade:0, Cable Facade - Diona Rock
-appliedenergistics2:facade:0, Cable Facade - Diona Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Setrorium Ore
-appliedenergistics2:facade:0, Cable Facade - Illenium Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Setrorium
-appliedenergistics2:facade:0, Cable Facade - Block of Illenium
-appliedenergistics2:facade:0, Cable Facade - Diona Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Albetius Worm Egg Rock
-appliedenergistics2:facade:0, Cable Facade - Infected Purlonite Planks
-appliedenergistics2:facade:0, Cable Facade - Alien Miner Blood
-appliedenergistics2:facade:0, Cable Facade - Infected Purlonite Slime Block
-appliedenergistics2:facade:0, Cable Facade - Block of Glowing Iron
-appliedenergistics2:facade:0, Cable Facade - Koentus Regolith
-appliedenergistics2:facade:0, Cable Facade - Koentus Fine Regolith
-appliedenergistics2:facade:0, Cable Facade - Koentus Rock
-appliedenergistics2:facade:0, Cable Facade - Koentus Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Anti Gravity Ore
-appliedenergistics2:facade:0, Cable Facade - Goldenite Crystals Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Anti Gravity Fragments
-appliedenergistics2:facade:0, Cable Facade - Block of Goldenite Crystals
-appliedenergistics2:facade:0, Cable Facade - Koentus Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Koentus Ice
-appliedenergistics2:facade:0, Cable Facade - White Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Orange Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Magenta Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Light Blue Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Yellow Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Lime Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Pink Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Gray Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Silver Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Cyan Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Purple Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Blue Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Brown Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Green Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Red Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Black Glowing Hardened Ice
-appliedenergistics2:facade:0, Cable Facade - Creep Block
-appliedenergistics2:facade:0, Cable Facade - Gravity Creep Block
-appliedenergistics2:facade:0, Cable Facade - Chalos Rock
-appliedenergistics2:facade:0, Cable Facade - Chalos Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Diremsium Ore
-appliedenergistics2:facade:0, Cable Facade - Zyptorium Ore
-appliedenergistics2:facade:0, Cable Facade - Cheese Milk Ore
-appliedenergistics2:facade:0, Cable Facade - Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Diremsium
-appliedenergistics2:facade:0, Cable Facade - Block of Zyptorium
-appliedenergistics2:facade:0, Cable Facade - Chalos Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Cheese Grass Block
-appliedenergistics2:facade:0, Cable Facade - Cheese Dirt
-appliedenergistics2:facade:0, Cable Facade - Cheese Coarse Dirt
-appliedenergistics2:facade:0, Cable Facade - Cheese Spore Stem
-appliedenergistics2:facade:0, Cable Facade - Cheese Spore
-appliedenergistics2:facade:0, Cable Facade - Cheese Spore Planks
-appliedenergistics2:facade:0, Cable Facade - Cheese Slime Block
-appliedenergistics2:facade:0, Cable Facade - Cheese Spore Crafting Table
-appliedenergistics2:facade:0, Cable Facade - Infected Grass Block
-appliedenergistics2:facade:0, Cable Facade - Infected Dirt
-appliedenergistics2:facade:0, Cable Facade - Infected Coarse Dirt
-appliedenergistics2:facade:0, Cable Facade - Infected Podzol
-appliedenergistics2:facade:0, Cable Facade - Nibiru Rock
-appliedenergistics2:facade:0, Cable Facade - Nibiru Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Nibiru Vein Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Infected Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Infected Vein Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Cracked Infected Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Chiseled Infected Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Block of Inferumite
-appliedenergistics2:facade:0, Cable Facade - Nibiru Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Mossy Nibiru Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Infected Sandstone
-appliedenergistics2:facade:0, Cable Facade - Infected Chiseled Sandstone
-appliedenergistics2:facade:0, Cable Facade - Infected Cut Sandstone
-appliedenergistics2:facade:0, Cable Facade - Infested Nibiru Rock
-appliedenergistics2:facade:0, Cable Facade - Infested Nibiru Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Infested Nibiru Vein Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Infested Infected Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Infested Infected Vein Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Infested Cracked Infected Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Infested Chiseled Infected Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Infected Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Lapis Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Emerald Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Redstone Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Inferumite Crystal Ore
-appliedenergistics2:facade:0, Cable Facade - Infected Oak Log
-appliedenergistics2:facade:0, Cable Facade - Infected Deadwood Log
-appliedenergistics2:facade:0, Cable Facade - Infected Spruce Log
-appliedenergistics2:facade:0, Cable Facade - Infected Jungle Log
-appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Log
-appliedenergistics2:facade:0, Cable Facade - Oscalea Log
-appliedenergistics2:facade:0, Cable Facade - Frolia Log
-appliedenergistics2:facade:0, Cable Facade - Oscalea Planks
-appliedenergistics2:facade:0, Cable Facade - Frolia Planks
-appliedenergistics2:facade:0, Cable Facade - Infected Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Infected Spruce Planks
-appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Planks
-appliedenergistics2:facade:0, Cable Facade - Infected Oak Leaves
-appliedenergistics2:facade:0, Cable Facade - Infected Spruce Leaves
-appliedenergistics2:facade:0, Cable Facade - Infected Jungle Leaves
-appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Leaves
-appliedenergistics2:facade:0, Cable Facade - Oscalea Leaves
-appliedenergistics2:facade:0, Cable Facade - Frolia Leaves
-appliedenergistics2:facade:0, Cable Facade - Flowering Frolia Leaves
-appliedenergistics2:facade:0, Cable Facade - Infected Crafting Table
-appliedenergistics2:facade:0, Cable Facade - Alien Berry Crafting Table
-appliedenergistics2:facade:0, Cable Facade - Infected Oak Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Alien Berry Oak Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Infected Sand
-appliedenergistics2:facade:0, Cable Facade - Infected Snow
-appliedenergistics2:facade:0, Cable Facade - Purified Snow
-appliedenergistics2:facade:0, Cable Facade - Infected Ice
-appliedenergistics2:facade:0, Cable Facade - Infected Packed Ice
-appliedenergistics2:facade:0, Cable Facade - Green Vein Grass Block
-appliedenergistics2:facade:0, Cable Facade - Infected Melon
-appliedenergistics2:facade:0, Cable Facade - Infected Gravel
-appliedenergistics2:facade:0, Cable Facade - Infected Clay
-appliedenergistics2:facade:0, Cable Facade - Infected Prismarine
-appliedenergistics2:facade:0, Cable Facade - Infected Prismarine Bricks
-appliedenergistics2:facade:0, Cable Facade - Infected Dark Prismarine
-appliedenergistics2:facade:0, Cable Facade - Infected Sea Lantern
-appliedenergistics2:facade:0, Cable Facade - Infected Sponge
-appliedenergistics2:facade:0, Cable Facade - Infected Wet Sponge
-appliedenergistics2:facade:0, Cable Facade - Oil Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Multalic Crystal
-appliedenergistics2:facade:0, Cable Facade - Terrastone
-appliedenergistics2:facade:0, Cable Facade - Purified Gravel
-appliedenergistics2:facade:0, Cable Facade - Terrashroom Block
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -10795,6 +10795,9 @@ appliedenergistics2:facade:0, Cable Facade - Burnt Wood
 appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
 appliedenergistics2:facade:0, Cable Facade - Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass_1.name
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
@@ -10822,9 +10825,30 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
+appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
+appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Biotite
+appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Basalt
+appliedenergistics2:facade:0, Cable Facade - Marble
+appliedenergistics2:facade:0, Cable Facade - Limestone
+appliedenergistics2:facade:0, Cable Facade - Jasper
+appliedenergistics2:facade:0, Cable Facade - Slate
+appliedenergistics2:facade:0, Cable Facade - Brimstone
+appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
+appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
+appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
+appliedenergistics2:facade:0, Cable Facade - Glowcelium
+appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10853,30 +10877,6 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
-appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
-appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
-appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Biotite
-appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Basalt
-appliedenergistics2:facade:0, Cable Facade - Marble
-appliedenergistics2:facade:0, Cable Facade - Limestone
-appliedenergistics2:facade:0, Cable Facade - Jasper
-appliedenergistics2:facade:0, Cable Facade - Slate
-appliedenergistics2:facade:0, Cable Facade - Brimstone
-appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
-appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
-appliedenergistics2:facade:0, Cable Facade - Glowcelium
-appliedenergistics2:facade:0, Cable Facade - Glowshroom
 appliedenergistics2:facade:0, Cable Facade - Grout
 appliedenergistics2:facade:0, Cable Facade - Green Slimy Mud
 appliedenergistics2:facade:0, Cable Facade - Blue Slimy Mud
@@ -11238,6 +11238,8 @@ appliedenergistics2:facade:0, Cable Facade - Kepler 22b Purple Wooden Planks
 appliedenergistics2:facade:0, Cable Facade - Kepler 22b Yellow Wooden Planks
 appliedenergistics2:facade:0, Cable Facade - Kepler 22b Green Wooden Planks
 appliedenergistics2:facade:0, Cable Facade - Kepler 22b Brown Wooden Planks
+appliedenergistics2:facade:0, Cable Facade - tile.cbt.uhv_quantum_blackhole_alloy_forge_controller.name
+appliedenergistics2:facade:0, Cable Facade - tile.cbt.uhv_quantum_blackhole_alloy_forge_part1.name
 appliedenergistics2:facade:0, Cable Facade - Long Distance Item Pipe
 appliedenergistics2:facade:0, Cable Facade - Long Distance Fluid Pipe
 appliedenergistics2:facade:0, Cable Facade - Hermetic Casing I
@@ -14677,6 +14679,28 @@ galaxyspace:proxima_b_mushroom_log, Mushroom Stem
 galaxyspace:proxima_b_grasses, Grass
 galaxyspace:proxima_b_dandelions:0, Red Tallgrass
 galaxyspace:proxima_b_dandelions:1, Red Tallgrass
+galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
+galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
+galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
+galaxyspace:tauceti_f_watergrass:0, Red Algae
+galaxyspace:tauceti_f_watergrass:1, Algae Base
+galaxyspace:tauceti_f_watergrass:2, Algae
+galaxyspace:tauceti_f_watergrass:3, Algae Top
+galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
+galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
+galaxyspace:tauceti_f_watergrass:6, Thick Algae
+galaxyspace:tauceti_f_watergrass:7, Small Kelp
+galaxyspace:tauceti_f_corals:0, Brain Coral
+galaxyspace:tauceti_f_corals:1, Brain Coral Fan
+galaxyspace:tauceti_f_corals:2, Bubble Coral
+galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
+galaxyspace:tauceti_f_corals:4, Fire Coral
+galaxyspace:tauceti_f_corals:5, Fire Coral Fan
+galaxyspace:tauceti_f_corals:6, Horn Coral
+galaxyspace:tauceti_f_corals:7, Horn Coral Fan
+galaxyspace:tauceti_f_corals:8, Tube Coral
+galaxyspace:tauceti_f_corals:9, Tube Coral Fan
+galaxyspace:tauceti_f_corals:10, Sponge Coral
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
@@ -14727,30 +14751,250 @@ galaxyspace:br_basic:1, Lichen
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
 galaxyspace:barnarda_c_violet_door, Barnarda C Violet Door
-galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
-galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
-galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
-galaxyspace:tauceti_f_watergrass:0, Red Algae
-galaxyspace:tauceti_f_watergrass:1, Algae Base
-galaxyspace:tauceti_f_watergrass:2, Algae
-galaxyspace:tauceti_f_watergrass:3, Algae Top
-galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
-galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
-galaxyspace:tauceti_f_watergrass:6, Thick Algae
-galaxyspace:tauceti_f_watergrass:7, Small Kelp
-galaxyspace:tauceti_f_corals:0, Brain Coral
-galaxyspace:tauceti_f_corals:1, Brain Coral Fan
-galaxyspace:tauceti_f_corals:2, Bubble Coral
-galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
-galaxyspace:tauceti_f_corals:4, Fire Coral
-galaxyspace:tauceti_f_corals:5, Fire Coral Fan
-galaxyspace:tauceti_f_corals:6, Horn Coral
-galaxyspace:tauceti_f_corals:7, Horn Coral Fan
-galaxyspace:tauceti_f_corals:8, Tube Coral
-galaxyspace:tauceti_f_corals:9, Tube Coral Fan
-galaxyspace:tauceti_f_corals:10, Sponge Coral
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
+quark:roots, tile.roots.name
+quark:root, item.root.name
+quark:roots_blue_flower, tile.roots_blue_flower.name
+quark:roots_black_flower, tile.roots_black_flower.name
+quark:roots_white_flower, tile.roots_white_flower.name
+quark:root_flower:0, Blue Sprout
+quark:root_flower:1, Black Sprout
+quark:root_flower:2, White Sprout
+quark:root_dye:0, Blue Dye
+quark:root_dye:1, Black Dye
+quark:root_dye:2, White Dye
+quark:diamond_heart, item.diamond_heart.name
+quark:archaeologist_hat, item.archaeologist_hat.name
+quark:variant_leaves:0, Swamp Oak Leaves
+quark:variant_leaves:1, Blossoming Leaves
+quark:variant_sapling:0, Swamp Oak Sapling
+quark:variant_sapling:1, Blossoming Sapling
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:crystal:8, Black Cave Crystal
+quark:crystal_pane:0, White Cave Crystal Sheet
+quark:crystal_pane:1, Red Cave Crystal Sheet
+quark:crystal_pane:2, Orange Cave Crystal Sheet
+quark:crystal_pane:3, Yellow Cave Crystal Sheet
+quark:crystal_pane:4, Green Cave Crystal Sheet
+quark:crystal_pane:5, Blue Cave Crystal Sheet
+quark:crystal_pane:6, Indigo Cave Crystal Sheet
+quark:crystal_pane:7, Violet Cave Crystal Sheet
+quark:crystal_pane:8, Black Cave Crystal Sheet
+quark:stone_speleothem, tile.stone_speleothem.name
+quark:granite_speleothem, tile.granite_speleothem.name
+quark:diorite_speleothem, tile.diorite_speleothem.name
+quark:andesite_speleothem, tile.andesite_speleothem.name
+quark:netherrack_speleothem, tile.netherrack_speleothem.name
+quark:basalt_speleothem, tile.basalt_speleothem.name
+quark:marble_speleothem, tile.marble_speleothem.name
+quark:limestone_speleothem, tile.limestone_speleothem.name
+quark:jasper_speleothem, tile.jasper_speleothem.name
+quark:slate_speleothem, tile.slate_speleothem.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:monster_box, tile.monster_box.name
+quark:basalt:0, Basalt
+quark:basalt:1, Polished Basalt
+quark:stone_basalt_slab:0, Basalt Slab
+quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
+quark:basalt_wall, tile.basalt_wall.name
+quark:frog_leg, item.frog_leg.name
+quark:cooked_frog_leg, item.cooked_frog_leg.name
+quark:golden_frog_leg, item.golden_frog_leg.name
+quark:pirate_hat, item.pirate_hat.name
+quark:crab_leg, item.crab_leg.name
+quark:cooked_crab_leg, item.cooked_crab_leg.name
+quark:crab_shell, item.crab_shell.name
+quark:marble:0, Marble
+quark:marble:1, Polished Marble
+quark:stone_marble_slab:0, Marble Slab
+quark:stone_marble_stairs, tile.stone_marble_stairs.name
+quark:marble_wall, tile.marble_wall.name
+quark:limestone:0, Limestone
+quark:limestone:1, Polished Limestone
+quark:stone_limestone_slab:0, Limestone Slab
+quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
+quark:limestone_wall, tile.limestone_wall.name
+quark:jasper:0, Jasper
+quark:jasper:1, Polished Jasper
+quark:stone_jasper_slab:0, Jasper Slab
+quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
+quark:jasper_wall, tile.jasper_wall.name
+quark:slate:0, Slate
+quark:slate:1, Polished Slate
+quark:stone_slate_slab:0, Slate Slab
+quark:stone_slate_stairs, tile.stone_slate_stairs.name
+quark:slate_wall, tile.slate_wall.name
+quark:biome_cobblestone:0, Brimstone
+quark:biome_cobblestone:1, Permafrost
+quark:biome_cobblestone:2, Cobbedstone
+quark:biome_brick:0, Brimstone Bricks
+quark:biome_brick:1, Permafrost Bricks
+quark:elder_prismarine:0, Elder Prismarine
+quark:elder_prismarine:1, Elder Prismarine Bricks
+quark:elder_prismarine:2, Dark Elder Prismarine
+quark:elder_sea_lantern, tile.elder_sea_lantern.name
+quark:fire_stone_slab:0, Brimstone Slab
+quark:fire_stone_stairs, tile.fire_stone_stairs.name
+quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
+quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
+quark:icy_stone_slab:0, Permafrost Slab
+quark:icy_stone_stairs, tile.icy_stone_stairs.name
+quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
+quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
+quark:cobbed_stone_slab:0, Cobbedstone Slab
+quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
+quark:elder_prismarine_slab:0, Elder Prismarine Slab
+quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
+quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
+quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
+quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
+quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
+quark:fire_stone_wall, tile.fire_stone_wall.name
+quark:icy_stone_wall, tile.icy_stone_wall.name
+quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
+quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
+quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
+quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
+quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
+quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
+quark:glowcelium, tile.glowcelium.name
+quark:glowshroom, tile.glowshroom.name
+quark:glowshroom_block, tile.glowshroom_block.name
+quark:soul_bead, item.soul_bead.name
+quark:smoker, tile.smoker.name
+quark:witch_hat, item.witch_hat.name
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, Magic Tallow
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:charcoal_block, tile.charcoal_block.name
+quark:glass_item_frame, item.glass_item_frame.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -15071,123 +15315,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, Magic Tallow
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:charcoal_block, tile.charcoal_block.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -15237,131 +15364,6 @@ quark:glass_shards:13, Brown Glass Shard
 quark:glass_shards:14, Green Glass Shard
 quark:glass_shards:15, Red Glass Shard
 quark:glass_shards:16, Black Glass Shard
-quark:roots, tile.roots.name
-quark:root, item.root.name
-quark:roots_blue_flower, tile.roots_blue_flower.name
-quark:roots_black_flower, tile.roots_black_flower.name
-quark:roots_white_flower, tile.roots_white_flower.name
-quark:root_flower:0, Blue Sprout
-quark:root_flower:1, Black Sprout
-quark:root_flower:2, White Sprout
-quark:root_dye:0, Blue Dye
-quark:root_dye:1, Black Dye
-quark:root_dye:2, White Dye
-quark:diamond_heart, item.diamond_heart.name
-quark:archaeologist_hat, item.archaeologist_hat.name
-quark:variant_leaves:0, Swamp Oak Leaves
-quark:variant_leaves:1, Blossoming Leaves
-quark:variant_sapling:0, Swamp Oak Sapling
-quark:variant_sapling:1, Blossoming Sapling
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:crystal:8, Black Cave Crystal
-quark:crystal_pane:0, White Cave Crystal Sheet
-quark:crystal_pane:1, Red Cave Crystal Sheet
-quark:crystal_pane:2, Orange Cave Crystal Sheet
-quark:crystal_pane:3, Yellow Cave Crystal Sheet
-quark:crystal_pane:4, Green Cave Crystal Sheet
-quark:crystal_pane:5, Blue Cave Crystal Sheet
-quark:crystal_pane:6, Indigo Cave Crystal Sheet
-quark:crystal_pane:7, Violet Cave Crystal Sheet
-quark:crystal_pane:8, Black Cave Crystal Sheet
-quark:stone_speleothem, tile.stone_speleothem.name
-quark:granite_speleothem, tile.granite_speleothem.name
-quark:diorite_speleothem, tile.diorite_speleothem.name
-quark:andesite_speleothem, tile.andesite_speleothem.name
-quark:netherrack_speleothem, tile.netherrack_speleothem.name
-quark:basalt_speleothem, tile.basalt_speleothem.name
-quark:marble_speleothem, tile.marble_speleothem.name
-quark:limestone_speleothem, tile.limestone_speleothem.name
-quark:jasper_speleothem, tile.jasper_speleothem.name
-quark:slate_speleothem, tile.slate_speleothem.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:monster_box, tile.monster_box.name
-quark:basalt:0, Basalt
-quark:basalt:1, Polished Basalt
-quark:stone_basalt_slab:0, Basalt Slab
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
-quark:frog_leg, item.frog_leg.name
-quark:cooked_frog_leg, item.cooked_frog_leg.name
-quark:golden_frog_leg, item.golden_frog_leg.name
-quark:pirate_hat, item.pirate_hat.name
-quark:crab_leg, item.crab_leg.name
-quark:cooked_crab_leg, item.cooked_crab_leg.name
-quark:crab_shell, item.crab_shell.name
-quark:marble:0, Marble
-quark:marble:1, Polished Marble
-quark:stone_marble_slab:0, Marble Slab
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, Limestone
-quark:limestone:1, Polished Limestone
-quark:stone_limestone_slab:0, Limestone Slab
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:jasper:0, Jasper
-quark:jasper:1, Polished Jasper
-quark:stone_jasper_slab:0, Jasper Slab
-quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
-quark:jasper_wall, tile.jasper_wall.name
-quark:slate:0, Slate
-quark:slate:1, Polished Slate
-quark:stone_slate_slab:0, Slate Slab
-quark:stone_slate_stairs, tile.stone_slate_stairs.name
-quark:slate_wall, tile.slate_wall.name
-quark:biome_cobblestone:0, Brimstone
-quark:biome_cobblestone:1, Permafrost
-quark:biome_cobblestone:2, Cobbedstone
-quark:biome_brick:0, Brimstone Bricks
-quark:biome_brick:1, Permafrost Bricks
-quark:elder_prismarine:0, Elder Prismarine
-quark:elder_prismarine:1, Elder Prismarine Bricks
-quark:elder_prismarine:2, Dark Elder Prismarine
-quark:elder_sea_lantern, tile.elder_sea_lantern.name
-quark:fire_stone_slab:0, Brimstone Slab
-quark:fire_stone_stairs, tile.fire_stone_stairs.name
-quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
-quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
-quark:icy_stone_slab:0, Permafrost Slab
-quark:icy_stone_stairs, tile.icy_stone_stairs.name
-quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
-quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
-quark:cobbed_stone_slab:0, Cobbedstone Slab
-quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
-quark:elder_prismarine_slab:0, Elder Prismarine Slab
-quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
-quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
-quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
-quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
-quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
-quark:fire_stone_wall, tile.fire_stone_wall.name
-quark:icy_stone_wall, tile.icy_stone_wall.name
-quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
-quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
-quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
-quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
-quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
-quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
-quark:glowcelium, tile.glowcelium.name
-quark:glowshroom, tile.glowshroom.name
-quark:glowshroom_block, tile.glowshroom_block.name
-quark:soul_bead, item.soul_bead.name
-quark:smoker, tile.smoker.name
-quark:witch_hat, item.witch_hat.name
 avaritiarecipemaker:avaritiarecipemakerblock, Avaritia Recipe Factory
 avaritiarecipemaker:vanillarecipemakerblock, Vanilla Recipe Factory
 baubles:ring:0, Miner's Ring
@@ -15507,32 +15509,32 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:shard:0, Wooden Shard
@@ -19097,29 +19099,29 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
@@ -19128,29 +19130,29 @@ tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
@@ -20184,6 +20186,172 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
 ftbquests:custom_icon, Custom Icon
+cbt:uhv_dfc_compressed_fuel, item.cbt.uhv_dfc_compressed_fuel.name
+cbt:tetraschrabadic_trinaquadium, Tetraschrabadic Trinaquidium Ingot
+cbt:tetraschrabadic_trinaquadium_wireunformatted, Tetraschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_s_h, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_s_v, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_d_h, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_d_v, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ae_s, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ae_d, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2, Shaped Tetrschrabadic Trinaquidium Wire
+cbt:tetraschrabadic_trinaquadium_circuitpart_transistor1, Tetrschrabadic Trinaquidium MOSFED Transistor 
+cbt:tetraschrabadic_trinaquadium_circuitpart_notgate, Tetrschrabadic Trinaquidium NOT Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_andgate, Tetrschrabadic Trinaquidium AND Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_orgate, Tetrschrabadic Trinaquidium OR Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_norgate, Tetrschrabadic Trinaquidium NOR Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_nandgate, Tetrschrabadic Trinaquidium NAND Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_xorgate, Tetrschrabadic Trinaquidium XOR Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_xnorgate, Tetrschrabadic Trinaquidium XNOR Gate
+cbt:tetraschrabadic_trinaquadium_circuitpart_capacitor1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_capacitor1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_halfadder1, Tetrschrabadic Trinaquidium Half Adder Circuit
+cbt:tetraschrabadic_trinaquadium_circuitpart_fulladder1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_fulladder1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_fullsubtractor1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_fullsubtractor1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_binarymultiplicator1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_binarymultiplicator1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_binarydivider1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_binarydivider1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract1, item.cbt.tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract1.name
+cbt:tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract2, item.cbt.tetraschrabadic_trinaquadium_circuitpart_integratedaddsubtract2.name
+cbt:thorassium, item.cbt.thorassium.name
+cbt:uhv_circuit_4bit_operator_design_1, item.cbt.uhv_circuit_4bit_operator_design_1.name
+cbt:uhv_circuit_4bit_operator_design_2, item.cbt.uhv_circuit_4bit_operator_design_2.name
+cbt:uhv_circuit_4bit_operator_design_3, item.cbt.uhv_circuit_4bit_operator_design_3.name
+cbt:uhv_circuit_4bit_operator_design_4, item.cbt.uhv_circuit_4bit_operator_design_4.name
+cbt:uhv_circuit_4bit_operator_design_5, item.cbt.uhv_circuit_4bit_operator_design_5.name
+cbt:uhv_circuit_1bit_storage_circuit, item.cbt.uhv_circuit_1bit_storage_circuit.name
+cbt:uhv_circuit_4bit_circuit_timings, item.cbt.uhv_circuit_4bit_circuit_timings.name
+cbt:uhv_circuit_4bit_storage_circuit, item.cbt.uhv_circuit_4bit_storage_circuit.name
+cbt:uhv_circuit_4bit_controller_chip_operations_center, item.cbt.uhv_circuit_4bit_controller_chip_operations_center.name
+cbt:uhv_circuit_4bit_accelerator_configuration_chip, item.cbt.uhv_circuit_4bit_accelerator_configuration_chip.name
+cbt:uhv_circuit_4bit_hss_circuit_high_speed_speciality, item.cbt.uhv_circuit_4bit_hss_circuit_high_speed_speciality.name
+cbt:uhv_circuit_hub_4bit, item.cbt.uhv_circuit_hub_4bit.name
+cbt:uhv_circuit_4bit_sensor_circuit, item.cbt.uhv_circuit_4bit_sensor_circuit.name
+cbt:uhv_circuit_4bit_sensor_io, item.cbt.uhv_circuit_4bit_sensor_io.name
+cbt:uhv_circuit_4bit_sensor_chip, item.cbt.uhv_circuit_4bit_sensor_chip.name
+cbt:uhv_circuit_4bit_8bit_storage_compatibility_module, item.cbt.uhv_circuit_4bit_8bit_storage_compatibility_module.name
+cbt:uhv_circuit_ddssc4_circuit_timings, item.cbt.uhv_circuit_ddssc4_circuit_timings.name
+cbt:uhv_circuit_4bit_refined_circuit_timings, item.cbt.uhv_circuit_4bit_refined_circuit_timings.name
+cbt:uhv_circuit_4bit_memory_component, item.cbt.uhv_circuit_4bit_memory_component.name
+cbt:uhv_circuit_4bit_memory_bus, item.cbt.uhv_circuit_4bit_memory_bus.name
+cbt:uhv_circuit_4bit_cpu, item.cbt.uhv_circuit_4bit_cpu.name
+cbt:uhv_circuit_4bit_ultraspeedifier, item.cbt.uhv_circuit_4bit_ultraspeedifier.name
+cbt:uhv_circuit_4bit_computer, item.cbt.uhv_circuit_4bit_computer.name
+cbt:uhv_circuit_4bit_8bit_parallelizer_1, item.cbt.uhv_circuit_4bit_8bit_parallelizer_1.name
+cbt:uhv_circuit_4bit_8bit_binary_extender, item.cbt.uhv_circuit_4bit_8bit_binary_extender.name
+cbt:uhv_circuit_4bit_gpu, item.cbt.uhv_circuit_4bit_gpu.name
+cbt:uhv_circuit_4bit_parallelizer_circuit_design_1, item.cbt.uhv_circuit_4bit_parallelizer_circuit_design_1.name
+cbt:uhv_circuit_4bit_parallelizer_circuit_design_2, item.cbt.uhv_circuit_4bit_parallelizer_circuit_design_2.name
+cbt:uhv_circuit_4bit_extended_memory_bus_lane, item.cbt.uhv_circuit_4bit_extended_memory_bus_lane.name
+cbt:uhv_circuit_4bit_refined_cpu, item.cbt.uhv_circuit_4bit_refined_cpu.name
+cbt:uhv_circuit_super4bit_parax, item.cbt.uhv_circuit_super4bit_parax.name
+cbt:uhv_circuit_extended_4bit_sensor_chip, item.cbt.uhv_circuit_extended_4bit_sensor_chip.name
+cbt:uhv_circuit_4bit_8bit_compatibility_layer_module, item.cbt.uhv_circuit_4bit_8bit_compatibility_layer_module.name
+cbt:uhv_circuit_4bit_8bit_translation_module, item.cbt.uhv_circuit_4bit_8bit_translation_module.name
+cbt:uhv_circuit_4bit_8bit_quackity_module, item.cbt.uhv_circuit_4bit_8bit_quackity_module.name
+cbt:uhv_circuit_8bit_support_layer_module, item.cbt.uhv_circuit_8bit_support_layer_module.name
+cbt:uhv_circuit_4bit_megacruncher, item.cbt.uhv_circuit_4bit_megacruncher.name
+cbt:urephittium, Urephittium
+cbt:lv_circuit_4bit_operator_design_1, item.cbt.lv_circuit_4bit_operator_design_1.name
+cbt:lv_circuit_4bit_operator_design_2, item.cbt.lv_circuit_4bit_operator_design_2.name
+cbt:lv_circuit_4bit_operator_design_3, item.cbt.lv_circuit_4bit_operator_design_3.name
+cbt:lv_circuit_4bit_operator_design_4, item.cbt.lv_circuit_4bit_operator_design_4.name
+cbt:lv_circuit_4bit_operator_design_5, item.cbt.lv_circuit_4bit_operator_design_5.name
+cbt:lv_circuit_1bit_storage_circuit, item.cbt.lv_circuit_1bit_storage_circuit.name
+cbt:lv_circuit_4bit_circuit_timings, item.cbt.lv_circuit_4bit_circuit_timings.name
+cbt:lv_circuit_4bit_storage_circuit, item.cbt.lv_circuit_4bit_storage_circuit.name
+cbt:lv_circuit_4bit_controller_chip_operations_center, item.cbt.lv_circuit_4bit_controller_chip_operations_center.name
+cbt:lv_circuit_4bit_accelerator_configuration_chip, item.cbt.lv_circuit_4bit_accelerator_configuration_chip.name
+cbt:lv_circuit_4bit_hss_circuit_high_speed_speciality, item.cbt.lv_circuit_4bit_hss_circuit_high_speed_speciality.name
+cbt:lv_circuit_hub_4bit, item.cbt.lv_circuit_hub_4bit.name
+cbt:lv_circuit_4bit_sensor_circuit, item.cbt.lv_circuit_4bit_sensor_circuit.name
+cbt:lv_circuit_4bit_sensor_io, item.cbt.lv_circuit_4bit_sensor_io.name
+cbt:lv_circuit_4bit_sensor_chip, item.cbt.lv_circuit_4bit_sensor_chip.name
+cbt:lv_circuit_4bit_8bit_storage_compatibility_module, item.cbt.lv_circuit_4bit_8bit_storage_compatibility_module.name
+cbt:lv_circuit_ddssc4_circuit_timings, item.cbt.lv_circuit_ddssc4_circuit_timings.name
+cbt:lv_circuit_4bit_refined_circuit_timings, item.cbt.lv_circuit_4bit_refined_circuit_timings.name
+cbt:lv_circuit_4bit_memory_component, item.cbt.lv_circuit_4bit_memory_component.name
+cbt:lv_circuit_4bit_memory_bus, item.cbt.lv_circuit_4bit_memory_bus.name
+cbt:lv_circuit_4bit_cpu, item.cbt.lv_circuit_4bit_cpu.name
+cbt:lv_circuit_4bit_ultraspeedifier, item.cbt.lv_circuit_4bit_ultraspeedifier.name
+cbt:lv_circuit_4bit_computer, item.cbt.lv_circuit_4bit_computer.name
+cbt:lv_circuit_4bit_8bit_parallelizer_1, item.cbt.lv_circuit_4bit_8bit_parallelizer_1.name
+cbt:lv_circuit_4bit_8bit_binary_extender, item.cbt.lv_circuit_4bit_8bit_binary_extender.name
+cbt:lv_circuit_4bit_gpu, item.cbt.lv_circuit_4bit_gpu.name
+cbt:lv_circuit_4bit_parallelizer_circuit_design_1, item.cbt.lv_circuit_4bit_parallelizer_circuit_design_1.name
+cbt:lv_circuit_4bit_parallelizer_circuit_design_2, item.cbt.lv_circuit_4bit_parallelizer_circuit_design_2.name
+cbt:lv_circuit_4bit_extended_memory_bus_lane, item.cbt.lv_circuit_4bit_extended_memory_bus_lane.name
+cbt:lv_circuit_4bit_refined_cpu, item.cbt.lv_circuit_4bit_refined_cpu.name
+cbt:lv_circuit_super4bit_parax, item.cbt.lv_circuit_super4bit_parax.name
+cbt:lv_circuit_extended_4bit_sensor_chip, item.cbt.lv_circuit_extended_4bit_sensor_chip.name
+cbt:lv_circuit_4bit_8bit_compatibility_layer_module, item.cbt.lv_circuit_4bit_8bit_compatibility_layer_module.name
+cbt:lv_circuit_4bit_8bit_translation_module, item.cbt.lv_circuit_4bit_8bit_translation_module.name
+cbt:lv_circuit_4bit_8bit_quackity_module, item.cbt.lv_circuit_4bit_8bit_quackity_module.name
+cbt:lv_circuit_8bit_support_layer_module, item.cbt.lv_circuit_8bit_support_layer_module.name
+cbt:lv_circuit_4bit_megacruncher, item.cbt.lv_circuit_4bit_megacruncher.name
+cbt:uhv_quantum_blackhole_alloy_forge_controller, tile.cbt.uhv_quantum_blackhole_alloy_forge_controller.name
+cbt:uhv_quantum_blackhole_alloy_forge_part1, tile.cbt.uhv_quantum_blackhole_alloy_forge_part1.name
 gregtech:sword, item.gt.tool.sword.name.name
 gregtech:pickaxe, item.gt.tool.pickaxe.name.name
 gregtech:shovel, item.gt.tool.shovel.name.name
@@ -21852,142 +22020,142 @@ gregtech:fluid_pipe_nonuple:115, Nonuple Tungsten Fluid Pipe
 gregtech:fluid_pipe_nonuple:396, Nonuple Tungstencarbide Fluid Pipe
 gregtech:fluid_pipe_nonuple:2013, Nonuple Tungstensteel Fluid Pipe
 gregtech:fluid_pipe_nonuple:2036, Nonuple Vanadiumsteel Fluid Pipe
-gregtech:item_pipe_small:290, Small Magnalium Item Pipe
-gregtech:item_pipe_small:112, Small Tin Item Pipe
-gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
+gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
 gregtech:item_pipe_small:75, Small Osmium Item Pipe
-gregtech:item_pipe_small:277, Small Electrum Item Pipe
-gregtech:item_pipe_small:69, Small Nickel Item Pipe
+gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
+gregtech:item_pipe_small:302, Small Black Bronze Item Pipe
+gregtech:item_pipe_small:290, Small Magnalium Item Pipe
+gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
 gregtech:item_pipe_small:344, Small Osmiridium Item Pipe
+gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_small:3, Small Americium Item Pipe
 gregtech:item_pipe_small:80, Small Platinum Item Pipe
-gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
-gregtech:item_pipe_small:302, Small Black Bronze Item Pipe
-gregtech:item_pipe_small:23, Small Cobalt Item Pipe
+gregtech:item_pipe_small:277, Small Electrum Item Pipe
 gregtech:item_pipe_small:259, Small Brass Item Pipe
-gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
+gregtech:item_pipe_small:23, Small Cobalt Item Pipe
 gregtech:item_pipe_small:331, Small Ultimet Item Pipe
+gregtech:item_pipe_small:69, Small Nickel Item Pipe
 gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
-gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal:290, Magnalium Item Pipe
-gregtech:item_pipe_normal:112, Tin Item Pipe
-gregtech:item_pipe_normal:301, Rose Gold Item Pipe
+gregtech:item_pipe_small:112, Small Tin Item Pipe
+gregtech:item_pipe_normal:274, Cupronickel Item Pipe
 gregtech:item_pipe_normal:75, Osmium Item Pipe
-gregtech:item_pipe_normal:277, Electrum Item Pipe
-gregtech:item_pipe_normal:69, Nickel Item Pipe
+gregtech:item_pipe_normal:301, Rose Gold Item Pipe
+gregtech:item_pipe_normal:302, Black Bronze Item Pipe
+gregtech:item_pipe_normal:290, Magnalium Item Pipe
+gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
 gregtech:item_pipe_normal:344, Osmiridium Item Pipe
+gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_normal:3, Americium Item Pipe
 gregtech:item_pipe_normal:80, Platinum Item Pipe
-gregtech:item_pipe_normal:274, Cupronickel Item Pipe
-gregtech:item_pipe_normal:302, Black Bronze Item Pipe
-gregtech:item_pipe_normal:23, Cobalt Item Pipe
+gregtech:item_pipe_normal:277, Electrum Item Pipe
 gregtech:item_pipe_normal:259, Brass Item Pipe
-gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
+gregtech:item_pipe_normal:23, Cobalt Item Pipe
 gregtech:item_pipe_normal:331, Ultimet Item Pipe
+gregtech:item_pipe_normal:69, Nickel Item Pipe
 gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
-gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large:290, Large Magnalium Item Pipe
-gregtech:item_pipe_large:112, Large Tin Item Pipe
-gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
+gregtech:item_pipe_normal:112, Tin Item Pipe
+gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
 gregtech:item_pipe_large:75, Large Osmium Item Pipe
-gregtech:item_pipe_large:277, Large Electrum Item Pipe
-gregtech:item_pipe_large:69, Large Nickel Item Pipe
+gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
+gregtech:item_pipe_large:302, Large Black Bronze Item Pipe
+gregtech:item_pipe_large:290, Large Magnalium Item Pipe
+gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
 gregtech:item_pipe_large:344, Large Osmiridium Item Pipe
+gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_large:3, Large Americium Item Pipe
 gregtech:item_pipe_large:80, Large Platinum Item Pipe
-gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
-gregtech:item_pipe_large:302, Large Black Bronze Item Pipe
-gregtech:item_pipe_large:23, Large Cobalt Item Pipe
+gregtech:item_pipe_large:277, Large Electrum Item Pipe
 gregtech:item_pipe_large:259, Large Brass Item Pipe
-gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
+gregtech:item_pipe_large:23, Large Cobalt Item Pipe
 gregtech:item_pipe_large:331, Large Ultimet Item Pipe
+gregtech:item_pipe_large:69, Large Nickel Item Pipe
 gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
-gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
-gregtech:item_pipe_huge:112, Huge Tin Item Pipe
-gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
+gregtech:item_pipe_large:112, Large Tin Item Pipe
+gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
 gregtech:item_pipe_huge:75, Huge Osmium Item Pipe
-gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
-gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
+gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
+gregtech:item_pipe_huge:302, Huge Black Bronze Item Pipe
+gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
+gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
 gregtech:item_pipe_huge:344, Huge Osmiridium Item Pipe
+gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_huge:3, Huge Americium Item Pipe
 gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
-gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
-gregtech:item_pipe_huge:302, Huge Black Bronze Item Pipe
-gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
+gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
 gregtech:item_pipe_huge:259, Huge Brass Item Pipe
-gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
+gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
 gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
+gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
 gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
-gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
-gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
-gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_huge:112, Huge Tin Item Pipe
+gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_small_restrictive:75, Small Restrictive Osmium Item Pipe
-gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
-gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
+gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_small_restrictive:302, Small Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
+gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
 gregtech:item_pipe_small_restrictive:344, Small Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_small_restrictive:3, Small Restrictive Americium Item Pipe
 gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
-gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_small_restrictive:302, Small Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
+gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
 gregtech:item_pipe_small_restrictive:259, Small Restrictive Brass Item Pipe
-gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
 gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
+gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
 gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
-gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
-gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
+gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_normal_restrictive:75, Restrictive Osmium Item Pipe
-gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
-gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
+gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_normal_restrictive:302, Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
+gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
 gregtech:item_pipe_normal_restrictive:344, Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_normal_restrictive:3, Restrictive Americium Item Pipe
 gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
-gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_normal_restrictive:302, Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
+gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
 gregtech:item_pipe_normal_restrictive:259, Restrictive Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
 gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
+gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
 gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
-gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
-gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
+gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_large_restrictive:75, Large Restrictive Osmium Item Pipe
-gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
-gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
+gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_large_restrictive:302, Large Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
+gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
 gregtech:item_pipe_large_restrictive:344, Large Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_large_restrictive:3, Large Restrictive Americium Item Pipe
 gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
-gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_large_restrictive:302, Large Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
+gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
 gregtech:item_pipe_large_restrictive:259, Large Restrictive Brass Item Pipe
-gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
 gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
+gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
 gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
-gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
-gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
+gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
 gregtech:item_pipe_huge_restrictive:75, Huge Restrictive Osmium Item Pipe
-gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
-gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
+gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_huge_restrictive:302, Huge Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
+gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
 gregtech:item_pipe_huge_restrictive:344, Huge Restrictive Osmiridium Item Pipe
+gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
 gregtech:item_pipe_huge_restrictive:3, Huge Restrictive Americium Item Pipe
 gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
-gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_huge_restrictive:302, Huge Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
+gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
 gregtech:item_pipe_huge_restrictive:259, Huge Restrictive Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
 gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
+gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
 gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
 gregtech:optical_pipe_normal:0, Optical Fiber Cable
 gregtech:laser_pipe_normal:0, Laser Transmitting Cable
 gregtech:ld_item_pipe, Long Distance Item Pipe
@@ -23077,6 +23245,11 @@ multiblocked:fluid_input:0, Fluid Input Hatch
 multiblocked:fluid_output:0, Fluid Output Hatch
 multiblocked:entity:0, Entity Hatch
 cbt:dfc_sex_multiblock:0, tile.cbt.dfc_sex_multiblock.name
+cbt:ulv_station_mb_1:0, tile.cbt.ulv_station_mb_1.name
+cbt:dfc_sex_multiblock_energy_provider:0, tile.cbt.dfc_sex_multiblock_energy_provider.name
+cbt:dfc_sex_multiblock_fluid_provider:0, tile.cbt.dfc_sex_multiblock_fluid_provider.name
+cbt:dfc_sex_multiblock_item_provider:0, tile.cbt.dfc_sex_multiblock_item_provider.name
+cbt:ulv_circuit_multiblock_provider:0, tile.cbt.ulv_circuit_multiblock_provider.name
 multiblocked:blueprint, Blueprint
 multiblocked:multiblock_builder, Multiblock Builder
 scalinghealth:heartcontainer, Heart Container
@@ -24179,6 +24352,27 @@ srparasites:armor_helm_sentient, Sentient Helm
 srparasites:armor_chest_sentient, Sentient Chest
 srparasites:armor_pants_sentient, Sentient Pants
 srparasites:armor_boots_sentient, Sentient Boots
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -24229,27 +24423,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tfc:wand, TFC Debug Wand
 tfc:mortar, Mortar
 tfc:halter, Halter
@@ -24294,10 +24467,10 @@ tfc:wooden_bucket:0, Black Dye§r Bucket§r
 tfc:metal/bucket/blue_steel:0, Blue Steel Bucket
 tfc:metal/bucket/blue_steel:0, Lava§r Bucket§r
 tfc:metal/bucket/red_steel:0, Red Steel Bucket
+tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Fresh Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Water§r Bucket§r
-tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
-tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
 tfc:rock/granite, Granite Rock
 tfc:rock/diorite, Diorite Rock
 tfc:rock/gabbro, Gabbro Rock
@@ -27573,13 +27746,6 @@ touhou_little_maid:grid, Maid Interaction Panel
 touhou_little_maid:garage_kit, Garage Kit
 touhou_little_maid:gashapon_machines, Gashapon Machines
 base:wrench, Wrench
-sexmod:item_map_secret:0, hehe
-sexmod:allies_lamp, Allies Lamp
-sexmod:dragon_staff, Dragon Staff
-sexmod:tribe_egg, Tribe egg
-sexmod:npc_editor_wand, Girl wand
-sexmod:kobold_egg_item, Kobold egg
-sexmod:luna_rod, Luna's rod
 minestuck:chess_tile:0, Black Chess Tile
 minestuck:chess_tile:1, White Chess Tile
 minestuck:chess_tile:2, Dark Grey Chess Tile
@@ -28165,22 +28331,22 @@ scp:one_way_glass_cube_12, Brown Observation Glass
 scp:one_way_glass_cube_13, Green Observation Glass
 scp:one_way_glass_cube_14, Red Observation Glass
 scp:one_way_glass_cube_15, Black Observation Glass
-scp:pipe_13, Green Pipe
-scp:pipe_4, Yellow Pipe
+scp:pipe_8, Silver Pipe
 scp:pipe_2, Magenta Pipe
-scp:pipe_5, Lime Pipe
-scp:pipe_6, Pink Pipe
 scp:pipe_12, Brown Pipe
+scp:pipe_1, Orange Pipe
+scp:pipe_13, Green Pipe
+scp:pipe_5, Lime Pipe
+scp:pipe_11, Blue Pipe
+scp:pipe_3, Light Blue Pipe
+scp:pipe_6, Pink Pipe
+scp:pipe_4, Yellow Pipe
 scp:pipe_0, White Pipe
+scp:pipe_7, Gray Pipe
 scp:pipe_9, Cyan Pipe
 scp:pipe_14, Red Pipe
-scp:pipe_1, Orange Pipe
-scp:pipe_8, Silver Pipe
-scp:pipe_3, Light Blue Pipe
-scp:pipe_7, Gray Pipe
-scp:pipe_15, Black Pipe
 scp:pipe_10, Purple Pipe
-scp:pipe_11, Blue Pipe
+scp:pipe_15, Black Pipe
 scp:swamp_grass, Swamp Grass
 scp:002_tv, Living Room TV
 scp:electric_wool, Electric Wool

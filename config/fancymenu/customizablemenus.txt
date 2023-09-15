@@ -39,9 +39,6 @@ net.minecraft.client.gui.GuiScreenServerList {
 net.minecraft.client.gui.GuiVideoSettings {
 }
 
-ichttt.mods.moresoundconfig.gui.GuiSound {
-}
-
 net.minecraft.client.gui.GuiControls {
 }
 

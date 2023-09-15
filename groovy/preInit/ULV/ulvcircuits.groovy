@@ -1,3 +1,5 @@
+package cbt.ulvcircuits
+
 // pre 8-bit
 def lv_circuit_4bit_operator_design_1 = content.createItem('lv_circuit_4bit_operator_design_1')
 lv_circuit_4bit_operator_design_1.register()

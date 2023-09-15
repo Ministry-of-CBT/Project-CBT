@@ -1,0 +1,22 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  vr:showif:singleplayer = false
+  randomonlyfirsttime = false
+  vr:showif:multiplayer = false
+}
+
+customization {
+  name = spinningebf
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
