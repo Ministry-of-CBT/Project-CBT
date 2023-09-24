@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cbt:items/lv_circuit_4bit_operator_design_3"
+  }
+}

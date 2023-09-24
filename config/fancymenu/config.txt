@@ -18,7 +18,7 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'true';
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 
 
 ##[mainmenu]
@@ -42,7 +42,7 @@ S:customgameintroskiptext = '';
 [A minecraft restart is required after changing this value.]
 S:customwindowtitle = 'Circuit Board Torture: New Horizons';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'false';
+B:customwindowicon = 'true';
 
 
 ##[multiplayer_screen]

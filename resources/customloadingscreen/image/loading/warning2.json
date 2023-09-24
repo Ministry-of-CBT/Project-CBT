@@ -3,7 +3,7 @@
     "image": "customloadingscreen:font/ascii.png",
     "position_type": "CENTER",
     "offset_pos": "CENTER",
-    "text": "' RLCraft + GregTech + Funny Nuke Mod + Touhou! '",
+    "text": "' You are playing the curseforge version '",
     "position": {
         "x": "0",
         "y": "screen_height * 0.26 - 20",

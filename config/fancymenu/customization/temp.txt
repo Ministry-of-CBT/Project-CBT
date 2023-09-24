@@ -19,6 +19,11 @@ customization {
 }
 
 customization {
+  identifier = %id=6043821%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = 2
@@ -40,76 +45,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\multiplayer.png
   backgroundnormal = fm\multiplayer.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-centered
-  x = -50
-  action = movebutton
-  y = -22
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 100
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = setbuttonlabel
-  value = Unalive!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\button.png
-  backgroundnormal = fm\button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -77
-  action = movebutton
-  y = -45
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 75
-  action = resizebutton
-  height = 75
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = fm\singleplayer.png
-  backgroundnormal = fm\singleplayer.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = setbuttonlabel
-  value = Fuck You.
-}
-
-customization {
-  identifier = %id=6043821%
-  action = hidebutton
 }
 
 customization {
@@ -149,8 +84,62 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = -50
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Unalive!
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\button.png
+  backgroundnormal = fm\button.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = -45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 75
+  action = resizebutton
+  height = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fm\singleplayer.png
+  backgroundnormal = fm\singleplayer.png
 }
 
 customization {
@@ -176,6 +165,17 @@ customization {
   action = setbuttontexture
   backgroundhovered = fm\button.png
   backgroundnormal = fm\button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Fuck You.
 }
 
 customization {
@@ -271,7 +271,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = Opening Music: \nAviators - Sweet Dreams
+  source = Opening Music: \nSmile - Butterfly
   text_border = 0
   case_mode = normal
   source_mode = direct
