@@ -1,5 +1,7 @@
 discord server: [Top Secret](https://discord.gg/GJqpRfTzdD)
 
+looking for the sfw version and the curseforge version?, go to https://github.com/Ministry-of-CBT/CBT-New-Horizons
+
 # NOTICE
 
 This is an official project from the Ministry of CBT
