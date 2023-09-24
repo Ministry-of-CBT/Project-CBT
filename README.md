@@ -1,4 +1,4 @@
-discord server: [https://discord.gg/2RKNDK2S](https://discord.gg/DjDwktq8)
+discord server: [Top Secret](https://discord.gg/GJqpRfTzdD)
 
 # NOTICE
 
