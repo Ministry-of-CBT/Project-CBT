@@ -78,7 +78,7 @@ projectcbtcircuitslv.addItem(52, "circuit.lv.eg_plasma_generator");
 projectcbtcircuitslv.addItem(53, "circuit.lv.eg_semi_fluid_generator");
 projectcbtcircuitslv.addItem(54, "circuit.lv.eg_steam_turbine");
 
-log.infoMC("Project CBT: Admit LV Circuits: Stage Components")
+log.infoMC("Project CBT: Admit LV Circuits: Stage Machine-Specific Circuits")
 
 projectcbtcircuitslv.addItem(55, "circuit.lv.component.sus");
 projectcbtcircuitslv.addItem(56, "circuit.lv.component.gyroscope");
@@ -112,7 +112,7 @@ log.infoMC("Project CBT: Admit LV Circuits - Done")
 StandardMetaItem projectcbtcircuitsmv = new StandardMetaItem((short)2);
 projectcbtcircuitsmv.setRegistryName("projectcbt_circuits_mv")
 
-log.infoMC("Project CBT: Admit MV Circuits")
+log.infoMC("Project CBT: Admit MV Circuits: Stage Machine-Specific Components")
 
 projectcbtcircuitsmv.addItem(0, "circuit.mv.motherboard_plating");
 projectcbtcircuitsmv.addItem(1, "circuit.mv.alloy_smelter");
@@ -169,6 +169,35 @@ projectcbtcircuitsmv.addItem(51, "circuit.mv.eg_gas_turbine");
 projectcbtcircuitsmv.addItem(52, "circuit.mv.eg_plasma_generator");
 projectcbtcircuitsmv.addItem(53, "circuit.mv.eg_semi_fluid_generator");
 projectcbtcircuitsmv.addItem(54, "circuit.mv.eg_steam_turbine");
+
+log.infoMC("Project CBT: Admit MV Circuits: Stage Components")
+
+projectcbtcircuitsmv.addItem(55, "circuit.mv.component.sus");
+projectcbtcircuitsmv.addItem(56, "circuit.mv.component.gyroscope");
+projectcbtcircuitsmv.addItem(57, "circuit.mv.component.led");
+projectcbtcircuitsmv.addItem(58, "circuit.mv.component.oscillator");
+projectcbtcircuitsmv.addItem(59, "circuit.mv.component.sound");
+projectcbtcircuitsmv.addItem(60, "circuit.mv.component.voltage_regulator");
+projectcbtcircuitsmv.addItem(61, "circuit.mv.component.diode");
+projectcbtcircuitsmv.addItem(62, "circuit.mv.component.capacitor");
+projectcbtcircuitsmv.addItem(63, "circuit.mv.component.resistor");
+projectcbtcircuitsmv.addItem(64, "circuit.mv.component.voltage_regulator");
+projectcbtcircuitsmv.addItem(65, "circuit.mv.component.configuration_chip");
+projectcbtcircuitsmv.addItem(66, "circuit.mv.component.sound_chip");
+projectcbtcircuitsmv.addItem(67, "circuit.mv.component.bus_chip");
+projectcbtcircuitsmv.addItem(68, "circuit.mv.component.memory");
+projectcbtcircuitsmv.addItem(69, "circuit.mv.component.motor");
+projectcbtcircuitsmv.addItem(70, "circuit.mv.component.bios");
+projectcbtcircuitsmv.addItem(71, "circuit.mv.component.piston");
+projectcbtcircuitsmv.addItem(72, "circuit.mv.component.heating_coil");
+projectcbtcircuitsmv.addItem(73, "circuit.mv.component.cooling_coil");
+projectcbtcircuitsmv.addItem(74, "circuit.mv.component.voltage_regulator");
+projectcbtcircuitsmv.addItem(75, "circuit.mv.component.configuration_chip");
+projectcbtcircuitsmv.addItem(76, "circuit.mv.component.backlight");
+projectcbtcircuitsmv.addItem(77, "circuit.mv.component.storage");
+projectcbtcircuitsmv.addItem(78, "circuit.mv.component.processor_socket");
+projectcbtcircuitsmv.addItem(79, "circuit.mv.component.interface");
+projectcbtcircuitsmv.addItem(80, "circuit.mv.component.filter_chip");
 
 log.infoMC("Project CBT: Admit MV Circuits - Done")
 

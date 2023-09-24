@@ -1,0 +1,13 @@
+name = "ModularUI"
+filename = "modularui-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b556f56865d9bfa1e303c151746687076ea6f53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4692436
+project-id = 624243

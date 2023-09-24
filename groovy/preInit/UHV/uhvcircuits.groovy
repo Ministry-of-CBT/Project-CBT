@@ -1,3 +1,5 @@
+package cbt.uhvcircuits
+
 // pre 8-bit
 def uhv_circuit_4bit_operator_design_1 = content.createItem('uhv_circuit_4bit_operator_design_1')
 uhv_circuit_4bit_operator_design_1.register()

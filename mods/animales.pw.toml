@@ -1,0 +1,13 @@
+name = "Animales"
+filename = "TFA_1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25efd98a708d80f728ac64b2d58921efd040bcb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2627336
+project-id = 287755

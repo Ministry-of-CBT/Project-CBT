@@ -22,7 +22,7 @@ hash = "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
 
 [[files]]
 file = "README.md"
-hash = "81648594cfe639ac439aa2959f3f63adf4313d96a615916433329ddb2cd6d890"
+hash = "71f41b80cc9587a408f0eb58fd6ac994ab6e5d7265c647507efa576c2d4ec496"
 
 [[files]]
 file = "SECURITY.md"
@@ -66,7 +66,7 @@ hash = "e7473f41de545cf5738cd5d25572446e564edf25056e6b3918fa4dc214bc7a78"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "77caefabf9fdfe920aebc0158b31dd1c29679a603d4a0bac6ea8c016974b01ae"
+hash = "a00b08eea70d34ed5ebc58b1d2ca40328bdd3877ad99cf024f71b20e373b4bd6"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -74,11 +74,11 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "dfdcec3e322c766667df97081772d85489a3230f24b247c2bbdf02dc52eead68"
+hash = "3edc2f88a7297418ab65592538e58db1686479049d52c9e141b86ecab76d38f6"
 
 [[files]]
 file = "config/AppliedEnergistics2/items.csv"
-hash = "e7905934463c3cacfac92c8b2ee3526a0d73ea23c93906851383c99d8a850799"
+hash = "cf376e7baf7fb2a32e8ffcbc7078eba103ae8c10b1d62175ef2ad9e4d447d50b"
 
 [[files]]
 file = "config/AsmodeusCore/core.conf"
@@ -198,7 +198,7 @@ hash = "2388f6e930e2fc03a46ba645eacb69f8ec7d8df219e7eceb2b1c91e9b36c0f97"
 
 [[files]]
 file = "config/HW_Invasions/InvasionConfig.cfg"
-hash = "b5a1bcca4c5c1d3744c987b53b20dc5fa194dabe0f4feab711dcf63e804230d1"
+hash = "7bc439ed3f813a26b538b6b4ac79fee5f13164b0c18464596c925b6cc57f35fd"
 
 [[files]]
 file = "config/IC2.ini"
@@ -206,7 +206,7 @@ hash = "af7e55870e5428b64c4bb9759567fd30fd3b0c0c0ec2cc41848c0f941fb7b697"
 
 [[files]]
 file = "config/LaunchGui.cfg"
-hash = "a1884350ebd65c39ba6869643afd829356086d7f1a4560266e8263364a48a0f7"
+hash = "4f387655d082d44cd9e9a5a84eb7b166b6138433cf8c597db562b5fd1b509da8"
 
 [[files]]
 file = "config/MorePlanetsExtras.cfg"
@@ -3438,7 +3438,7 @@ hash = "3cfc095ae0d158d85e5c138796ebac356ddb20ffa857c1ffeb70c01bda6e2dd7"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests.json"
-hash = "7645388f2a10178d80ab87e26e909e09fcaa81ba4d4f6ffb125098ad602b517e"
+hash = "5bac05795532b37573fd56e0165e6ceb174117ca80238e06454bafabe5728ed0"
 
 [[files]]
 file = "config/carryon.cfg"
@@ -3474,15 +3474,15 @@ hash = "a347a1090de0ccc6373ba2e476938cabb0574edd70f585605da04c74fb74818e"
 
 [[files]]
 file = "config/customloadingscreen_timings.nbt"
-hash = "4e064bacfe215a5c6e2d32255d33618a065bdbec7963c38b354a6969b80d50cc"
+hash = "f887aef25a0868257381de76943a3d6dc7245954a55f91c501684fe75edc8fbc"
 
 [[files]]
 file = "config/customloadingscreen_tips.txt"
-hash = "77b99e4fd2825b81abb6714202bc69383c80c8c708777eee7aeca37e20db864f"
+hash = "69f90ca8758dbc87d4bc70eeb2f6f2e84a2fbf3b1ea63e964e917951a81bbe11"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "5a012b581439a9293b37590b14b71760cac01e0110c9ef1f301e235cf0644f07"
+hash = "15b47ba9b177ce04b3f7c2e25ae02e0dc08490423e3b21682b1cf09860ead841"
 
 [[files]]
 file = "config/dynamictrees.cfg"
@@ -3518,7 +3518,7 @@ hash = "e19fb83061ac8e27739cb4adffcf27e06818832acd803e95540bceaab1a37eff"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "2b32a3d6479bf54d6a18692d8396427d0785dc6356bb9a13664d54794642d0b1"
+hash = "5ef514da9df6cecad5703971a85884bd8ce1e625b67de41d4540f5d91f6a504d"
 
 [[files]]
 file = "config/fancymenu/customguis/PackSettings.txt"
@@ -3526,7 +3526,7 @@ hash = "e538bb1a08b13df8326fc416df5dfd7be9378c3a94227d5e1a9a6163fc8f5353"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "8d9f399c77fdf23e5c6d4ba56d4ec02ea03be95f4278d21d8dedc287bdbda66e"
+hash = "fbf6f02b640aee2e3908637b1097a1b5c792423d3248625d295872c9ce82af21"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/removedifficulty.txt"
@@ -3546,7 +3546,7 @@ hash = "0b67f0ac13880d77f0bb7cc23c22633d6d55153eb1a13501364cf00bd29d477b"
 
 [[files]]
 file = "config/fancymenu/customization/icon-projectcbt.txt"
-hash = "ca5ebcbe558a3a7f112354d2dcfd394fbe4fa78ab06601665c556978ad547b98"
+hash = "ea85df3ea5ea7063b989d3bdaff0ad98d74a7cbcbcfaffedeed8c17c3c31b94a"
 
 [[files]]
 file = "config/fancymenu/customization/nocheatslan.txt"
@@ -3558,7 +3558,11 @@ hash = "c7adc206fde49c5a1355f7844105676ea7418a2ab459b9217f9b9de174789e0f"
 
 [[files]]
 file = "config/fancymenu/customization/temp.txt"
-hash = "82f17cbca6e8873034fccbeb28dc8e2e9e5827b85fba2be6eb652e43e2271c77"
+hash = "b2adbeebd790e7c35f1bc2e81843d537e4cb1907a874a35bd3ae5308b2297b35"
+
+[[files]]
+file = "config/fancymenu/customization/universalbackground_1_1.txt"
+hash = "49952cf123a08706d9f9f80e6361468860fab89c93b3eacad549261d23925393"
 
 [[files]]
 file = "config/fancymenu/customization/volumedeleted.txt"
@@ -3593,12 +3597,16 @@ file = "config/fancymenu/slideshows/spinningebf/Images/image_1.jpg"
 hash = "44a45b18150b3112716e22352916501c36cc96f063ee843286e3f4d5f949821d"
 
 [[files]]
+file = "config/fancymenu/slideshows/spinningebf/Images/image_1.png"
+hash = "0481fb74ef920ed41bd1bc2442bf4eaa84c0dee3bcb6d499f4f18ee5e4ebb2ae"
+
+[[files]]
 file = "config/fancymenu/slideshows/spinningebf/Images/image_2.png"
-hash = "ef276ecab4f9684e25cfc7523d369f84cd9efb53fd57ed9c813dc1937137094a"
+hash = "62c96f9a0678f201091d828b265e4814f22e5a420cd85a4c5fb28c4a3e25b2c1"
 
 [[files]]
 file = "config/fancymenu/slideshows/spinningebf/Images/image_3.png"
-hash = "d9937dcf817b7d9a9438f5d5a5e5003b50dcb79f37dd5868254cf54fa0468670"
+hash = "53fb2c36a54aca834c0ed9b11824bc90b13686d86fbdf42fe414ae58a74dff02"
 
 [[files]]
 file = "config/fancymenu/slideshows/spinningebf/Images/image_4.png"
@@ -4354,11 +4362,11 @@ hash = "7570c05909513add183ce23d5e8eb8a95d9d4896f8268102555b00a7f18d6078"
 
 [[files]]
 file = "config/ftbquests/normal/chapters/index.snbt"
-hash = "2ba876a259ec0d1333f5cfc07c6d098a1454c1bbe58c7d0035f7fc4840693199"
+hash = "dc623654deaa2a4719ba6efaeb8e70724c5954479808be29323e663f96db0600"
 
 [[files]]
 file = "config/ftbquests/normal/file.snbt"
-hash = "13f1dff9386e2f4f4eb3c2728e9b2527b10002a99bd4b257fe7a7a92639cfca7"
+hash = "610f10f9f73936e0003c70028070f815060649e6b5ccf49ec0f87af5b3c82b78"
 
 [[files]]
 file = "config/ftbquests/normal/reward_tables/a58a999c.snbt"
@@ -4366,11 +4374,11 @@ hash = "6a465d380996e59fc4294360a8dbc0329f08124baa17f68ac2920347d63682e1"
 
 [[files]]
 file = "config/ftbquests/normal/reward_tables/index.snbt"
-hash = "dd299190baa2ed3d8e46b0f4683a302abb7388b67defe79b69da9891171f790b"
+hash = "dc623654deaa2a4719ba6efaeb8e70724c5954479808be29323e663f96db0600"
 
 [[files]]
 file = "config/gcym.cfg"
-hash = "1b3671f762ec0f228bbb5d5eb0c7466c71f3f98e775271c3d8349807802edcfe"
+hash = "c9dca75352e87382fb71e60c29ab168f65800b6e1455b3c371dc054e38b49749"
 
 [[files]]
 file = "config/gregtech.cfg"
@@ -5030,7 +5038,7 @@ hash = "eb7bae51f60d5954a160bca9373d66da7ede802b7ca579c30976694a050de2d9"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "112124d82922a29f6c3bb737f0229e36f8441492450a1b8047f9b94b616838d5"
+hash = "db19bb890b27fa453acfd9217850818094cdd08033129c8cfa555d038d14b9f1"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -5066,7 +5074,7 @@ hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "7749e7990e88d0e73b1a72c96f4648c1f3445f6ee046c2d82013e0b1b88f5529"
+hash = "2a0f5728d984a683c00447f677e4e494ef36b91262eb25111d9efffb11d76c9b"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -5129,6 +5137,10 @@ file = "config/multiblocked.cfg"
 hash = "80ba68101d31e75767aa12b1878f62018884f031e550d91dc00361545e6f867a"
 
 [[files]]
+file = "config/multiblocked/assets/multiblocked/lang/en_us.lang"
+hash = "e5f268725ad0e005576b72b39f18ba18b40ff159badd5b9408d0228c08773c4b"
+
+[[files]]
 file = "config/multiblocked/assets/multiblocked/textures/dfc_sex_multiblock/gui/bg.png"
 hash = "de1a59499424a71a3e0e79a849be7f2d9751c2dd6546cedb633f37fd4b0da940"
 
@@ -5157,6 +5169,10 @@ file = "config/multiblocked/definition/controller/cbt_ulv_station_mb_1.json"
 hash = "70a10dd50abe8cb3a2ab759ae4abb01565eca5974020b35a71363ab90871e289"
 
 [[files]]
+file = "config/multiblocked/definition/controller/mod_id_component_id.json"
+hash = "637e6f8231d232e8025f4107a67287a01186b41d40148984a284fd2411528813"
+
+[[files]]
 file = "config/multiblocked/definition/part/cbt_dfc_sex_multiblock_energy_provider.json"
 hash = "525f9d88866dca8d2491ec13029e41f638d6dd458d61f5c29a8c1f1c799abefc"
 
@@ -5170,7 +5186,7 @@ hash = "12acd399ea93df843f7a4394a0b7159ad9d9c31e46a16753714940f402fd8899"
 
 [[files]]
 file = "config/multiblocked/definition/part/cbt_ulv_circuit_multiblock_ep.json"
-hash = "5e06a0fd378a16d06eac21ab3e00281361d061a3f982d2dcc99cb63d514c6ebc"
+hash = "1b74b2f14c38c9569d854a072a4a32994861b092a7cfe5920505f4365d9d41d6"
 
 [[files]]
 file = "config/multiblocked/recipe_map/UHV.json"
@@ -5250,11 +5266,11 @@ hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
 
 [[files]]
 file = "config/splash.properties"
-hash = "6ac57a4edcc3958454f0fb3ea958630713b2f6434377a2cd96b11c8ddfa29cda"
+hash = "f74c749192c4e6408402e64815983e605ec7c0ae5ea1a543e7baf377b29b9b2d"
 
 [[files]]
 file = "config/splashanimation.cfg"
-hash = "2a68f5f1367dd9fc9356c4bae27f0b90ab214d74fe1b0af5e7cd79d86cda86c6"
+hash = "897ea6b44cdac6244169cbc5731c99b523c98fb41a308866cd1e2c6e8b681ec2"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
@@ -5318,7 +5334,7 @@ hash = "12c478270eef3bfe018d4071987a6325619562a2e167aff31809c336156ab4f2"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
-hash = "fb407272a5b9e59d7f6c1588dd9e87d29ec263e40891f1ff14d0430b2fcace37"
+hash = "f55f1e5714e0eaa82c5a2eaf0d14ca32342af46373e49bf3c1d1322e32ae82a9"
 
 [[files]]
 file = "config/time.history"
@@ -5425,6 +5441,10 @@ file = "config/waila/waila.cfg"
 hash = "0bf4931ecb3eab3a93270aa7b47fa1b8472cf384307ae7c25d486b7f6d09396e"
 
 [[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "2a89e493d669331469b1f546199aa76045c4193c9c3c069c6c7b96124be963f9"
+
+[[files]]
 file = "fm/button.png"
 hash = "cdb3f8f341a5637aa74396881e912cb950585d5144318870c1a86ae413a0d9f5"
 
@@ -5479,6 +5499,154 @@ hash = "16c0f3f2ee910feea2a8b406490bb0e2902af0c8ab7fd8f6bfa864ed9e4d090d"
 [[files]]
 file = "groovy/assets/cbt/models/block/uhv_quantum_blackhole_alloy_forge_part1.json"
 hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_1bit_storage_circuit.json"
+hash = "59ebcf928c2f39fef6e277ab03d33da24ab915cf19a002d931fa39d8f36d1e35"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_8bit_binary_extender.json"
+hash = "35c7a4e434196dd906bdf0b8aae8fea360732982b6e8030ab6f743481ba7bdb4"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "657014a90cc9895690c339f8cd6a66d6f8e6c75fe9266df9a740cd1117e43e3f"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "365d26bbb9c6d6785967751deda7e5fa8ad35785429fccb508c7c3383b4d9665"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_8bit_quackity_module.json"
+hash = "fe2607831d0ef9f24b600e567554013966189890532c48cee2ade5bb85e3afc1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "42bf37c962762c50a467a9e871e64002bf55c71b0c9ee7fb3d9f761f2068cd9b"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_8bit_translation_module.json"
+hash = "5ad4eddb69b8628d251ea5aaf1b1e9144c1872c7f335b14cdfe9118d7b227ee2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_accelerator_configuration_chip.json"
+hash = "1a67e55e2448536e5e901673bdb2d974c016f2fde42459ee1a32d4073bff138a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_circuit_timings.json"
+hash = "9130705a06297c1733cbc8fdefcba0eed70c92b821cce0fb6f81f33a1ffe89f7"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_computer.json"
+hash = "9360ceede03df7c4391beda36d2bafe5bcf41e124b5479d22f226760b7f86f68"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_controller_chip_operations_center.json"
+hash = "9e3cac016842d09910d0cae7776b58b67530b91569b8acbc7122d8c48d877b93"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_cpu.json"
+hash = "313628da78bc680552ac29ebcac6865eca1c42f12cec03b03e4440dd65d3da22"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "e949208de7713c2ae459aa7ae6a2a8b21960df50a547281274b12aeb1e6e9745"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_gpu.json"
+hash = "542cccf607754906efa1caaff20332921f1725039b8c917e114ef54b84f3d29a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "132fa410f3071477b6959147190d1ad8fefe3cbc2ad295b18af58c863056b1ad"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_megacruncher.json"
+hash = "0f32e0fc5d5b8e6908eb5915bfe61b49016cb1b3ff0c008df4d57388a939e209"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_memory_bus.json"
+hash = "2cc44fca96dd653e47b8e8253d98c7f6617a48de383cfed6d0ba703cc699430b"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_memory_component.json"
+hash = "10cb5d26a30927b8796c1537b62a189842d15e4c499d76e864933141cdb9f187"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_operator_design_1.json"
+hash = "199217dfc3f6898ee5cf81944c70d00a1848d96508a6011a71cc7cc6ae59a48a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_operator_design_2.json"
+hash = "0d8b6c329801b253d343f741ea9b24baebcbd9a2cfef6aed393a9bbd343a3f76"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_operator_design_3.json"
+hash = "8a2378b826b9d56880ee07e64c012f30e3618d8eb6e4b3b6b0a3541844643350"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_operator_design_4.json"
+hash = "563a77d15b8674f3da183f398a536680f7125014e6f6a7a0fe95d11f2332bb1a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_operator_design_5.json"
+hash = "b7cb1ae0d427ddedc188bd3b02ccef236669980dad185d5f1cd32ebb43cd7357"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "b15257d51660bf5db5a1cc7bb3c5dbda42a0a4e2dd54e682790b071740b49061"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "fe1f081bf3c2ada732ac359aae78c95868d6b19cc3b024a449290a2e838e2276"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_refined_circuit_timings.json"
+hash = "10c32aeca99a7ab3591a282beb4a2c749a373126191e856bf68ff0b481491f0d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_refined_cpu.json"
+hash = "cf45646d715a77f8e9198577c93f6194f7e7554e8f933fee5a37e00389ea069e"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_sensor_chip.json"
+hash = "8bc3296374a195f38ef3ab938d9b01ff727e8d3881bc8678617dbc9a4ca2785a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_sensor_circuit.json"
+hash = "a9e3bc381b0bc088b03f3b9a8f17666485a426192dda4f948599b0ab410955ca"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_sensor_io.json"
+hash = "cef0205996945f68f0fa128dcd17df0ce12010fcc2eef16ec0acb657c767f7e3"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_storage_circuit.json"
+hash = "79e0cca9d7e2eccc300677241cd620e0839bd3b7d3b83176e2de5a16b5a128cd"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_4bit_ultraspeedifier.json"
+hash = "7c09a951ec66afc260e85b8cdb4c5293f9092d1a4eca87374630cd7199ed59c1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_8bit_support_layer_module.json"
+hash = "0c337b1763031238afd50235ca32ef0fc85d08ff8506469b4c128e23ffc4d5bc"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_ddssc4_circuit_timings.json"
+hash = "6bfe468118c7d614190af79dbea47da9d2fcdb22581cf6b7cc6c6024b9a4e8bb"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_extended_4bit_sensor_chip.json"
+hash = "6f8b1fa451e4b75517cbfe5449651ff4ffc8663c2dab1c8277f73ed400da78de"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_hub_4bit.json"
+hash = "67382d40aa1beae5f8ed977ccfef2ee53ca4e702a130c05f86a7276fe6624aec"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/hv_circuit_super4bit_parax.json"
+hash = "1be2e2d53e192aec5dc1be826a30ad23eb90401ca6ad21ac48218940125aed2b"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/lv_circuit_1bit_storage_circuit.json"
@@ -5627,6 +5795,158 @@ hash = "3b39581bb97ddbe5b55b2388037604debe0496aa9fa6ea898a800d5ba51d4dca"
 [[files]]
 file = "groovy/assets/cbt/models/item/lv_circuit_super4bit_parax.json"
 hash = "e691158087119a0a1fb2f8db7b78bfd5167f0dd86b207f8d143fb642c386af24"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/meth_bar_edible.json"
+hash = "55b75aee2e5de4afc17768d4751b844ccfbec0121782f4d7225599111c93d954"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_1bit_storage_circuit.json"
+hash = "de485f8cf67170ed68e3735d9123f3bb59b14fa6584f34114ee838d9eeedcdd2"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_8bit_binary_extender.json"
+hash = "03bd32398fe2ec4b4267f6e51e8a08e150dbd3849832fcfebdd9e447b2d777b1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "cb54aec78588c5b10051b3eea2d798e3207319e84b2dd4a40cae903cf0eb4dae"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "77b09fb07035ea647146593ef178ab650b66e311cac9a2e0e6ca47cabe38a370"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_8bit_quackity_module.json"
+hash = "a7f4fb7e77ed86175888d21d7fef7178768373ce7b1315b86b08d268dd9799b3"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "8790c638a43c9f4712f2ad3946828efc71dd7fe69954fbacbf1796e6ba3b754f"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_8bit_translation_module.json"
+hash = "257741b93b640d1c362bb1d346b26e5ea1a7b2ee029b542198322882e0454d70"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_accelerator_configuration_chip.json"
+hash = "02209312ed12f0239522bee09ca552e7ec0a46b831ef04d17dacd890d6187932"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_circuit_timings.json"
+hash = "384cbfdb7063083f8399d92e6ec276e1a7698ead9bbba12fe54f0b8f000324e6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_computer.json"
+hash = "ba0e13ad02eda97e28f499be47c21a1752dff4819b0d2bfbcfe54054713a4665"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_controller_chip_operations_center.json"
+hash = "eacdaf0d4700a9aace8f9892abd922761d13d39404f08e8ea6017797f7e38233"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_cpu.json"
+hash = "5d2785da0830088beb8d65df55b80ffd1a399f062a65045b072519d69a818732"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "df954a3066891deb41afc28297ba31eae6d01a46ced2582198cbc01802a6d8fe"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_gpu.json"
+hash = "032189eeacf1c9bcdf7e153fd14772bf8d3bbbee48ba163059a585c36a3a843d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "f81d02a0ecdfcc661d1dbde57285f253de02134648f1e03ad7170f8433d60a8d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_megacruncher.json"
+hash = "fb016facad1c3fd3513f554e644a00d4d1fccd3ee42ed9f1da924baf9782a080"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_memory_bus.json"
+hash = "c3790d3a21d339b4bcad259bd0e795f9c8ae025c3706aba2fbbed84f96058d11"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_memory_component.json"
+hash = "40fd5799a98d3e2f1b91440674f974c61b0a26fbfc47cd6ef5517e9205ccb274"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_operator_design_1.json"
+hash = "2bb7eee28f96f0cce00b56615446aeb9f68287904edf0decac4fe985165c5026"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_operator_design_2.json"
+hash = "81a501e661d09f20b59f8d3d483ee1bb4e6b7385b89c46f033d50dc4b61c14df"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_operator_design_3.json"
+hash = "11dd2990bdfd1f64dce42faf949acfa6acbc9fd788c466705838fa2f7158bf78"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_operator_design_4.json"
+hash = "2e9643e61d7d87468bbd0fc7bf3e099fe7d38b89e38179eb0b2dc4f0d3f3a62e"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_operator_design_5.json"
+hash = "6a5bf081400f6894b26bf57b982ff77c0511e48c8a5060970cf08ed27f60886b"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "ee39e1bb6af82ddeaf2f6b403e681d930ec02fb1e4c525d6d88d72d667cb74b6"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "77f825ab70d6d52547e0a9ed3a9d0b5e77c53e4714936ee03b14ac8822397efa"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_refined_circuit_timings.json"
+hash = "ca4f83babeb2407bad6a4897be89676ae808bc080178dd8afe8ef009bc46b185"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_refined_cpu.json"
+hash = "34e954eb728c6183ca36be8619505f8fecb1bc184b05278da253a0b033a29ba1"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_sensor_chip.json"
+hash = "dc7b85958f8e480059f34dcae6dd227818e4fb2a1f84c6dbaa9416646d8e96ca"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_sensor_circuit.json"
+hash = "8c453b2b85c21a6a92fe29e38d837a52510dd1bcb40e7fb0317eb49a5f78227e"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_sensor_io.json"
+hash = "e8b798b7d126c6f39cf69fd320425fe77fc4c511c2a1f4501cbbb437af4d708a"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_storage_circuit.json"
+hash = "64469e4513710eefd61651c9a5503b00f1fc441e5f174103b0342506420faf13"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_4bit_ultraspeedifier.json"
+hash = "c144fe63e4fcf4474f8ecea7c3b8b8955fc1877359b088b8e7768b6c831cd939"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_8bit_support_layer_module.json"
+hash = "a0850192dfc2f98fa17fe8555bc71ecf379371ee2176faf4908c8b7a20284102"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_ddssc4_circuit_timings.json"
+hash = "0ce490d86cbc187e9ef1da989561a714f30c585fc52714646ffb2ab6b2dcfa3d"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_extended_4bit_sensor_chip.json"
+hash = "1f8cb005276216a03401467c36d8fd76e9110db39a4f98afb81cfefffdd2cb34"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_hub_4bit.json"
+hash = "d1ef0c81633e9927d65bd47a9783242883adc99efe0110f360da68570e5408cf"
+
+[[files]]
+file = "groovy/assets/cbt/models/item/mv_circuit_super4bit_parax.json"
+hash = "d83f4d601818d97e1bd757957ec1a7b476deb552cd643ba7a2f1b61370fce6ed"
 
 [[files]]
 file = "groovy/assets/cbt/models/item/tetraschrabadic_trinaquadium.json"
@@ -6145,24 +6465,76 @@ file = "groovy/assets/cbt/models/item/urephittium.json"
 hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
 [[files]]
+file = "groovy/classes/import.groovy"
+hash = "7a6407d83d2745263ed6c25b6239ab311d7f739ea835ed424025e7577e5a9e7c"
+
+[[files]]
 file = "groovy/postInit/main.groovy"
 hash = "70d4c2ed9044c2827ed42272ac5f651874e0595244f7437288fd04aac16a4130"
 
 [[files]]
 file = "groovy/preInit/Food/meth.groovy"
-hash = "8a3d710e75dd0643a85dc15eca3b8c3bbd5984556ac392db24632d7e67f37bf8"
+hash = "b813bdde16dd1227758ee7f11f5e437c9d81711ed7e15d5135733ebcfaa9d7e6"
+
+[[files]]
+file = "groovy/preInit/HV/hvcircuits.groovy"
+hash = "ed6ae2c320eb9342ec05abc2453b09971d9e7cdd560034dad211803199fbd00b"
+
+[[files]]
+file = "groovy/preInit/LV/lvcircuits.groovy"
+hash = "f68aa8ed8976afdf038a20d112dd1a8dc88debc08b3894e85ead78c6e278e849"
+
+[[files]]
+file = "groovy/preInit/MV/mvcircuits.groovy"
+hash = "49d4eefd3e2305a5e9abcd3d866ff3e1eedaa59c81db63fe5a085488a62815f9"
 
 [[files]]
 file = "groovy/preInit/Machines/blackholeforgery.groovy"
 hash = "10114ca40c1587ca3b597db4a22bdc9657eefbe207dfc8ef7fbbb36d9207a434"
 
 [[files]]
+file = "groovy/preInit/MetaItems/metacircuits.groovy"
+hash = "b8f94b3bd8166a886801c552b5d4f70af1468ccf3f24e0c60db65aed9d019edf"
+
+[[files]]
+file = "groovy/preInit/MetaItems/metaitems.groovy"
+hash = "f0dec6582d6ffc78e90a65102fed4d1744b60d25ffdb2f58650baa57ad4b99f5"
+
+[[files]]
+file = "groovy/preInit/Tiered/HV/hvcircuits.groovy"
+hash = "ed6ae2c320eb9342ec05abc2453b09971d9e7cdd560034dad211803199fbd00b"
+
+[[files]]
+file = "groovy/preInit/Tiered/LV/lvcircuits.groovy"
+hash = "f68aa8ed8976afdf038a20d112dd1a8dc88debc08b3894e85ead78c6e278e849"
+
+[[files]]
+file = "groovy/preInit/Tiered/MV/mvcircuits.groovy"
+hash = "49d4eefd3e2305a5e9abcd3d866ff3e1eedaa59c81db63fe5a085488a62815f9"
+
+[[files]]
+file = "groovy/preInit/Tiered/UHV/uhvcircuits.groovy"
+hash = "7f16d1c06e19adf8fa6995500b2be6112a3a73592aba68e4aebf4cef739298f1"
+
+[[files]]
+file = "groovy/preInit/Tiered/UHV/uhvmaterials.groovy"
+hash = "d1e42101090463eb40a81783d200f047ce3a9f15bcbbd059b6e36dda9fbedd6c"
+
+[[files]]
+file = "groovy/preInit/Tiered/UHV/uhvmaterialsoretip.groovy"
+hash = "5b7df8bf61e76e50ad8f595bb1223d74e9bffcac55d7f3857394a8f2243d6e78"
+
+[[files]]
+file = "groovy/preInit/Tiered/UHV/uhvwireshapes.groovy"
+hash = "bdfe3163a1087634df784615483332bdb48d2f9eebcc8152b3370fcd4e6208b2"
+
+[[files]]
 file = "groovy/preInit/UHV/4schrabidium3naquadah.groovy"
-hash = "a470774132917bd4da9df1fb4033e52b68ac770dfe14d2ad4151b60a31a98021"
+hash = "57e951327fd4460f0edf28993dff5d21dcb601c974588f9ccf497788320c28e1"
 
 [[files]]
 file = "groovy/preInit/UHV/4schrabidium3naquadahoretip.groovy"
-hash = "c51f12041e3eb81c131f7c620cdcd9316e7dde641077418945f6330382e0c30b"
+hash = "05ebbde880cffc1238131aa28094d8d41ef8a9e13489a8a32682970658584064"
 
 [[files]]
 file = "groovy/preInit/UHV/thorassium.groovy"
@@ -6170,7 +6542,19 @@ hash = "fc96cd318f7958927d191f0dc5bb66aad45774cec26d59d3348f34cd6a09076b"
 
 [[files]]
 file = "groovy/preInit/UHV/uhvcircuits.groovy"
-hash = "8c2dd963504d8e81c329e4accf9b7809f8a2544ba2f27b2bdd8429585cfb4598"
+hash = "7f16d1c06e19adf8fa6995500b2be6112a3a73592aba68e4aebf4cef739298f1"
+
+[[files]]
+file = "groovy/preInit/UHV/uhvmaterials.groovy"
+hash = "d1e42101090463eb40a81783d200f047ce3a9f15bcbbd059b6e36dda9fbedd6c"
+
+[[files]]
+file = "groovy/preInit/UHV/uhvmaterialsoretip.groovy"
+hash = "5b7df8bf61e76e50ad8f595bb1223d74e9bffcac55d7f3857394a8f2243d6e78"
+
+[[files]]
+file = "groovy/preInit/UHV/uhvwireshapes.groovy"
+hash = "bdfe3163a1087634df784615483332bdb48d2f9eebcc8152b3370fcd4e6208b2"
 
 [[files]]
 file = "groovy/preInit/UHV/urephittium.groovy"
@@ -6182,11 +6566,11 @@ hash = "039bf24b6f945a771c4ed657afcaf3b350bf9f30a8359302c2cb7f17f9fe7490"
 
 [[files]]
 file = "groovy/preInit/ULV/ulvcircuits.groovy"
-hash = "5e65f95c971396ae402d07f2f5a5410941bdbf288e0301c4755eb76d1425a111"
+hash = "2d4a15a8118fb8544a734c4d7f1ab9a9e4d9873e1835b57a1e82ff8a028605a2"
 
 [[files]]
 file = "groovy/runConfig.json"
-hash = "c32f26b386d8f117dc41f1203669a957083d471529f16cf526934ae83613597b"
+hash = "b6ff6bc371891c6dfd4f7c0c17ed6caee5fd43b38066f64f1c6ba626d14de7bb"
 
 [[files]]
 file = "logs/2023-08-24-1.log.gz"
@@ -6246,6 +6630,11 @@ metafile = true
 [[files]]
 file = "mods/ambience-extras.pw.toml"
 hash = "043cb48981bb7e613462612ae78a005bc9cb63928f982f2453d38715e9fa68c9"
+metafile = true
+
+[[files]]
+file = "mods/animales.pw.toml"
+hash = "c6d4f53ed199219f7146b424c05b38c01d267fa418dda402217fcb2cee57178f"
 metafile = true
 
 [[files]]
@@ -6564,6 +6953,11 @@ hash = "f0254cdd6d5f1c170dfdd1fb91c92f38962f3a5b37c241aea562e57645c8677b"
 metafile = true
 
 [[files]]
+file = "mods/modularui.pw.toml"
+hash = "7e2d91d210635cfc11b88089603ad84f1fa7a267dc6178cd22ed05adfcd7a1a1"
+metafile = true
+
+[[files]]
 file = "mods/more-player-models.pw.toml"
 hash = "e87ac88dd5517a4a3fa4904bcf1c3b7ec228df27cdf702059b41ee06b8f68d3e"
 metafile = true
@@ -6741,6 +7135,11 @@ metafile = true
 [[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "1509196121ccfb6209d67649b7cde28103fa706d741c7ac484756c141ac4a143"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
 metafile = true
 
 [[files]]
@@ -7394,7 +7793,7 @@ hash = "5c31788bc667583a5ff406309a7c168f06e52d36764700681692581358d77366"
 
 [[files]]
 file = "resources/cbt/lang/en_us.lang"
-hash = "236db545c1e324c57e0bf3ac38090bb4e4c4cb5144f226fd9deb1c935df1fa21"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/cbt/models/block/uhv_quantum_blackhole_alloy_forge_controller.json"
@@ -7405,12 +7804,456 @@ file = "resources/cbt/models/block/uhv_quantum_blackhole_alloy_forge_part1.json"
 hash = "9e4e5ebd4d659b020259157a931c06a780da86aafdb53604692c8b54899decad"
 
 [[files]]
+file = "resources/cbt/models/item/hv_circuit_1bit_storage_circuit.json"
+hash = "59ebcf928c2f39fef6e277ab03d33da24ab915cf19a002d931fa39d8f36d1e35"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_8bit_binary_extender.json"
+hash = "35c7a4e434196dd906bdf0b8aae8fea360732982b6e8030ab6f743481ba7bdb4"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "657014a90cc9895690c339f8cd6a66d6f8e6c75fe9266df9a740cd1117e43e3f"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "365d26bbb9c6d6785967751deda7e5fa8ad35785429fccb508c7c3383b4d9665"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_8bit_quackity_module.json"
+hash = "fe2607831d0ef9f24b600e567554013966189890532c48cee2ade5bb85e3afc1"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "42bf37c962762c50a467a9e871e64002bf55c71b0c9ee7fb3d9f761f2068cd9b"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_8bit_translation_module.json"
+hash = "5ad4eddb69b8628d251ea5aaf1b1e9144c1872c7f335b14cdfe9118d7b227ee2"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_circuit_timings.json"
+hash = "9130705a06297c1733cbc8fdefcba0eed70c92b821cce0fb6f81f33a1ffe89f7"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_computer.json"
+hash = "9360ceede03df7c4391beda36d2bafe5bcf41e124b5479d22f226760b7f86f68"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_controller_chip_operations_center.json"
+hash = "9e3cac016842d09910d0cae7776b58b67530b91569b8acbc7122d8c48d877b93"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_cpu.json"
+hash = "313628da78bc680552ac29ebcac6865eca1c42f12cec03b03e4440dd65d3da22"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "e949208de7713c2ae459aa7ae6a2a8b21960df50a547281274b12aeb1e6e9745"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_gpu.json"
+hash = "542cccf607754906efa1caaff20332921f1725039b8c917e114ef54b84f3d29a"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "132fa410f3071477b6959147190d1ad8fefe3cbc2ad295b18af58c863056b1ad"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_megacruncher.json"
+hash = "0f32e0fc5d5b8e6908eb5915bfe61b49016cb1b3ff0c008df4d57388a939e209"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_memory_bus.json"
+hash = "2cc44fca96dd653e47b8e8253d98c7f6617a48de383cfed6d0ba703cc699430b"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_memory_component.json"
+hash = "10cb5d26a30927b8796c1537b62a189842d15e4c499d76e864933141cdb9f187"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_operator_design_1.json"
+hash = "199217dfc3f6898ee5cf81944c70d00a1848d96508a6011a71cc7cc6ae59a48a"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_operator_design_2.json"
+hash = "0d8b6c329801b253d343f741ea9b24baebcbd9a2cfef6aed393a9bbd343a3f76"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_operator_design_3.json"
+hash = "8a2378b826b9d56880ee07e64c012f30e3618d8eb6e4b3b6b0a3541844643350"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_operator_design_4.json"
+hash = "563a77d15b8674f3da183f398a536680f7125014e6f6a7a0fe95d11f2332bb1a"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_operator_design_5.json"
+hash = "b7cb1ae0d427ddedc188bd3b02ccef236669980dad185d5f1cd32ebb43cd7357"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "b15257d51660bf5db5a1cc7bb3c5dbda42a0a4e2dd54e682790b071740b49061"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "fe1f081bf3c2ada732ac359aae78c95868d6b19cc3b024a449290a2e838e2276"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_refined_circuit_timings.json"
+hash = "10c32aeca99a7ab3591a282beb4a2c749a373126191e856bf68ff0b481491f0d"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_refined_cpu.json"
+hash = "cf45646d715a77f8e9198577c93f6194f7e7554e8f933fee5a37e00389ea069e"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_sensor_chip.json"
+hash = "8bc3296374a195f38ef3ab938d9b01ff727e8d3881bc8678617dbc9a4ca2785a"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_sensor_circuit.json"
+hash = "a9e3bc381b0bc088b03f3b9a8f17666485a426192dda4f948599b0ab410955ca"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_sensor_io.json"
+hash = "cef0205996945f68f0fa128dcd17df0ce12010fcc2eef16ec0acb657c767f7e3"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_storage_circuit.json"
+hash = "79e0cca9d7e2eccc300677241cd620e0839bd3b7d3b83176e2de5a16b5a128cd"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_4bit_ultraspeedifier.json"
+hash = "7c09a951ec66afc260e85b8cdb4c5293f9092d1a4eca87374630cd7199ed59c1"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_8bit_support_layer_module.json"
+hash = "0c337b1763031238afd50235ca32ef0fc85d08ff8506469b4c128e23ffc4d5bc"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_ddssc4_circuit_timings.json"
+hash = "6bfe468118c7d614190af79dbea47da9d2fcdb22581cf6b7cc6c6024b9a4e8bb"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_extended_4bit_sensor_chip.json"
+hash = "6f8b1fa451e4b75517cbfe5449651ff4ffc8663c2dab1c8277f73ed400da78de"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_hub_4bit.json"
+hash = "67382d40aa1beae5f8ed977ccfef2ee53ca4e702a130c05f86a7276fe6624aec"
+
+[[files]]
+file = "resources/cbt/models/item/hv_circuit_super4bit_parax.json"
+hash = "1be2e2d53e192aec5dc1be826a30ad23eb90401ca6ad21ac48218940125aed2b"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_1bit_storage_circuit.json"
+hash = "b5266429de9790d08aa08b6dff54bdc0d87dfd5abe20771c172b110b6d82896b"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_8bit_binary_extender.json"
+hash = "9080fdee1fde366b97feee109c48af4c66737dc6d58a752485ecd7155d822562"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "446c80d639800b3cfd9146b69f164e11f1136ca74b7c9a9f6c5a151147577d51"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "bed44a01e5c637a648117f7358cb5f5b48f38e8b7df5f70b24fbd351979f4814"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_8bit_quackity_module.json"
+hash = "667f43f3e368181b16e2b4a0659d628f76f05ab521684ac561eff07ce52c2008"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "94c18a7ee5e925b9a0e412cb7ff95fa4fc8b3ea2c52e61113fba91282a0f5ebc"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_8bit_translation_module.json"
+hash = "65f6e1d5bd8141b6b4de29820686b8c534ddde641c4da0ba2d0e98396ad3d5d8"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_accelerator_configuration_chip.json"
+hash = "a4edd2af3a7d17912115c1f4245c15634f6b24ee0e8963914ff3e1a744fe33bf"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_circuit_timings.json"
+hash = "baf301e82cd635e29306ef0f509f9409122b15d5106f1445f9bafd2249add8f6"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_computer.json"
+hash = "834d36991e1f314d34546b8990d7cdad955f10c06c811d2ebc70854f243c60a2"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_controller_chip_operations_center.json"
+hash = "d35aedbf8ffdd4ccc2d4d7216845323636687feec57a0e707f4d04cfe694e2e7"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_cpu.json"
+hash = "0a14db9e1a7a34aaa1f7d50cee2512842273f4a62673a300ebb0792ed9d934a2"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "f7ddf3790140a80c9354bddede15af68b8e2d6aa901a65958aea6dd93876500f"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_gpu.json"
+hash = "93ed4fac04b76832c88f8f984791cd816d2726b82aa5e5eefed0ab6ba14d8513"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "87152d5ecf21de984f6ba59b50e873203ae5e02f5ddcc2a5a4a2e1bacdc9d782"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_megacruncher.json"
+hash = "166a4c3dd120f880ba92c4eaff4fda87a2f756468cfd9bff062e975c93732039"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_memory_bus.json"
+hash = "0278bce8dd0233b681a95c4e4b298993886f977498a08f962428dacf84536a05"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_memory_component.json"
+hash = "63b3a8f8fbd2435ad2ded23a89bf5e912902faf3b18821fba13930473f6ceac0"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_operator_design_1.json"
+hash = "d50cf3a7781d4fb263e7f0df2f8f65e277e8686694485dedb29560e283ff2b76"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_operator_design_2.json"
+hash = "eed3f1e3de392a43f119dfe7bd9712f6af8232f2f5ab51c91af86b6fac24530e"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_operator_design_3.json"
+hash = "b058bda6f8badec8f4d9bdc4f95af7115f0dcaa4d41e86338f6e52e8d80e0736"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_operator_design_4.json"
+hash = "9d1fe25b8bfd1d810a31eeb33b7f68c94ab81fb3343c9e10815b9b140c466e96"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_operator_design_5.json"
+hash = "cf31b99286f4f221f683c7e86ea0e78ca21de48f16a9d4168a2a0dded82cfa8a"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "d4eb4b91a397579ce1cc95fcd22b0214ef8ac5b79f7f95986b9b5bbf60c766e1"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "767fda211fce91927c09aa2a927be1d17c8ca51f9525cd6521316d53349cd670"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_refined_circuit_timings.json"
+hash = "5392304bf4943c5a02d109574ac4112271922cf80a7998797ba42d86ffb55db6"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_refined_cpu.json"
+hash = "a1499f359b7759d335036b8dcf4ff49dbeb7bd9cf8da023921901cb16720ec5d"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_sensor_chip.json"
+hash = "fab56730e17e4cf101a88f4ebf93db76f713aff33fe56792d7063a1b510f9f3a"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_sensor_circuit.json"
+hash = "cb2db20168799b481175d9aef49b646b9861151049c00fc712c4b24003df6ab0"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_sensor_io.json"
+hash = "fe18a98400ceae2a9a6be32b822502fc148766cd8ee08516cf035d9d4d8a8346"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_storage_circuit.json"
+hash = "37d7d0469004ada1a68f593387f3548930e78413cfe05555b20b43737a59056e"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_4bit_ultraspeedifier.json"
+hash = "92410488d98e95d55c60eaf9e02453596ca17b1b3f232d04d8f60f541c752bfc"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_8bit_support_layer_module.json"
+hash = "fa880039a0c4eee3f3ddf0d830fe2189fb604586e7f71642101d25b20ea46198"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_ddssc4_circuit_timings.json"
+hash = "746c2c342afc71e224a500c9abe24addf000beb2830ff7c2ff27cc60f41180ff"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_extended_4bit_sensor_chip.json"
+hash = "f5f6b311e8735e7b2fac4a8e53670d2505c6719264af59cb45b426dd495bae6a"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_hub_4bit.json"
+hash = "3b39581bb97ddbe5b55b2388037604debe0496aa9fa6ea898a800d5ba51d4dca"
+
+[[files]]
+file = "resources/cbt/models/item/lv_circuit_super4bit_parax.json"
+hash = "e691158087119a0a1fb2f8db7b78bfd5167f0dd86b207f8d143fb642c386af24"
+
+[[files]]
+file = "resources/cbt/models/item/meth_bar_edible.json"
+hash = "55b75aee2e5de4afc17768d4751b844ccfbec0121782f4d7225599111c93d954"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_1bit_storage_circuit.json"
+hash = "de485f8cf67170ed68e3735d9123f3bb59b14fa6584f34114ee838d9eeedcdd2"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_8bit_binary_extender.json"
+hash = "03bd32398fe2ec4b4267f6e51e8a08e150dbd3849832fcfebdd9e447b2d777b1"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "cb54aec78588c5b10051b3eea2d798e3207319e84b2dd4a40cae903cf0eb4dae"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "77b09fb07035ea647146593ef178ab650b66e311cac9a2e0e6ca47cabe38a370"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_8bit_quackity_module.json"
+hash = "a7f4fb7e77ed86175888d21d7fef7178768373ce7b1315b86b08d268dd9799b3"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "8790c638a43c9f4712f2ad3946828efc71dd7fe69954fbacbf1796e6ba3b754f"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_8bit_translation_module.json"
+hash = "257741b93b640d1c362bb1d346b26e5ea1a7b2ee029b542198322882e0454d70"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_accelerator_configuration_chip.json"
+hash = "02209312ed12f0239522bee09ca552e7ec0a46b831ef04d17dacd890d6187932"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_circuit_timings.json"
+hash = "384cbfdb7063083f8399d92e6ec276e1a7698ead9bbba12fe54f0b8f000324e6"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_computer.json"
+hash = "ba0e13ad02eda97e28f499be47c21a1752dff4819b0d2bfbcfe54054713a4665"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_controller_chip_operations_center.json"
+hash = "eacdaf0d4700a9aace8f9892abd922761d13d39404f08e8ea6017797f7e38233"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_cpu.json"
+hash = "5d2785da0830088beb8d65df55b80ffd1a399f062a65045b072519d69a818732"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "df954a3066891deb41afc28297ba31eae6d01a46ced2582198cbc01802a6d8fe"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_gpu.json"
+hash = "032189eeacf1c9bcdf7e153fd14772bf8d3bbbee48ba163059a585c36a3a843d"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "f81d02a0ecdfcc661d1dbde57285f253de02134648f1e03ad7170f8433d60a8d"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_megacruncher.json"
+hash = "fb016facad1c3fd3513f554e644a00d4d1fccd3ee42ed9f1da924baf9782a080"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_memory_bus.json"
+hash = "c3790d3a21d339b4bcad259bd0e795f9c8ae025c3706aba2fbbed84f96058d11"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_memory_component.json"
+hash = "40fd5799a98d3e2f1b91440674f974c61b0a26fbfc47cd6ef5517e9205ccb274"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_operator_design_1.json"
+hash = "2bb7eee28f96f0cce00b56615446aeb9f68287904edf0decac4fe985165c5026"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_operator_design_2.json"
+hash = "81a501e661d09f20b59f8d3d483ee1bb4e6b7385b89c46f033d50dc4b61c14df"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_operator_design_3.json"
+hash = "11dd2990bdfd1f64dce42faf949acfa6acbc9fd788c466705838fa2f7158bf78"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_operator_design_4.json"
+hash = "2e9643e61d7d87468bbd0fc7bf3e099fe7d38b89e38179eb0b2dc4f0d3f3a62e"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_operator_design_5.json"
+hash = "6a5bf081400f6894b26bf57b982ff77c0511e48c8a5060970cf08ed27f60886b"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "ee39e1bb6af82ddeaf2f6b403e681d930ec02fb1e4c525d6d88d72d667cb74b6"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "77f825ab70d6d52547e0a9ed3a9d0b5e77c53e4714936ee03b14ac8822397efa"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_refined_circuit_timings.json"
+hash = "ca4f83babeb2407bad6a4897be89676ae808bc080178dd8afe8ef009bc46b185"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_refined_cpu.json"
+hash = "34e954eb728c6183ca36be8619505f8fecb1bc184b05278da253a0b033a29ba1"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_sensor_chip.json"
+hash = "dc7b85958f8e480059f34dcae6dd227818e4fb2a1f84c6dbaa9416646d8e96ca"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_sensor_circuit.json"
+hash = "8c453b2b85c21a6a92fe29e38d837a52510dd1bcb40e7fb0317eb49a5f78227e"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_sensor_io.json"
+hash = "e8b798b7d126c6f39cf69fd320425fe77fc4c511c2a1f4501cbbb437af4d708a"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_storage_circuit.json"
+hash = "64469e4513710eefd61651c9a5503b00f1fc441e5f174103b0342506420faf13"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_4bit_ultraspeedifier.json"
+hash = "c144fe63e4fcf4474f8ecea7c3b8b8955fc1877359b088b8e7768b6c831cd939"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_8bit_support_layer_module.json"
+hash = "a0850192dfc2f98fa17fe8555bc71ecf379371ee2176faf4908c8b7a20284102"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_ddssc4_circuit_timings.json"
+hash = "0ce490d86cbc187e9ef1da989561a714f30c585fc52714646ffb2ab6b2dcfa3d"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_extended_4bit_sensor_chip.json"
+hash = "1f8cb005276216a03401467c36d8fd76e9110db39a4f98afb81cfefffdd2cb34"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_hub_4bit.json"
+hash = "d1ef0c81633e9927d65bd47a9783242883adc99efe0110f360da68570e5408cf"
+
+[[files]]
+file = "resources/cbt/models/item/mv_circuit_super4bit_parax.json"
+hash = "d83f4d601818d97e1bd757957ec1a7b476deb552cd643ba7a2f1b61370fce6ed"
+
+[[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium.json"
-hash = "37a04ad96f7e8ea0277ae277f56917e92fbab7667bea090a1c46d0f1ec0b6a95"
+hash = "1d199bbff9af761c9660369db79c4e8fe265f3adb58c08e61adbfe75efc96d8d"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_andgate.json"
-hash = "49834916f6a18a92f905b2a17efe6812b786c1680b4bb123ab826c7a0526c084"
+hash = "329672cb7178dba690cc8c8498fb2019c12d15faae06606cb17c77730a88532c"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_binarydivider1.json"
@@ -7434,7 +8277,7 @@ hash = "c22ad912748ff158d06b71f29fb207e31ec45372a5b350c16286c3d44aeb521b"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfadder1.json"
-hash = "7aabf62a60684e1d8546e2568aff75c56201185a7f55178bfcb97ef4919cc5e1"
+hash = "e7a881797f47b5d59e2bb2de323329b61f2e225d09d737fc47421bda092f4b4b"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_halfsubtractor1.json"
@@ -7450,311 +8293,383 @@ hash = "3c291e19e7cee5920080aec381bfb8d5cf8cf4c7ff68e2d969d82833f67f3a6e"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_nandgate.json"
-hash = "c3ba9d3b8866c300bebed7dec448fa5afe13d72f2b83f664333128bb7558557c"
+hash = "ddd7f0a55bd5c3f61e44c1e3b0476670c589edc370b9b449ff772c4b9b0f63f2"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_norgate.json"
-hash = "cbfb8cec81d0c6eb52b3d9ce09475055eb0b8b42167d33de7cfc60934b94ccca"
+hash = "b0840a03fa2dcc46b4bc3f75cb8b01ad55a23cd8e6b0528e9e8f6f0beefe0457"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_notgate.json"
-hash = "ae69d678c8dc28c2a0d91fef81808d35c39b1e5b1fa989a0097c2b6721240906"
+hash = "96749ce635d78e04ed89eba04671067040396254e883a532587301f0d62fcc47"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_orgate.json"
-hash = "b777ac5b728e97af86d877d576aba5975549540ecfe5f687216699261ee148a8"
+hash = "77c0e5d371b2575a83681a49bf8ed302a88aece0719f46322f40729b808bcd75"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_transistor1.json"
-hash = "860987550387b99fb9bb61f23b619d03f59fa6fef38ab0b395e81d72b14fe261"
+hash = "e4bb60a6bc68cc0a6733974bc315d9dceb1a064c3ba718fa8cf412693c210aad"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xnorgate.json"
-hash = "2e5bf7fc98136b6c41bc8d1c4806fdb9dbb59ff1516cf229afe089654b34de31"
+hash = "cff44e6bc2815e947ece16fc891409f31273e948c6b8de3a4b7d4e1081bf87b6"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_circuitpart_xorgate.json"
-hash = "cf3f61e0588dafea7fa075724e53e5c1232e9e6fad973f5c45a13b195bfe3461"
+hash = "773c2aaa59528381a0e60f2d026e3c132e74511e27804e51d43d8e223bd8e212"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos1.json"
-hash = "7cf46edb962aedb040b2f2d61b9e4a0f6d4af0d50f3ea6e02526eb080c813e43"
+hash = "7b9e161a67275d736b3ac1c061ecbbdd0f1e9e3e81d7887851003d7e898b8453"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos2.json"
-hash = "31313f7400b01db0f6f4f59b6e75836855c264f0ac55bfcb86c622596ffd8acb"
+hash = "abeb10691a942e5deecb4ef5cae53b51bad0708ff454b021eb8cf1fc27abdcdd"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos3.json"
-hash = "1949732e2e08fbd19add0df9838c63f1d07dabadf053b38dbfdd8f2eb4914d81"
+hash = "33b25b02579811a754ea6d8c1d90fc51174d61e325b2d9d776465976e8849f50"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_d_pos4.json"
-hash = "297596a18de3de32d2c582d84d56cdec36cd5149b625f5c571f24be9bc39f9ca"
+hash = "497cc65307f625f3925316e2a365add6acf49ac3821b0d7889956d2c3bc82501"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1.json"
-hash = "da89900dc5f23cc4edc32844336be16ad84ab536007235885d3bbb8d9f7dec31"
+hash = "aeef73de027fd38ba0b1d5cc6c5c09a41f6c73ae46e184e179103fed42ac0fb1"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_1.json"
-hash = "5115b85373cb392ada9e0e992679453967ae2095dcdb9247dd771c91da88dad4"
+hash = "fe76fb7cfb57e329c6ccfd4518faa29492ace76aee8065f8922565f94280ee44"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_2.json"
-hash = "5be255d716da318e3ea7c97367f8dce07ac0306b3ad1a3cdf602472abc853457"
+hash = "e8b83c4d8babba5ea5c74b172a48e8de5b9a38aa300654702978d10a9cd709f6"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_3.json"
-hash = "c9768011fd0e3c234a21f56d9cd77332d0461b9d1a29f8bcf6498878d200a0a1"
+hash = "c7a65636769b4e50ec9708c7fd918b2b5e158082293d982927688e3068961cf0"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_4.json"
-hash = "176b98adcae3663e966d1b311a6399435c77897199ee9e6b5a5ea19c8b671430"
+hash = "df60533a8b92d6441b2515fbde03c61a8bc9bcc688961144f98bb9dd6933449b"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_5.json"
-hash = "0f58503a3389a1004138914bed5e7818fa31a3e3066a818a05e40dda2a2e9eee"
+hash = "4386ab18adb087105a5c48df1e241c7c0862d8f2a3902723cb378d32fd180e91"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos1_6.json"
-hash = "4cc1a5dc08d06b66f1ec544bfd21590ab044c705777e4c5cc52a837753fd9e38"
+hash = "a80afc595fe6d90a86062874bee679546c97ade136fd73c1004e153d8db38399"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2.json"
-hash = "08f35b6486ae2caa8f16b185a07fa3663664726e2caa04fc328de2102e234cc7"
+hash = "9946d544aba0703ae62d19bce779ecc16acb25fbcd0dcfd4d87af96bb0da4a82"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_1.json"
-hash = "13baf143277f68f271d59099b06038b85de0711c32d83545b67a2eea1c04f5ae"
+hash = "6927fdddd9c1a7d846642d9f83b97092ae40939407753005220dbe8a068ba3fd"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_2.json"
-hash = "770f38fb5d62e5239aa4a78ecd1ca3f8cc76a407058c50d2145aa33663902a45"
+hash = "bdcc65cc11c336b1e2db82e7fa93167d297e05dd9c020519e104d704ec843d41"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_3.json"
-hash = "def2737a75784cb9f5949e7e49d79f0eb2d20e344c38873a4546d16399d2a2f4"
+hash = "54651834dd2f3caff5dd87a5fd5bc7c46ea5a6bd3d04b4e4bab351b6fa7e6cd1"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_4.json"
-hash = "f4353bdfcedd539f95017eaeb4a24c293d9d390147b361dc955ebd208b7a845a"
+hash = "cc51f962a810e48c58a21799052aca788a47526d82274d4063d85d556829c07d"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_5.json"
-hash = "e82871ec1ecb1909db695debbaafc3e31e05fd598fd1a021d9dc85c05f48cda0"
+hash = "af9ab557479a6035181979e265d68f265e9f46f3ec319df744ec307c58a9491a"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos2_6.json"
-hash = "45f8d4a8c26e79441c2f8fc8be7ae1f34e83ddfc24aaef5a575655ab95a29694"
+hash = "ce1c7f6387fb034cb9fb2ba55509147a72ef1a7c4892f94fde3e1ebdd06996d7"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3.json"
-hash = "5c6cbc42ac847c010ca74d98630b413f005f8662d391f4a57a1d15388618c708"
+hash = "18ee309ad7ab478127cca368a6e781a23c693b8045970c1f02e1b0fe8ec0325c"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_1.json"
-hash = "6b4a25f5d403d0c793d1f7650a56116b6006bde839d9e157eced505525b0d139"
+hash = "a7e99710355de31aa0e1264419d36af182300a76cc4188d76e3bedee00c82649"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_2.json"
-hash = "9192440b50ab673a0873f9ec8738c533d8542cdebf4117424fa06398adae5d5d"
+hash = "06a6b9c93722dcc3132f8ce64f999334c3c7d062ba0073dff5891ee4b4e3791c"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_3.json"
-hash = "24f2ad4aa7d4f7005a11e5ba163f01a6e0ff07ddac7f9a7f4fd20c1191ddc9a8"
+hash = "4b1cc37fa0a5e369bb55899ef1f1c310913db203a2442f8c8152caa0860ea941"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_4.json"
-hash = "feff209cae045c5b9007050a1240bfd79bf62f7b2a1a34cf06c1ec24249e1ff9"
+hash = "2edb15835fd89d6bad345160a6a5a632f3098abfb42d4dbfb25e93023dd8bcbc"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_5.json"
-hash = "f5d5e2eb28978af403bb648e0380b443fecc3004ec575ba0539fc89b336b30c1"
+hash = "2731efec890e1305d5c06a9c499ef11c6527c272fbe95f701a0bb9464ae8e0cb"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos3_6.json"
-hash = "e6fa5aac9e2b31a1826b9b9e0633c5c8d153cc556a0457810ae71b3189be9ece"
+hash = "33e13909e8cd87bcee2074c132332af8815224dfcd1894758afdb59f4781d0fd"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4.json"
-hash = "dd6cf7ef3c484a92e9c041b2f2cf0221649b866ca29c92c00cb806488a04cc51"
+hash = "96ff83a5b42248e7637d048e27068751a6e8a7f06467c009b346cd31c64961bf"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_1.json"
-hash = "71cd60a7f4acd1eba9cfff639f7011a177e36523a62841bb173c972992c4a0e9"
+hash = "576d7518ea3488e9525d8c0cd479d19ba7c8db7d9015bea6b2ea89775b512a37"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_2.json"
-hash = "e216f7554e57117864afef904dd29fcab466156a33c6ac2e0f45061e603ff835"
+hash = "9f9a1b117fa7e0d8d665158713b00315e0f157d36b5a5903c65abaec3357ffb6"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_3.json"
-hash = "d292ea454b122dcb883ee5ead2113c1692aa32bc61cd62c35c5e7a8169b6a2b6"
+hash = "63fa07da2b2e767fbc738e6bc97e6e818e1fcdbc37a668b92bd02fc3437b9220"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_4.json"
-hash = "4fb1fcd9d501257a800db70a5bc5fa52aceeed64f3eb9092476b724dff2e0b5f"
+hash = "e0b9b71fc8874bb2512c87e3d4c9ee79998a8e1241a796b9e6b5a98ee3d055d2"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_5.json"
-hash = "7c036be0d0a3e1c5c888565bb212798e14eb0d5ed71d0cc3b9ea6b2e0d42c2a3"
+hash = "5fafb33c0a4da410bdfb2cd055135095a7ffd0874a16de3f8b8cae3a1537c5f1"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_3way_ae_s_pos4_6.json"
-hash = "c3948163fde94c07731c20069793c5df654e1b842c17ea17f32244f14100210c"
+hash = "3cb45d44c8eaada1e8cde9db7b2fa32e8177f2e15ecd7f27062b98cf84518e03"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_d.json"
-hash = "b453ef8716b25f376329db2655c45b6ba91ad30745c21817f35fd9467c2bfe8d"
+hash = "893be2f6a33156d3556c2b3f5dd6bfe8cece9c9356e63b8d477afc1cb02f98ae"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ae_s.json"
-hash = "a1d5afb755997f597b4fd8b2223d595997d901d72b33f232daed578421502758"
+hash = "1e00941049d24aba56f9e5b893dafde281bf7658eafdec78fc9033650a47db6d"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1.json"
-hash = "9e77cec5e474635c981cd3853c14f17025c5d7968e3c0f6f7b7b7f68bd75de18"
+hash = "b4b00e872aa9f77999cf68e24b61aee226325114c8272cb634122da1094c11b3"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_1.json"
-hash = "a2513557db26e90d51a8361f4b05939f4fc1e7885df0df9b3f0fd02a49c6d5ea"
+hash = "bf6f9f29fc6b9c1d892d1713fda53ace9072c88a51c6fb2dfe91dd01af551f37"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_2.json"
-hash = "1eb00a743b1d3ed7e196da2b7ae7ab12b29cadebabd148c35d02b4dda55cf833"
+hash = "ca222ef4ad763b236e748f9df5ca21a38b7f2a4415576ed979d97d2073a218a7"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos1_3.json"
-hash = "4c2e713bea6a6fe0b93b58985c70cd5856f1da7748c65a058d5b8ab83b077454"
+hash = "642ef6df36cc21840ca703e559b1f2fc363394a11c294e76b7043e9321f2272f"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2.json"
-hash = "41095af9fb8902b1c3e4b985c65f462ece1328b770054508d0be1b037a963469"
+hash = "e07ba58d056af994a58c7eaa0c1ccbb528c6f62fcf8e855e4058445366445e91"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_1.json"
-hash = "34c7506ad50f924ad9cd6a8c82a461435ac92eb21ee65b3cdab008c8d2e3d517"
+hash = "66496e8e35eda2ee6f516997666d7f0befa9978036b653f5ddb19677b45ca1c8"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_2.json"
-hash = "25d7ad28542181ab8a5b474cf89e5bb65441c4a5b671f5174e2b222d87cc061f"
+hash = "688660c56ef7330d198b4b5b619ebc561d5506cf2100f27dfd0d6f8400f88aeb"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos2_3.json"
-hash = "a9455ddeff1646dd5da3d2793871889cfab0e6dc478253eb7d7e8b7ff21c3265"
+hash = "1ffa1f930f27d4bedba75045ae4137b644724b6ca0f362e8ed4c1eabbf5c639f"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_1.json"
-hash = "9649c4ccf360a06682ddec5c4b967055f3a797ca4501d8d9e1444a3625629bd6"
+hash = "356e41ebb0b8a8987b30aa35c92573b25a00d4de64785e541b82cb7cb4f27cae"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_2.json"
-hash = "2524a22c5391a4b8638ac38cb9cfcf3a8a6c62f6328cec771a3accea15911eb8"
+hash = "92cba22443e0fcefbfa6bd821c4969c51cf2aaa9d1abd3b9531437ee453f2280"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos3_3.json"
-hash = "9320b529e498ecdb98fa9da05be3712527c49abb295b2b4512d63ff747ef7af0"
+hash = "77c90299e8f2e7089791b14b73c8aaadbba33553a497580c24d96dd374123774"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_1.json"
-hash = "c991daa5e90b35f0c354a7f05c856d9fc586e5cf29da88000274f3c93d633cf3"
+hash = "f50456afd1563686b5b2f53fff3a1403caf67151b44f73807cf72ae36d10da0e"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_2.json"
-hash = "506379bafc0be6f9d9d6d3045318c5fedf7b2bcb6babdb08a2943094124fd526"
+hash = "c43768347b274f3f99cdb837e47afef20b5019a1835d9722e00ff91a325b18a2"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_4way_ue_sd_pos4_3.json"
-hash = "6f6ebdc90c659d38a10afe8cd3b8f5be87320694f8c42d6bf9e40052be8a69b9"
+hash = "525dbe47b5eff551318716f8f45c473c0d367a3ecee686a0e4017963f8f89467"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos1.json"
-hash = "3a65eb3d322b7613101f2abec5d0178961094067396f86d9d642f1e31b00f430"
+hash = "1b39816a9451062f0ddaebe09a17033c16d790853346e3df5cb8ee6f66890b08"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos2.json"
-hash = "81ec69ce0ddf6aeaff28dce0bf2d4db95451192680fea7fffd0c3072e43477cc"
+hash = "ad9880e3fcc986ac3a9b063f4ddbdfefbd91e45a00ddb6f283e6139868ae6daf"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos3.json"
-hash = "8244820057e90d15035deb8fa2b370bae199016fabe5aa7fe911e270c974a9d2"
+hash = "0ffeec4fbb7fdf8e89461bbb36dc5cb9622e6bbf361f3108f2e4a6a38dec328b"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_d_pos4.json"
-hash = "e7bed7a84e3cd226ceb52a9452fd8ceefdf89226202691f9e010803d29c86cd4"
+hash = "bcbcc7cca47d698ba3761afd45baf52dffcae93246fbc6567bf39978b66e7243"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos1.json"
-hash = "47a28e200453c88c82ec3c90c8d613ea970f7244deb31744689cf31fd1c35ef3"
+hash = "1f9ff36266183dd4704188127f5b07acceae30207d08624af72bdf254d282814"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos2.json"
-hash = "a44204828010e2b41c787b6521d07f52b23fc235af83d7c744fdb45fa23eb725"
+hash = "4aa1a011d014165053361b8b41550f23d88aaf97e6f9dbda457b472b4d4a83f4"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos3.json"
-hash = "6b7149c5494288b8616de2133f1592b3cf8d610eec134e78ea4e9b1c6d2ca5af"
+hash = "24566690f628f598561fe322aec5a558c7a3f4a82f9bec2efb228dbc9c8dfe63"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ae_s_pos4.json"
-hash = "1d287e1a0775cb28078b5b839bdc782b4f956608aae2ed13261e524452018a71"
+hash = "2c25312194f0eb54f0e9185bd403d086bf114be98140aee5212ada4800db30a0"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_1.json"
-hash = "6e936aeda686417a940a3e7472fe7320401e0b216e6ecb50da69017fe95e86e8"
+hash = "d53997a7cdfc2b6a65e4201f282e1a4e6da978435e5a0ae08bc44696309b5ed4"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos1_2.json"
-hash = "e536583dfc16ee471422b2bebbd1d9fb24bc14fd95a50e20e8628523f54a550c"
+hash = "27913cf5dc1f45a37122ec5632f0ff1e0bb8145cefb166586595a47336896cee"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_1.json"
-hash = "222e26580f0f172537dab9854c87b1c4e0901e1f91838e4a7aea12abaa1cfb86"
+hash = "dd47879997b3be00cb0257a59b95409e39fcaccfc50221cb7f64eb88cad22d31"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos2_2.json"
-hash = "cd514f26e660e5b7dca13353f6fafda12ef2e0a47f632645cea90ecdc220027d"
+hash = "13544e876335949698bea67323dfdbb019fe30c15d4b5025d4cfe1a72e12f52a"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_1.json"
-hash = "c135b42faf843226d06f4ac5419e7aea76e31a758301b5640b62ccc1052dd92a"
+hash = "725a413ac4eebfe1a9e5da8575cd78dd64d1c3b25beac3025558fb9b7cc2f55c"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos3_2.json"
-hash = "e5beffbb003b9d9c580cdf7c0f71c296a5006e98a86e635083ecafd5d1134058"
+hash = "a843ee6be45a5fcbfb7e483dca37b3f15b0539a09f077faebe5219d4676a6f1d"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_1.json"
-hash = "9b38b582290eb4b018cf0dcb01f9353390a5090b35cc842d07053b8d163b2fcc"
+hash = "c6eebcce64bcf926f6f15f2a1734113d504d73881a3cd3d8e4e07d58d34f63d5"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_corner_ue_sd_pos4_2.json"
-hash = "b00f2e0cb9c1acdf0480c1027ed6aac456d4c05dd59d3b85d0b6c9aad5b97403"
+hash = "6f82a8b991366581776fb20044f03f62265abc2d05242c9fb1ef1d96f679137c"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_h.json"
-hash = "1fd0a3ceb50a2e5213cb304c5e574d7a48f6fd7b346ccfb832dcb9472fe3a1ef"
+hash = "bb5ee2789ab31fe2067ff72fbe73605c2ba4251ed9ae64dc2d96ddc876e4f270"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_d_v.json"
-hash = "b63f5f67e5adf29f4c1c4dd91c6b981b7689bb86fa5db3abce16518e167a0795"
+hash = "aad4beec3d3032d862a1c5e7b4b5beaa3cb0413e39e438ab9c0fe47f0c2cef1f"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_h.json"
-hash = "b8aaa7d58faf4be51a1a00674b4c2ffa8707d9a16bebf165411e786bf7eb8e9c"
+hash = "15be2f3a1d7cbd5e201bde57a3a84f5c87adb83d5f30e3fc18eae56cbc8a96cc"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wire_s_v.json"
-hash = "c93bdc33e822e3424974eeffe850e213257ae020726e00e995045936d97c0f6f"
+hash = "fb4510e741ecbc95731ff4ae52a4f8da6a84a337e07d46debea65473f384d18b"
 
 [[files]]
 file = "resources/cbt/models/item/tetraschrabadic_trinaquadium_wireunformatted.json"
-hash = "30e5782cc678045e927ac5bc3c795c962017412d8385536cd700d7e346120730"
+hash = "9109048ebd9419566cb4461e31223f5693c7737f7d6e16fd6d3fdb8cad2a9da2"
 
 [[files]]
 file = "resources/cbt/models/item/thorassium.json"
-hash = "43cf9bd382c3309dab048756cc123fb1c53060350910c5347f8f9f6d40d5e1e1"
+hash = "d60ec4178d22d86f9440737346fabef0cb721b97af9a911f8c719d7cf833cf26"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_1bit_storage_circuit.json"
+hash = "b38543ac1e86c21b6ef357f7c42ab43c44ea2b590c47bc9ac481d4d191de7042"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_8bit_binary_extender.json"
+hash = "b7a882d8168241f2e3a413f88c0425b884c320ea35eda6445aa8c6a0c4406d68"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_8bit_compatibility_layer_module.json"
+hash = "26206a15a898b47a0db34bcd347bc9d427cbf22d37055e8249fa611d4c4c56db"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_8bit_parallelizer_1.json"
+hash = "31d84cdc9d70450a5dff28170cb8b9682d747b3af0bed94f2b31950be9f6f6a7"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_8bit_quackity_module.json"
+hash = "aa54d166b3b7d149937424a6d294a137198ef501215a1060aa40ca73d3418a20"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_8bit_storage_compatibility_module.json"
+hash = "0e721caf2415753de91409c63422e5a7849dae5a502f231e69d464b637e5be46"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_8bit_translation_module.json"
+hash = "a8ff4bf06b1589e94fe851175d10ec76a7517490299707915dbce6197e6faa80"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_accelerator_configuration_chip.json"
+hash = "76317b63e61a984fb564c35d087a00642eccec1abf97f3596eb318e5f7bba629"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_circuit_timings.json"
+hash = "c93e456ae7ebbab327b1502be0a4cd4f9c84a77609a2ab4126cd8a95394ba1db"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_computer.json"
+hash = "7008e95fdea0ab2bcdc4bd9c9f701601c5ac3f45d5ac70d8c6aad1b94e436944"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_controller_chip_operations_center.json"
+hash = "e1459eb87b6217da8d2210c4227ac340b8fb9b800cea02abbe2bf5158550d14c"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_cpu.json"
+hash = "6a76e275a150210fc5613c0f694114a9ce43fc83530da2bae5ad66faf7aca391"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_extended_memory_bus_lane.json"
+hash = "08f9da0eb3111fa3d256c5eab2de112e96cb16cca98527d9a212b78efa744b9a"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_gpu.json"
+hash = "8ea0e48881b3260d6e2078ed135fdbe595f80e1062a894c8b1ec4a372116a7f2"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_hss_circuit_high_speed_speciality.json"
+hash = "d679d3bfad5f0f13fea4328688bce707414b05cc869098b2be20e99855882668"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_megacruncher.json"
+hash = "4f4dcf8ab53f5f64d5d9da42dd89621af8f39506d096e81c58e03707d2c16622"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_memory_bus.json"
+hash = "a49606a64a68ed8bf35581dcc660b790a3453c59bb63e8b9eba7c0d05c16cb79"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_memory_component.json"
+hash = "29d38f5fbbc67c6028273a07cf36b4d4d2adb0fd04fc5c26ab527d8cd80e44aa"
 
 [[files]]
 file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_1.json"
@@ -7777,6 +8692,62 @@ file = "resources/cbt/models/item/uhv_circuit_4bit_operator_design_5.json"
 hash = "f865885571b8657ca8da4df8d23dce576547094ace86a27693942bda52e57f10"
 
 [[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_parallelizer_circuit_design_1.json"
+hash = "5136cdcdc786b5e37e497dd91bf035de7f71a09a7cc3a510a0bd374a6550cee8"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_parallelizer_circuit_design_2.json"
+hash = "f931e147b0243c1ae2f62c823918fc5e045a665536df37d3586d8ec9955fec71"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_refined_circuit_timings.json"
+hash = "19238a391f6279be8e166485c06594accae0afa5fed02fc478ff0f6690156508"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_refined_cpu.json"
+hash = "5130e672c420f2db0dcc7d17bc17c98cbe4a30650af3c6b23c8efdd8209dbdb1"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_sensor_chip.json"
+hash = "b8b92301d7e8585e5af9ac8027dff80545175fe87b646a3f5960a9d7caa80416"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_sensor_circuit.json"
+hash = "4efad07d7d6d1795e391e07cea97b487c3acdbbed41d5a483354ca35f8236b12"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_sensor_io.json"
+hash = "ed73a944e7e042cc7e5593ef178424016794a230a7d4b00ef7841a024eb5114c"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_storage_circuit.json"
+hash = "7e57bd7cf77b0388c5973e3293119f625cf257a858048873e2055f909e8b9e00"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_4bit_ultraspeedifier.json"
+hash = "33747d5ff1d4b9058cd8a8c3c822204e06952a03f58cbac8ff99f6ae64028070"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_8bit_support_layer_module.json"
+hash = "ad508373b1042e38c4ca8b4aa9017553e3e4ded7e61069e73f09490010527485"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_ddssc4_circuit_timings.json"
+hash = "b49cf4fe9c5e1f667727bc2f8b25e97b1f5f40c6f77cfadd0769452ab262a99a"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_extended_4bit_sensor_chip.json"
+hash = "0bc850039aed4b19070070e01c00dbbe34e42a1740a07447c08895945ef2f620"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_hub_4bit.json"
+hash = "92ef2104711a73ed9edf3fa3c1bbb9885c7fb6e727a1ac6d43f6ec56502692e2"
+
+[[files]]
+file = "resources/cbt/models/item/uhv_circuit_super4bit_parax.json"
+hash = "322fd04dee81b2a2aaea9a63f68722163e515097cf31ae51b202d83edc5595df"
+
+[[files]]
 file = "resources/cbt/models/item/uhv_dfc_compressed_fuel.json"
 hash = "ad61531de80fe2d25623413bc1abc2cd119545381d2cc3c4659bf23c94484cbc"
 
@@ -7790,7 +8761,7 @@ hash = "1bd4d471afe907944ef30ff123d52f3770555de84af28b6ed0afb5de9146f096"
 
 [[files]]
 file = "resources/cbt/models/item/urephittium.json"
-hash = "f60fc116a4e747dfbe235a18a5b0eb0d6c66e30bb7d91707274bed29080bb810"
+hash = "6bfb878524a6dc7b56a9c5b01d9178e18e7229ec400024ce096b22bfe66a2067"
 
 [[files]]
 file = "resources/cbt/textures/items/4sa3nq-gradienttemplate.png"
@@ -8134,7 +9105,7 @@ hash = "76ec76e4c6b461cea7a993656ce8bad729c5e1d78b003640b7ef0f1cda952073"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/banner.png"
-hash = "33e6b43e69416fb6363270a8644db61fcea8542eb98365129c6678f4a37e395e"
+hash = "a09c82e5c4d70f309ff2db4a3c1b2e03f6a61e2e60006aa89e4cb7ac2b81089e"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.json"
@@ -8142,7 +9113,7 @@ hash = "69aec65b37eca502441d5d2de9bf8c3962589a87f97d0db333bfbaab978123fb"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/bgloading.png"
-hash = "eb4d9d543a9246e32d2b0c5fff7784add16c74a8d0aa174407ae4141420eaf85"
+hash = "8a5a1217cdfda55ea56b126002182b3e53a1200c8eefd1f9f4ef5d7386512515"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/loading_bar_white.json"
@@ -8150,7 +9121,7 @@ hash = "4633254704cd19d185914b32880fa392679d3c27da6ce34ec39fa4d30eee4528"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_left.json"
-hash = "9ed54cb40b3863f6b7a269e60138b45c990e2bd7e19e1ebb93a30fdb8289a4f8"
+hash = "905880ee6e6785de74357a3b7445ae8dd393bbe37448dff381da8220bee2d882"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/memory_text_right.json"
@@ -8210,11 +9181,11 @@ hash = "46c63f9a33d864837c52276c4e400ce9b1bb869fb80774020fb873c7fc14f381"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning.json"
-hash = "b62c732fdaacfc32bcd9a33a37ea1e9e2ed9670e7b20c9dc9f94eb49627fb19e"
+hash = "e019182c1ffd37711125f656812c95a73570f99e4d21de77b648a4c809a5c769"
 
 [[files]]
 file = "resources/customloadingscreen/image/loading/warning2.json"
-hash = "b8133203bf98fe6bca0231fc92a776c45fb7f0492c1ec9dd8bcff935c9acaa3c"
+hash = "e6c8933855d8e56cf6cc8799f2c7ed2958900153e776f7c6fbbc9ce149fe06f1"
 
 [[files]]
 file = "resources/ftblib/textures/gui/background_squares.png"
@@ -8226,7 +9197,7 @@ hash = "d8213fab0d072200e87846e599f32dd9f12617a45a22c11726a036775034f062"
 
 [[files]]
 file = "resources/gregtech/lang/en_us.lang"
-hash = "bf4eea4b814f89a593ed4ebec2ccbed7cbd2c6e276733630cb1c3a32bddd12b4"
+hash = "d8213fab0d072200e87846e599f32dd9f12617a45a22c11726a036775034f062"
 
 [[files]]
 file = "resources/gregtech/textures/gui/terminal/frame_side_down.png"
@@ -8254,23 +9225,23 @@ hash = "7a4538acd4d4bac14f20176b3a213ff431b9106701daf96967f201a90fa80439"
 
 [[files]]
 file = "resources/minecraft/lang/en_us.lang"
-hash = "6cb95e16c56b2b4fc0e7a546bcd7b0e99f080de8929aad983dbdf2e8b283ed2f"
+hash = "e5b1969dd83383b24f792a0cf70a97fcd1071e1016d0263cdf946d726f15571a"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu1.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "953dd97b67d5c2ba1ebf222555799558bbe23e56de32a736971fb012046f331d"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu2.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "953dd97b67d5c2ba1ebf222555799558bbe23e56de32a736971fb012046f331d"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu3.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "953dd97b67d5c2ba1ebf222555799558bbe23e56de32a736971fb012046f331d"
 
 [[files]]
 file = "resources/minecraft/sounds/music/menu/menu4.ogg"
-hash = "179daaf9cdc08bfe6d9eb30336019baaddac64efe7f2a03b2e87255cf4c0d12b"
+hash = "953dd97b67d5c2ba1ebf222555799558bbe23e56de32a736971fb012046f331d"
 
 [[files]]
 file = "resources/minecraft/textures/entity/enderdragon/dragon.png"
@@ -8427,6 +9398,34 @@ hash = "6393e90c5d45f9cbf5910770e70488ad245b74d220b76f1e3d6217ce7a353a83"
 [[files]]
 file = "resources/projectcbt/ftbicons/project-cbt-icon.png"
 hash = "b549820696d3b20d26c21c8abac00563abdd32b5f9887f74d255c48ad7f09877"
+
+[[files]]
+file = "scripts/documentation.txt"
+hash = "6aa80dd43b62e33537b4a351e7cc4260ace967ae7b8435ca9ed098113ad835d1"
+
+[[files]]
+file = "scripts/gregmeth/gregmeth_materials.zs"
+hash = "7109a5fcb88c574d8c3365901cd2eee892c4c4366608b25b46038fe2c60995d8"
+
+[[files]]
+file = "scripts/gregmeth/gregmeth_recipes.zs"
+hash = "dcd166bba96bf59cd6b4b9e3fac92e8ab903dc12a28abe4ff2a44cfe2ae78faf"
+
+[[files]]
+file = "scripts/materials/elements.zs"
+hash = "38e88781dff36d6b68fa91a4418b3363dcc1c6fd5d6335ad0beffa6184301873"
+
+[[files]]
+file = "scripts/materials/uhvmaterials.groovy"
+hash = "8787564410b33acd186385acf1c119597e54bd346db949aa22c76376a7518af8"
+
+[[files]]
+file = "scripts/misc/human_resources_multiblock.zs"
+hash = "8bff9b713ade233f35a321e31f464d046b65b12c6398923ea58f94170d56988d"
+
+[[files]]
+file = "scripts/misc/materials.zs"
+hash = "a1c6daa918dfa5897de336354b58bbc6195dfdd1c150dbe480299e6042c03a8b"
 
 [[files]]
 file = "scripts/misc/uhv.zs"
