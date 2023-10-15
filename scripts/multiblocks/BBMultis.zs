@@ -15,7 +15,7 @@ import crafttweaker.item.IItemCondition;
 
 import scripts.common.makeShaped as makeShaped;
 
-val dealer = Builder.start("dealer", 25000)
+val dealer = Builder.start("dealer", 28100)
     .withPattern(function(controller as IControllerTile) as IBlockPattern {
         return FactoryBlockPattern.start()
             .aisle(
@@ -67,11 +67,10 @@ val dealer = Builder.start("dealer", 25000)
             .where('-', CTPredicate.getAny())
             .where('F', <metastate:gregtech:meta_block_frame_188:14>) // incoloy frame
             .where('G', <metastate:appliedenergistics2:quartz_vibrant_glass>) // vibrant quartz glass
-            .where('H', <metastate:nomifactory:compressedmethblock>) // double compressed meth
-            .where('D', CTPredicate.states(<metastate:nomifactory:bronzebismuthcasing>)
+            .where('H', <metastate:cbt:compressedmethblock>) // double compressed meth
+            .where('D', CTPredicate.states(<metastate:cbt:bronzebismuthcasing>)
             | controller.autoAbilities(true, false, true, true, false, false, false))
-            .build();
-
+           .build();
     } as IPatternBuilderFunction)
     .withRecipeMap(
         FactoryRecipeMap.start("dealer")
@@ -80,7 +79,7 @@ val dealer = Builder.start("dealer", 25000)
             .minOutputs(1)
             .maxOutputs(1)
             .build())
-    .withBaseTexture(<metastate:nomifactory:bronzebismuthcasing>)
+    .withBaseTexture(<metastate:cbt:bronzebismuthcasing>)
     .buildAndRegister();
 
 dealer.hasMufflerMechanics = false;
@@ -90,24 +89,24 @@ makeShaped("dealer", <metaitem:multiblocktweaker:dealer>,
     ["ABA",
      "CDC",
      "EFE"],
-    { A : <nomifactory:bronzebismuthcasing>,
-      B : <nomifactory:pvcglove>,
+    { A : <cbt:bronzebismuthcasing>,
+      B : <cbt:pvcglove>,
       C : <ore:circuitIv>,
-      D : <nomifactory:emptysyringe>,
+      D : <cbt:emptysyringe>,
       E : <gregtech:meta_item_1:191>,
-      F : <nomifactory:compressedmethblock>
+      F : <cbt:compressedmethblock>
     });
 
 dealer.recipeMap.recipeBuilder()
     .duration(2)
     .EUt(32768)
-    .inputs(<nomifactory:crystalmeth> * 64)
-    .outputs(<contenttweaker:omnicoin100> * 8)
+    .inputs(<cbt:crystalmeth> * 64)
+    .outputs(<minecraft:diamond> * 8)
     .buildAndRegister();
 
 dealer.recipeMap.recipeBuilder()
     .duration(2)
     .EUt(32768)
-    .inputs(<nomifactory:methsyringe> * 16)
-    .outputs(<contenttweaker:omnicoin100> * 4)
+    .inputs(<cbt:methsyringe> * 16)
+    .outputs(<minecraft:diamond> * 4)
     .buildAndRegister();
