@@ -4,10 +4,13 @@
   "version": "1.0.0",
   "debug": true,
   "classes": [
-    "classes/import.groovy"
+    "classes/import.groovy",
+    "classes/Util.groovy",
+    "classes/items/ItemDrug.groovy"
   ],
   "loaders": {
     "preInit": [
+      "classes/",
       "preInit/"
     ],
     "init": [
