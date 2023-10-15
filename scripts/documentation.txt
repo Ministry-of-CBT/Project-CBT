@@ -6,4 +6,4 @@ Since metaid apparently extends to 32000+
 22000 - Fictional Materials
 24000 - Intermediary Compounds
 26000 - Complex Materials
-28000 - Breaking greg
+28000 to 28100 - Breaking greg
