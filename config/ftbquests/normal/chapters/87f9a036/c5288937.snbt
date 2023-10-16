@@ -26,13 +26,13 @@
 		uid: "5fea5968",
 		type: "item",
 		items: [{
+			id: "minecraft:bread",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 72000L
 				}
-			},
-			id: "minecraft:bread"
+			}
 		}],
 		count: 7L
 	}],

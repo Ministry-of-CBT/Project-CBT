@@ -1,0 +1,13 @@
+name = "Hbm's Nuclear Tech - Hamster Reloaded"
+filename = "Hbms Nuclear Tech - Hamster Reloaded - 1.12.2-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fa48770974ceab3af00eb1aa9780d68dbeba949"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4715745
+project-id = 862305

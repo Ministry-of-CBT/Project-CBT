@@ -1,0 +1,13 @@
+name = "TFCTech Unofficial"
+filename = "TFCTech-Unofficial-MC1.12.2-1.2.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa3fdad77b9fe623c3fd2ace1064249e200e7b33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3209033
+project-id = 340660

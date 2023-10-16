@@ -35,14 +35,14 @@
 		uid: "bc49c68a",
 		type: "item",
 		item: {
+			id: "minecraft:golden_apple",
+			Damage: 1s,
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 126000L
 				}
-			},
-			id: "minecraft:golden_apple",
-			Damage: 1s
+			}
 		}
 	},
 	{

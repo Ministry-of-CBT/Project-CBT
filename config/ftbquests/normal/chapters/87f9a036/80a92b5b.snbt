@@ -31,6 +31,7 @@
 		uid: "94023912",
 		type: "item",
 		item: {
+			id: "hbm:ingot_steel",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -44,8 +45,7 @@
 						}
 					}
 				}
-			},
-			id: "hbm:ingot_steel"
+			}
 		},
 		count: 4
 	}]

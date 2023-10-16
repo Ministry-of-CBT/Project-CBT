@@ -1,0 +1,13 @@
+name = "Energy Converters"
+filename = "energyconverters_1.12.2-1.3.7.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec35d6517e2a819fdf6c1413812d66159ef889c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2992813
+project-id = 254818

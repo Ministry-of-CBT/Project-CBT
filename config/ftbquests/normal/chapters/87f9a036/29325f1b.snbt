@@ -31,16 +31,16 @@
 		uid: "5dcb806e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "cobblestone",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any cobblestone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "cobblestone"
 				}
 			}
 		}],

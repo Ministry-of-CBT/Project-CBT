@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "cbt:machine_casing_schrabidium"
+    }
+  }
+}

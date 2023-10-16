@@ -71,16 +71,16 @@
 		uid: "6896fad7",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dustIron",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustIron"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustIron"
 				}
 			}
 		}],
@@ -90,16 +90,16 @@
 		uid: "a6770b48",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dustGold",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustGold"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustGold"
 				}
 			}
 		}],

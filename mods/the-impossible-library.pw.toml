@@ -1,0 +1,13 @@
+name = "The Impossible LIbrary"
+filename = "theimpossiblelibrary-1.12.2-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "137dc740e35e1299060c5aa33866b02e2d6b7719"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4727144
+project-id = 661115

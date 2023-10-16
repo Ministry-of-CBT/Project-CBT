@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cbt:blocks/machine_casing_schrabidium"
+  }
+}

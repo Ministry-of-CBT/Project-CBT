@@ -12,16 +12,16 @@
 		uid: "c17ed212",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "cobblestone",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any cobblestone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "cobblestone"
 				}
 			}
 		}],

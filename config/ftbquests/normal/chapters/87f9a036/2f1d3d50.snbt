@@ -29,13 +29,13 @@
 		uid: "7404c31f",
 		type: "item",
 		items: [{
+			id: "minecraft:apple",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 318000L
 				}
-			},
-			id: "minecraft:apple"
+			}
 		}],
 		consume_items: false
 	}]

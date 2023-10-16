@@ -35,10 +35,10 @@
 		type: "item",
 		items: [{
 			id: "gregtech:machine",
+			Damage: 321s,
 			tag: {
 				ntmNeutron: 0.39120546f
-			},
-			Damage: 321s
+			}
 		}]
 	}]
 }

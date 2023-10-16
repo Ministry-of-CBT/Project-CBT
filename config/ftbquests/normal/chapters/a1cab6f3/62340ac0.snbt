@@ -14,13 +14,13 @@
 		uid: "08554e1b",
 		type: "item",
 		item: {
+			id: "tfc:food/cooked_egg",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: -9223372036854775808L
 				}
-			},
-			id: "tfc:food/cooked_egg"
+			}
 		}
 	}]
 }

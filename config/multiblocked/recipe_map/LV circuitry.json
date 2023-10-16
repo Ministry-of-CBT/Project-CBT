@@ -1,0 +1,2923 @@
+{
+  "name": "LV circuitry",
+  "progressTexture": "multiblocked:textures/gui/progress_bar_arrow.png",
+  "fuelTexture": "multiblocked:textures/gui/progress_bar_fuel.png",
+  "recipes": [
+    {
+      "uid": "LV alloy smelter",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:3s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV arc furnace",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:4s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV assembly machine",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:5s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV assembly line",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:6s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV autoclave",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:7s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV blender",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:8s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV brewery",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:9s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV canner",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:10s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV centrifuge",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:11s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV chemical_bath",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:12s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV chemical_reactor",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:13s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV circuit_assembler",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:14s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV coke_oven",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:15s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV compressor",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:16s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV cracking_unit",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:17s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV distillation_tower",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:18s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV distillery",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:19s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV electric_blast_furnace",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:20s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV electric_furnace",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:21s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV electrolyzer",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:22s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV electromagnetic_seperator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:23s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV extractor",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:24s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV extruder",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:25s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV fermenter",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:26s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV fluid_heater",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:27s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV fluid_heater",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:28s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV fluid_solifidier",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:29s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV forge_hammer",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:30s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV forming_press",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:31s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV fusion_reactor",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:32s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV gas_collector",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:33s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV implosion_compressor",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:34s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV large_chemical_reactor",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:35s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV laser_engraver",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:36s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV lathe",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:37s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV macerator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:38s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV mass_fabricator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:39s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV mixer",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:40s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV ore_washing_plant",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:41s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV package",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:42s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV polarizer",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:43s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV primitive_blast_furnace",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:44s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV pyroloze_oven",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:45s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV replicator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:46s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV rock_breaker",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:47s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV scanner",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:48s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV sifting_machine",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:49s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV thermal_centrifuge",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:50s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV vacuum_freezer",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:51s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV wiremill",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:52s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV eg_combustion_generator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:53s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV eg_gas_turbine",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:54s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV eg_plasma_generator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:55s}"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "uid": "LV eg_semi_fluid_generator",
+      "duration": 6000,
+      "inputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 256,
+              "matches": [
+                "{id:\"gregtech:meta_wire_fine\",Count:256,Damage:2517s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:2s}"
+              ]
+            }
+          },
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"gregtech:meta_item_1\",Count:1,Damage:626s}"
+              ]
+            }
+          }
+        ],
+        "gtce_energy": [
+          {
+            "chance": 1.0,
+            "content": 16
+          }
+        ]
+      },
+      "outputs": {
+        "item": [
+          {
+            "chance": 1.0,
+            "content": {
+              "amount": 1,
+              "matches": [
+                "{id:\"groovyscript:projectcbt_circuits_lv\",Count:1,Damage:56s}"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

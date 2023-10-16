@@ -20,6 +20,7 @@
 		uid: "018aa714",
 		type: "item",
 		items: [{
+			id: "minecraft:gold_nugget",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -33,8 +34,7 @@
 						}
 					}
 				}
-			},
-			id: "minecraft:gold_nugget"
+			}
 		}],
 		count: 690L
 	}],

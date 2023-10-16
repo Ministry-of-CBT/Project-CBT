@@ -1,9 +1,17 @@
-Since metaid apparently extends to 32000+
-15000 - 
-16000 - 
+Since metaid for materials apparently extends to 32000+
+
+Periodic Table: 
+10000 - Old Elements
+11000 - New Elements
+
+Composite:
+13000 - Ores
+14000 -
+16000 - Alloys
+17000 -
 18000 -
-20000 - Misc
-22000 - Fictional Materials
-24000 - Intermediary Compounds
-26000 - Complex Materials
+20000 - 
+22000 -
+24000 - 
+26000 - 
 28000 - 
