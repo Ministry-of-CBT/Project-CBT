@@ -10,8 +10,9 @@ Composite:
 16000 - Alloys
 17000 -
 18000 -
-20000 - 
-22000 -
-24000 - 
-26000 - 
-28000 - 
+20000 - Misc
+22000 - Fictional Materials
+24000 - Intermediary Compounds
+26000 - Complex Materials
+28000 to 28200 - Breaking greg
+
