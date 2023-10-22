@@ -1,0 +1,13 @@
+name = "TFC: TNG Cellars Add-on"
+filename = "CellarAddon-1.24.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "366524dd72cf3aaf194b65754cd32c476070b068"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3640604
+project-id = 431185

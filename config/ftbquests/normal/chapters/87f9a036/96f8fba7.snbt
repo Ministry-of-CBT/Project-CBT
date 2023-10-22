@@ -21,22 +21,22 @@
 		uid: "7a575801",
 		type: "item",
 		items: [{
+			id: "tfc:food/red_apple",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 66000L
 				}
-			},
-			id: "tfc:food/red_apple"
+			}
 		},
 		{
+			id: "tfc:food/green_apple",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 66000L
 				}
-			},
-			id: "tfc:food/green_apple"
+			}
 		}],
 		count: 6L
 	}],

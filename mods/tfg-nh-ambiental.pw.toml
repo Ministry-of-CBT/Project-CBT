@@ -1,0 +1,13 @@
+name = "[TerraFirmaGreg] TFCAmbiental"
+filename = "tfcambiental-2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5c38f82459891748adf03c49cc56137e79f7bef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4098503
+project-id = 649067

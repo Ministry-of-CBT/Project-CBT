@@ -1,0 +1,3 @@
+identifier = cbtnhquit
+title = fuck you
+allowesc = true

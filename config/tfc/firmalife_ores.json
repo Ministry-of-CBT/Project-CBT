@@ -1,0 +1,30 @@
+{
+  "halite": {
+    "ore": "tfc:halite",
+	"loose": "tfc:rock/rocksalt",
+    "width": 40,
+    "height": 20,
+    "shape": "cluster",
+    "rarity": 135,
+    "minimum_height": 50,
+    "maximum_height": 180,
+    "density": 70,
+    "base_rocks": [
+      "tfc:sedimentary"
+    ]
+  },
+  "sylvite": {
+    "ore": "tfc:sylvite",
+	"loose": "tfc:ore/sylvite",
+    "width": 16,
+    "height": 16,
+    "shape": "sphere",
+    "rarity": 135,
+    "minimum_height": 90,
+    "maximum_height": 144,
+    "density": 60,
+    "base_rocks": [
+      "tfc:sedimentary"
+    ]
+  }
+}

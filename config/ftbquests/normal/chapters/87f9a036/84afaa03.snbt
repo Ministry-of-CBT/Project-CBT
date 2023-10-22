@@ -25,6 +25,7 @@
 		uid: "8f1bccf9",
 		type: "item",
 		item: {
+			id: "hbm:ingot_copper",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -38,8 +39,7 @@
 						}
 					}
 				}
-			},
-			id: "hbm:ingot_copper"
+			}
 		},
 		count: 15
 	}]

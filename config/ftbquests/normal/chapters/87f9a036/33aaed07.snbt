@@ -23,6 +23,7 @@
 		uid: "5e4e8eda",
 		type: "item",
 		item: {
+			id: "hbm:ingot_copper",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -36,14 +37,14 @@
 						}
 					}
 				}
-			},
-			id: "hbm:ingot_copper"
+			}
 		}
 	},
 	{
 		uid: "42e3777f",
 		type: "item",
 		item: {
+			id: "tfc:metal/ingot/copper",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -69,8 +70,7 @@
 						}
 					}
 				}
-			},
-			id: "tfc:metal/ingot/copper"
+			}
 		}
 	},
 	{

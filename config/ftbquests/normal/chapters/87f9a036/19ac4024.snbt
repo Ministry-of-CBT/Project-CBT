@@ -29,10 +29,10 @@
 		type: "item",
 		item: {
 			id: "gregtech:meta_item_1",
+			Damage: 466s,
 			tag: {
 				Charge: 100000L
-			},
-			Damage: 466s
+			}
 		}
 	},
 	{

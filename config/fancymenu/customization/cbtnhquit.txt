@@ -1,0 +1,60 @@
+type = menu
+
+customization-meta {
+  identifier = cbtnhquit
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fm/thumb-1920-120557.jpg
+  action = texturizebackground
+}
+
+customization {
+  path = resources/Butterfly - Project CBT Remix.wav
+  loop = false
+  action = addaudio
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = I can tell you will abuse fancymenu. \nYou serve ZERO fucking purpose \nYou're an acidic son of mekanism \nYou should KYS now!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 3
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = c8cb815a-ea7d-4e50-a53c-0cadae31b5521697119453148
+  y = -43
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = quitgame
+  x = -111
+  width = 109
+  actionid = 71416bb4-f5a0-4891-b29d-8c39bb43e9661697119571248
+  action = addbutton
+  y = -22
+  label = I hate this modpack.
+  value = 
+  height = 20
+}
+

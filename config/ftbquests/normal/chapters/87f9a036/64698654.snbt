@@ -55,16 +55,16 @@
 		uid: "7b4ff4c3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "cobblestone",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any cobblestone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "cobblestone"
 				}
 			}
 		}],
@@ -74,6 +74,7 @@
 		uid: "7e864ac8",
 		type: "item",
 		item: {
+			id: "tfc:metal/saw/wrought_iron",
 			ForgeCaps: {
 				Parent: {
 					heat: 0.0f,
@@ -87,22 +88,21 @@
 						}
 					}
 				}
-			},
-			id: "tfc:metal/saw/wrought_iron"
+			}
 		}
 	},
 	{
 		uid: "482e9124",
 		type: "item",
 		item: {
+			id: "minecraft:golden_apple",
+			Damage: 1s,
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 48000L
 				}
-			},
-			id: "minecraft:golden_apple",
-			Damage: 1s
+			}
 		},
 		only_one: true
 	}]

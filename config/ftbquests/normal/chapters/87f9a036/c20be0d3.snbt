@@ -22,16 +22,16 @@
 		uid: "2a90ca38",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "treeSapling",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
 				}
 			}
 		}],

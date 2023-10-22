@@ -30,16 +30,16 @@
 		type: "item",
 		title: "Fuck you",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "materialStoneTool",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any materialStoneTool"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "materialStoneTool"
 				}
 			}
 		},
@@ -68,6 +68,7 @@
 		uid: "c3b9dabc",
 		type: "item",
 		item: {
+			id: "minecraft:gold_ingot",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -81,8 +82,7 @@
 						}
 					}
 				}
-			},
-			id: "minecraft:gold_ingot"
+			}
 		}
 	},
 	{

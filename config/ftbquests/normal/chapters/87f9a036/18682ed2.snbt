@@ -24,16 +24,16 @@
 		uid: "691e723c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "ingotUranium235",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any ingotUranium235"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotUranium235"
 				}
 			}
 		}],

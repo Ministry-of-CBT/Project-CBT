@@ -19,16 +19,16 @@
 		uid: "c247ab86",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "ingotCopper",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any ingotCopper"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotCopper"
 				}
 			}
 		}],

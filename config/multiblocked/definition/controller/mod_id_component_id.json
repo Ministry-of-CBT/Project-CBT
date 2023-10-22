@@ -807,7 +807,7 @@
       "A": {
         "states": [
           {
-            "id": "gregtech:machine",
+            "id": "gregtech:machine_casing",
             "meta": 0
           }
         ],
@@ -874,8 +874,8 @@
       "H": {
         "states": [
           {
-            "id": "gregtech:frame_steel",
-            "meta": 0
+            "id": "gregtech:metal_casing",
+            "meta": 3
           }
         ],
         "type": "states"
@@ -883,8 +883,8 @@
       "I": {
         "states": [
           {
-            "id": "gtadditions:ga_multiblock_casing",
-            "meta": 1
+            "id": "gregtech:metal_casing",
+            "meta": 5
           }
         ],
         "type": "states"
@@ -892,20 +892,17 @@
       "J": {
         "states": [
           {
-            "id": "gtadditions:ga_multiblock_casing",
-            "meta": 14
+            "id": "gregtech:metal_casing",
+            "meta": 6
           }
         ],
         "type": "states"
       },
-      "air": {
-        "type": "air"
-      },
       "K": {
         "states": [
           {
-            "id": "gtadditions:ga_multiblock_casing",
-            "meta": 13
+            "id": "gregtech:metal_casing",
+            "meta": 9
           }
         ],
         "type": "states"
@@ -913,8 +910,8 @@
       "L": {
         "states": [
           {
-            "id": "gtadditions:ga_transparent_casing",
-            "meta": 1
+            "id": "hbm:deco_steel",
+            "meta": 0
           }
         ],
         "type": "states"
@@ -925,7 +922,7 @@
       "M": {
         "states": [
           {
-            "id": "gtadditions:ga_nuclear_casing",
+            "id": "hbm:deco_aluminium",
             "meta": 0
           }
         ],
@@ -934,8 +931,8 @@
       "N": {
         "states": [
           {
-            "id": "gtadditions:ga_metal_casing_1",
-            "meta": 10
+            "id": "hbm:deco_tungsten",
+            "meta": 0
           }
         ],
         "type": "states"
@@ -943,8 +940,8 @@
       "O": {
         "states": [
           {
-            "id": "gtadditions:ga_metal_casing_1",
-            "meta": 7
+            "id": "hbm:deco_titanium",
+            "meta": 0
           }
         ],
         "type": "states"
@@ -961,7 +958,7 @@
       "Q": {
         "states": [
           {
-            "id": "gtadditions:ga_piston_casing",
+            "id": "hbm:deco_beryllium",
             "meta": 0
           }
         ],
@@ -1013,9 +1010,6 @@
       ],
       "M": [
         "M"
-      ],
-      "-": [
-        "air"
       ],
       "N": [
         "N"

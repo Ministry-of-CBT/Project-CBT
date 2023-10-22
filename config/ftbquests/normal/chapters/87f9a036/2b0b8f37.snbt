@@ -1,6 +1,8 @@
 {
 	title: "Chess Moves influence Reality around us...",
 	icon: {
+		id: "gregtech:meta_dust",
+		Damage: 41s,
 		ForgeCaps: {
 			"tfc:item_forge": {
 				heat: 0.0f,
@@ -14,9 +16,7 @@
 					}
 				}
 			}
-		},
-		id: "gregtech:meta_dust",
-		Damage: 41s
+		}
 	},
 	x: -10.5d,
 	y: 10.0d,

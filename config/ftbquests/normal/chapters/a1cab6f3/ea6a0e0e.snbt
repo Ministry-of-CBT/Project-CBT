@@ -27,13 +27,13 @@
 		uid: "600a9bf4",
 		type: "item",
 		item: {
+			id: "zollerngalaxy:peach",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 6000L
 				}
-			},
-			id: "zollerngalaxy:peach"
+			}
 		}
 	}]
 }

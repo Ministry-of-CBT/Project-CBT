@@ -1,0 +1,60 @@
+#loader gregtech
+#priority 10000
+
+import mods.gregtech.material.MaterialBuilder;
+import mods.gregtech.material.Material;
+import mods.gregtech.material.Elements;
+
+var duranium = Elements.add(120, 182, -1, null, "Duranium-302", "Dr", false);
+var susanium = Elements.add(121, 185, -1, null, "Susanium-306", "Ss", false);
+var dylantrum = Elements.add(122, 187, -1, null, "Dylantrum-309", "Dy", false);
+var agrastium = Elements.add(123, 190, -1, null, "Agrastium-313", "At", false);
+var ruslyium = Elements.add(124, 194, -1, null, "Ruslyium-318", "Ry", false);
+var schrabidium = Elements.add(126, 200, -1, null, "Schrabidium-326", "Sa", false);
+var solinium = Elements.add(126, 201, -1, null, "Solinium-327", "Sa-327", true);
+var seridium = Elements.add(127, 201, -1, null, "Veridium-328", "Ve", false);
+var lunarium = Elements.add(128, 203, -1, null, "Lunarium-331", "Ln", false);
+var etherium = Elements.add(129, 206, -1, null, "Etherium-335", "Et", false);
+var xenynium = Elements.add(130, 209, -1, null, "Xenynium-339", "Xy", false);
+var neptupitrium = Elements.add(131, 211, -1, null, "Neptupitrium-342", "Np", false);
+var solimonium = Elements.add(132, 214, -1, null, "Solimonium-346", "Sm", false);
+var aetherium = Elements.add(133, 217, -1, null, "Aetherium-350", "Ae", false);
+var quasarium = Elements.add(134, 220, -1, null, "Quasarium-354", "Qs", false);
+var laranium = Elements.add(135, 223, -1, null, "Laranium-358", "La", false);
+var pyranium = Elements.add(136, 226, -1, null, "Pyranium-362", "Py", false);
+var silisimmunium = Elements.add(137, 228, -1, null, "Silisimmunium-365", "Sls", false);
+var ryneurassium = Elements.add(138, 231, -1, null, "Ryneurassium-369", "Ry", false);
+var supractinium = Elements.add(139, 235, -1, null, "Supractinium-374", "Ve", true);
+var puthanium = Elements.add(140, 238, -1, null, "Puthanium-378", "Ph", false);
+var coslynium = Elements.add(141, 241, -1, null, "Coslynium-382", "Cy", false);
+var yrattasium = Elements.add(142, 244, -1, null, "Yrattasium-386", "Ve", false);
+var runevaline = Elements.add(143, 247, -1, null, "Runevaline-390", "Rv", false);
+var neovaline392 = Elements.add(144, 248, -1, null, "Neovaline-392", "Nv-392", false);
+var neovaline = Elements.add(144, 250, -1, null, "Neovaline-394", "Nv", false);
+var cesarium = Elements.add(145, 254, -1, null, "Cesarium-399", "Ce", false);
+var quannasarium = Elements.add(146, 257, -1, null, "Quannasarium-403", "Q", false);
+var jadynomium = Elements.add(147, 260, -1, null, "Jadynomium-407", "Jd", false);
+var jaumium = Elements.add(148, 264, -1, null, "Jaumium-412", "J", false);
+var euronium = Elements.add(149, 267, -1, null, "Euronium-416", "Eu", false);
+var dimosonium = Elements.add(150, 271, -1, null, "Dimosonium-421", "Dr", false);
+var krassium = Elements.add(151, 274, -1, null, "Krassium-425", "Kr", false);
+var dithermonium = Elements.add(152, 278, -1, null, "Dithermonium-430", "Ds", false);
+var prassoppurium = Elements.add(153, 282, -1, null, "Prassoppurium-435", "Pp", false);
+var sunatrium = Elements.add(154, 285, -1, null, "Sunatrium-439", "Su", false);
+var bralyium = Elements.add(155, 289, -1, null, "Bralyium-444", "By", false);
+var quintessium = Elements.add(156, 293, -1, null, "Quintessium-449", "Qt", false);
+var zephyrion = Elements.add(157, 297, -1, null, "Zephyrion-454", "Zp", false);
+var chronotite = Elements.add(158, 301, -1, null, "Chronotite-459", "Ct", false);
+var luminarite = Elements.add(159, 304, -1, null, "Luminarite-463", "Lu", false);
+var pyrocore = Elements.add(160, 308, -1, null, "Pyrocore-468", "Pc", false);
+var spectresium = Elements.add(161, 313, -1, null, "Spectresium-474", "Sp", false);
+var aquamimite = Elements.add(162, 317, -1, null, "Aquamimite-479", "Aq", false);
+var terravium = Elements.add(163, 321, -1, null, "Terravium-484", "Tv", false);
+var psilunarite = Elements.add(164, 325, -1, null, "Psilunarite-489", "Ps", false);
+var nebulium = Elements.add(165, 329, -1, null, "Nebulium-495", "Nb", false);
+var scytronium = Elements.add(166, 334, -1, null, "Scytronium-500", "Scy", false);
+var modulatum = Elements.add(167, 338, -1, null, "Modulatum-505", "Mm", false);
+var etharosium = Elements.add(168, 342, -1, null, "Etharosium-510", "Es", false);
+var echotium = Elements.add(169, 347, -1, null, "Echotium-516", "Et", false);
+var naquadasson = Elements.add(170, 330, -1, null, "Naquadasson-520", "Nq-520", true);
+

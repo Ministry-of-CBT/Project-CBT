@@ -23,6 +23,7 @@
 		uid: "8418ef96",
 		type: "item",
 		item: {
+			id: "minecraft:gold_ingot",
 			ForgeCaps: {
 				"tfc:item_forge": {
 					heat: 0.0f,
@@ -36,21 +37,20 @@
 						}
 					}
 				}
-			},
-			id: "minecraft:gold_ingot"
+			}
 		}
 	},
 	{
 		uid: "e6e08a27",
 		type: "item",
 		item: {
+			id: "minecraft:golden_apple",
 			ForgeCaps: {
 				"tfc:food": {
 					traits: [],
 					creationDate: 192000L
 				}
-			},
-			id: "minecraft:golden_apple"
+			}
 		}
 	}]
 }
