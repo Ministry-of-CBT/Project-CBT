@@ -1,7 +1,7 @@
 {
   "variants": {
     "normal": {
-      "model": "modpack:methblock"
+      "model": "cbt:methblock"
     }
   }
 }
