@@ -6,6 +6,8 @@ import net.minecraft.potion.Potion
 import net.minecraft.item.Item
 import static Util.createItem
 import static Util.createBlock
+def creativeTab = content.createCreativeTab("modpack.creative_tab", item('gregtech:machine', 32000))
+content.setDefaultCreativeTab(creativeTab)
 
 // items
 
