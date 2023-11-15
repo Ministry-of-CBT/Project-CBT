@@ -1,4 +1,4 @@
-import mods.gregtech.multiblock.Builder;
+/*import mods.gregtech.multiblock.Builder;
 import mods.gregtech.multiblock.FactoryBlockPattern;
 import mods.gregtech.multiblock.RelativeDirection;
 import mods.gregtech.multiblock.functions.IPatternBuilderFunction;
@@ -109,4 +109,4 @@ dealer.recipeMap.recipeBuilder()
     .EUt(32768)
     .inputs(<cbt:methsyringe> * 16)
     .outputs(<minecraft:diamond> * 4)
-    .buildAndRegister();
+    .buildAndRegister();*/
